@@ -2,42 +2,6 @@
   "page": 138,
   "value": [
     {
-      "path": "_news/2020-01-03-artificial-intelligence-has-come-to-medicine-are-patients-being-put-at-risk.md",
-      "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-      "excerpt": "Health products powered by artificial intelligence are streaming into our lives, from virtual doctor apps to wearable sensors and drugstore chatbots. IBM boasted that its AI could “outthink cancer.” Others say computer systems that read X-rays will ...",
-      "heat": 64,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare",
-      "ampWebUrl": "https://www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2020-01-03/artificial-intelligence-healthcare?_amp=true",
-      "publishedDateTime": "2020-01-03T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/f53d1bd/2147483647/strip/true/crop/1683x1099+136+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F69%2F4f%2F1536dd600c9278807471271271c0%2Fla-1529344662-nf9nsa98qz-snap-image",
-          "width": 320,
-          "height": 209,
-          "title": "Artificial intelligence has come to medicine. Are patients being put at risk?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-02-aws-cloud-journey-analyzing-to-deploying-models-with-amazon-sagemaker-ep-1.md",
       "title": "AWS Cloud Journey — Analyzing to Deploying Models with Amazon SageMaker (Ep. 1)",
       "excerpt": "So, stay tuned for those content in the future. “Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to build, train, and deploy machine ...",
@@ -1076,6 +1040,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2019-12-27-neurodiversity-in-artificial-intelligence.md",
+      "title": "Neurodiversity in Artificial Intelligence",
+      "excerpt": "Artificial Intelligence is Helping to Create Jobs for ... Many of them also need routine visual therapy to increase hand-eye coordination. Recognizing the need for therapy, and playing to this ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2019/12/27/neurodiversity-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2019-12-27T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e060ce1e961e100073a0424%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5499%26cropY1%3D192%26cropY2%3D3286",
+          "width": 1200,
+          "height": 675,
+          "title": "Neurodiversity in Artificial Intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

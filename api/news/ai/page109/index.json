@@ -2,51 +2,6 @@
   "page": 109,
   "value": [
     {
-      "path": "_news/2020-01-16-facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations.md",
-      "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-      "excerpt": "Or at least, they have trouble understanding how humanity writes math equations. Facebook’s AI research team, however, claims to have developed a new approach to turn complex math problems into ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "ampWebUrl": "https://www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_ca/article/4agw3q/facebook-invented-a-new-language-for-machines-to-solve-complex-math-equations",
-      "publishedDateTime": "2020-01-15T17:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/_uncategorized/1579112105508-Screen-Shot-2020-01-15-at-11204-PM.png?resize=640:*",
-          "width": 640,
-          "height": 358,
-          "title": "Facebook Invented a New Language for Machines to Solve Complex Math Equations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-16-scientists-used-stem-cells-to-create-a-new-life-form-organic-robots.md",
       "title": "Scientists used stem cells to create a new life-form: Organic robots",
       "excerpt": "They’re neither a traditional robot nor a known species of animal. It’s a new class of artifact: a living, programmable organism. Xenobots are made using an artificial intelligence system that ...",
@@ -1315,6 +1270,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026.md",
+      "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+      "excerpt": "Big Market Research has added a report, titled, \"Machine Translation (MT) Market\" The report not only provides a comprehensive analysis of market overview and dynamics for the historical period, 2019-2026,",
+      "heat": 168,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-mt-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2026-2020-01-15",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-15T07:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Translation (MT) Market Overview with Detailed Analysis, Competitive Landscape Forecast to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

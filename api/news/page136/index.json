@@ -2,51 +2,6 @@
   "page": 136,
   "value": [
     {
-      "path": "_news/2020-01-08-is-baidu-stock-a-buy.md",
-      "title": "Is Baidu Stock a Buy?",
-      "excerpt": "Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
-      "publishedDateTime": "2020-01-08T07:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552479%2Fgettyimages-647336420.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "Is Baidu Stock a Buy?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-01-08-ambarella-collaborates-with-aws-and-enables-ai-on-connected-cameras-using-amazon-sagemaker-neo.md",
       "title": "Ambarella collaborates with AWS and enables AI on connected cameras using Amazon SageMaker Neo",
       "excerpt": "Ambarella, Inc., an artificial intelligence (AI) vision silicon company, announced that Ambarella and Amazon Web Services, Inc. (AWS) customers can now use Amazon SageMaker Neo to train machine learning (ML) models once and run them on any device equipped ...",
@@ -1076,6 +1031,51 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-06-facebook-ai-text-based-generation-of-interactive-worlds.md",
+      "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+      "excerpt": "In an attempt to make the relationship between such game elements more natural, researchers from Facebook AI Research, French computer science research lab Loria, and University College London recently proposed a new machine learning method for ...",
+      "heat": 69,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/syncedreview/facebook-ai-text-based-generation-of-interactive-worlds-36cce3790fe3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T12:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*wjzxkhVEKIvah_Ye22bz_g.png",
+          "width": 1200,
+          "height": 703,
+          "title": "Facebook AI | Text-Based Generation of Interactive Worlds",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

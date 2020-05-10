@@ -2,35 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2020-03-30-mercedes-plans-to-take-lead-in-self-driving-cars.md",
-      "title": "Mercedes’ plans to take lead in self-driving cars",
-      "excerpt": "Alexander De Croo, Belgium's deputy prime minister, discusses European efforts to tackle the economic impact of the coronavirus outbreak. The U.S. crude is suffering major cuts in oil production ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbcafrica.com/videos/2017/08/25/mercedes-plans-to-take-lead-in-self-driving-cars/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-29T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC Africa",
-        "domain": "cnbcafrica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-30-star-trek-voyager-receives-a-4k-remaster-courtesy-of-an-ai-based-software.md",
       "title": "Star Trek: Voyager receives a 4K remaster courtesy of an AI-based software",
       "excerpt": "The video was remastered to 4K from a DVD source using Gigapixel AI from Topaz Labs, and the episode above had ... with Richard claiming that it took him around six hours to process the work from start to finish. As stated before, five episodes have ...",
@@ -1239,6 +1210,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-28-tesla-deal-boosts-chinese-presence-in-us-auto-tech.md",
+      "title": "Tesla deal boosts Chinese presence in US auto tech",
+      "excerpt": "Baidu has invested in Nio, as well as in Uber and Velodyne, a California maker of laser-based lidar sensors for self-driving cars. Alibaba's mobility investments include Didi and Lyft. As Tesla is ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/03/28/messaging-app-parent-tencent-takes-stake-in-tesla.html",
+      "publishedDateTime": "2020-03-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104329942-IMG_5438.JPG?v=1491839432",
+          "width": 1445,
+          "height": 964,
+          "title": "Tesla deal boosts Chinese presence in US auto tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

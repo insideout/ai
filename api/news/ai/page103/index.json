@@ -2,51 +2,6 @@
   "page": 103,
   "value": [
     {
-      "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
-      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T01:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-22-robot-burns-poems-created-by-artificial-intelligence.md",
       "title": "‘Robot Burns’ poems created by artificial intelligence",
       "excerpt": "But now a student at the University of Glasgow has used a “Robot Burns” artificial intelligence (AI) poem generator programme to create almost “instant works” by Robert Burns, in honour of a fellow student, Chris, who took his own life on Burns Day, on 25 January 2016. Perry Gibson, who is studying for a PhD in computing science ...",
@@ -1265,6 +1220,51 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-scrappy-company-leapfrogs-the-pack-with-functioning-robot-taxis.md",
+      "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
+      "excerpt": "His value proposition was that an evolving hardware stack that in early days consisted of nothing more visible spectrum cameras paired with the right AI would be enough for safe L4 autonomous driving ... Recently, AutoX announced a partnership with Fiat Chrysler (FCAU) to start rolling out the first \"Hardware Ready\" robotaxi for the Asia ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/scrappy-company-leapfrogs-the-pack-to-robot-taxis/",
+      "publishedDateTime": "2020-01-21T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/01/17/b1fae1ef-1788-4a25-8407-2e9f1a0f0ad2/autox.jpg",
+          "width": 1100,
+          "height": 825,
+          "title": "Scrappy company leapfrogs the pack with functioning robot taxis",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

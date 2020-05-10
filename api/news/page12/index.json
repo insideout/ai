@@ -2,43 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-04-29-covid-19-insights-quantzigs-latest-success-story-illustrates-how-multi-touch-attribution-analysis-solutions-can-help-e-learning-companies-drive-conversions-and-improve-rois.md",
-      "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
-      "excerpt": "Quantzig, global data analytics and advisory firm, that delivers actionable analytics solutions presents a new case study series that focuses on how coronavirus is impacting businesses across geographies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200429005776/en/COVID-19-Insights-Quantzig’s-Latest-Success-Story-Illustrates",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200429005776/en/570204/23/Quantzig_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
       "title": "The AI meme generator is better at making memes than humans",
       "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
@@ -1043,6 +1006,50 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
+      "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "publishedDateTime": "2020-04-28T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
+          "width": 4842,
+          "height": 2952,
+          "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -2,50 +2,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_news/2020-02-12-why-clearview-ai-is-a-threat-to-us-all.md",
-      "title": "Why Clearview AI is a threat to us all",
-      "excerpt": "The surveillance system offers police unprecedented surveillance power. When London's Metropolitan Police Department announced its decision to adopt the controversial and intrusive ClearView AI surveillance system at the end of January, a global cacophony of protest erupted. Concerns, fear and trepidation surrounding facial recognition ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/12/clearview-ai-police-surveillance-explained/",
-      "publishedDateTime": "2020-02-12T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D4860%252C3281%252C0%252C496%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1080%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-02%252Fe54aedf0-4c27-11ea-a9fe-866995234731%26client%3Da1acac3e1b3290917d92%26signature%3D391ffea25021c6719cf6fee9e9c0546ae4d25dff&client=amp-blogside-v2&signature=8eb6abcd4b8196a3f78f1a49f795c0cd964de258",
-          "width": 600,
-          "height": 350,
-          "title": "Why Clearview AI is a threat to us all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-12-nvidia-vp-claire-delaunay-will-discuss-empowering-robotics-startups-at-tc-sessions-robotics-ai.md",
       "title": "Nvidia VP Claire Delaunay will discuss empowering robotics startups at TC Sessions: Robotics + AI",
       "excerpt": "which works to develop AI and general intelligence for robotics, and Joshua Wilson, co-founder and CEO of Freedom Robotics, which works to help companies launch and scale robotics systems. Tickets are on sale now for $345; you’ll save $50 when you book now as prices go up at the door. We have two Startup Demo Packages left for $2,200.",
@@ -1293,6 +1249,50 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-11-microsofts-ai-automatically-comments-on-video-clips.md",
+      "title": "Microsoft’s AI automatically comments on video clips",
+      "excerpt": "Generating live video captions with AI could bolster engagement on social media, or serve as a benchmark for the task of translating video to text. Preliminary work to this end has employed encoder-decoder models to generate comments, but they haven’t modeled the interaction between videos and comments explicitly, so they’ve tended to ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/11/microsofts-ai-automatically-comments-on-video-clips/amp/",
+      "publishedDateTime": "2020-02-11T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/64fd83ec-3df8-42dd-9bdd-c5cc97989216-e1581438914191.png?fit=1192%2C598&strip=all",
+          "width": 1192,
+          "height": 598,
+          "title": "Microsoft’s AI automatically comments on video clips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,51 +2,6 @@
   "page": 106,
   "value": [
     {
-      "path": "_news/2020-02-06-self-driving-delivery-van-ditches-human-controls.md",
-      "title": "Self-driving delivery van ditches 'human controls'",
-      "excerpt": "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ...",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/technology-51409031",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51409031",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031",
-      "publishedDateTime": "2020-02-06T15:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png",
-          "width": 1024,
-          "height": 576,
-          "title": "Self-driving delivery van ditches 'human controls'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-02-06-capturing-and-validating-alphanumeric-identifiers-in-amazon-lex.md",
       "title": "Capturing and validating alphanumeric identifiers in Amazon Lex",
       "excerpt": "Enterprises often rely on unique identifiers to look up information on accounts or events. For example, airlines use confirmation codes to locate itineraries, and insurance companies use policy IDs to retrieve policy details. In customer support, these identifiers are the first level of information necessary",
@@ -1014,6 +969,50 @@
           "width": 400,
           "height": 400,
           "title": "Energy Names Inaugural Director of New Artificial Intelligence and Technology Office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
+      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
+      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
+      "publishedDateTime": "2020-02-06T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
           "attribution": null
         }
       ],

@@ -1045,7 +1045,7 @@
       "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
       "title": "3 Artificial Intelligence Stocks to Buy in May",
       "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
@@ -1083,7 +1083,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

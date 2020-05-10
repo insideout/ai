@@ -2,50 +2,6 @@
   "page": 121,
   "value": [
     {
-      "path": "_news/2020-01-23-bjork-and-an-ai-collaborated-on-an-eerie-soundtrack-for-a-hotel-lobby.md",
-      "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
-      "excerpt": "But of course, it's not supernatural. It's Microsoft's AI at work, using feedback from a camera installed on the hotel's roof to determine which of Bjork's selected works to play. Kórsafn translates to \"choral archives,\" and fittingly it features snippets drawn from the musician's favorite arrangements of her career, performed by Iceland's ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
-      "publishedDateTime": "2020-01-23T11:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1283%252C855%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F9f340d60-3e17-11ea-b7ee-921f199d781e%26client%3Da1acac3e1b3290917d92%26signature%3D254e091e559ab3eaf5f4923ed1197a20bb1b3a95&client=amp-blogside-v2&signature=ce88369268ff40ee32d9a7d6cc9648bb3bd4f20a",
-          "width": 600,
-          "height": 350,
-          "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-23-career-consultants-help-job-seekers-beat-ai-robot-interviews.md",
       "title": "Career consultants help job seekers beat AI robot interviews",
       "excerpt": "In order to give everyone a fair try, we need a system that’s less biased. With the cool, calculating depictions of artificial intelligence in modern media, it’s tempting to say that AI could help us solve our resume screening woes. After all, nothing says unbiased like a machine…right? Wrong. I mean, if you need an example of what can go ...",
@@ -1071,6 +1027,42 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-can-artificial-intelligence-be-used-to-diagnose-brain-aneurysms.md",
+      "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
+      "excerpt": "A recent study published in JAMA Netw Open by Park and colleagues from Stanford University set out to investigate whether augmenting CT scan angiogram data with Artificial Intelligence (AI) deep learning models improved the diagnosis rates for patients with aneurysms. Over 9000 CT scan angiograms performed at Stanford University Medical center ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
+      "publishedDateTime": "2020-01-23T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_795315856_cbabc9b5539d4423beb8578dae2344fa-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

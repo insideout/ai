@@ -2,43 +2,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_news/2020-02-04-lightfoot-urged-to-pull-the-plug-on-facial-recognition-technology.md",
-      "title": "Lightfoot urged to pull the plug on facial recognition technology",
-      "excerpt": "A coalition of 75 civil liberties groups led by the Lucy Parsons Project calls the system used by the Chicago Police Department \"racially-discriminatory, inaccurate and highly-biased.\"",
-      "heat": 179,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://chicago.suntimes.com/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "ampWebUrl": "https://chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "cdnAmpWebUrl": "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/city-hall/2020/2/4/21122568/lightfoot-urged-pull-plug-facial-recognition-technology",
-      "publishedDateTime": "2020-02-04T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Sun-Times",
-        "domain": "suntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/PZclB6fGOtr11pOfdVx__HSnmiM=/0x0:640x480/1400x1050/filters:focal(263x164:365x266):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66248421/IMG_0429.0.jpg",
-          "width": 640,
-          "height": 480,
-          "title": "Lightfoot urged to pull the plug on facial recognition technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-04-russia-and-nato-artificial-intelligence-in-military-market-segmentation-and-forecast-to-2019-2027.md",
       "title": "Russia and NATO Artificial Intelligence in Military Market Segmentation and Forecast to 2019-2027",
       "excerpt": "The report covers a forecast and an analysis of the Russia and NATO artificial intelligence in military market. The study provides historical data from 2016 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
@@ -1271,6 +1234,43 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-03-intel-drops-ai-products-from-nervana-shifts-focus-to-habana.md",
+      "title": "Intel drops AI products from Nervana, shifts focus to Habana",
+      "excerpt": "Why it matters: The move comes amid continued competition from Nvidia and others and follows Intel's purchase in December of Habana Labs, another startup in the AI chip space. An Intel representative told Axios the company wants to focus on a single ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html",
+      "ampWebUrl": "https://amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html",
+      "cdnAmpWebUrl": "https://amp-axios-com.cdn.ampproject.org/c/s/amp.axios.com/intel-nervana-habana-ai-chips-9fe028cb-8e16-4b1e-b060-abaf5848322c.html",
+      "publishedDateTime": "2020-02-03T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Axios",
+        "domain": "axios.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.axios.com/9bRgEba5i8Rs-Tcjytj9Iudko0s=/0x0:2954x1662/1920x1080/2020/02/03/1580742164538.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Intel drops AI products from Nervana, shifts focus to Habana",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

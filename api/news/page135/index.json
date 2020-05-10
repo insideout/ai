@@ -2,51 +2,6 @@
   "page": 135,
   "value": [
     {
-      "path": "_news/2020-01-10-the-top-3-tech-stocks-to-watch-in-2020.md",
-      "title": "The Top 3 Tech Stocks to Watch in 2020",
-      "excerpt": "From Google to Apple, every big-name tech company is putting forth resources to make its next breakthrough. We hear about a lot of products on the news, such as self-driving cars and robot nannies, but where exactly should we be putting our money?",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-top-3-tech-stocks-to-watch-in-2020-2020-01-10",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-10T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The Top 3 Tech Stocks to Watch in 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-01-10-export-controls-threaten-the-future-of-ai-outposts-in-china.md",
       "title": "Export Controls Threaten the Future of AI Outposts in China",
       "excerpt": "Other US tech companies, like Facebook, are effectively blocked ... University who writes a newsletter on Chinese AI. “Google, Microsoft Research Asia, and other multinationals with R&D labs ...",
@@ -1076,6 +1031,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-08-is-baidu-stock-a-buy.md",
+      "title": "Is Baidu Stock a Buy?",
+      "excerpt": "Baidu claims to have over 135 partners that support its self-driving cars initiative, and while we are still in the early stages of the autonomous cars revolution, Baidu is looking to maintain an ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/01/08/is-baidu-stock-a-buy.aspx",
+      "publishedDateTime": "2020-01-08T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F552479%2Fgettyimages-647336420.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Is Baidu Stock a Buy?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

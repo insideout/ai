@@ -2,50 +2,6 @@
   "page": 133,
   "value": [
     {
-      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
-      "title": "The Case for a Light Hand With AI and a Hard Line on China",
-      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
-      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
-      "publishedDateTime": "2020-01-14T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Case for a Light Hand With AI and a Hard Line on China",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-14-transenterix-wants-to-use-more-ai-in-surgical-robotics-heres-how.md",
       "title": "TransEnterix wants to use more AI in surgical robotics: Here’s how",
       "excerpt": "TransEnterix (NYSE:TRXC) has filed a 510(k) submission to add an artificial intelligence feature to its robot-assisted surgery system in ... “I think our hope is that people will start to say this scrappy little company that’s been around for a while and is still fighting— it’s having kind of a Phoenix-like rise with some really ...",
@@ -1041,6 +997,50 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-01-13-skyqraft-a-startup-using-ai-and-drones-for-electricity-power-line-inspection-raises-505k.md",
+      "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
+      "excerpt": "Skyqraft, a Swedish startup using AI and drones for electricity power-line inspection, has picked up $505,000 in early backing. Leading the round is “startup generator” and investor Antler, with participation from a number of angels, including Claes Ekström and Tomas Kåberger. Founded in March 2019 and launched that September, Skyqraft ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/13/skyqraft/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/13/skyqraft/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/13/skyqraft/amp/",
+      "publishedDateTime": "2020-01-13T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/SkyqraftTeam.jpg?w=1024",
+          "width": 1024,
+          "height": 799,
+          "title": "Skyqraft, a startup using AI and drones for electricity power-line inspection, raises $505K",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

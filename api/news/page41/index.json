@@ -2,43 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2020-04-04-introduction-to-machine-learning-and-artificial-intelligence.md",
-      "title": "Introduction to Machine Learning and Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) dramatically improves the way we live ... OpenStack Summit and Google Cloud Summit. His certifications include AWS Solution Architect – Associate, Google Certified Instructor (Global), Google Cloud Architect Professional ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://e27.co/event/introduction-to-machine-learning-and-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "E27.co",
-        "domain": "e27.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e27.co/img/events/14691/K%20OH%20Seminars%202020%20AI%20Banner.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Introduction to Machine Learning and Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-03-computer-vision-and-coronavirus-pandemic.md",
       "title": "Computer Vision and CoronaVirus Pandemic",
       "excerpt": "This technology is called “computer vision” and it is applied in many spheres of life, for example, in medicine. Computer vision is used for: Segmentation of MRI images. The layout of MRI ...",
@@ -1042,6 +1005,50 @@
           "width": 796,
           "height": 417,
           "title": "Scientists are using AI to predict which coronavirus patients need ventilators",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-03-royal-dutch-shell-reskills-workers-in-artificial-intelligence-as-part-of-huge-energy-transition.md",
+      "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
+      "excerpt": "Royal Dutch Shell is collaborating with Udacity to digitally train its workers in artificial intelligence. This began long before the coronavirus pandemic and the company continues to use this training method. The digital workforce skilling platform may become the training method of choice for a growing number of companies who need to keep ...",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/03/royal-dutch-shell-reskills-workers-in-ai-part-of-energy-transition.html",
+      "publishedDateTime": "2020-04-03T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/103262515-GettyImages-468904608.jpg?v=1450870935",
+          "width": 4000,
+          "height": 2667,
+          "title": "Royal Dutch Shell reskills workers in artificial intelligence as part of huge energy transition",
           "attribution": null
         }
       ],

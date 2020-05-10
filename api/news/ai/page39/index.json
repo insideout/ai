@@ -2,51 +2,6 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
-      "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-      "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-31T16:30:39-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif",
-          "width": 800,
-          "height": 354,
-          "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-31-huawei-open-sources-tensorflow-competitor-mindspore.md",
       "title": "Huawei open-sources TensorFlow competitor MindSpore",
       "excerpt": "The lightweight suite is similar to Google's TensorFlow and Facebook's PyTorch as it lowers the barrier to entry for developers looking to add AI to their apps. \"MindSpore natively adapts to all ...",
@@ -1280,6 +1235,43 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
+      "title": "Catholic church, tech firms join call for transparency in AI",
+      "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "publishedDateTime": "2020-03-31T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2661585655627/2020/1/1acca51c47c52ff10817f3b95463593d/v1.5/Catholic-church-tech-firms-join-call-for-transparency-in-AI.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Catholic church, tech firms join call for transparency in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-30-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
+      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead",
+      "ampWebUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
+      "publishedDateTime": "2020-04-29T22:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg",
+          "width": 619,
+          "height": 413,
+          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-six-areas-where-ai-is-improving-customer-experiences.md",
       "title": "Six Areas Where AI Is Improving Customer Experiences",
       "excerpt": "This year's hard reset is amplifying how vital customer relationships are and how much potential AI has to find new ways to improve them.",
@@ -1216,51 +1253,6 @@
           "width": 1200,
           "height": 675,
           "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
-      "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
-      "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "ampWebUrl": "https://amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/apps-social/article/3080712/chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides",
-      "publishedDateTime": "2020-04-20T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/20/774b19fe-82e3-11ea-8863-2139a14b0dea_image_hires_165514.JPG?itok=p5GpxoUY&v=1587372921",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
           "attribution": null
         }
       ],

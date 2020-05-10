@@ -2,42 +2,6 @@
   "page": 117,
   "value": [
     {
-      "path": "_news/2020-01-28-new-ai-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.md",
-      "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
-      "excerpt": "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ...",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
-      "publishedDateTime": "2020-01-28T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-28-using-ai-people-who-are-blind-are-able-to-find-familiar-faces-in-a-room.md",
       "title": "Using AI, people who are blind are able to find familiar faces in a room",
       "excerpt": "Theo is now one of several members of the blind and low-vision community who are working with Regan, Grayson, researcher Cecily Morrison and her team on Project Tokyo, a multipronged research effort to create intelligent personal agent technology that uses artificial intelligence ... “To get the vision of Project Tokyo done, you have to ...",
@@ -1025,6 +989,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-ai-accurately-predicts-billie-eilish-bad-guy-grammy-win.md",
+      "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
+      "excerpt": "Lil Nas X was nominated six times and walked away with two wins, according to CBS. Taylor Larkin, a data scientist with the company, used the DataRobot enterprise AI platform to predict the winners for song and record of the year. DataRobot leverages machine-learning models to learn from the past to predict the future. \"For Grammy ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-accurately-predicts-billie-eilish-bad-guy-grammy-win/",
+      "publishedDateTime": "2020-01-27T11:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/01/27/35f461af-b2cc-4f4f-8dee-22ac1ed6bb35/resize/1200x/24932119221d74ceb8807e3600f33dc0/billie-eilish-and-finneas-oconnell.jpg",
+          "width": 1200,
+          "height": 729,
+          "title": "AI accurately predicts Billie Eilish 'bad guy' Grammy win",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

@@ -2,43 +2,6 @@
   "page": 103,
   "value": [
     {
-      "path": "_news/2020-02-10-facial-recognition-the-next-step-in-fight-against-rabies.md",
-      "title": "Facial recognition: the next step in fight against rabies",
-      "excerpt": "The research team, based out of Washington State University’s Paul G. Allen School for Global Animal Health, is working with PiP My Pet, a company that developed a mobile application that uses facial recognition to reunite lost pets with their owners. The only twist; rather than locate the lost, the company designed a new app to track which ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/",
-      "ampWebUrl": "https://scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
-      "cdnAmpWebUrl": "https://scienceblog-com.cdn.ampproject.org/c/s/scienceblog.com/514102/facial-recognition-the-next-step-in-fight-against-rabies/amp/",
-      "publishedDateTime": "2020-02-10T06:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ScienceBlog",
-        "domain": "scienceblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://scienceblog.com/wp-content/uploads/2020/02/Facial-recognition-the-next-step-in-fight-against-rabies.jpg",
-          "width": 792,
-          "height": 528,
-          "title": "Facial recognition: the next step in fight against rabies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-10-arms-new-cortex-and-ethos-chips-promise-up-to-480x-faster-ai-for-iot-devices.md",
       "title": "Arm’s new Cortex and Ethos chips promise up to 480x faster AI for IoT devices",
       "excerpt": "The microcontroller, the Cortex-M55, joins the company’s ubiquitous Cortex-M family of processor designs. Arm said the chip will provide more AI performance than any other product in the series. Cambridge, U.K.-based Arm doesn’t make any chips itself but rather sells blueprints under license to semiconductor manufacturers. The Cortex-M ...",
@@ -1054,6 +1017,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
+      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
+      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
+      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
+      "publishedDateTime": "2020-02-09T09:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
+          "width": 1000,
+          "height": 563,
+          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

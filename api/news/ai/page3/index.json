@@ -627,7 +627,7 @@
       "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
       "title": "3 Artificial Intelligence Stocks to Buy in May",
       "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
@@ -665,7 +665,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1162,51 +1163,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Virtusa Achieves AWS SaaS Competency Status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-this-smart-ai-powered-stock-photo-library-helps-you-find-the-perfect-image.md",
       "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
       "excerpt": "Sure, JumpStory™ gives entrepreneurs and marketers access to high-quality imagery, but it also makes it easy to find the right images for whatever project you're tackling Their",
@@ -1328,6 +1284,51 @@
           "width": 1280,
           "height": 640,
           "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-hong-kong-stocks-rally-a-second-straight-day-with-chinas-largest-chip-maker-smic-soaring-nearly-11-per-cent-on-a-share-plans.md",
+      "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
+      "excerpt": "Investors continued to brush off Monday’s rout, when the Hang Seng Index fell more than 1,000 points. Overall, Hong Kong sentiment has been positive, with the benchmark rising in seven of the last nine sessions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "ampWebUrl": "https://amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "publishedDateTime": "2020-05-06T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/119003a6-8f70-11ea-a674-527cfdef49ee_image_hires_173713.jpg?itok=bLFr0WBZ&v=1588757844",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
           "attribution": null
         }
       ],

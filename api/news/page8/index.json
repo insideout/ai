@@ -2,51 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
-      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "publishedDateTime": "2020-05-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
       "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
       "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
@@ -1055,6 +1010,51 @@
           "width": 1200,
           "height": 900,
           "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
+      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
+      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
+      "publishedDateTime": "2020-05-01T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
           "attribution": null
         }
       ],

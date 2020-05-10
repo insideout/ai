@@ -2,51 +2,6 @@
   "page": 99,
   "value": [
     {
-      "path": "_news/2020-01-27-cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027.md",
-      "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-      "excerpt": "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million).",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-demands-and-forecast-2019-2027-2020-01-27-7197455",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-27T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Natural Language Processing (NLP) Market demands And forecast 2019-2027",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-01-27-8-misleading-ai-myths-and-the-realities-behind-them.md",
       "title": "8 misleading AI myths — and the realities behind them",
       "excerpt": "The fact is, much of the fear around AI comes from overactive imaginations that machines will mimic our own bad behavior. Skynet aside, there are some rational questions and answers to be had. So let’s break down the myths and realities around AI and all of its offshoots, like machine learning and deep learning. This is the single greatest ...",
@@ -1293,6 +1248,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-24-washington-state-wants-to-regulate-artificial-intelligence-as-microsoft-lobbies-for-new-rules.md",
+      "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+      "excerpt": "Washington state could become a pioneer in regulating artificial intelligence if lawmakers, and homegrown tech giant Microsoft, get their way. A series of bills introduced this legislative session seek to blaze a trail for this new frontier of technological innovation. The legislation focuses on biometric screening and digital profiling.",
+      "heat": 205,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/",
+      "ampWebUrl": "https://www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/washington-state-wants-regulate-artificial-intelligence-microsoft-lobbies-new-rules/amp/",
+      "publishedDateTime": "2020-01-24T10:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2017/03/statecapitol-630x417.jpg",
+          "width": 630,
+          "height": 417,
+          "title": "Washington state wants to regulate artificial intelligence, as Microsoft lobbies for new rules",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

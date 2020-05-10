@@ -2,6 +2,51 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-01-08-artificial-humans-named-neon-are-stars-of-ces.md",
+      "title": "'Artificial humans' named Neon are stars of CES",
+      "excerpt": "Neon, the super-realistic digitally simulated avatar, has taken CES by storm. Build upon the Core R3 neural network, the Neon avatars can provide incredibly lifelike renderings of people to be used as AI assistants,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/01/08/this-samsung-backed-startup-creates-super-realistic-human-avatars.html",
+      "publishedDateTime": "2020-01-08T15:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106325550-1578454163254screenshot2020-01-07at10.28.04pm.png?v=1578507662",
+          "width": 2818,
+          "height": 1594,
+          "title": "'Artificial humans' named Neon are stars of CES",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-01-07-deep-learning-vs-machine-learning-understand-the-differences.md",
       "title": "Deep learning vs. machine learning: Understand the differences",
       "excerpt": "A classification problem is a supervised learning problem that asks for a choice between two or more classes, usually providing probabilities for each class. Leaving out neural networks and deep ...",

@@ -2,51 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2020-04-19-nvidias-mellanox-acquistion-finally-gets-okd-by-chinese-regulators.md",
-      "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
-      "excerpt": "Given the potential for its technology over the next decade to power data centers, edge network computing, AI, and more, the GPU design leader remains one of my core portfolio holdings.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx?source=iedfolrf0000001",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/19/nvidia-mellanox-finally-okd-by-chinese-regulators.aspx",
-      "publishedDateTime": "2020-04-19T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F568360%2Fcloud-computing-getty-6217.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "NVIDIA's Mellanox Acquistion Finally Gets OK'd by Chinese Regulators",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-19-this-doctor-from-kashmir-uses-machine-learning-to-crunch-coronavirus-data.md",
       "title": "This Doctor From Kashmir Uses Machine Learning To Crunch Coronavirus Data",
       "excerpt": "A young surgeon raised in Kashmir is now part of a team using big data and machine learning to help detect useful patterns in the tsunami of public health data generated world-wide by the COVID-19 crisis and do what he can for those back home.",
@@ -1278,6 +1233,35 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
+      "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
+      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions.  While the details of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15831873/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15831873",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15831873",
+      "publishedDateTime": "2020-04-17T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

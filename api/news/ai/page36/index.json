@@ -2,50 +2,6 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2020-04-02-googles-ai-accurately-predicts-physicians-prescribing-decisions-75-of-the-time.md",
-      "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
-      "excerpt": "An AI system developed by researchers at Google and the University of California, San Francisco anticipates physician’s prescribing decisions 75% of the time, according to a paper published in the journal Clinical Pharmacology and Therapeutics. If someday applied to a health care system, it could identify prescriptions that look abnormal ...",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
-      "publishedDateTime": "2020-04-02T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-02-ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self-driving-car-plans.md",
       "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
       "excerpt": "Policy & regulation are aligning with renewables cost declines to make projects more profitable and portfolios more sustainable. Batteries are helping to optimize the power grid and opening up new ...",
@@ -1281,6 +1237,51 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-snowflakes-snowpro-certification-preparation-guide-how-to-pass-in-3-days.md",
+      "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
+      "excerpt": "Snowflake’s SnowPro Core Certification exam was just released a few months back (late 2019). The 2 hours, 100 questions exam tests an individual’s foundational and advance knowledge of ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/weareservian/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T00:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*xhOBQS_ddKJjYxe69rZ-Aw.png",
+          "width": 1200,
+          "height": 505,
+          "title": "Snowflake’s SnowPro Certification Preparation Guide — How to pass in 3 days",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

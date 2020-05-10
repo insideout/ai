@@ -2,50 +2,6 @@
   "page": 84,
   "value": [
     {
-      "path": "_news/2020-02-26-simplifying-conversational-ai-one-interaction-at-a-time.md",
-      "title": "Simplifying Conversational AI, One Interaction At A Time",
-      "excerpt": "What if we could speak with our devices, cars, and homes just as easily as we do with our friends? Conversation is the bedrock of human communication, a transformative tool that reveals what’s inside our heads and hearts.",
-      "heat": 157,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/02/26/simplifying-conversational-ai-one-interaction-at-a-time/amp/",
-      "publishedDateTime": "2020-02-26T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e56da9e7a00980007345118%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3969%26cropY1%3D326%26cropY2%3D2560",
-          "width": 1200,
-          "height": 676,
-          "title": "Simplifying Conversational AI, One Interaction At A Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-26-researchers-apply-developmental-psychology-to-ai-model-that-predicts-object-relationships.md",
       "title": "Researchers apply developmental psychology to AI model that predicts object relationships",
       "excerpt": "Inspired by this, a team of researchers hailing from the MIT-IBM Watson AI Lab, MIT’s Computer Science and Artificial Intelligence Laboratory, Alphabet’s DeepMind, and Harvard University sought to simplify the problem of visual recognition by introducing a benchmark — CoLlision Events for Video REpresentation and Reasoning (CLEVRER ...",
@@ -1081,6 +1037,51 @@
         "AI",
         "Computer Vision",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-26-cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026.md",
+      "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
+      "excerpt": "SEE: Special report: Harnessing IoT in the enterprise (free PDF) (TechRepublic Premium) The report found that most cloud vendor revenue is derived from the storage, orchestration and streaming of data in addition to generic analytical tools like AWS Sagemaker and Microsoft Azure Notebooks. Many cloud vendors are also leveraging partnerships ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
+      "publishedDateTime": "2020-02-26T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

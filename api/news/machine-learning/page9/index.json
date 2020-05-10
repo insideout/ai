@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
+      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
+      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
+      "publishedDateTime": "2020-02-21T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-20-ids-nxt-ocean-designed-to-ease-image-processing-for-neural-networks.md",
       "title": "IDS NXT ocean designed to ease image processing for neural networks",
       "excerpt": "Among the challenges facing artificial intelligence, robotics, and autonomous vehicle developers is the need to process mages for training neural networks. IDS NXT ocean from Imaging Development Systems GmbH is intended to make it easier for users who are not AI experts to classify images. IDS NXT ocean includes camera hardware, a self ...",
@@ -1234,51 +1279,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-deep-learning-forecasting-model-for-dengue-cases-in-singapore.md",
-      "title": "Deep Learning Forecasting Model for Dengue Cases in Singapore",
-      "excerpt": "Feature extraction is crucial to the success of neural network learning. However ... our approach worked better than those without a deep understanding about the nature of the dengue issues ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@nobletpadiyaraoffc/forecasting-dengue-cases-in-singapore-8-weeks-in-advance-ce32685e166d",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-12T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/378/0*pJ_V5RBE48AfmED2",
-          "width": 378,
-          "height": 410,
-          "title": "Deep Learning Forecasting Model for Dengue Cases in Singapore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 127,
   "value": [
     {
-      "path": "_news/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
-      "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
-      "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/",
-      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
-      "publishedDateTime": "2020-01-18T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
-          "width": 1260,
-          "height": 1260,
-          "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-18-apples-latest-ai-acquisition-is-a-glimpse-into-future-devices.md",
       "title": "Apple’s Latest AI Acquisition Is A Glimpse Into Future Devices",
       "excerpt": "Apple's latest startup purchase is one of many, but it also gives us a glimpse into the company’s thinking when it comes to future devices.",
@@ -1063,6 +1019,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-17-sensetimes-ai-generates-realistic-deepfake-videos.md",
+      "title": "SenseTime’s AI generates realistic deepfake videos",
+      "excerpt": "Typically only a scarce number of videos are available to train an AI system, and any method has to cope with large audio-video variations among subjects and the absence of knowledge about scene geometry, materials, lighting, and dynamics, To overcome these challenges, the team’s approach uses the expression parameter space, or the values ...",
+      "heat": 187,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/17/sensetimes-ai-generates-realistic-deepfake-videos/amp/",
+      "publishedDateTime": "2020-01-17T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/deepfake_sensetime-e1579279865680.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "SenseTime’s AI generates realistic deepfake videos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

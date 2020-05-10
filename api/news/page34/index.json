@@ -2,51 +2,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_news/2020-04-09-microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading.md",
-      "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
-      "excerpt": "Although the U.S. is still the leader in absolute numbers, the number of AI related patent applications submitted by Chinese researchers has increased by nearly 200% in recent years. As a global Internet giant Microsoft company,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/microsoft-google-strategic-layout-ai-field-wimi-hologram-cloud-nasdaqwimi-ai-algorithm-leading-2020-04-09",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-09T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Microsoft, Google Strategic Layout AI Field, Wimi Hologram Cloud (NASDAQ:WIMI) AI Algorithm Leading",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
       "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
       "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
@@ -1058,6 +1013,51 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-09-robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak.md",
+      "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
+      "excerpt": "The coronavirus outbreak has forced retailers to focus more on sanitation while they are struggling to restock shelves and hire more employees. Some grocery stores are turning to floor cleaning robots for additional help.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/04/08/robots-are-cleaning-grocery-store-floors-during-the-coronavirus-outbreak/amp/",
+      "publishedDateTime": "2020-04-08T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8e71b1b4aaaa0006eceb13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D0%26cropY2%3D3999",
+          "width": 1200,
+          "height": 800,
+          "title": "Robots Are Cleaning Grocery Store Floors During The Coronavirus Outbreak",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

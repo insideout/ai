@@ -220,6 +220,52 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -1256,43 +1302,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
-      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead",
-      "ampWebUrl": "https://sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10356/cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead?amp=1",
-      "publishedDateTime": "2020-04-29T22:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/news/c/cruise-can/cruise-cant-test-its-self-driving-cars-so-its-delivering-foo_s4qe.620.jpg",
-          "width": 619,
-          "height": 413,
-          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

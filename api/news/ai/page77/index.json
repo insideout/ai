@@ -2,43 +2,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2020-02-19-eu-puts-up-ai-and-data-strategies-with-an-ethical-twist.md",
-      "title": "EU puts up AI and data strategies with an ethical twist",
-      "excerpt": "The European Union (EU) has launched strategies for artificial intelligence (AI) and the “data economy”, with ethics and transparency as watchwords. It has also presented what it calls the “human-centric development of AI” as critical to “fighting climate change”. The European Commission (EC) said in a statement that it favours a ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist",
-      "ampWebUrl": "https://www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252478825/EU-puts-up-AI-and-data-strategies-with-an-ethical-twist?amp=1",
-      "publishedDateTime": "2020-02-19T09:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/German/EU-european-flags-fotolia.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": "EU puts up AI and data strategies with an ethical twist",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-02-19-what-explainable-ai-really-means-and-what-it-means-for-your-business-vb-live.md",
       "title": "What explainable AI really means and what it means for your business (VB Live)",
       "excerpt": "White-box AI is getting heaps of attention, in part because it brings business value to customers and companies alike. Learn why businesses are moving away from black box systems to more explainable AI — and what it really means to be explainable — when you catch up on this VB Live event. Access free on demand right here. White box and ...",
@@ -1245,6 +1208,42 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
+      "title": "Artificial intelligence raises question of who’s an inventor",
+      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
+      "publishedDateTime": "2020-02-18T20:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": "Artificial intelligence raises question of who’s an inventor",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

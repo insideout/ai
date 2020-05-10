@@ -2,52 +2,6 @@
   "page": 92,
   "value": [
     {
-      "path": "_news/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
-      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
-      "heat": 551,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-19T13:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
-          "width": 1200,
-          "height": 674,
-          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-19-automating-your-amazon-forecast-workflow-with-lambda-step-functions-and-cloudwatch-events-rule.md",
       "title": "Automating your Amazon Forecast workflow with Lambda, Step Functions, and CloudWatch Events rule",
       "excerpt": "Amazon Forecast is a fully managed service that uses machine learning (ML) to generate highly accurate forecasts without requiring any prior ML experience. Forecast is applicable in a wide variety of use cases, including estimating product demand, energy demand, workforce planning, computing cloud infrastructure",
@@ -1063,6 +1017,51 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-eu-introduces-ai-strategy-to-build-ecosystem-of-trust.md",
+      "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
+      "excerpt": "In a series of announcements, EC leaders expressed a mix of optimism that AI could help tackle challenges such as climate change, mobility, and health care, along with determination not to let private tech companies dominate the data needed for development of these algorithms. “We want citizens to trust the new technology,” said Ursula von ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/19/eu-introduces-ai-strategy-to-build-ecosystem-of-trust/amp/",
+      "publishedDateTime": "2020-02-19T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/P042638-849713-e1582116360900.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "EU introduces AI strategy to build ‘ecosystem of trust’",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

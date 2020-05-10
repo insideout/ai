@@ -2,43 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2020-02-26-robotic-piece-picking-gets-more-flexible-with-ai-enabled-adaptive-tooling.md",
-      "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
-      "excerpt": "Allston, Mass.-based XYZ’s piece picking system uses machine vision, but it does not rely exclusively on artificial intelligence models. A combination of mechanical and machine learning approaches is necessary, said Peter Yu, chief technology officer at the startup. “With both [approaches] and our tool changer, a robot can pick nearly ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.therobotreport.com/robotic-piece-picking-more-flexible-ai-enabled-adaptive-tooling/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-26T05:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2020/02/tool-changer-swaping_3MB-1024x705.jpg",
-          "width": 1024,
-          "height": 705,
-          "title": "Robotic piece picking gets more flexible with AI-enabled adaptive tooling",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-26-machine-learning-artificial-intelligence-virtual-reality-and-retailers.md",
       "title": "Machine Learning, Artificial Intelligence, Virtual Reality And Retailers",
       "excerpt": "These technologies are very quickly making the transition from novelties to be marveled at to fixtures that will define many of the activities that comprise our daily lives. But how does this translate for retailers?",
@@ -1266,6 +1229,52 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-save-97-off-this-machine-learning-data-science-certification-training-bundle.md",
+      "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+      "excerpt": "Master the Most Important Deep Learning Frameworks for Python Data Science Tensorflow Masterclass For Machine Learning and Artificial Intelligence in Python Complete Tensorflow Mastery For Machine Learning & Deep Learning in Python Python Regression Analysis: Statistics & Machine Learning Learn Complete Hands-On Regression Analysis for ...",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-machine-learning--data-science-certification-training-bundle",
+      "ampWebUrl": "https://www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-97-off-this-machine-learning--data-science-certification-training-bundle/",
+      "publishedDateTime": "2020-02-25T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574762211_1481879523_efa151423bca1f29bdb0870f620e57a112ee9c7b_main_hero_image_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Machine Learning & Data Science Certification Training Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
       ]
     }
   ],

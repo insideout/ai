@@ -2,43 +2,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
-      "title": "BMW says large-scale production of self-driving cars likely in next decade",
-      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BMW BLOG",
-        "domain": "bmwblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "BMW says large-scale production of self-driving cars likely in next decade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-16-kubota-announces-strategic-alliance-with-microsoft-to-accelerate-its-digital-transformation.md",
       "title": "Kubota announces strategic alliance with Microsoft to accelerate its digital transformation",
       "excerpt": "Microsoft will leverage its extensive knowledge and advanced technologies available within Azure Machine Learning to support Kubota’s AI initiatives. Furthermore, the companies will also explore innovative projects for a more sustainable future that ...",
@@ -988,6 +951,44 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
+      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
+      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
+      "publishedDateTime": "2020-03-13T18:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

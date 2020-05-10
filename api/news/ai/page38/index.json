@@ -2,43 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2020-04-01-nokia-stirs-telco-space-with-5g-backed-automated-operations.md",
-      "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-      "excerpt": "Nokia Corporation NOK recently unveiled an out-and-out AI-backed service offering that helps communication service providers (CSPs) to support future network evolution, and optimize enterprise and cloud services on a global scale.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01",
-      "ampWebUrl": "https://www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/nokia-stirs-telco-space-with-5g-backed-automated-operations-2020-04-01?amp",
-      "publishedDateTime": "2020-04-01T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1421883099",
-          "width": 1024,
-          "height": 512,
-          "title": "Nokia Stirs Telco Space With 5G-Backed Automated Operations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-ai-for-business-whats-going-wrong-and-how-to-get-it-right.md",
       "title": "AI for business: What's going wrong, and how to get it right",
       "excerpt": "Despite years of hype (and plenty of worries) about the all-conquering power of Artificial Intelligence (AI), there still remains a significant gap between the promise of AI and its reality for business. Tech firms have pitched AI's capabilities for years, but for most organisations, the benefits of AI remain elusive. It's hard to gauge the ...",
@@ -1269,6 +1232,51 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments.md",
+      "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
+      "excerpt": "In the past decade, deep learning has advanced many different areas, such as computer vision and natural language processing. State-of-the-art models now achieve near-human performance in tasks such as image classification. Deep neural networks can achieve this because they consist of millions of parameters",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/pruning-machine-learning-models-with-amazon-sagemaker-debugger-and-amazon-sagemaker-experiments/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T16:30:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/03/31/pruning-models-3.gif",
+          "width": 800,
+          "height": 354,
+          "title": "Pruning machine learning models with Amazon SageMaker Debugger and Amazon SageMaker Experiments",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

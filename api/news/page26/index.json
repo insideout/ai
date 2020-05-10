@@ -2,51 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-04-17-facebook-to-warn-users-who-liked-or-shared-coronavirus-hoaxes.md",
-      "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-      "excerpt": "Facebook says those warning labels have stopped 95 per cent of users from clicking ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080340/facebook-warn-users-who-liked-or-shared-coronavirus-hoaxes",
-      "publishedDateTime": "2020-04-16T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/17/fdd4e9b2-8056-11ea-8736-98edddd9b5ca_image_hires_110115.JPG?itok=Bpt6gBog&v=1587092481",
-          "width": 1200,
-          "height": 630,
-          "title": "Facebook to warn users who 'liked' or ‘shared’ coronavirus hoaxes",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-huawei-chip-unit-said-to-be-switching-orders-from-tsmc-to-smic-as-us-restrictions-loom.md",
       "title": "Huawei chip unit said to be switching orders from TSMC to SMIC as US restrictions loom",
       "excerpt": "Chip production that could be shifted to SMIC likely only accounts for 1 to 3 percentage ... Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries.",
@@ -1045,6 +1000,52 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-mindsdb-raises-3-million-for-open-source-automated-machine-learning.md",
+      "title": "MindsDB raises $3 million for open source automated machine learning",
+      "excerpt": "MindsDB today announced it has raised $3 million to grow its automated machine learning platform made for data scientists to quickly train and deploy models. The open source platform has been downloaded more than 250,000 times through Python pip installs or software with a graphic user interface and has been used by 20,000 developers.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/16/mindsdb-raises-3-million-for-open-source-automated-machine-learning/amp/",
+      "publishedDateTime": "2020-04-16T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Adam-Jorge-YCombinator.jpg?fit=1800%2C900&strip=all",
+          "width": 1800,
+          "height": 900,
+          "title": "MindsDB raises $3 million for open source automated machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

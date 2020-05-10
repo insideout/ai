@@ -2,44 +2,6 @@
   "page": 70,
   "value": [
     {
-      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
-      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
-      "publishedDateTime": "2020-03-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-03-14-deltec-bank-bahamas-the-role-of-fintech-in-the-banking-and-finance-sector-is-changing.md",
       "title": "Deltec Bank, Bahamas – The Role of FinTech in the Banking and Finance Sector is Changing",
       "excerpt": "“Deltec Bank” Deltec Bank, Bahamas – \"From robo-advisers to virtual assistants, financial services have seen massive growth.” Understanding",
@@ -1005,6 +967,43 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-artificial-intelligence-ai-chips-market-2020-2024high-adoption-of-ai-chips-in-data-centers-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
+      "excerpt": "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 36.6 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200313005224/en/Artificial-Intelligence-AI-Chips-Market-2020-2024High-Adoption",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-13T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200313005224/en/779596/23/IRTNTR30203.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

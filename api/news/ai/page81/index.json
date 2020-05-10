@@ -2,50 +2,6 @@
   "page": 81,
   "value": [
     {
-      "path": "_news/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
-      "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
-      "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
-      "publishedDateTime": "2020-02-14T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-14-new-facial-recognition-app-promises-to-solve-crimes-critics-say-it-means-end-of-privacy.md",
       "title": "New facial recognition app promises to solve crimes, critics say it means end of privacy",
       "excerpt": "A class action lawsuit filed Wednesday in New York federal court claims a breakthrough facial recognition technology designed for law enforcement use is illegally taking people’s biometric information without their consent. The lawsuit was filed by two individuals from Illinois who claim the company behind the technology, Clearview AI ...",
@@ -1279,6 +1235,42 @@
           "width": 970,
           "height": 545,
           "title": "AI tool can now update outdated Wikipedia content",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-inside-the-secret-committees-that-quietly-run-the-grammy-awards.md",
+      "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
+      "excerpt": "While neither Dugan nor any other industry figure has released the names of those artists, sources say her allegations are in line with what they have witnessed in the past. The music industry has long raised ... nominations review committee are artists themselves. There are no label folks in those rooms or anything like that.",
+      "heat": 142,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/",
+      "ampWebUrl": "https://www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
+      "cdnAmpWebUrl": "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/music/music-features/grammy-awards-secret-committees-945532/amp/",
+      "publishedDateTime": "2020-02-13T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Rolling Stone",
+        "domain": "rollingstone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.rollingstone.com/wp-content/uploads/2020/01/6352473xW.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": "Inside the ‘Secret Committees’ That Quietly Run the Grammy Awards",
           "attribution": null
         }
       ],

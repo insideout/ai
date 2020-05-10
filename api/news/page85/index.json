@@ -2,51 +2,6 @@
   "page": 85,
   "value": [
     {
-      "path": "_news/2020-02-26-cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026.md",
-      "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
-      "excerpt": "SEE: Special report: Harnessing IoT in the enterprise (free PDF) (TechRepublic Premium) The report found that most cloud vendor revenue is derived from the storage, orchestration and streaming of data in addition to generic analytical tools like AWS Sagemaker and Microsoft Azure Notebooks. Many cloud vendors are also leveraging partnerships ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cloud-suppliers-share-of-iot-data-and-analytics-revenues-to-top-56-billion-by-2026/",
-      "publishedDateTime": "2020-02-26T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/02/18/d1467839-4251-47cb-9fa9-aed070561526/thumbnail/1200x675/f3685147226f27819a3454fc3d626812/rainforest-connection.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Cloud suppliers' share of IoT data and analytics revenues to top $56 billion by 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-26-tempo-is-a-smart-home-gym-that-uses-computer-vision-to-track-your-form-in-real-time.md",
       "title": "Tempo is a smart home gym that uses computer vision to track your form in real time",
       "excerpt": "The computer vision also helps to count those reps and shows on-screen how many you’ve done. Tempo costs $1,995 plus a $39 monthly subscription As with most other smart fitness equipment, Tempo does come with a monthly content subscription fee of $39 on top of the equipment price of $1,995 plus tax and shipping / installation. At this time ...",
@@ -1044,6 +999,43 @@
         "AI",
         "Microsoft AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-25-using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.md",
+      "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
+      "excerpt": "Using a machine learning approach, they applied a novel tensor algorithm to decompose faces into a set of components or images called tensorfaces as well as their associated weights, and represented faces by linear combinations of those components. In this way, they build a mathematical model describing the work of the neurons involved in face ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200225/Using-machine-learning-approach-to-unravel-how-the-brain-processes-stores-visual-information.aspx",
+      "publishedDateTime": "2020-02-25T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2016%2f3%2fArtificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "Using machine learning approach to unravel how the brain processes, stores visual information",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

@@ -2,43 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-04-23-metaphors-on-artificial-intelligence-help-us-think-through-threats-to-human-rights.md",
-      "title": "Metaphors on artificial intelligence help us think through threats to human rights",
-      "excerpt": "Artificial intelligence (AI) is now receiving unprecedented global attention as it finds widespread practical application in multiple spheres of activity. But what are the human rights, social justice and development implications of AI when used in areas such as health,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.apc.org/en/news/metaphors-artificial-intelligence-help-us-think-through-threats-human-rights",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "APC",
-        "domain": "apc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.apc.org/sites/default/files/styles/node_full-size/public/design-02_0.png?itok=o_Gd7eoi",
-          "width": 705,
-          "height": 393,
-          "title": "Metaphors on artificial intelligence help us think through threats to human rights",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-23-minecraft-machine-learning-and-bots-enter-an-ai-wonderland-with-these-stayathome-workshops.md",
       "title": "Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops",
       "excerpt": "The post Minecraft, machine learning and bots: enter an AI wonderland with these #stayathome workshops appeared first on The AI Blog.\n",
@@ -1067,6 +1030,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-23-machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes.md",
+      "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
+      "excerpt": "How to predict such rapidly changing demand? Demand forecasting powered with machine learning (ML) may help to make smarter decisions by providing data-driven insights. The most beautiful thing about advanced forecasting is the adoption of “what-if” scenario planning. New data storage capabilities combined with cutting-edge analytics allow ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes",
+      "ampWebUrl": "https://retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
+      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/topics/data-analytics/ai-machine-learning/machine-learning-based-demand-forecasting-for-fast-adaptability-to-changes/amp",
+      "publishedDateTime": "2020-04-23T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/03/retailrenaissance.jpg",
+          "width": 805,
+          "height": 490,
+          "title": "Machine Learning-Based Demand Forecasting For Fast Adaptability To Changes",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

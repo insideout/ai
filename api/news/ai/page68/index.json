@@ -2,51 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2020-02-28-cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure.md",
-      "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
-      "excerpt": "Identify Sales forecasts to help your business keep adequate inventory, create an actionable plan with latest edition released by AMA on Global Cloud Machine Learning Market to regulate the balance of demand and supply.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-machine-learning-market-is-booming-worldwide-gaining-revolution-in-eyes-of-global-exposure-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cloud Machine Learning Market is Booming Worldwide | gaining Revolution In Eyes of Global Exposure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-02-28-ai-model-can-distinguish-between-types-of-back-pain-by-scouring-doctors-notes.md",
       "title": "AI model can distinguish between types of back pain by scouring doctors' notes",
       "excerpt": "The single code for two different conditions prevents appropriate billing and therapy recommendations, including different return-to-work scenarios. The artificial intelligence model in this study, the first of its kind, could be used to improve the accuracy of coding, billing, and therapy for patients with lower back pain. The researchers used ...",
@@ -1283,6 +1238,51 @@
           "width": 1200,
           "height": 630,
           "title": "Facial recognition company says entire client list was stolen",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-ice-warrantless-facial-recognition-searches-trigger-maryland-bill.md",
+      "title": "ICE warrantless facial recognition searches trigger Maryland bill",
+      "excerpt": "Cortez spoke today in the Maryland General Assembly in favor of a bill that requires ICE obtain a warrant from a judge before the agency can use facial recognition to search the Maryland Image Repository System or MRS. Maryland began to issue driver’s licenses to immigrants in 2013. On Wednesday, the Washington Post reported that ICE searched ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/27/ice-warrantless-facial-recognition-searches-trigger-maryland-bill/amp/",
+      "publishedDateTime": "2020-02-27T16:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/GettyImages-1181457356.jpg?fit=2215%2C1353&strip=all",
+          "width": 2215,
+          "height": 1353,
+          "title": "ICE warrantless facial recognition searches trigger Maryland bill",
           "attribution": null
         }
       ],

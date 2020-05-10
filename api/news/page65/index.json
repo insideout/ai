@@ -2,35 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2020-03-17-four-ways-ai-can-positively-impact-pharmaceutical-development.md",
-      "title": "Four Ways AI Can Positively Impact Pharmaceutical Development",
-      "excerpt": "This capability can be helpful for more common treatments like medication for depression or new drugs with little or no formal history. Audio Listening and Language Translation AI can help screen the myriad of audio files from call centers, which can help identify adverse events that may be mentioned in unrelated contexts. For example ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://insidebigdata.com/2020/03/16/four-ways-ai-can-positively-impact-pharmaceutical-development/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-17T13:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-multithreaded-cores-handle-machine-learning-chores.md",
       "title": "Multithreaded Cores Handle Machine-Learning Chores",
       "excerpt": "The cores and software support are designed to handle real-time communication between the cores. This is facilitated by the switch that connects everything, including the new vector-processing unit, DSP support, machine-learning support, and cryptographic support. This distribution keeps the RISC cores simple while providing access to the ...",
@@ -955,6 +926,43 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-10-ways-googles-deepmind-uses-ai-across-the-globe.md",
+      "title": "10 ways Google's DeepMind uses AI across the globe",
+      "excerpt": "DeepMind has attracted mixed headlines since Google paid $50 million for the U.K.-based AI startup in 2014. The awe inspired by DeepMind's AlphaGo system defeating Go world champion Lee Sedol was soon tempered by criticisms of its controversial access to personal health records, which the ICO ruled had breached the Data Protection Act ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.idginsiderpro.com/article/3533048/10-ways-googles-deepmind-uses-ai-across-the-globe.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idginsiderpro",
+        "domain": "idginsiderpro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/11/ai_artificial_intelligence_neural_networks_technology_brain_by_4x-image_gettyimages_997524096-100817778-large.3x2.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "10 ways Google's DeepMind uses AI across the globe",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

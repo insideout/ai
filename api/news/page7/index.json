@@ -2,50 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
-      "title": "Intel acquires urban mobility startup Moovit for $900 million",
-      "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "publishedDateTime": "2020-05-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all",
-          "width": 1500,
-          "height": 776,
-          "title": "Intel acquires urban mobility startup Moovit for $900 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
       "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
       "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
@@ -1090,6 +1046,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
+      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "publishedDateTime": "2020-05-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

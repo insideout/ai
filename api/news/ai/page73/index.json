@@ -2,51 +2,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_news/2020-02-24-clever-browser-tool-erases-people-from-live-webcam-feeds-in-real-time.md",
-      "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-      "excerpt": "Mayes is a Google web engineer who developed his Disappearing-People tool using Javascript and TensorFlow, which is Google’s free, open source software library that allows the terrifying potential of artificial intelligence and deep learning to be applied to less terrifying applications. In this case, the neural network works to determine ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899",
-      "ampWebUrl": "https://gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clever-browser-tool-erases-people-from-live-webcam-feed-1841886899/amp",
-      "publishedDateTime": "2020-02-24T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--kY9EtKmN--/c_scale,f_auto,fl_progressive,q_80,w_800/rn8juxshvtinyw3oh5te.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Clever Browser Tool Erases People From Live Webcam Feeds in Real Time",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-24-from-california-to-dc-these-are-the-proposals-for-reforming-law-firm-ownership.md",
       "title": "From California to D.C., These Are the Proposals for Reforming Law Firm Ownership",
       "excerpt": "On Twitter at @packeld A weekly ... This study demonstrates how to analyze, streamline, and extract meaningful value from your contract database, with specific examples around M&A deal points. Formulate a compelling business case to win support for adopting artificial intelligence (AI) powered contract analysis using data, benefits and pain ...",
@@ -1261,6 +1216,51 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-24-mit-csails-radars-map-hidden-features-to-help-driverless-cars-navigate-snowy-terrain.md",
+      "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+      "excerpt": "Plus, bad weather has a tendency to obscure road signage and structures that normally serve as navigational landmarks. Fortunately, researchers at MIT’s Computer Science and Artificial Intelligence Laboratory and Lincoln Laboratory are on the case. In a paper that will be published in the journal IEEE Robotics and Automation Letters later ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/23/mit-csails-ground-penetrating-radars-map-underground-features-to-help-driverless-cars-navigate-snowy-terrain/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-23T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/1MIT-CSAILs-car-in-the-snow-from-the-back-credit-MIT-CSAIL-e1582233935856.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MIT CSAIL’s radars map hidden features to help driverless cars navigate snowy terrain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

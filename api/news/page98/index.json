@@ -2,50 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2020-02-13-andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away.md",
-      "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-      "excerpt": "Andrew Yang ended his campaign Tuesday after a tepid showing in New Hampshire, bringing to an end what can be characterized as the only AI-first presidential campaign in U.S. history. Some will argue Yang’s campaign simply rose to prominence because of his support of a $1,000 universal basic income, but he outlasted and outperformed most of ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/13/andrew-yang-brought-ai-into-american-politics-and-it-isnt-going-away/amp/",
-      "publishedDateTime": "2020-02-13T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/andrew-yang.jpg?fit=1800%2C989&strip=all",
-          "width": 1800,
-          "height": 989,
-          "title": "Andrew Yang brought AI into American politics, and it isn’t going away",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-13-viziblezone-taps-ai-and-smartphone-data-to-alert-drivers-to-pedestrians.md",
       "title": "Viziblezone taps AI and smartphone data to alert drivers to pedestrians",
       "excerpt": "An intriguing solution emerged last year from Viziblezone, a startup within the Jerusalem-based investment platform OurCrowd’s Labs/02 incubator program. Using a combination of AI and machine learning models, smartphones, and commodity car hardware, it’s capable of alerting drivers about potential nearby hazards while helping them to avoid ...",
@@ -1064,6 +1020,42 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-13-this-emoji-could-mean-your-suicide-risk-is-high-according-to-ai.md",
+      "title": "This emoji could mean your suicide risk is high, according to AI",
+      "excerpt": "Compared to the general population, Crisis Text Line users skew young, low-income, and high-risk, but the AI-generated insights are promising. Lindsey C. McKernan, an assistant professor in the department of psychiatry and behavioral sciences at Vanderbilt University Medical Center who has written about using artificial intelligence in ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence/",
+      "ampWebUrl": "https://mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/suicide-risk-crisis-text-line-artificial-intelligence.amp",
+      "publishedDateTime": "2020-02-12T16:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F02%252F13%252F72%252F17435b513b8a4c138a89d0224c67fa15.26cbf.jpg%252F1200x630.jpg?signature=mTpF80X4nYynlZY7jNCPPH4nBRk=",
+          "width": 1200,
+          "height": 630,
+          "title": "This emoji could mean your suicide risk is high, according to AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

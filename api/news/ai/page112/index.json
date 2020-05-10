@@ -2,51 +2,6 @@
   "page": 112,
   "value": [
     {
-      "path": "_news/2020-01-11-no-ibm-is-not-the-only-relevant-player-in-virtual-agents.md",
-      "title": "No, IBM is not the only relevant player in virtual agents",
-      "excerpt": "Last month, IBM General Manager of Data and Watson AI, Rob Thomas, told VentureBeat that IBM was the only major enterprise provider in the red-hot area of virtual agents. Virtual agents are software that can chat with customers through text, voice, or web chat. “There really are no big players, except for us,” Thomas said at the time.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/11/no-ibm-is-not-the-only-relevant-player-in-virtual-agents/amp/",
-      "publishedDateTime": "2020-01-11T06:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/nlp.jpg?fit=2121%2C1414&strip=all",
-          "width": 2121,
-          "height": 1414,
-          "title": "No, IBM is not the only relevant player in virtual agents",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-11-waymos-anca-dragan-and-ike-robotics-cto-jur-van-den-berg-are-coming-to-tc-sessions-roboticsai.md",
       "title": "Waymo’s Anca Dragan and Ike Robotics CTO Jur van den Berg are coming to TC Sessions: Robotics+AI",
       "excerpt": "and is co-PI of the Center for Human-Compatible AI. Last year, Dragan was awarded the Presidential Early Career Award for Scientists and Engineers. Van den Berg is the co-founder and CTO of Ike Robotics, a self-driving truck startup that last year raised $52 million in a Series A funding round led by Bain Capital Ventures. Van den Berg has ...",
@@ -1300,6 +1255,43 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-09-upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025.md",
+      "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
+      "excerpt": "“Grand View Research, Inc. – Market Research And Consulting.” Artificial Intelligence in Healthcare Market Size, Share, & Trends Analysis By Component",
+      "heat": 61,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/01/ab15096479/upcoming-innovations-in-artificial-intelligence-in-healthcare-thriving-medical-attention-by-2025",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15096479",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15096479",
+      "publishedDateTime": "2020-01-09T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.grandviewresearch.com/static/img/research/us-artificial-intelligence-in-healthcare-market.png",
+          "width": 600,
+          "height": 300,
+          "title": "Upcoming Innovations In Artificial Intelligence in Healthcare Thriving Medical Attention by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

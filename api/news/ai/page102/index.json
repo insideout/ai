@@ -2,51 +2,6 @@
   "page": 102,
   "value": [
     {
-      "path": "_news/2020-01-22-what-are-important-ai-machine-learning-trends-for-2020.md",
-      "title": "What are Important AI & Machine Learning Trends for 2020?",
-      "excerpt": "To help you stay well prepared for 2020, we’ve summarized the latest trends across different research areas, including natural language processing, conversational AI, computer vision, and reinforcement learning.",
-      "heat": 124,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/01/22/what-are--important-ai--machine-learning-trends-for-2020/amp/",
-      "publishedDateTime": "2020-01-22T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e287240a854780006af35ac%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D304%26cropY2%3D3679",
-          "width": 1200,
-          "height": 675,
-          "title": "What are Important AI & Machine Learning Trends for 2020?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-01-22-at-davos-alphabets-ceo-calls-healthcare-the-major-ai-opportunity.md",
       "title": "At Davos, Alphabet's CEO Calls Healthcare the Major AI Opportunity",
       "excerpt": "shared some upbeat thoughts on how AI and healthcare could intersect. \"Cancer [is] often missed and the difference in outcome is profound,\" he said, according to Reuters. \"In lung cancer, for example, five experts agree this way and five agree the other way. We know we can use artificial intelligence to make it better.\" Two years ago at ...",
@@ -1280,6 +1235,51 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook.md",
+      "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+      "excerpt": "The Global AI Technology Market Research Report Forecast 2020-2023 is a valuable source of insightful data for business strategists. It provides the AI Technology overview with growth analysis and historical & futuristic cost,",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/top-players-in-ai-technology-market-2020-23-ibm-amazon-google-intel-and-facebook-2020-01-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Top Players in AI Technology Market (2020-23) IBM, Amazon, Google, Intel and Facebook",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

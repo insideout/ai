@@ -2,51 +2,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2020-03-14-beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019.md",
-      "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
-      "excerpt": "In 2019 Beijing’s cumulative self-driving testing reached 1.04 million kilometres — an equivalent to circling earth 20 times. Search-engine giant Baidu ranked first in autonomous vehicle ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/syncedreview/beijing-self-driving-vehicle-road-tests-topped-one-million-km-in-2019-80a6fd58b774",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-14T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*C35YKD4zEMMsXyzlnf0A9g.jpeg",
-          "width": 1200,
-          "height": 666,
-          "title": "Beijing Self-Driving Vehicle Road Tests Topped One Million Km in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-14-aclu-is-demanding-homeland-security-cbp-ice-and-tsa-hand-over-records-on-facial-recognition-at-the-border.md",
       "title": "ACLU is demanding Homeland Security, CBP, ICE, and TSA hand over records on facial recognition at the border",
       "excerpt": "Privacy advocates believe that facial recognition, in particular, can enable persistent, undetectable government surveillance on a massive scale that erodes everyone's expectations of privacy. Back in December, the American Civil Liberties Union sued Homeland Security for its 'stingray' phone surveillance program that has long been in use by US ...",
@@ -1230,6 +1185,51 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-13-the-top-5-fintech-trends-for-2020.md",
+      "title": "The top 5 fintech trends for 2020",
+      "excerpt": "They're also investing in cloud technologies as part of a broader digital transformation effort (11%) and automating through AI or robotics (10%), according to the survey. Only 45% of survey respondents said they're in great shape when it comes to their ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/the-top-5-fintech-trends-for-2020/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/the-top-5-fintech-trends-for-2020/",
+      "publishedDateTime": "2020-03-13T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/28/d05e9732-c721-4047-adb6-99e8614dce5a/thumbnail/1200x675/8924a634cce0bc6fd704a70c2f05b914/20190820-synopsys-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The top 5 fintech trends for 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

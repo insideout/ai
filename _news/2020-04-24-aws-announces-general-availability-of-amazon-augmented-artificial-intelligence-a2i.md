@@ -1,25 +1,21 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence"
-publishedDateTime: 2020-04-24T17:26:00Z
-webUrl: "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial"
+excerpt: "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ..."
+publishedDateTime: 2020-04-24T13:17:00Z
+webUrl: "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i"
+ampWebUrl: "https://amp.benzinga.com/amp/content/15876750"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
-
-secured: "TzeshW9SU6e599lw7+1b0NuPpTaqKqye0/r9DX9eTD25NhIvKjq1lObHTO82/R+H+g7+actkAU4r9wCo9Deg1VT8gFJjWkvOwYnFqjLUkrlMkJkWjkW9QWb9hBDYoje0lwuzciJRHlj8rE2at3Zi8pT3/xPKORT3UyyMFWFlrksH2N/3RUzbdCBnfWCXGvn93pwkebwLAjCrKjmnDaRr3+St/HiT03mdcSbe/QyMfWkz0Y4nZzpnp0HnvsJv+NXnRVQ8LvmKCuYE5ZZZPfBHToAX95A6uMqhVLEdRalhRGK+8i8KrZuOGnZvqoecLqp3;TU3y6h3nG0e28UQIoOmsKQ=="
+secured: "+FTX0nmD3GrmFIpvRWOGr14lFx8i9Kl66VBxQYJJPEGKSL2G/BbX99i6KAEIm4OFc6/rsZi2z7z097z+IfRFAjhVghVrvVaQ/iVFgCWpEFnLt/bExwHJPhfN0Keya1qzYouBp8q4Ed7n/JUCNtPj47WGVs3DqXz54VFRxVMPq9qxV4aeRF3AqrQIhkc5irH9Dzgwew5rv7yE7CqVCYRCcBiLbqjx+0+CpLcsUgwlwAozvTJLKmyW/1xrbDsuQn+WWB3zBl3CVuz79kG8pReTKYLG6q0871NC0Sw08JBEjD01Fzd4/MGyN0twZESCT70P;KAk98DOwBEMIB7mvVtaGxA=="
 ---
 

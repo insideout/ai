@@ -2,51 +2,6 @@
   "page": 120,
   "value": [
     {
-      "path": "_news/2020-01-24-german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience.md",
-      "title": "German football league Bundesliga teams with AWS to improve fan experience",
-      "excerpt": "Germany’s top soccer (football) league, Bundesliga, announced today it is partnering with AWS to use artificial intelligence to enhance the fan experience during games. Andreas Heyden, executive vice president for digital sports at the Deutsche Fußball Liga, the entity that runs The Bundesliga, says that this could take many forms ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "publishedDateTime": "2020-01-24T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459244219.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "German football league Bundesliga teams with AWS to improve fan experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-24-amazons-ai-automatically-dubs-videos-into-other-languages.md",
       "title": "Amazon’s AI automatically dubs videos into other languages",
       "excerpt": "In a paper published this week on the preprint server Arxiv.org, researchers from the tech giant detailed a novel “speech-to-speech” pipeline that taps AI to ... across languages and follows a “fluency-based” rather than a content-based criterion. It comprises several parts, including a Transformer-based machine translation bit trained ...",
@@ -1063,6 +1018,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-23-bjork-and-an-ai-collaborated-on-an-eerie-soundtrack-for-a-hotel-lobby.md",
+      "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
+      "excerpt": "But of course, it's not supernatural. It's Microsoft's AI at work, using feedback from a camera installed on the hotel's roof to determine which of Bjork's selected works to play. Kórsafn translates to \"choral archives,\" and fittingly it features snippets drawn from the musician's favorite arrangements of her career, performed by Iceland's ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/01/23/bjork-microsoft-ai-lobby-score-soundtrack/",
+      "publishedDateTime": "2020-01-23T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1283%252C855%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1066%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-01%252F9f340d60-3e17-11ea-b7ee-921f199d781e%26client%3Da1acac3e1b3290917d92%26signature%3D254e091e559ab3eaf5f4923ed1197a20bb1b3a95&client=amp-blogside-v2&signature=ce88369268ff40ee32d9a7d6cc9648bb3bd4f20a",
+          "width": 600,
+          "height": 350,
+          "title": "Bjork and an AI collaborated on an eerie soundtrack for a hotel lobby",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

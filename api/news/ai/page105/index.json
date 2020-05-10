@@ -2,50 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2020-01-20-google-pushes-sensible-ideas-for-how-to-regulate-ai.md",
-      "title": "Google Pushes ‘Sensible’ Ideas for How to Regulate AI",
-      "excerpt": "Silicon Valley executives and lobbyists like to say they embrace regulation. Now they’re launching a frenzy of lobbying on what they want that regulation to be—and Europe is set to be one of the first battlegrounds.",
-      "heat": 307,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wsj.com/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/google-pushes-sensible-ideas-for-how-to-regulate-ai-11579521003",
-      "publishedDateTime": "2020-01-20T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-145573/social",
-          "width": 1280,
-          "height": 640,
-          "title": "Google Pushes ‘Sensible’ Ideas for How to Regulate AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-20-can-ai-systems-be-unethical-the-answer-is-yes.md",
       "title": "Can AI Systems Be Unethical? The Answer Is Yes",
       "excerpt": "To avoid biased outcomes, data sets need to be neutralized in a manner that these biases disappear, or are at least minimised as much as possible. Tony Fish, visiting lecturer for AI and Ethics at LSE, said, “if we teach our kids morality then why not teach the machines? However there is a problem here—we are trying to build the moral ...",
@@ -1289,6 +1245,43 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-01-18-how-fractals-trial-run-uses-aws-to-power-ai-based-decision-making.md",
+      "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
+      "excerpt": "Akhil Behl, VP, Artificial Intelligence and Machine Learning at ... When it comes to cloud service, AWS was on the top of their mind due to several reasons, including the fact that more than ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making",
+      "ampWebUrl": "https://yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/01/fractals-trial-run-aws-ai-decision-making/amp",
+      "publishedDateTime": "2020-01-17T19:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1579263492635.png?fm=png&auto=format",
+          "width": 800,
+          "height": 400,
+          "title": "How Fractal’s Trial Run uses AWS to power AI-based decision-making",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 126,
   "value": [
     {
-      "path": "_news/2020-01-20-scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai.md",
-      "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
-      "excerpt": "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
-      "publishedDateTime": "2020-01-20T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-20-artificial-intelligence-needs-to-be-regulated-alphabet-ceo-pichai.md",
       "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
       "excerpt": "Alphabet Inc.’s chief executive officer urged the U.S. and European Union to coordinate regulatory approaches on artificial intelligence ... self-driving car unit, Waymo. The Google chief ...",
@@ -1071,6 +1027,50 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-18-geekwire-podcast-apple-acquires-xnorai-microsofts-bold-climate-plan-seattle-startup-trivia.md",
+      "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+      "excerpt": "This week on the GeekWire Podcast: Apple doubled down on artificial intelligence and boosted its presence in Seattle with the acquisition of Xnor.ai, an Allen Institute for Artificial Intelligence ... but it’s also an example of an ambitious startup selling to a tech giant before it has the chance to become one itself. So how should we ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/",
+      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-apple-acquires-xnor-ai-microsofts-bold-climate-plan-seattle-startup-trivia/amp/",
+      "publishedDateTime": "2020-01-18T10:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
+          "width": 1260,
+          "height": 1260,
+          "title": "GeekWire Podcast: Apple acquires Xnor.ai; Microsoft’s bold climate plan; Seattle startup trivia",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

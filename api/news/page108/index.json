@@ -2,43 +2,6 @@
   "page": 108,
   "value": [
     {
-      "path": "_news/2020-02-05-fintechs-consolidation-creates-investment-opportunities.md",
-      "title": "Fintech's Consolidation Creates Investment Opportunities",
-      "excerpt": "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05",
-      "ampWebUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
-      "publishedDateTime": "2020-02-05T09:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049",
-          "width": 1024,
-          "height": 512,
-          "title": "Fintech's Consolidation Creates Investment Opportunities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
       "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
       "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
@@ -1058,6 +1021,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-04-smart-marketing-how-corporate-marketers-deploy-ai.md",
+      "title": "Smart Marketing: How Corporate Marketers Deploy AI",
+      "excerpt": "Marketers report a 27% increase in the use of AI and machine learning in marketing toolkits over 6 months prior. Top uses include AI for content personalization, targeting, predictive analytics. Organizational challenges to maximize the impact of AI in marketing are discussed.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christinemoorman/2020/02/04/smart-marketing-how-corporate-marketers-deploy-ai/amp/",
+      "publishedDateTime": "2020-02-04T08:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fchristinemoorman%2Ffiles%2F2020%2F02%2FAI-F1.png",
+          "width": 1200,
+          "height": 588,
+          "title": "Smart Marketing: How Corporate Marketers Deploy AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

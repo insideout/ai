@@ -2,42 +2,6 @@
   "page": 88,
   "value": [
     {
-      "path": "_news/2020-02-24-how-artificial-intelligence-can-leverage-big-data-to-boost-trade.md",
-      "title": "How artificial intelligence can leverage Big Data to boost trade",
-      "excerpt": "Artificial Intelligence isn’t going to replace company CEOs any time soon. But what AI is already doing is pretty impressive: uncovering unique connections and relationships that can help businesses become more efficient at what they do, developing insight into new products and solutions, and creating a more frictionless trading landscape.",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade",
-      "ampWebUrl": "https://business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade/amp",
-      "cdnAmpWebUrl": "https://business-financialpost-com.cdn.ampproject.org/c/s/business.financialpost.com/sponsored/business-sponsored/how-artificial-intelligence-can-leverage-big-data-to-boost-trade/amp",
-      "publishedDateTime": "2020-02-24T11:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://financialpostcom.files.wordpress.com/2020/03/hsbc_cmb_image5.jpg",
-          "width": 4830,
-          "height": 3623,
-          "title": "How artificial intelligence can leverage Big Data to boost trade",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-24-britains-top-cop-calls-for-law-on-police-use-of-artificial-intelligence.md",
       "title": "Britain's Top Cop Calls for Law on Police Use of Artificial Intelligence",
       "excerpt": "framework for police use of new technologies such as artificial intelligence. Speaking about live facial recognition, which police in London started using in January, London police chief Cressida Dick said that she welcomed the government's 2019 manifesto pledge to create a legal framework for the police use of new technology like AI ...",
@@ -1037,6 +1001,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-23-this-ai-researcher-thinks-we-have-it-all-wrong.md",
+      "title": "This AI Researcher Thinks We Have It All Wrong",
+      "excerpt": "Are we too focused on data? Is what we call AI just statistics on large data sets? Is what we are doing with machine learning right now really AI?",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
+      "publishedDateTime": "2020-02-23T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5298f97a00980007340207%2F0x0.jpg",
+          "width": 700,
+          "height": 701,
+          "title": "This AI Researcher Thinks We Have It All Wrong",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

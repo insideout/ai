@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-02-19-is-artificial-intelligence-a-myth.md",
-      "title": "Is Artificial Intelligence A Myth?",
-      "excerpt": "Here is something we all love: tech buzz words and the grand promise of new technologies. You know its right, because me, you and the person pitching the sales deck, we use them all the time. \"The Internet Of Things will connect everything,",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/",
-      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
-      "publishedDateTime": "2020-02-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1183695647%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4714%26cropY1%3D144%26cropY2%3D2796",
-          "width": 1199,
-          "height": 675,
-          "title": "Is Artificial Intelligence A Myth?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-02-19-10-robotics-startups-to-watch-in-2020.md",
       "title": "10 robotics startups to watch in 2020",
       "excerpt": "Running a robotics startup is no easy task. Yet, we are always amazed by the number of robotics startups ... Reason to watch: Covariant is building AI that it calls the “Covariant Brain” to make robots smarter. Covariant was founded in 2017, but it came out of stealth mode in January 2020, announcing that its first application is piece ...",
@@ -1260,6 +1215,51 @@
           "width": 1200,
           "height": 600,
           "title": "The Government Wants to Use Your Brainwaves to Train Swarms of Military Robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-talking-to-robots-with-david-ewing-duncan.md",
+      "title": "Talking to Robots With David Ewing Duncan",
+      "excerpt": "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346085",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346085",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085",
+      "publishedDateTime": "2020-02-10T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Talking to Robots With David Ewing Duncan",
           "attribution": null
         }
       ],

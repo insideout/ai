@@ -2,42 +2,6 @@
   "page": 122,
   "value": [
     {
-      "path": "_news/2020-01-23-can-artificial-intelligence-be-used-to-diagnose-brain-aneurysms.md",
-      "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
-      "excerpt": "A recent study published in JAMA Netw Open by Park and colleagues from Stanford University set out to investigate whether augmenting CT scan angiogram data with Artificial Intelligence (AI) deep learning models improved the diagnosis rates for patients with aneurysms. Over 9000 CT scan angiograms performed at Stanford University Medical center ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.news-medical.net/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
-      "ampWebUrl": "https://www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/health/Can-Artificial-Intelligence-be-used-to-Diagnose-Brain-Aneurysms.aspx",
-      "publishedDateTime": "2020-01-23T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_795315856_cbabc9b5539d4423beb8578dae2344fa-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": "Can Artificial Intelligence be used to Diagnose Brain Aneurysms?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-23-why-your-business-should-focus-on-understanding-speech-over-voice-recognition.md",
       "title": "Why your business should focus on understanding speech over voice recognition",
       "excerpt": "If you have ever had to repeat “yes” six times to your automated telephone banking assistant, you’d be forgiven for thinking that automatic speech recognition (ASR) has a long way yet to go.",
@@ -1067,6 +1031,42 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
+      "title": "Octi launches a social network built around augmented reality",
+      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
+      "heat": 132,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-22T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

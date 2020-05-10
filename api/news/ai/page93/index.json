@@ -2,52 +2,6 @@
   "page": 93,
   "value": [
     {
-      "path": "_news/2020-02-01-5-soon-to-be-trends-in-artificial-intelligence-and-deep-learning.md",
-      "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-      "excerpt": "AI’s major headwind is the cost of the investment, which will skew returns in the short-term. When the turnaround occurs, however, companies who are making the investment can expect to be rewarded disproportionately with a wide performance gap and up to double the cash flow.",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/01/31/5-soon-t0-be-trends-in-artificial-intelligence-and-deep-learning/amp/",
-      "publishedDateTime": "2020-01-31T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/5e34ccbef133f400076b5a6a/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 533,
-          "title": "5 Soon-to-Be Trends in Artificial Intelligence And Deep Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-01-31-what-differentiates-ai-leaders-according-to-a-founder-of-globant.md",
       "title": "What Differentiates AI Leaders, According To A Founder Of Globant",
       "excerpt": "I recently sat down with Guibert Englebienne, CTO and co-founder of Globant, a digitally-native technology services company committed to leveraging the latest technologies and methodologies to help organizations thrive in their digital transformations.",
@@ -1294,6 +1248,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-31-intel-lays-out-strategy-for-ai-its-habana.md",
+      "title": "Intel Lays Out Strategy For AI: It’s Habana",
+      "excerpt": "Does Intel still need a big GPU? While Habana will become the flagship processor for Intel’s AI, a GPU still has a place in its data center strategy because it is far more flexible and can be ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/01/31/intel-lays-out-strategy-for-ai-its-habana/amp/",
+      "publishedDateTime": "2020-01-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e3474dcf133f400076b4e60%2F0x0.jpg",
+          "width": 899,
+          "height": 568,
+          "title": "Intel Lays Out Strategy For AI: It’s Habana",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

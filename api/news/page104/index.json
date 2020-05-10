@@ -2,51 +2,6 @@
   "page": 104,
   "value": [
     {
-      "path": "_news/2020-02-09-tech-start-up-pix-moving-uses-self-driving-ideas-to-make-flexible-cities.md",
-      "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-      "excerpt": "Tech start-up Pix Moving has engineered a pioneering autonomous mobile living unit based on self-driving cars and is proposing Pix City as a flexible, tech-evolving future city",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/02/09/autonomous-drive-pix-moving/amp/",
-      "publishedDateTime": "2020-02-09T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e403a4b8b6cf300071e3efc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1000%26cropY1%3D0%26cropY2%3D563",
-          "width": 1000,
-          "height": 563,
-          "title": "Tech Start-Up Pix Moving Uses Self-Driving Ideas To Make Flexible Cities",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-02-09-study-warns-ai-may-trick-humans-with-false-evidence-of-alien-life.md",
       "title": "Study warns AI may trick humans with false evidence of alien life",
       "excerpt": "A newly published study warns that using AI to detect these techno-signatures may be risky, however, with the potential to make humans think they have discovered evidence of alien life when no such evidence actually exists. The new study points toward Ceres, the dwarf planet that briefly dazzled humanity with then-mysterious bright spots that ...",
@@ -1073,6 +1028,50 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
+      "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
+      "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
+      "publishedDateTime": "2020-02-07T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/KylgpuoqoH4U00P5Fk8WjdgX0uE=/0x0:904x683/1400x933/filters:focal(380x270:524x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png",
+          "width": 904,
+          "height": 683,
+          "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

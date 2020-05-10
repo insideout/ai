@@ -2,51 +2,6 @@
   "page": 82,
   "value": [
     {
-      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
-      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-28T09:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-28-the-clearview-ai-nightmare-just-got-worse-heres-why-it-matters-and-what-must-come-next.md",
       "title": "The Clearview AI Nightmare Just Got Worse: Here’s Why It Matters, And What Must Come Next",
       "excerpt": "Just when you thought the Clearview AI nightmare couldn’t get any worse, the shady facial recognition firm was breached. As the firm’s customer list emerges, here’s why this all matters, and what needs to come next.",
@@ -1091,6 +1046,43 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-27-ibm-and-microsoft-sign-vatican-pledge-for-ethical-ai.md",
+      "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+      "excerpt": "Tech giants promise to develop new technology in way that protects the rights of all people The 'Rome Call for AI Ethics' document calls for artificial intelligence to safeguard the rights of all humankind and for new regulations in fields such as facial recognition IBM and Microsoft have signed an “ethical resolution” with the Vatican to ...",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "ampWebUrl": "https://amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/5dc6edcc-5981-11ea-a528-dd0f971febbc",
+      "publishedDateTime": "2020-02-27T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2F41f09a98-5964-11ea-a528-dd0f971febbc?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": "IBM and Microsoft sign Vatican pledge for ethical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

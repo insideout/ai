@@ -2,43 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2020-01-29-maine-to-build-institute-to-teach-tech-skills-machine-learning.md",
-      "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-      "excerpt": "We really see that [as] a great opportunity.” (TNS) — Wex uses machine learning and artificial intelligence in its day-to-day operations. At its call centers, the payment processing firm uses speech recognition technology to route calls. When monitoring accounts for fraud risk, the company uses sophisticated data analysis built by algorithm.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html",
-      "ampWebUrl": "https://www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "cdnAmpWebUrl": "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/Maine-to-Build-Institute-to-Teach-Tech-Skills-Machine-Learning.html?AMP",
-      "publishedDateTime": "2020-01-28T16:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Governing",
-        "domain": "governing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/Cuyahoga+County+OZ.JPG",
-          "width": 2048,
-          "height": 1582,
-          "title": "Maine to Build Institute to Teach Tech Skills, Machine Learning",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-01-29-deepmind-develops-ai-with-an-imagination.md",
       "title": "DeepMind Develops AI With An Imagination",
       "excerpt": "Google is going full Westworld by giving robots the ability to imagine and plan. In the same way a person would look at a glass of water on the edge of a table and consider whether it might fall ...",
@@ -1062,6 +1025,42 @@
           "width": 1200,
           "height": 733,
           "title": "Directly raises $20 million to improve customer service with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-new-ai-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.md",
+      "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
+      "excerpt": "Researchers at the Montreal Neurological Institute, Canada have found that testing blood using an artificial intelligence (AI) algorithm successfully predicted disease progression in neurodegenerative disorders, as well as identifying underlying molecular pathways that were predictive of disease evolution. The findings have important ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.news-medical.net/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200128/New-AI-tool-predicts-disease-progression-and-evolution-in-neurodegenerative-disorders.aspx",
+      "publishedDateTime": "2020-01-28T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f1%2fshutterstock_1181851309_9d7d8e56f4574ebfaffa83f8825898fa-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": "New AI tool predicts disease progression and evolution in neurodegenerative disorders",
           "attribution": null
         }
       ],

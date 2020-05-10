@@ -2,50 +2,6 @@
   "page": 88,
   "value": [
     {
-      "path": "_news/2020-02-07-the-rise-of-the-ai-agency-in-2020.md",
-      "title": "The Rise Of The AI Agency In 2020",
-      "excerpt": "In a world of increasing information and races to the bottom, AI is more obviously an important competitive advantage for many organizations.",
-      "heat": 117,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/02/07/the-rise-of-the-ai-agency-in-2020/amp/",
-      "publishedDateTime": "2020-02-07T04:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x493/https://specials-images.forbesimg.com/dam/imageserve/545163603/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 493,
-          "title": "The Rise Of The AI Agency In 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-07-clearview-says-first-amendment-lets-it-scrape-the-internet-lawyers-disagree.md",
       "title": "Clearview says First Amendment lets it scrape the internet. Lawyers disagree",
       "excerpt": "On a CBS This Morning segment on Wednesday, Clearview AI CEO Hoan Ton-That said his company had a First Amendment right to access public data, including photos from YouTube, Facebook, Twitter, LinkedIn and Venmo. It uses those photos for a controversial database primarily used by law enforcement. (Disclosure: CBS News and CNET are owned by the ...",
@@ -1270,6 +1226,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-facebook-and-venmo-demand-clearview-ai-stops-scraping-their-data.md",
+      "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
+      "excerpt": "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ...",
+      "heat": 137,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
+      "ampWebUrl": "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
+      "publishedDateTime": "2020-02-06T06:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55",
+          "width": 600,
+          "height": 350,
+          "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

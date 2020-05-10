@@ -2,50 +2,6 @@
   "page": 89,
   "value": [
     {
-      "path": "_news/2020-02-23-this-ai-researcher-thinks-we-have-it-all-wrong.md",
-      "title": "This AI Researcher Thinks We Have It All Wrong",
-      "excerpt": "Are we too focused on data? Is what we call AI just statistics on large data sets? Is what we are doing with machine learning right now really AI?",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/23/this-ai-researcher-thinks-we-have-it-all-wrong/amp/",
-      "publishedDateTime": "2020-02-23T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e5298f97a00980007340207%2F0x0.jpg",
-          "width": 700,
-          "height": 701,
-          "title": "This AI Researcher Thinks We Have It All Wrong",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-23-mohamed-bin-zayed-international-robotics-challenge-kicks-off.md",
       "title": "Mohamed bin Zayed International Robotics Challenge kicks-off",
       "excerpt": "Khalifa University of Science and Technology, some 32 teams are competing to establish their artificial intelligence skills in the capture of drones ABU DHABI- The US$5 million biennial international robotics competition, the Mohamed bin Zayed International Robotics Challenge 2020, MBZIRC, opened today in the nation's capital, Abu Dhabi.",
@@ -1075,6 +1031,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
+      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
+      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
+      "publishedDateTime": "2020-02-21T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

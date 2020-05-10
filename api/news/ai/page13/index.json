@@ -2,50 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-04-27-uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report.md",
-      "title": "UK spies must ramp up use of AI to fight new threats, says report",
-      "excerpt": "UK spies must use AI to counter cyber attacks and augment intelligence analysis, according to a new study commissioned by eavesdropping agency GCHQ",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/amp/",
-      "publishedDateTime": "2020-04-27T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "UK spies must ramp up use of AI to fight new threats, says report",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-27-researchers-claim-this-ai-model-achieves-better-compression-rates-than-pngs.md",
       "title": "Researchers claim this AI model achieves better compression rates than PNGs",
       "excerpt": "Earlier this month, researchers from The University of Texas at Austin, Sheng Cao, Chao-Yuan Wu, and Philipp Krahenbuhl, published a paper that looks at using super-resolution to get lossless compression of images.",
@@ -268,28 +224,20 @@
     },
     {
       "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
-      "title": "Logical Clocks Launches Hopsworks.ai: The World’s First Artificial Intelligence Cloud Platform with a Feature Store",
-      "excerpt": "With Hopsworks.ai, Logical Clocks brings to the cloud the open-source and award-winning Hopsworks platform. For companies, this translates into reduced time and costs to bring new machine learning models to production,",
+      "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
+      "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/logical-clocks-launches-hopsworks-ai-the-world-s-first-artificial-intelligence-cloud-platform-with-a-feature-store-1029132183",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15882661",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661",
       "publishedDateTime": "2020-04-27T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1260,6 +1208,43 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-25-xcom-chimera-squad-all-11-agents-list.md",
+      "title": "XCOM: Chimera Squad – All 11 Agents List",
+      "excerpt": "Chimera Squad ditches customizable soldiers in favor of 11 agents with set personalities and abilities. These agents cannot die permanently, which",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://attackofthefanboy.com/guides/xcom-chimera-squad-all-11-agents-list/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-25T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Attack of the Fanboy",
+        "domain": "attackofthefanboy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://attackofthefanboy.com/wp-content/uploads/2020/04/XCOM-Chimera-Squad-Godmother.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "XCOM: Chimera Squad – All 11 Agents List",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

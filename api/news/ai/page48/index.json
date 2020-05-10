@@ -2,44 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2020-03-24-speech-recognition-systems-have-higher-error-rates-for-black-people-study-finds.md",
-      "title": "Speech recognition systems have higher error rates for black people, study finds",
-      "excerpt": "This is far from the first time we've seen evidence of bias embedded in the supposed technology of tomorrow. In December of last year, a federal study once again confirmed that facial-recognition tech is a biased mess. In October of 2017, we saw that Google's text/sentiment-analysis tool exhibited signs of homophobia, racism, and antisemitism.",
-      "heat": 96,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias/",
-      "ampWebUrl": "https://mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/speech-recognition-systems-error-rates-racial-bias.amp",
-      "publishedDateTime": "2020-03-23T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F03%252F24%252Fb9%252Fd5042a28ebb74ac7a3ee380eb82cab61.561a2.jpg%252F1200x630.jpg?signature=3wjt45lwzDvmOSNZtNZHHuOOVXc=",
-          "width": 1200,
-          "height": 630,
-          "title": "Speech recognition systems have higher error rates for black people, study finds",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-03-24-8-d-list-characters-who-tried-and-failed-to-replace-a-list-superheroes.md",
       "title": "8 D-List Characters Who Tried And Failed To Replace A-List Superheroes",
       "excerpt": "Apparently their best idea for replacing the Human Torch was a woefully annoying robot. Pitched by Stan ... having been mind controlled by time-traveling supervillain Kang the Conqueror.",
@@ -1287,6 +1249,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-23-how-azure-machine-learning-service-powers-suggested-replies-in-outlook.md",
+      "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+      "excerpt": "Microsoft 365 applications are so commonplace that it’s easy to overlook some of the amazing capabilities that are enabled with breakthrough technologies, including artificial intelligence (AI). Microsoft Outlook is an email client that helps you work efficiently with email, calendar, contacts, tasks,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/how-azure-machine-learning-service-powers-suggested-replies-in-outlook/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-23T02:00:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/fc79bf49-2bc6-41e8-951f-4e43e946ab06.jpg",
+          "width": 999,
+          "height": 619,
+          "title": "How Azure Machine Learning service powers suggested replies in Outlook ",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

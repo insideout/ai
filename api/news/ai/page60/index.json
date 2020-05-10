@@ -2,43 +2,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
-      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T13:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
-          "width": 1200,
-          "height": 803,
-          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-12-a-competitive-fintech-environment-encourages-innovative-technology.md",
       "title": "A competitive fintech environment encourages innovative technology",
       "excerpt": "While change is essential, it brings with it wide-ranging implications for the industry, particularly as customer needs and regulation continue to move the needle.",
@@ -1102,6 +1065,51 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-global-artificial-intelligence-in-healthcare-market-latest-study-explores-with-competitors-google-inc-ibm-corporation-and-intel-corporation.md",
+      "title": "Global Artificial Intelligence in Healthcare Market Latest Study Explores With Competitors - Google Inc, IBM Corporation and Intel Corporation",
+      "excerpt": "Global Artificial Intelligence in Healthcare Market (Revenue and Volume), Type, Application, End-User, and Regional Analysis, Import-Export Analysis, Industry Analysis, Premium Insights, Intellectual Property Analysis,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-latest-study-explores-with-competitors---google-inc-ibm-corporation-and-intel-corporation-2020-03-12",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T00:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Artificial Intelligence in Healthcare Market Latest Study Explores With Competitors - Google Inc, IBM Corporation and Intel Corporation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

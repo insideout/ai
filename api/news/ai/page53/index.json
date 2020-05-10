@@ -2,43 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
-      "title": "Is Python storming ahead of Java in fintech?",
-      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "Is Python storming ahead of Java in fintech?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-a-chinese-firm-claims-it-has-built-facial-recognition-tech-that-identifies-people-wearing-masks-with-95-accuracy.md",
       "title": "A Chinese firm claims it has built facial recognition tech that identifies people wearing masks with 95% accuracy",
       "excerpt": "People have foiled facial recognition technologies by wearing masks during the coronavirus outbreak.",
@@ -1157,6 +1120,43 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-not-just-video-conferencing-apps-taking-a-dive-ibm-cloud-hit-by-partial-tuesday-outage.md",
+      "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+      "excerpt": "Big Blue said customers running services hosted at its Dallas data center – including Watson AI, IBM Cloud, and DB2 – were either partially or completely down. The Dallas facility is one of 15 ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://theregister.co.uk/2020/03/17/ibm_cloud_tuesday_partial_outage",
+      "ampWebUrl": "https://www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "cdnAmpWebUrl": "https://www-theregister-co-uk.cdn.ampproject.org/c/s/www.theregister.co.uk/AMP/2020/03/17/ibm_cloud_tuesday_partial_outage/",
+      "publishedDateTime": "2020-03-17T16:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register",
+        "domain": "theregister.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2018/03/01/shutterstock_ibmbuilding.jpg",
+          "width": 650,
+          "height": 434,
+          "title": "Not just video-conferencing apps taking a dive: IBM Cloud hit by partial Tuesday outage",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

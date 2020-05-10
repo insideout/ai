@@ -2,43 +2,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_news/2020-03-17-how-can-machine-learning-be-applied-to-game-development.md",
-      "title": "How can machine learning be applied to game development?",
-      "excerpt": "To that end, Hoffman-John's team has been working on machine learning to help address some common pain points and bottlenecks developers have. The team is composed primarily of game developers with a number of engineers in the mix to help apply some of Google's existing technology to game prototypes. Hoffman-John says they look at the work with ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.gamesindustry.biz/articles/2020-03-16-how-can-machine-learning-be-applied-to-game-development",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-16T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Games Industry",
-        "domain": "gamesindustry.biz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.eurogamer.net/2020/articles/2020-03-16-19-40/ErinHoffmanJohn644.jpg",
-          "width": 885,
-          "height": 708,
-          "title": "How can machine learning be applied to game development?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-17-human-behavior-and-group-dynamics-can-be-reshaped-by-ai-use-including-via-ai-self-driving-cars.md",
       "title": "Human Behavior And Group Dynamics Can Be Reshaped By AI Use, Including Via AI Self-Driving Cars",
       "excerpt": "Suppose you interact with an AI system, such as a robot, and in so doing your behavior changes based on that interaction. This makes sense in that we already today interact with the likes of Alexa and Siri,",
@@ -1142,6 +1105,44 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-a-look-at-the-tensorflow-ecosystem-in-2020.md",
+      "title": "A look at the TensorFlow ecosystem in 2020",
+      "excerpt": "TensorFlow Dev Summit 2020 took place last week and gave an overview of everything that’s been going on in the world of the machine learning library. While we have been covering TensorFlow, TensorFlow.js, and the recently open sourced TensorFlow Quantum, you may not yet have heard of TF Hub, TFX or TF Lite, so let’s see what they are all about.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://jaxenter.com/tensorflow-2020-169727.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "jaxenter.com",
+        "domain": "jaxenter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://jaxenter.com/wp-content/uploads/2020/02/MLC_MUN20_Webbanner_Smartblock_550x214_56305_v1.jpg",
+          "width": 550,
+          "height": 214,
+          "title": "A look at the TensorFlow ecosystem in 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
       ]
     }
   ],

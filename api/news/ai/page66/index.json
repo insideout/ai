@@ -2,43 +2,6 @@
   "page": 66,
   "value": [
     {
-      "path": "_news/2020-03-06-nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week.md",
-      "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
-      "excerpt": "One intriguing suggestion from developer Cyclopic is using it as a cargo robot. The machine would use its wheels to drive around a factory or warehouse floor before transforming into drone mode for a quick flight, up to a high shelf or over an obstacle.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.imeche.org/news/news-article/nuclear-confusion-and-the-mind-controlled-prosthetic-hand-10-top-stories-of-the-week",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-06T07:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Institution of Mechanical Engineers",
-        "domain": "imeche.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png",
-          "width": 400,
-          "height": 300,
-          "title": "Nuclear confusion and the mind-controlled prosthetic hand: 10 top stories of the week",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-06-nvidia-buys-object-data-storage-startup-swiftstack-to-build-out-its-ai-stack.md",
       "title": "Nvidia buys object data storage startup SwiftStack to build out its AI stack",
       "excerpt": "The company started offering its SwiftStack Data Platform for artificial intelligence, high-performance computing and accelerated computing in 2019, including the SwiftStack 1space that enables ...",
@@ -1140,6 +1103,43 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-04-cisco-microsoft-team-to-control-growing-iot-networks.md",
+      "title": "Cisco, Microsoft team to control growing IoT networks",
+      "excerpt": "Services like Microsoft Azure Stream Analytics, Microsoft Azure Machine Learning, and Microsoft Azure Notification Hub services can be used to build IoT applications for the enterprise ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3530373/cisco-microsoft-team-to-control-growing-iot-networks.amp.html",
+      "publishedDateTime": "2020-03-03T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/new-microsoft-edge-logo-100827148-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Cisco, Microsoft team to control growing IoT networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

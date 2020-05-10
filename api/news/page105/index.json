@@ -2,50 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2020-02-07-this-girls-only-app-uses-ai-to-screen-a-users-gender-what-could-go-wrong.md",
-      "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-      "excerpt": "But in an era of ever-expanding surveillance, with companies like Clearview AI identifying people’s faces without their knowledge or consent, an app built on dubious biometric screening and extensive data collection should be cause for concern. While Giggle’s website says the app is “designed to give girls choice, control and connection ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/2/7/21128236/gender-app-giggle-women-ai-screen-trans-social",
-      "publishedDateTime": "2020-02-07T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/KylgpuoqoH4U00P5Fk8WjdgX0uE=/0x0:904x683/1400x933/filters:focal(380x270:524x414):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66274336/giggle_girl_banner_1.0.png",
-          "width": 904,
-          "height": 683,
-          "title": "This girls-only app uses AI to screen a user’s gender — what could go wrong?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-07-ai-weekly-announcing-our-ai-and-security-special-issue.md",
       "title": "AI Weekly: Announcing our AI and security special issue",
       "excerpt": "VentureBeat’s second special issue is nigh. Following our first special issue, Power in AI, this next one focuses on AI and security. Each special issue is a package of articles that explores a central topic from a variety of angles, from voices in industry, academia, and our newsroom. Whether we’re aware of it or not, both AI and ...",
@@ -1085,6 +1041,51 @@
         "AI",
         "Microsoft AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-06-self-driving-delivery-van-ditches-human-controls.md",
+      "title": "Self-driving delivery van ditches 'human controls'",
+      "excerpt": "The first self-driving vehicle designed without basic human controls such as steering wheels, pedals or side view mirrors has been granted permission to test on US roads. Nuro, the company behind the design, makes autonomous delivery vans. The vehicle is Nuro's second generation of its vehicles, which it is calling R2 and will be tested in ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/technology-51409031",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-51409031",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-51409031",
+      "publishedDateTime": "2020-02-06T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/13970/production/_110804208_screen-shot-2020-02-06-at-2_32_43-pm.png",
+          "width": 1024,
+          "height": 576,
+          "title": "Self-driving delivery van ditches 'human controls'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

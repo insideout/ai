@@ -2,51 +2,6 @@
   "page": 91,
   "value": [
     {
-      "path": "_news/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
-      "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-      "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
-      "heat": 106,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
-      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
-      "publishedDateTime": "2020-02-20T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg",
-          "width": 1200,
-          "height": 794,
-          "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-02-20-ai-in-sports-market-2020-industry-capacity-manufacture-value-consumption-status-and-prediction-2024.md",
       "title": "AI in Sports Market 2020 - Industry Capacity, Manufacture, Value, Consumption, Status and Prediction 2024",
       "excerpt": "... operating in the global AI in Sports market includes 24/7.ai Inc., Amazon Inc., Apple Inc., Anodot, Facebook Inc., Fujitsu Ltd., Cisco Systems, DeepScale, Atmel Corporation, ARM Limited, Microsoft Corporation, and Micron Technology, among others. About All The Research: All The Research was formed with the aim of making market research a ...",
@@ -1082,6 +1037,52 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-ucla-abandons-plans-to-use-facial-recognition-after-backlash.md",
+      "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+      "excerpt": "In an attempt to highlight the risks of using facial recognition on UCLA's campus, Fight for the Future used Amazon's facial recognition software, Rekognition, to scan public photos of UCLA's athletes and faculty, then compare the photos to a mugshot database.",
+      "heat": 551,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_us/article/z3by79/ucla-abandons-plans-to-use-facial-recognition-after-backlash",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T13:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e4daba66b5b2900986d5840/lede/1582148536256-GettyImages-899305840.jpeg?crop=1xw:0.8436405216037368xh;center,center&resize=1200:*",
+          "width": 1200,
+          "height": 674,
+          "title": "UCLA Abandons Plans to Use Facial Recognition After Backlash",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
       ]
     }
   ],

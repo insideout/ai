@@ -2,44 +2,6 @@
   "page": 85,
   "value": [
     {
-      "path": "_news/2020-02-10-ten-steps-to-ethics-based-governance-of-ai-in-healthcare.md",
-      "title": "Ten steps to ethics-based governance of AI in healthcare",
-      "excerpt": "A data governance framework based on the following ten steps can assist large healthcare systems embrace AI applications in a way that reduces ethical risks to patients, providers, and payors. Additionally, it enhances public trust, transforms patient experiences, and provides effective ethics-based oversight. 1) Establish ethics-based ...",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.healthdatamanagement.com/opinion/ten-steps-to-ethics-based-governance-of-ai-in-healthcare",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-10T13:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Health Data Management",
-        "domain": "healthdatamanagement.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sourcemedia.brightspotcdn.com/dims4/default/ea40303/2147483647/strip/true/crop/1600x840+0+30/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsourcemedia.brightspotcdn.com%2Fc3%2F68%2Fa7382d1144bb873148b05dd34d27%2Fhealth-data-management-social-share-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Ten steps to ethics-based governance of AI in healthcare",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-02-10-ai-app-helps-tailor-mental-health-treatment.md",
       "title": "AI app helps tailor mental health treatment",
       "excerpt": "“We don’t want doctors or patients to pay for it, this should be something that’s available to pay for at a network level.” One of the main concerns with any artificial intelligence project is what ethics are guiding it. Aifred’s ethics page says that it was determined by a jurist, ethicists, physicians, a machine learning developer ...",
@@ -1311,6 +1273,52 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws.md",
+      "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+      "excerpt": "Each of the three scientists got a half hour to talk, and each one acknowledged numerous shortcomings in deep learning, things such as \"adversarial examples,\" where an object recognition system can be tricked into mis-identifying an object just by adding noise to a picture. \"There's been a lot of talk of the negatives about deep learning ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deep-learning-godfathers-bengio-hinton-lecun-say-the-field-can-fix-its-flaws/",
+      "publishedDateTime": "2020-02-10T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/02/10/791c60e2-4f7e-4ab8-9ddf-688966cfe2ac/hinton-lecun-bengio-aaai20-feb-9-2020.png",
+          "width": 3151,
+          "height": 1082,
+          "title": "Deep learning godfathers Bengio, Hinton, LeCun say the field can fix its flaws",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Machine Learning"
       ]
     }
   ],

@@ -2,43 +2,6 @@
   "page": 62,
   "value": [
     {
-      "path": "_news/2020-03-19-how-machine-learning-fights-financial-fraud.md",
-      "title": "How Machine Learning Fights Financial Fraud",
-      "excerpt": "We have e-shops, online banking, online insurances, and tons of other online services. But there’s one more thing we have ... So companies are forced to look for new solutions to prevent, detect, and eliminate fraud. And machine learning seems to be the best answer to financial fraud. How does it work, what are the benefits, and who ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cpomagazine.com/cyber-security/how-machine-learning-fights-financial-fraud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CPO Magazine",
-        "domain": "cpomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.cpomagazine.com/wp-content/uploads/2020/03/how-machine-learning-fights-financial-fraud_1500.jpg",
-          "width": 1500,
-          "height": 860,
-          "title": "How Machine Learning Fights Financial Fraud",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-19-hybrid-ai-systems-are-quietly-solving-the-problems-of-deep-learning.md",
       "title": "Hybrid AI systems are quietly solving the problems of deep learning",
       "excerpt": "Deep learning, the main innovation that has renewed interest in artificial intelligence in the past years, has helped solve many critical problems in computer vision, natural language processing, and speech recognition. However, as the deep learning matures and moves from hype peak to its trough of disillusionment, it is becoming clear that it ...",
@@ -961,6 +924,35 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
+      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
+      "excerpt": "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15583687",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687",
+      "publishedDateTime": "2020-03-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -2,50 +2,6 @@
   "page": 113,
   "value": [
     {
-      "path": "_news/2020-01-30-peta-wants-to-replace-punxsutawney-phil-with-an-animatronic-ai.md",
-      "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-      "excerpt": "When we imagine the future of artificial intelligence, we tend to think of the technology making most human jobs obsolete. But if PETA has its way, an AI could also take over for the world's most famous groundhog, Punxsutawney Phil. In a letter signed by PETA founder and president Ingrid Newkirk, the organization calls on the Punxsutawney ...",
-      "heat": 107,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/01/30/peta-replace-punxsutawney-phil-with-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-30T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2020-01%252F9f4006f0-438b-11ea-bdef-51a7d251189a%26client%3Da1acac3e1b3290917d92%26signature%3D37fd7a74081041878e390c3019f83230b1221166&client=amp-blogside-v2&signature=9048b5352ceee474a101d8f7c499c40859254e35",
-          "width": 1200,
-          "height": 630,
-          "title": "PETA wants to replace Punxsutawney Phil with an animatronic AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-30-neuromorphic-chip-maker-takes-aim-at-the-edge.md",
       "title": "Neuromorphic Chip Maker Takes Aim At The Edge",
       "excerpt": "they provide a critical capability for the kinds of AI applications commonly encountered in edge environments. Specific application areas being targeted include embedded vision, embedded audio, automated driving (LiDAR, RADAR), cybersecurity, and industrial IoT. The addition of the CNN capability did, however, push the company’s chip launch ...",
@@ -1060,6 +1016,51 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
+      "title": "The Robots Are Coming. Prepare for Trouble.",
+      "excerpt": "It’s about politics and economic fairness. Whether the pain and the benefits of artificial intelligence are equitably distributed — and whether the turmoil that is still to come will be viewed ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
+      "publishedDateTime": "2020-01-30T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "The Robots Are Coming. Prepare for Trouble.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

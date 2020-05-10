@@ -2,42 +2,6 @@
   "page": 123,
   "value": [
     {
-      "path": "_news/2020-01-22-octi-launches-a-social-network-built-around-augmented-reality.md",
-      "title": "Octi launches a social network built around augmented reality",
-      "excerpt": "Octi has created a new social network that uses augmented reality to connect the act of seeing your friends in real life with ... Ultimately, he’s hoping to turn this into a WeChat-style platform for outside developers to build social tools and content. And because Octi works on iPhone 7 and above (with plans for an Android version later ...",
-      "heat": 132,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/22/octi-social-network-launch/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-22T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-22-how-machine-learning-uncovers-opportunities-for-business-optimization.md",
       "title": "How Machine Learning Uncovers Opportunities For Business Optimization",
       "excerpt": "With ever more data being generated across modern businesses, companies are looking for actionable intelligence to drive optimization, increase margins and avoid supply chain distributions. The sheer volume of data can make it difficult to see trends;",
@@ -1058,6 +1022,43 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
+      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
+      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
+      "publishedDateTime": "2020-01-21T17:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "9to5Mac",
+        "domain": "9to5mac.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 500,
+          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

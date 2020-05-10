@@ -2,43 +2,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_news/2020-03-10-microsoft-and-cisco-team-up-to-integrate-cloud-and-iot-platforms.md",
-      "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
-      "excerpt": "Microsoft has announced a partnership with Cisco to integrate its Azure cloud ... It is focusing on offering customers a fully integrated solution that gives access to powerful design tools, advance analytics, global connectivity and cognitive services for analysing IoT data. In November 2019, Cisco made an unspecified investment on Titan ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.iottechnews.com/news/2020/mar/10/microsoft-and-cisco-team-integrate-cloud-and-iot-platforms/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "iottechnews.com",
-        "domain": "iottechnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.iottechnews.com/media/img/news/iStock-1184908397.jpg.600x600_q96.png",
-          "width": 600,
-          "height": 440,
-          "title": "Microsoft and Cisco team up to integrate cloud and IoT platforms",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-10-neural-networks-are-now-being-used-to-track-exotic-particles-at-cern.md",
       "title": "Neural networks are now being used to track exotic particles at CERN",
       "excerpt": "Research within the domain of physics has profited from the rise of artificial neural networks and deep learning. In the past, we've seen them being applied to study dark matter and massive galaxies. Continuing this pattern, we now have artificial neural networks being used in the study of exotic particles. At the Compact Muon Solenoid (CMS ...",
@@ -930,6 +893,43 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-10-aws-makes-bee-gains-dangles-r365m-to-sas-smes.md",
+      "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+      "excerpt": "Additionally, says AWS, it will enable more organisations across Sub-Saharan Africa to leverage advanced technologies such as artificial intelligence, machine learning, IOT, mobile services, and more to drive innovation. As SA awaits the launch of the facilities, there is already some excitement in the market. Last year, insurer Old Mutual said ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/nWJadvbenwBqbjO1",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/03/Prabashni-Naidoo-2020.jpg",
+          "width": 816,
+          "height": 459,
+          "title": "AWS makes BEE gains, dangles R365m to SA’s SMEs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -2,43 +2,6 @@
   "page": 71,
   "value": [
     {
-      "path": "_news/2020-03-13-artificial-intelligence-ai-chips-market-2020-2024high-adoption-of-ai-chips-in-data-centers-to-boost-growth-technavio.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
-      "excerpt": "LONDON--(BUSINESS WIRE)--Technavio has been monitoring the artificial intelligence (AI) chips market and it is poised to grow by USD 36.6 bn during 2020-2024, progressing at a CAGR of about 39% during the forecast period. The report offers an up-to-date analysis regarding the current market scenario, latest trends and drivers, and the overall ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200313005224/en/Artificial-Intelligence-AI-Chips-Market-2020-2024High-Adoption",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T05:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200313005224/en/779596/23/IRTNTR30203.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Artificial Intelligence (AI) Chips Market 2020-2024|High Adoption of AI Chips in Data Centers to Boost Growth | Technavio",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-13-blockchain-is-a-multi-task-new-technology-that-will-drive-5g-change-global-communica-tions.md",
       "title": "Blockchain Is A Multi-Task New Technology That Will Drive 5G, Change Global Communica-tions",
       "excerpt": "Blockchain is a multi-tasking new technology that will drive 5G and change global communications. 5G provides quick speed, new features in Internet of Things (IoT), personal and business data and will impact everything from SmartPhones to driverless vehicles.",
@@ -957,6 +920,43 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
+      "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+      "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fiercebiotech.com/medtech/ibm-watson-health-to-tap-ebsco-s-dynamed-libraries-for-a-combined-ai-drug-information-suite",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1584043544/IBM_Watson.jpg/IBM_Watson.jpg?O_jG5rsopS3DHTncRsKFiffFsacRkMDY",
+          "width": 1200,
+          "height": 803,
+          "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

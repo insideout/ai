@@ -2,51 +2,6 @@
   "page": 110,
   "value": [
     {
-      "path": "_news/2020-02-03-are-brighter-days-ahead-for-ibm.md",
-      "title": "Are Brighter Days Ahead for IBM?",
-      "excerpt": "IBM generates its revenue from five core businesses: cloud and cognitive software, global technology services ... business -- which competes against Amazon Web Services (AWS) and Microsoft's Azure -- struggled with \"lower client business volumes\" during the quarter. IBM's total cloud revenue rose 21% to $6.8 billion, or 31% of its top line ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/02/03/are-brighter-days-ahead-for-ibm.aspx",
-      "publishedDateTime": "2020-02-03T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F555866%2Fgettyimages-853701240.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": "Are Brighter Days Ahead for IBM?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
       "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
       "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
@@ -1067,6 +1022,43 @@
         "AI",
         "AI in Autos",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-could-ontario-police-start-using-facial-recognition-cameras.md",
+      "title": "Could Ontario police start using facial recognition cameras?",
+      "excerpt": "The Metropolitan Police Service in London, England, announced it will be using facial recognition cameras to help combat crime. Could something like this happen in Ontario? The London cameras, according to The Associated Press, will be set up within the next month to monitor potential crime hot spots for five-to-six hours at a time. The system ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras",
+      "ampWebUrl": "https://torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp",
+      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/news/local-news/could-ontario-police-start-using-facial-recognition-cameras/amp",
+      "publishedDateTime": "2020-02-02T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Toronto Sun",
+        "domain": "torontosun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://postmediatorontosun.files.wordpress.com/2020/01/surveillance1000.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": "Could Ontario police start using facial recognition cameras?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

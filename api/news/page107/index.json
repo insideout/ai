@@ -2,50 +2,6 @@
   "page": 107,
   "value": [
     {
-      "path": "_news/2020-02-06-worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai.md",
-      "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-      "excerpt": "Worlds, whose AI helps large organizations observe their physical spaces to ensure security, safety, and productivity, has raised $10 million in a first round of funding. The Dallas-based startup uses multiple cameras to track spaces in 3D over time, providing a more reliable view of what’s happening than typical 2D security video would.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/worlds-gets-10-million-to-help-enterprises-observe-their-physical-environments-with-ai/amp/",
-      "publishedDateTime": "2020-02-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/Worlds.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Worlds gets $10 million to help enterprises observe their physical environments with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-06-robotics-investments-recap-january-2020.md",
       "title": "Robotics investments recap: January 2020",
       "excerpt": "In January 2020, reported transactions among robotics, drone, autonomous vehicles, and artificial intelligence companies totaled $1.16 billion. There were fewer deals around self-driving vehicles than in the past several months, but investors still supported supply chain, surgical systems, and agricultural automation. At the same time ...",
@@ -1066,6 +1022,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-fintechs-consolidation-creates-investment-opportunities.md",
+      "title": "Fintech's Consolidation Creates Investment Opportunities",
+      "excerpt": "The Fintech & digital payment segment has been saturating and consolidating in recent years. M&A activity in this space peaked in 2019 with over $195 billion in deals, more than 3 times the value of the prior year,",
+      "heat": 94,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05",
+      "ampWebUrl": "https://www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintechs-consolidation-creates-investment-opportunities-2020-02-05?amp",
+      "publishedDateTime": "2020-02-05T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?1823106049",
+          "width": 1024,
+          "height": 512,
+          "title": "Fintech's Consolidation Creates Investment Opportunities",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

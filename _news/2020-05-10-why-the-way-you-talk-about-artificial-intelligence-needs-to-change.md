@@ -28,6 +28,6 @@ images:
     height: 676
     title: "Why The Way You Talk About Artificial Intelligence Needs To Change"
 
-secured: "9BDXIuBVYZY0NJSj+a405EA6XCJLJV/2gcCk+r58fzAMHd2gpNf5I3WjjuqkF1sDkvde/5Fjay94JWzL3QL0hvQR0HQEqrmBzpQFKfJ5G073ddKBnTxByd/2LaKe2DRayq/Hmo/ovGwCFcKZXdtFQLvaL7s8PVQAf9sqkT3O5encfBFD95e7KzwZ3lBpfJYbvQaSVT8wRvjj/4uf9W6EJtyxY2s2HXU0SEMhcaEfio/ZC5gpwyt22nHxpzLOeR2JBSatm/8ZBTBmzx0+mm6YZNZNVz20vfsjrchKu0h0AIzXopfiW+r4K8daLYmOHwXO;OP2Hl92pR0oTTX48er6K4A=="
+secured: "GVzFwMEedcgMe/8Ul+NNw1eDEnuNB7i2qioWBlpNUgcq+yCBzrPPL1OHs4MDPAaBabVNDbmp0JqPZsjRIOmgUjIF9Olb/22Tq/2xw7t0Uvrnv7qcwU3esqxeJgulHH3YrL0Pp+2+8fQd8W+1Z7/3PpRSmP55zZ1bfAGEGmKOMydANFO6uV3eKzO2SAc62GklVIJM4UudhtiPXiYflNFVfxD9bnawlY/uL5FZ/uUTU7I0cwg6JPyFvszcr1+pnP6gGv9oDdxWNyKK+aeKP5vI2w+AdG1BHf2gQnbsMLOjAhwxfPB/9xZueEx+Hi1jo9o5Wd/sXZwOhllXy8+x4Uhu9VbIAJQmGQRwSUjv/NCyTHJGDoXwvLZiNm2AbhYL9nXDgwuozk9M55goIRQtrIGDzuA+ESvlg1NkM6eDMe8wE+2t9BPPz3+ov0r7E/1aDIfgt0HWVw/engIOy0MjH2SHPHIm/S1IlnzB66TCGmMWvHE=;Jd8EaBbkOVGZbgmWX7c8SA=="
 ---
 

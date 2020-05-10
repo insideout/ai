@@ -2,43 +2,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_news/2020-02-17-aws-assists-premier-league-analytics.md",
-      "title": "AWS assists Premier League analytics",
-      "excerpt": "The Premier League has chosen Amazon Web Services (AWS) as its preferred Cloud, machine learning (ML) and artificial intelligence (AI) provider. The league’s analytics company Second Spectrum uses AWS to help deliver analytics, visualisations and searchable video clips during games. Second Spectrum applies ML and computer vision techniques to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics",
-      "ampWebUrl": "https://www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "cdnAmpWebUrl": "https://www-tvbeurope-com.cdn.ampproject.org/c/s/www.tvbeurope.com/technology/aws-assists-premier-league-analytics?amp",
-      "publishedDateTime": "2020-02-17T02:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvbeurope.com",
-        "domain": "tvbeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.tvbeurope.com/wp-content/uploads/2019/05/premier-league.jpg",
-          "width": 590,
-          "height": 350,
-          "title": "AWS assists Premier League analytics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-17-chicago-kids-company-presents-goldilocks-the-three-bears.md",
       "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
       "excerpt": "When Goldilocks and her dog, Bailey, venture into the woods to find a friend for her mom, she stumbles upon a cute house with three bowls of porridge, three chairs and three beds, but no one is home. Will Goldi be able to make it back to her mom before she ...",
@@ -1197,6 +1160,50 @@
           "width": 600,
           "height": 350,
           "title": "How AI is stopping the next great flu before it starts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-14-microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning.md",
+      "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
+      "excerpt": "That’s why researchers from Pittsburgh and Microsoft Researcher’s Future Social Experiences (FUSE) lab, which focuses on real-time and media-rich experiences, developed an AI system that pays close attention to the beginning of documents it’s summarizing. They say that this improved its experimental performance particularly in the case of ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/14/microsofts-ai-improves-text-summarization-performance-by-paying-closer-attention-to-the-beginning/amp/",
+      "publishedDateTime": "2020-02-14T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Microsoft’s AI improves text summarization performance by paying closer attention to the beginning",
           "attribution": null
         }
       ],

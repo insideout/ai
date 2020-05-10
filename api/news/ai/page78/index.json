@@ -2,42 +2,6 @@
   "page": 78,
   "value": [
     {
-      "path": "_news/2020-02-19-artificial-intelligence-raises-question-of-whos-an-inventor.md",
-      "title": "Artificial intelligence raises question of who’s an inventor",
-      "excerpt": "Artificial intelligence raises question of who’s an inventor Only humans can get patents, but computers using artificial intelligence are discovering medicines, designing golf clubs and creating video games Check out this story on detroitnews.com: https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "heat": 92,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.detroitnews.com/story/business/2020/02/18/artificial-intelligence-inventor/111333818/",
-      "ampWebUrl": "https://amp.detroitnews.com/amp/111333818",
-      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/111333818",
-      "publishedDateTime": "2020-02-18T20:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/02/19/PDTN/ccfce976-dcb2-4089-bffa-5cedeae5ea61-AP20007048093657.jpg?auto=webp&crop=3413,1920,x1,y116&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": "Artificial intelligence raises question of who’s an inventor",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-19-this-phone-uses-ai-to-block-you-taking-naked-selfies.md",
       "title": "This phone uses AI to block you taking naked selfies",
       "excerpt": "Ever sent a nude photo to a partner before? If so, you're not the only one. Just under 50% of American adults have sent nude photos (or videos), said one 2014 study, while a survey by Cosmo found that 89% of millennial women had taken naked photos.",
@@ -1289,6 +1253,51 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption.md",
+      "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
+      "excerpt": "Moreover, libraries like PySyft and tf-encrypted — which are built on Facebook’s PyTorch machine learning framework and TensorFlow, respectively — have made great strides in recent months. So, too, have abstraction layers like HE-Transformer, a backend for nGraph (Intel’s neural network compiler) that delivers leading performance on ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/",
+      "ampWebUrl": "https://venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/18/enveil-raises-10-million-for-enterprise-scale-homomorphic-encryption/amp/",
+      "publishedDateTime": "2020-02-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/GettyImages-1079012962-e1574180775599.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Enveil raises $10 million for enterprise-scale homomorphic encryption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     }
   ],

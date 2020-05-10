@@ -2,51 +2,6 @@
   "page": 81,
   "value": [
     {
-      "path": "_news/2020-03-03-77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019.md",
-      "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-      "excerpt": "Baidu’s 52 cars covered a total of 754,000 ... “We have kind of been waiting for some sort of industry standard,” he said. “Self-driving companies aren’t following the exact same ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/02/77-autonomous-vehicles-drove-over-500000-miles-across-beijing-in-2019/amp/",
-      "publishedDateTime": "2020-03-02T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/11/Hongqi-L4-Car.jpeg?fit=1680%2C987&strip=all",
-          "width": 1680,
-          "height": 987,
-          "title": "77 autonomous vehicles drove over 500,000 miles across Beijing in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-03-five-the-self-driving-startup-raises-41m-and-pivots-into-b2b-away-from-building-its-own-fleet.md",
       "title": "Five, the self-driving startup, raises $41M and pivots into B2B, away from building its own fleet",
       "excerpt": "That hard truth is leading to some shifts in the self-driving startup landscape. In the latest move, England’s Five (formerly known as FiveAI), one of the more ambitious companies in the space ...",
@@ -1058,6 +1013,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-28-conversational-ai-platform-market-major-technology-giants-in-buzz-again.md",
+      "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+      "excerpt": "The Conversational AI Platform Market has witnessed continuous growth in the last few years and is projected to grow even further during the forecast period of 2020-2026. The exploration provides a 360°",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-ai-platform-market-major-technology-giants-in-buzz-again-2020-02-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-28T09:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational AI Platform Market Major Technology Giants in Buzz Again",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

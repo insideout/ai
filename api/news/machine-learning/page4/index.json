@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
+      "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+      "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84769-darpa-taps-intel-georgia-tech-pioneer-machine-learning.html",
+      "publishedDateTime": "2020-04-09T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/04/2020-04-09-ts3_thumbs-280.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-darpa-snags-intel-to-lead-its-machine-learning-security-tech.md",
       "title": "DARPA snags Intel to lead its machine learning security tech",
       "excerpt": "Chip maker Intel has been chosen to lead a new initiative led by the U.S. military’s research wing DARPA, aimed at improving cyber-defenses against deception attacks on machine learning models. Machine learning is a kind of artificial intelligence that allows systems to improve over time with new data and experiences. One of its most common ...",
@@ -1207,51 +1253,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic.md",
-      "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
-      "excerpt": "After the COVID 19 crisis is over, business success or failure may come down to whether companies have taken advantage of Artificial Intelligence (AI) and Machine Learning (ML) technologies.",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/",
-      "ampWebUrl": "https://www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emilsayegh/2020/04/02/how-to-leverage-artificial-intelligence-and-machine-learning-during-a-pandemic/amp/",
-      "publishedDateTime": "2020-04-02T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e84e9ffa1a0ef0006051091%2F0x0.jpg%3FcropX1%3D125%26cropX2%3D3963%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 675,
-          "title": "How To Leverage Artificial Intelligence And Machine Learning During A Pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

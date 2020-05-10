@@ -2,42 +2,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-03-19-global-forecast-for-artificial-intelligence-in-supply-chains-to-2026-researchandmarketscom.md",
-      "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"2020 Global Forecast for Artificial Intelligence In Supply Chain (2021-2026 Outlook)-High Tech & Emerging Markets Report\" report has been added to ResearchAndMarkets.com's offering. This report contains timely and accurate market statistics and forecasts on the market for over 140 countries. Published annually it ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200319005265/en/Global-Forecast-Artificial-Intelligence-Supply-Chains-2026",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-19T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200319005265/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "Global Forecast for Artificial Intelligence In Supply Chains to 2026 - ResearchAndMarkets.com",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-19-natural-language-processing-and-recognition-2020-global-trends-opportunities-market-size-share-status-swot-analysis-and-forecast-to-2026.md",
       "title": "Natural Language Processing and Recognition 2020 Global Trends, Opportunities, Market Size, Share, Status, SWOT Analysis and Forecast to 2026",
       "excerpt": "“Natural Language Processing and Recognition Market” WiseGuyRerports.com Presents \"Global Natural Language Processing and Recognition Market Size, Status",
@@ -1132,6 +1096,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-is-python-storming-ahead-of-java-in-fintech.md",
+      "title": "Is Python storming ahead of Java in fintech?",
+      "excerpt": "Harris sees momentum being driven by the appetite for data and AI projects, rather than purely fintech, among the bigger banks. According to Harris: “A larger factor could be the popularity of Python in machine learning and data science – in solving challenges in analytics, regulation, compliance, and data. Tasks which are made easier by ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.finextra.com/the-long-read/28/is-python-storming-ahead-of-java-in-fintech",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T06:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/oped/28.jpg",
+          "width": 800,
+          "height": 450,
+          "title": "Is Python storming ahead of Java in fintech?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

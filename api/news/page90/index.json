@@ -2,51 +2,6 @@
   "page": 90,
   "value": [
     {
-      "path": "_news/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
-      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
-      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
-      "publishedDateTime": "2020-02-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
       "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
       "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
@@ -1051,6 +1006,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts.md",
+      "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
+      "excerpt": "Just across from the Microsoft store on London’s Regent Street, and just outside the entrance to the Oxford Circus tube station, cameras atop dark blue police vans are watching passersby. London's Metropolitan Police says the rollout of the \"live\" facial recognition across the British capital would reduce serious crime,",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts",
+      "ampWebUrl": "https://www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/thomasbrewster/2020/02/20/london-police-just-turned-on-facial-recognition-in-one-of-the-worlds-busiest-shopping-districts/amp/",
+      "publishedDateTime": "2020-02-20T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4e88d0765d4500072cc76a%2F0x0.jpg",
+          "width": 1200,
+          "height": 794,
+          "title": "London Police Just Turned On Facial Recognition In One Of The World’s Busiest Shopping Districts",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

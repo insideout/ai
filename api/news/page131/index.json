@@ -2,50 +2,6 @@
   "page": 131,
   "value": [
     {
-      "path": "_news/2020-01-16-save-over-200-with-discounted-student-tickets-to-robotics-ai-2020.md",
-      "title": "Save over $200 with discounted student tickets to Robotics + AI 2020",
-      "excerpt": "If you’re a current student and you love robots — and the AI that drives them — you do not want to miss out on TC Sessions: Robotics + AI 2020. Our day-long deep dive into these two life-altering technologies takes place on March 3 at UC Berkeley and features the best and brightest minds, makers and influencers. We’ve set aside a ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/15/save-over-200-with-discounted-student-tickets-to-robotics-ai-2020/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/15/save-over-200-with-discounted-student-tickets-to-robotics-ai-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/15/save-over-200-with-discounted-student-tickets-to-robotics-ai-2020/amp/",
-      "publishedDateTime": "2020-01-15T17:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/robotics_2020_wordpress_header_2000x1090.png?w=1024",
-          "width": 1024,
-          "height": 558,
-          "title": "Save over $200 with discounted student tickets to Robotics + AI 2020",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-16-aoc-is-sounding-the-alarm-about-the-rise-of-facial-recognition-this-is-some-real-life-black-mirror-stuff.md",
       "title": "AOC is sounding the alarm about the rise of facial recognition: 'This is some real-life \"Black Mirror\" stuff'",
       "excerpt": "When facial recognition is implemented, the software makes it easy for corporations or governments to identify people and track their movements.",
@@ -1090,6 +1046,42 @@
           "width": 1200,
           "height": 802,
           "title": "AI should be used to foster connections, Starbucks CEO tells NRF 2020 audience",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
+      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
+      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
+      "heat": 131,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
+      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
+      "publishedDateTime": "2020-01-15T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
+          "width": 2501,
+          "height": 1563,
+          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
           "attribution": null
         }
       ],

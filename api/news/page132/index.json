@@ -2,42 +2,6 @@
   "page": 132,
   "value": [
     {
-      "path": "_news/2020-01-15-deep-fake-imagery-manipulation-poses-threat-to-society-not-just-military-us-general-warns.md",
-      "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-      "excerpt": "‘Deep fakes’ pose a major threat to elections and even world peace, a US military leader has warned. The manipulation of digital pictures to ... \"Those are areas that are of increasing concern across the whole of society, not just the US military.” The process of creating a deep fake image or video requires many pictures of a person's ...",
-      "heat": 131,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/",
-      "ampWebUrl": "https://www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/news/2020/01/15/deep-fake-imagery-manipulation-poses-threat-society-not-just/amp/",
-      "publishedDateTime": "2020-01-15T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2020/01/15/TELEMMGLPICT000220631492_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwUTIkwgpo3A-hR5PYllYuW8.jpeg",
-          "width": 2501,
-          "height": 1563,
-          "title": "'Deep fake' imagery manipulation poses threat to society not just military, US General warns",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-15-ai-can-fight-climate-change-but-theres-a-catch-optimization-doesnt-automatically-equal-emissions-reduction.md",
       "title": "AI can fight climate change but there's a catch: Optimization doesn't automatically equal emissions reduction",
       "excerpt": "The event was sponsored by Google's DeepMind, Microsoft, and ElementAI, the AI software and services firm co-founded by Yoshua Bengio, a star in the field of deep learning. Organizers were from Climate Change AI, a group of volunteer researchers from institutions around the world. What is artificial general intelligence? Everything you need ...",
@@ -1059,6 +1023,50 @@
       "topics": [
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-01-14-the-case-for-a-light-hand-with-ai-and-a-hard-line-on-china.md",
+      "title": "The Case for a Light Hand With AI and a Hard Line on China",
+      "excerpt": "Last week, at the WIRED HQ at CES, I spoke with Michael Kratsios, the chief technology officer of the United States. We dug into the government’s recent regulatory framework for AI, the potential for an AI cold war with China, and whether or not the NSA is building a quantum computer. The conversation has been lightly edited for clarity.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/",
+      "ampWebUrl": "https://www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/light-hand-ai-hard-line-china/amp",
+      "publishedDateTime": "2020-01-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e18caa890f5f5000872b7b5/master/pass/Biz-Kratsios-IMG_6970.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "The Case for a Light Hand With AI and a Hard Line on China",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

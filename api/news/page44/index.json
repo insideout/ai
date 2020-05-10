@@ -2,35 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2020-04-02-deepminds-agent57-can-beat-average-humans-at-57-atari-games.md",
-      "title": "DeepMind’s ‘Agent57’ Can Beat Average Humans At 57 Atari Games",
-      "excerpt": "In a recent paper published by Google subsidiary, DeepMind has stated that the company has developed a new artificial intelligence — Agent57 designed to play and beat an average human at 57 classic Atari games, in the Arcade Learning environment. The system has been developed by combining deep reinforcement learning with an ML technique in ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/deepminds-agent57-can-beat-average-humans-at-57-atari-games/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-02-brainchip-introduces-companys-event-based-neural-network-ip-and-nsoc-device-at-linley-processor-virtual-conference.md",
       "title": "BrainChip Introduces Company’s Event-Based Neural-Network IP and NSoC Device at Linley Processor Virtual Conference",
       "excerpt": "Mankar’s presentation will introduce product details of the AKD1000, BrainChip's first event-based neural-network IP and NSoC device ... company that has developed a revolutionary advanced neural networking processor that brings artificial intelligence to the edge in a way that existing technologies are not capable. The solution is high ...",
@@ -1020,6 +991,43 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-01-googles-deepmind-agent57-ai-masters-classic-atari-games-like-pitfall-and-solaris.md",
+      "title": "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris",
+      "excerpt": "We’ve seen Alphabet/Google’s DeepMind AI crush human opponents in games like StarCraft II, but now the team is going back in time to tackle games from 4 decades ago. Dubbed Agent57, this new AI is gaining attention for learning how to play a total of – you guessed it – 57 Atari 2600 games. The DeepMind team often looks to existing games ...",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "ampWebUrl": "https://amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/deepmind-agent57-ai-can-now-master-classic-atari-games-like-pitfall-and-solaris",
+      "publishedDateTime": "2020-04-01T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/51219/content/atari_deepmind.jpg",
+          "width": 708,
+          "height": 509,
+          "title": "Google's DeepMind Agent57 AI Masters Classic Atari Games Like Pitfall And Solaris",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
       ]
     }
   ],

@@ -2,50 +2,6 @@
   "page": 89,
   "value": [
     {
-      "path": "_news/2020-02-06-facebook-and-venmo-demand-clearview-ai-stops-scraping-their-data.md",
-      "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
-      "excerpt": "The facial recognition startup is using photos from the internet to build its database. Following Google and Twitter, Facebook has become the latest company to take legal action against controversial facial recognition startup Clearview AI. According to Buzzfeed News, the company sent a cease-and-desist letter to Clearview sometime this week ...",
-      "heat": 137,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "ampWebUrl": "https://www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020/02/06/facebook-venmo-cease-and-desist-clearview-ai/",
-      "publishedDateTime": "2020-02-06T06:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-images%252F2019-12%252F817d5be0-2b17-11ea-bf2f-87fbf2b24155%26client%3Da1acac3e1b3290917d92%26signature%3Db14f51401056407d35d55f5f6c2b29b8f6862048&client=amp-blogside-v2&signature=d27d50c6ff2fff8a8b1438ffab389237e0ebdc55",
-          "width": 600,
-          "height": 350,
-          "title": "Facebook and Venmo demand Clearview AI stops scraping their data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-06-ai-energy-startup-worlds-snags-chevron-and-petronas-as-backers.md",
       "title": "AI energy startup Worlds snags Chevron and Petronas as backers",
       "excerpt": "An AI company with energy applications is emerging from stealth mode with $10 million from backers including VC arms of Chevron and the Malaysian oil giant Petronas. Driving the news: Worlds, a spatial AI company being spun out of the firm Hypergiant Sensory Sciences, announced the Series A funding led by Align Capital. The company's technology ...",
@@ -1257,6 +1213,51 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle.md",
+      "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+      "excerpt": "... Prospects by Gearing Yourself with the In-Demand Azure Cloud Skills Machine Learning in the Cloud with Azure Machine Learning Process Real-World Datasets Using Sophisticated Machine Learning Models in the Cloud Azure Project-Based Hands-on Training",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/save-97-off-this-complete-2020-microsoft-azure-certification-prep-bundle",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329629_azure-6_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Save 97% off this Complete 2020 Microsoft Azure Certification Prep Bundle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

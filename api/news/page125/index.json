@@ -2,51 +2,6 @@
   "page": 125,
   "value": [
     {
-      "path": "_news/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
-      "title": "AI: the topic that got sidelined in the British election",
-      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
-      "publishedDateTime": "2020-01-21T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": "AI: the topic that got sidelined in the British election",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-01-21-microsoft-disagrees-with-eu-facial-recognition-ban.md",
       "title": "Microsoft disagrees with EU facial-recognition ban",
       "excerpt": "Microsoft disagrees with the EU's plan to ban facial recognition, saying the only way to make the technology better is to use it. The European Commission is considering a five-year ban on facial recognition in public spaces in order to buy time to assess risks and develop legislation. The move comes as other public authorities, notably the ...",
@@ -1072,6 +1027,50 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai.md",
+      "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
+      "excerpt": "That’s why in 2015, four German entrepreneurs — Christian Heinrich, Fabian Heinrich, Gregor Stühler, and Lee Galbraith — founded Scoutbee, which develops and sells access to an AI-driven supplier discovery platform. After raising $12 million in June 2019 to lay the runway for future growth, the company this week closed a $60 million ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/20/scoutbee-raises-60-million-to-expedite-supplier-discovery-with-ai/amp/",
+      "publishedDateTime": "2020-01-20T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/logo-orange-small-e1579119365676.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Scoutbee raises $60 million to expedite supplier discovery with AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

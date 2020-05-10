@@ -2,51 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2020-04-15-teslas-latest-self-driving-visualization-comes-to-life-in-this-impressive-picture.md",
-      "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-      "excerpt": "Tesla has made some impressive progress in self-driving visualization with its latest software updates. Check out this new beautiful picture that represents that progress extremely well. In an update called “Full Self-Driving Sneak Preview” late last year, Tesla made a series of “Driving Visualization Improvements”: The driving ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/",
-      "ampWebUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "publishedDateTime": "2020-04-15T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 480,
-          "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-15-how-the-white-house-guidance-for-regulation-of-artificial-intelligence-invites-overregulation.md",
       "title": "How The White House “Guidance For Regulation Of Artificial Intelligence” Invites Overregulation",
       "excerpt": "New AI guidance from the White House meant to boost the sector will be interpreted by future administrations and policymakers in ways that advance regulatory agendas rather than free enterprise stances.",
@@ -1247,6 +1202,36 @@
         "TensorFlow",
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
+      "title": "Coronavirus Brightens Outlook for Robotics ETFs",
+      "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "publishedDateTime": "2020-04-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

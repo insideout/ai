@@ -2,43 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation/",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "publishedDateTime": "2020-04-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F28%252F74%252F15dc264d96e94d6db1661bd3c3faa4ae.3ac1d.png%252F1200x630.png?signature=2vUlsW8K3CFc03ydLk-T0w92WVE=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-google-admits-its-diabetic-blindness-ai-fell-short-in-real-life-tests.md",
       "title": "Google admits its diabetic blindness AI fell short in real-life tests",
       "excerpt": "The AI Google trained to catch diabetic blindness exhibited 90 percent accuracy in the lab, but it unfortunately didn’t perform as well in real life. In Thailand, it could take up to 10 weeks to confirm diabetic blindness from the time a medical practitioner takes photos of the patient’s eye.",
@@ -1067,6 +1030,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-portrait-mode-on-iphone-se-relies-only-on-machine-learning.md",
+      "title": "Portrait Mode on iPhone SE relies only on machine learning",
+      "excerpt": "Apple's new iPhone SE is the company's first -- and thus far, only -- iPhone to solely rely on machine learning for Portrait Mode depth estimation.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning",
+      "ampWebUrl": "https://appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/20/04/27/portrait-mode-on-iphone-se-relies-only-on-machine-learning/amp/",
+      "publishedDateTime": "2020-04-27T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/35547-65350-1C5L0C7fCMt3TJciKdyaNHg-l.jpg",
+          "width": 660,
+          "height": 330,
+          "title": "Portrait Mode on iPhone SE relies only on machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -2,43 +2,6 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2020-01-22-making-siri-smarter-is-that-why-apple-bought-xnorai-9to5mac.md",
-      "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
-      "excerpt": "That cuts to Apple’s main privacy argument. We’ve long suspected that the reason why Siri lags Google Assistant and Amazon Alexa is that Apple doesn’t collect the same kind of information that those companies do and is thus at a disadvantage […] By embedding Edge AI into Apple’s own chip via the Neural Engine or a new co-processor ...",
-      "heat": 159,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/",
-      "ampWebUrl": "https://9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "cdnAmpWebUrl": "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2020/01/21/make-siri-smarter/amp/",
-      "publishedDateTime": "2020-01-21T17:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Mac",
-        "domain": "9to5mac.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://9to5mac.com/wp-content/uploads/sites/6/2020/01/Make-Siri-smarter.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 500,
-          "title": "Making Siri smarter – is that why Apple bought Xnor.ai? - 9to5Mac",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2020-01-21-vmware-to-acquire-nyansa-for-ai-based-network-analytics.md",
       "title": "VMware to acquire Nyansa for AI-based network analytics",
       "excerpt": "VMware on Tuesday announced it intends to acquire Nyansa, a Palo Alto, Calif.-based firm that offers AI-based network analytics. The deal is expected to close in VMware's first quarter of FY2021. The terms of the deal were not disclosed. VMware plans to combine Nyansa Voyance, the AIOps platform for network analytics and IoT security ...",
@@ -1049,6 +1012,51 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-ai-the-topic-that-got-sidelined-in-the-british-election.md",
+      "title": "AI: the topic that got sidelined in the British election",
+      "excerpt": "... Generation Artificial Intelligence Plan”, revealing its ambition to create an AI industry worth 1 trillion RM by 2030. Perhaps the most comprehensive of all, the plan involves a suite of initiatives that span R&D, talent development, regulations, ethics and security. Closer to home, France announced its own AI plan in 2018. Designed to ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/nz/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "ampWebUrl": "https://www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/ai-the-topic-that-got-sidelined-in-the-british-election",
+      "publishedDateTime": "2020-01-21T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XRZnyNZVHb27CjWT9rGzg7-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "AI: the topic that got sidelined in the British election",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
       ]
     }
   ],

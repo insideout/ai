@@ -2,51 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2020-02-21-how-machine-learning-can-help-stamp-out-hiring-bias.md",
-      "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-      "excerpt": "But how do we check our unconscious biases when, by definition, we don't know what they are? A Seattle-based startup called Textio says it’s using machine learning to help eliminate those biases in real time, by literally changing the writing of hiring managers who are composing the job postings. This week on Gadget Lab, WIRED senior writer ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/gadget-lab-podcast-443/",
-      "ampWebUrl": "https://www.wired.com/story/gadget-lab-podcast-443/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/gadget-lab-podcast-443/amp",
-      "publishedDateTime": "2020-02-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5e4f21a5efbb670008f8c3aa/master/pass/GettyImages-1139487339.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": "How Machine Learning Can Help Stamp Out Hiring Bias",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-02-21-defeated-chess-champ-garry-kasparov-has-made-peace-with-ai.md",
       "title": "Defeated Chess Champ Garry Kasparov Has Made Peace With AI",
       "excerpt": "Most remarkably, AlphaZero uncovered new approaches to the game that dazzled chess experts. Last week, Kasparov returned to the scene of his famous Deep Blue defeat—the ballroom of a New York hotel—for a debate with AI experts organized by the Association for the Advancement of Artificial Intelligence. He met with WIRED senior writer Will ...",
@@ -1253,6 +1208,51 @@
           "width": 960,
           "height": 541,
           "title": "Aera Launches Cognitive ‘Business Brain’ Operating System",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-20-how-microsoft-365s-new-solution-uses-machine-learning-to-stop-data-leaks-and-insider-attacks.md",
+      "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
+      "excerpt": "The post How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks appeared first on The AI Blog.\n",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://blogs.microsoft.com/ai/insider-risk-management-microsoft-365/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-20T05:59:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/02/insider-risk-04_1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "How Microsoft 365’s new solution uses machine learning to stop data leaks and insider attacks",
           "attribution": null
         }
       ],

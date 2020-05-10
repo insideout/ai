@@ -2,35 +2,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2020-03-18-domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud.md",
-      "title": "Domo Shines a Light on Dark Data with New Augmented Capabilities in the Business Cloud",
-      "excerpt": "Domopalooza LIVE & On-Demand – March 18, 2020 – Today Domo (NASDAQ:DOMO) announced it is making it even easier to get BI leverage at cloud scale in record time through new augmented capabilities in the Domo Business Cloud.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15583687/domo-shines-a-light-on-dark-data-with-new-augmented-capabilities-in-the-business-cloud",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15583687",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15583687",
-      "publishedDateTime": "2020-03-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-ready-for-iso-20022-make-ai-part-of-your-migration-toolkit.md",
       "title": "Ready for ISO 20022? Make AI part of your migration toolkit",
       "excerpt": "Looking across key technologies in the payments space, the use of Artificial Intelligence (AI) disciplines undoubtedly sits at the top of an adoption list. Just as we saw the huge impact mobile had on the world of fintech a decade ago, AI (and especially NLP) are having and will continue to have a significant impact in global payments ...",
@@ -946,6 +917,51 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-18-deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026.md",
+      "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
+      "excerpt": "The global Deep Learning market is analyzed to grow at a CAGR of around 51.1% during the forecast period and projected to reach the market value over US$ 56,427.2 Mn in 2027. The study provides an extensive market evaluation and includes thorough ideas,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-record-booming-511-cagr-by-2020-to-2026-2020-03-18",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-18T04:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Deep Learning Market Size Record Booming 51.1% CAGR by 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

@@ -2,43 +2,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_news/2020-03-16-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider.md",
-      "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
-      "excerpt": "$5 million) to a $42 million investment round in Eigen Technologies, a natural language processing (NLP) solution provider. The investment, which has been made via ING’s VC division, ING Ventures, is part of Eigen Technologies’ Series B funding round, which was announced in November of last year. The round also included contributions from ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/158821-ing-invests-5-million-in-eigen-technologies-a-natural-language-processing-solution-provider/amp/",
-      "publishedDateTime": "2020-03-16T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/12/ING-Bank-300x239.jpg",
-          "width": 300,
-          "height": 239,
-          "title": "ING Invests $5 Million in Eigen Technologies, a Natural Language Processing Solution Provider",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-16-roboy-the-robot-is-fully-compliant-soft-and-huggable.md",
       "title": "Roboy the robot is fully compliant, soft, and huggable",
       "excerpt": "Pascal Kaufmann introduces us to Roboy, which represents a new generation of robots. Technology tipping points for ... 1:21 How many jobs will AI destroy and why we need to share the spoils 1:39 Coronavirus and its impact on the enterprise Windows 10 Start menu hacks Telecommuting policy How to work from home: IT pro’s guidebook to ...",
@@ -884,6 +847,43 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
+      "title": "BMW says large-scale production of self-driving cars likely in next decade",
+      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMW BLOG",
+        "domain": "bmwblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "BMW says large-scale production of self-driving cars likely in next decade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
