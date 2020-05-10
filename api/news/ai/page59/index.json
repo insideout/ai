@@ -2,6 +2,51 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2020-03-13-eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction.md",
+      "title": "Eigen and ING target financial industry with NLP-driven data extraction",
+      "excerpt": "As one of the biggest banks in the world, ING is a major partner for Eigen and should go some way toward expediting the uptake of machine learning in the financial services sector. Indeed, ING is already using Eigen’s NLP in specific areas such as loan operations and LIBOR replacement, and as part of their new partnership this will be ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/",
+      "ampWebUrl": "https://venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/13/eigen-and-ing-target-financial-industry-with-nlp-driven-data-extraction/amp/",
+      "publishedDateTime": "2020-03-13T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Eigen.png?fit=1284%2C632&strip=all",
+          "width": 1284,
+          "height": 632,
+          "title": "Eigen and ING target financial industry with NLP-driven data extraction",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-13-riskalyze-fintech-report-card-february-2020.md",
       "title": "Riskalyze Fintech Report Card: February 2020",
       "excerpt": "What Happened: Andrew Altfest, president of a $1 billion RIA firm, launched new advisor technology at the T3 advisor conference this year. The new software promises to use AI to analyze a client’s existing situation and offer tailored recommendations. Why It Matters: It was only a couple of years ago that I was on record saying “in our ...",
@@ -1105,43 +1150,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-just-in-defense-innovation-unit-to-sponsor-computer-vision-prize-challenge.md",
-      "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
-      "excerpt": "HONOLULU, Hawaii — The Pentagon’s Defense Innovation Unit is preparing to launch another industry competition to boost computer vision technology that could aid disaster relief efforts, a top official said March 11. DIU was launched in 2015 by then-Secretary of Defense Ash Carter to bridge the gap between the military and the nation’s ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2020/3/12/defense-innovation-unit-to-sponsor-computer-vision-prize-challenge",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T11:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/03/istock-1172131894_web.ashx?h=500&w=878&la=en&hash=6CA3F9E7BEC57550BC7EF738EDD66F4E78DDCB88",
-          "width": 878,
-          "height": 500,
-          "title": "JUST IN: Defense Innovation Unit to Sponsor Computer Vision Prize Challenge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

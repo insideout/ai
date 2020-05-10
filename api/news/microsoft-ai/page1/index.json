@@ -140,27 +140,19 @@
     {
       "path": "_news/2020-05-05-greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the",
-      "heat": 87,
+      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies.",
+      "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
-      "publishedDateTime": "2020-05-05T05:35:00-07:00",
+      "webUrl": "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-05T06:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

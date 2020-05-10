@@ -1,32 +1,28 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
-publishedDateTime: 2020-05-07T15:13:00Z
-webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
+publishedDateTime: 2020-05-07T15:15:00Z
+webUrl: "https://www.computerworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
-quality: 69
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: InfoWorld
-  domain: infoworld.com
-  images:
-    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Computerworld
+  domain: computerworld.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
+  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "EwUNqBNAGryngdddzDKLn+VmvK31iMtVM7dmkMUHJPUZ++MfowB5JYTV3E85HMd+ln17NuCiuKe88a7BxzcejGAUhG/V/GTTLln13u8I32iB+9TnUpQJseCfNBuvCL+aD0PrMRl7d236TbqmV2BtwPSVDfsmOTrhaE0AmIXn9zjl8oF3kGcSSyQ7ITSFe030QLJNelsNWk5kawAGr9PG+qDx+ZCjVbnLIlk/QNgmPz245mIyrOE93XGq6fF4B+c7CRR5ngWAm1/B054yXoFmhSta6me9qkvWbQVynv/rxyW9S1WiEddIJR3pxibi5Yl+;0dMh+ybITxHNOrpe4HXH1Q=="
+secured: "btnGIxYjNqgDgh/PaRfEoUh0T6PUD4/qqqTWUx31LJfwxhh1BbZY6FUBws1DPMa9fovlhUCOmaxYVEsON1kQ3PUPaD6GbaDd+6oeRFQKcOBWPzIVS30+wIcB/bJlsoE60cWBabnjfgwaRjg8YlY50Iytfgloa2T9gbuxg9iW7eI0YfcaR9sLP2zCeK2oZOvPJONytNu5BQ/P6mF+FygolKnx0SoBHPTFP7IZ3+Y0cEBogQeoJYXNLVK9zpPFieB5w3Pa5vzfnNGiO+aq73jIr1gH8uKztWvPt+2KZoDCc25gReMR9TGYlhLvtKZRpCxE;t1sf4Df75O89xhhyTUhR/Q=="
 ---
 

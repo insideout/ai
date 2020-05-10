@@ -2,6 +2,51 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2020-01-22-automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025.md",
+      "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
+      "excerpt": "Benefits of automotive artificial intelligence include - driverless cars, smarter, safer and affordable, assisted features, cognitive predictive maintenance. Sample Infographics: Market Dynamics ...",
+      "heat": 70,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-size-growth-opportunity-and-forecast-to-2025-2020-01-22?mod=mw_quote_news",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Automotive Artificial Intelligence Market Size, Growth, Opportunity and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-01-22-theres-nowhere-to-hide-anymore-this-ai-can-see-around-corners.md",
       "title": "There's nowhere to hide anymore: This AI can see around corners",
       "excerpt": "Hiding behind a wall might not be practical for much longer thanks to new technology that uses artificial intelligence to see and even read around corners. A team of researchers from Princeton, Stanford, Rice and Southern Methodist universities devised a system that uses powerful lasers similar to a laser pointer. The beam is bounced off a ...",
@@ -1218,50 +1263,6 @@
           "width": 1280,
           "height": 640,
           "title": "British AI Startups Attracted Record Venture-Capital Funding in 2019",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-21-the-legal-industry-finds-ways-to-leverage-ai.md",
-      "title": "The legal industry finds ways to leverage AI",
-      "excerpt": "How far are we from seeing \"robot judges\"? ZDNet's Stephanie Condon discusses with Karen Roby. Read more: https://zd.net/3auO0jl",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/video/the-legal-industry-finds-ways-to-leverage-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-21T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/01/20/4ae4c042-fca1-4511-9ed4-a9ca543376fd/thumbnail/770x578/505afafec347bbd770275c37d22c5782/20200120-steph-karen-judges.png",
-          "width": 770,
-          "height": 578,
-          "title": "The legal industry finds ways to leverage AI",
           "attribution": null
         }
       ],

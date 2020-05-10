@@ -2,6 +2,43 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-04-microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers.md",
+      "title": "Microsoft: Our new free Python programming language courses are for novice AI developers",
+      "excerpt": "Microsoft's two new video series target beginner developers interested in using Python for machine-learning programs.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-our-new-free-python-programming-language-courses-are-for-novice-ai-developers/",
+      "publishedDateTime": "2020-05-04T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries.md",
       "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
       "excerpt": "The stated reason for the Department of Defense (DoD) opting to release the videos consisted of wanting to set the record straight about the authenticity of the videos, doing so because the videos had prior been surreptitiously leaked,",
@@ -359,27 +396,27 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
+      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
+      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400",
-          "width": 400,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
+          "width": 1000,
+          "height": 524,
           "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
@@ -1053,51 +1090,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet.md",
-      "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-      "excerpt": "If a marketer can get an accurate read on someone’s emotional response, they can tweak their campaigns and achieve better results.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/02/emotion-detection-is-a-hot-ask-in-marketing-but-the-tech-just-isnt-ready-yet/amp/",
-      "publishedDateTime": "2020-05-02T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/02/emotions.png?fit=1059%2C619&strip=all",
-          "width": 1059,
-          "height": 619,
-          "title": "Emotion detection is a hot ask in marketing, but the tech just isn’t ready yet",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

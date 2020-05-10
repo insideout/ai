@@ -1055,6 +1055,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-07-artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material.md",
+      "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
+      "excerpt": "Quantum material could offset energy demand of artificial intelligence. To just solve a puzzle or play a game, artificial intelligence can require software running on thousands of computers. That could be the energy that three nuclear plants produce in one hour.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/",
+      "ampWebUrl": "https://scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/artificial-intelligence-is-energy-hungry-solution-new-ai-hardware-made-of-quantum-material/amp/",
+      "publishedDateTime": "2020-05-07T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/New-AI-Hardware-777x444.jpg",
+          "width": 777,
+          "height": 444,
+          "title": "Artificial Intelligence Is Energy-Hungry – Solution: New AI Hardware Made of Quantum Material",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-building-transparency-and-customer-confidence-in-ai.md",
       "title": "Building transparency and customer confidence in AI",
       "excerpt": "Chatbots have been designed to make our lives a little easier, with simple verification questions they can answer common customer service inquiries without the need to sit on hold waiting for an agent.",
@@ -1259,50 +1296,6 @@
           "width": 1248,
           "height": 764,
           "title": "La Trobe University using artificial intelligence to reduce course dropout rates",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone.md",
-      "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
-      "excerpt": "In a recent paper, Facebook and University of California, Berkely researchers propose an approach to payload-carrying drone flight planning that “learns how to learn” models of environmental dynamics.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/06/facebooks-ai-learns-how-to-learn-to-transport-payloads-using-a-drone/amp/",
-      "publishedDateTime": "2020-05-06T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/Drones.jpg?fit=1200%2C800&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": "Facebook’s AI ‘learns how to learn’ to transport payloads using a drone",
           "attribution": null
         }
       ],

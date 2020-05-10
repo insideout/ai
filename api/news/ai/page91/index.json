@@ -2,6 +2,51 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-02-04-ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026.md",
+      "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
+      "excerpt": "Global AI In Fintech Market research report published by market insight reports explores the current outlook in global and key regions from the perspective of Major Players, Countries, Product types and end industries.",
+      "heat": 279,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-status-and-global-outlook-2020-to-2026-2020-02-04",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-04T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Fintech Market Size, Status and Global Outlook 2020 to 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests.md",
       "title": "Online targeting needs tighter controls, UK data ethics body suggests",
       "excerpt": "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ...",
@@ -1226,51 +1271,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-03-moscow-court-case-challenges-citys-facial-recognition-use-after-launch.md",
-      "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-      "excerpt": "A court on Friday will hear a legal challenge to Moscow's rollout of facial recognition technology over privacy fears, after the final piece of its video surveillance jigsaw fell into place with the awarding of a software contract last month.",
-      "heat": 119,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/reuters/2020/02/03/technology/31reuters-russia-technology-facialrecognition.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Moscow Court Case Challenges City's Facial Recognition Use After Launch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

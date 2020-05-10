@@ -2,6 +2,51 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-04-07-intel-pledges-50m-to-help-fight-covid-19.md",
+      "title": "Intel pledges $50m to help fight COVID-19",
+      "excerpt": "The University of Sydney has used Microsoft cognitive services to build the \"AI-infused bot\" that has been tackling between 200 and 400 individual student inquiries daily. Microsoft said each student is typically asking two to three questions. It said the bot provides the most appropriate answer to the question and, where necessary, directs the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-pledges-50m-to-help-fight-covid-19/",
+      "publishedDateTime": "2020-04-07T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/15/d734a519-076b-4e3d-8bfe-63dde72da3b4/thumbnail/1200x675/c14f1f558417c2eb9f6962e04f2a29df/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel pledges $50m to help fight COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
       "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
       "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
@@ -996,51 +1041,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-self-driving-shuttles-are-ferrying-covid-19-tests-at-a-florida-clinic.md",
-      "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-      "excerpt": "The Mayo Clinic, Jacksonville Transportation Authority, Navya and Beep are using completely self-driving shuttles to carry COVID-19 tests from a drive-thru location to the Mayo Clinic campus. The move theoretically minimizes exposure to the virus and frees up medical staff for taking care of patients. Four of the shuttles have been running on ...",
-      "heat": 94,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "ampWebUrl": "https://www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/self-driving-shuttles-carry-covid-19-tests-231758913.html",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F0c02dee0-7846-11ea-b8bf-f3044bd00a09&client=amp-blogside-v2&signature=a72c97577cedbadfc7ea704869a8c0dfad812c97",
-          "width": 600,
-          "height": 350,
-          "title": "Self-driving shuttles are ferrying COVID-19 tests at a Florida clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

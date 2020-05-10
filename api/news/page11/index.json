@@ -47,6 +47,51 @@
       ]
     },
     {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
       "title": "5 Artificial Intelligence Stocks to Consider",
       "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ...",
@@ -1007,51 +1052,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
-      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "publishedDateTime": "2020-04-29T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
-          "width": 1200,
-          "height": 532,
-          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

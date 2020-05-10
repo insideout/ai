@@ -2,43 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-03-04-robot-uses-artificial-intelligence-and-imaging-to-draw-blood.md",
-      "title": "Robot uses artificial intelligence and imaging to draw blood",
-      "excerpt": "Rutgers engineers have created a tabletop device that combines a robot, artificial intelligence and near-infrared and ultrasound imaging to draw blood or insert catheters to deliver fluids and drugs. Their most recent research results, published in the journal Nature Machine Intelligence, suggest that autonomous systems like the image-guided ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/ru-rua030320.php",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-04T03:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/226001_web.jpg",
-          "width": 1440,
-          "height": 1022,
-          "title": "Robot uses artificial intelligence and imaging to draw blood",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-04-fighting-hand-tremors-first-comes-ai-then-robots.md",
       "title": "Fighting hand tremors: First comes AI, then robots",
       "excerpt": "Robots hold promise for a large number of people with neurological movement disorders severely affecting the quality of their lives. Now researchers have tapped artificial intelligence techniques ...",
@@ -1196,6 +1159,51 @@
         "authors": null
       },
       "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-is-artificial-intelligence-a-myth.md",
+      "title": "Is Artificial Intelligence A Myth?",
+      "excerpt": "Here is something we all love: tech buzz words and the grand promise of new technologies. You know its right, because me, you and the person pitching the sales deck, we use them all the time. \"The Internet Of Things will connect everything,",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/",
+      "ampWebUrl": "https://www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hodfleishman/2020/02/19/is-artificial-intelligence-a-myth/amp/",
+      "publishedDateTime": "2020-02-19T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1183695647%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4714%26cropY1%3D144%26cropY2%3D2796",
+          "width": 1199,
+          "height": 675,
+          "title": "Is Artificial Intelligence A Myth?",
+          "attribution": null
+        }
+      ],
       "locale": "en-us",
       "categories": [
         "news"

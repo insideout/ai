@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-04-08-how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19.md",
+      "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
+      "excerpt": "The AI company Black Swan Data has turned its skills to help clinicians, researchers and the medical community in their work on analysing COVID-19.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/",
+      "ampWebUrl": "https://www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/victoriacollins/2020/04/08/how-ai-and-data-science-are-helping-to-understand-and-tackle-covid-19/amp/",
+      "publishedDateTime": "2020-04-08T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8daa7c2b720000076d7b44%2F0x0.jpg",
+          "width": 1019,
+          "height": 734,
+          "title": "How AI And Data Science Are Helping To Understand And Tackle COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-08-machine-learning-market-value-booming-us-768-bn-by-2026.md",
       "title": "Machine Learning Market Value Booming US$ 76.8 Bn by 2026",
       "excerpt": "According to the Acumen Research and Consulting, the global Machine Learning market is expected to reach at US$ 76.8 Bn by 2026, along with the projected CAGR of 40.1% from 2020-2026. The published report global Machine Learning market provides a holistic overview of the current market covering the current trends.",
@@ -989,50 +1033,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-googles-ai-learns-how-to-navigate-environments-from-limited-data.md",
-      "title": "Google’s AI learns how to navigate environments from limited data",
-      "excerpt": "Carnegie Mellon, Google, and Stanford researchers write in a paper that they’ve developed a framework for using weak supervision — a form of AI training where the model learns from large amounts of limited, imprecise, or noisy data — that enables robots to efficiently explore a challenging environment. By learning to reach only areas of ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/googles-ai-learns-how-to-navigate-environments-from-limited-data/amp/",
-      "publishedDateTime": "2020-04-07T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/robot-on-computer.jpg?fit=1198%2C599&strip=all",
-          "width": 1198,
-          "height": 599,
-          "title": "Google’s AI learns how to navigate environments from limited data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

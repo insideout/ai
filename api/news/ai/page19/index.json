@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
+      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "publishedDateTime": "2020-04-20T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
       "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
       "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
@@ -1217,43 +1261,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-energy-industry-turning-to-robotics-to-inspect-infrastructure.md",
-      "title": "Energy industry turning to robotics to inspect infrastructure",
-      "excerpt": "Gecko Robotics is providing the energy industry with artificial intelligence-enabled robots to inspect infrastructure and supply massive amounts of data to help predict failures before they occur.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.mrt.com/business/oil/article/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "ampWebUrl": "https://www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "cdnAmpWebUrl": "https://www-mrt-com.cdn.ampproject.org/c/s/www.mrt.com/business/oil/amp/Energy-industry-turning-to-robotics-to-inspect-15210735.php",
-      "publishedDateTime": "2020-04-18T20:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Midland Reporter-Telegram",
-        "domain": "mrt.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png",
-          "width": 375,
-          "height": 211,
-          "title": "Energy industry turning to robotics to inspect infrastructure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

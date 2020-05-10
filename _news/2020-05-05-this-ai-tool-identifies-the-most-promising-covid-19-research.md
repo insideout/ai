@@ -8,7 +8,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/05/05/this-ai-tool-identifies-the-most-promising-covid-19-research/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 87
 published: true
 
 provider:
@@ -27,32 +27,6 @@ images:
     width: 796
     height: 417
     title: "This AI tool identifies the most promising COVID-19 research"
-
-related:
-  - title: "Google's AI-powered search tool helps scientists scour coronavirus research"
-    excerpt: "For the most up-to-date news and information about the coronavirus pandemic, visit the WHO website. Google has launched a new search tool that aims to make it easier for scientists and researchers to uncover information related to the coronavirus."
-    publishedDateTime: 2020-05-05T14:52:00Z
-    webUrl: "https://www.cnet.com/news/googles-ai-powered-search-tool-helps-scientists-scour-coronavirus-research/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-ai-powered-search-tool-helps-scientists-scour-coronavirus-research/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-powered-search-tool-helps-scientists-scour-coronavirus-research/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 85
-    images:
-      - url: "https://cnet1.cbsistatic.com/img/tIpf69jJyFX6gNpSeblAnegN2Cs=/756x567/2020/04/29/32c22572-9761-43e9-83de-0108e34bd94b/testing-lab-coronavirus-health-test-0591.jpg"
-        width: 756
-        height: 567
-  - title: "Artificial Intelligence Accelerates Search for COVID-19 Treatments"
-    excerpt: "Researchers are using an artificial intelligence-powered tool to determine which COVID-19-related research will yield valuable results."
-    publishedDateTime: 2020-05-05T13:40:00Z
-    webUrl: "https://healthitanalytics.com/news/artificial-intelligence-accelerates-search-for-covid-19-treatments"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "a93X8P4oiOqu9x+UgTxzEhdNh3p6mU+DuBYKy5UUJycw5KLPIaHl8DSXbYb/LINV+1STALcAFEnC3n/BGgpu4pnM8Qz/LkVoRPlDrBCw/NprGwnn4TViRMggu9btpdbBg1C0uZzaSkZSzirUwIHu5d12rqcgGUYz+UGQnvPbtxWz+S1YyOFz/QIyS+wFJ3pXy6YpAZJyZc78s5qk7vh9oQYupyEUFbyHmwfntO+5soeCzbgkw88ZXvkTPl57QequityDTIqbCAUYhtiKRTvWNR8FqAa+IXlZNdGdD5mFEdsphl9syT1nupx8s6CSkDIaL6MyEcJFc/Re3ojdoIw+Oio+NjfRhA7GDP3Cm5RYh18rKCfyl3KnW4WlIBfoKOLkx1t0Obj8Qm2/NwfJHxJ3zvWed4vlFQlCj3weYk2qzMv3BwOjc+A7WvEX5hHRDZJ5g/jBsvi/tdv9Cx8yaflkMa4pac4wMQhTHrc+KG2p5dY=;ZE09d/lBSfeamAamacIqYA=="
 ---
