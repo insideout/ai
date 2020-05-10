@@ -2,6 +2,43 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-28-imec-builds-worlds-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
+      "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
+      "excerpt": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg",
+          "width": 480,
+          "height": 275,
+          "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-a-sustainable-boost-to-ais-profitability-promise.md",
       "title": "A Sustainable Boost To AI's Profitability Promise",
       "excerpt": "In doing so, companies are subsequently given more power to enhance both profitability and sustainability in tandem. For vendors, it gives us extra leverage as we continue to fight back against the \"do-it-yourself\" trend.",
@@ -1239,50 +1276,6 @@
         "AI in Healthcare",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room.md",
-      "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-      "excerpt": "A team of Amazon researchers proposes a machine learning model that's able to localize multiple sound sources from microphone data alone.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/amazons-ai-uses-a-microphone-array-to-localize-multiple-speakers-in-a-room/amp/",
-      "publishedDateTime": "2020-04-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/amazon-echo-dot-2019-e1571958500413.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

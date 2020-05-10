@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
+      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
+      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
+      "publishedDateTime": "2020-04-30T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
       "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
       "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
@@ -83,43 +127,6 @@
         "AI",
         "Machine Learning",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
-      "title": "Artificial intelligence can’t technically invent things, says patent office",
-      "excerpt": "Artificial intelligence is the future. If “Westworld” or “Black Mirror” are to be believed, there will soon come a day when the computers rule us all. But for now, an",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/",
-      "ampWebUrl": "https://fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "cdnAmpWebUrl": "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/news/national-world/artificial-intelligence-cant-technically-invent-things-says-patent-office/amp/",
-      "publishedDateTime": "2020-04-30T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX59 News",
-        "domain": "fox59.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://fox59.com/wp-content/uploads/sites/21/2020/04/GettyImages-1176548169.jpg?w=1024&h=720&crop=1&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": "Artificial intelligence can’t technically invent things, says patent office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -246,6 +253,51 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
+      "title": "Artificial Intelligence can't technically invent things, says patent office",
+      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
+      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": "Artificial Intelligence can't technically invent things, says patent office",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1009,51 +1061,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-facebooks-teaching-ai-to-lie-like-a-human.md",
-      "title": "Facebook’s teaching AI to lie like a human",
-      "excerpt": "Because, essentially, what Facebook‘s done is taught Blender’s chatbots to lie moderately better than everyone else’s. Today we’re announcing that Facebook AI has built and open-sourced Blender, the largest-ever open-domain chatbot.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/29/facebooks-teaching-ai-to-lie-like-a-human/amp/",
-      "publishedDateTime": "2020-04-29T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/03/robotpresident-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Facebook’s teaching AI to lie like a human",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

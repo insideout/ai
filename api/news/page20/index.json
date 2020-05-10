@@ -2,6 +2,43 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-22-bank-chatbots-work-coronavirus-into-the-conversation.md",
+      "title": "Bank chatbots work coronavirus into the conversation",
+      "excerpt": "In late January the team at Kasisto, the company behind the conversational artificial-intelligence platform Kai ... a top-10 bank in the U.S., as well as one international client. IBM’s Watson Assistant can also be trained to answer basic questions ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.americanbanker.com/news/bank-chatbots-work-coronavirus-into-the-conversation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/2d869c5/2147483647/strip/true/crop/1500x788+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F20%2Fc5%2Ff809be494763b98fe2c7389bddec%2Fadobestock-226771742.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": "Bank chatbots work coronavirus into the conversation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-facebooks-climate-conversation-map-reveals-reactions-to-environmental-news.md",
       "title": "Facebook’s Climate Conversation Map reveals reactions to environmental news",
       "excerpt": "It’s available by request to research partners and nonprofits following a preview last year ... “We look forward to seeing how different organizations use these maps to inform the climate debate and deliver new resources.” Facebook’s work in AI and mapping comes after the social network shared to the OpenStreetMap community the Map ...",
@@ -1031,50 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intel-accenture-use-ai-to-save-the-coral-reef.md",
-      "title": "Intel & Accenture Use AI To Save The Coral Reef",
-      "excerpt": "Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI) - powered solution to monitor, characterize and analyze coral reef resilience.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/04/22/intel--accenture-use-ai-to-save-the-coral-reef/amp/",
-      "publishedDateTime": "2020-04-22T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9ffb06893ac200075fd4d6%2F0x0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Intel & Accenture Use AI To Save The Coral Reef",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

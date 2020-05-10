@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
+      "title": "Clearview AI source code revealed, exposing majority security lapse",
+      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
+      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
+      "publishedDateTime": "2020-04-20T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
+          "width": 5000,
+          "height": 3051,
+          "title": "Clearview AI source code revealed, exposing majority security lapse",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-using-ai-to-build-better-chips.md",
       "title": "Using AI To Build Better Chips",
       "excerpt": "With so many startups and large semiconductor firms racing to get new AI chips to market, electronic tool and design service firms like Synopsis, Cadence and Mentor Graphics are looking for new approaches to help designers speed their time to market. Ironically, one of the approaches being taken is to use AI to help build better AI chips.",
@@ -1207,43 +1251,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-privitar-announces-availability-of-its-data-privacy-platform-in-aws-marketplace.md",
-      "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
-      "excerpt": "AWS Security, Data and Analytics Competency In addition ... constantly and efficiently monitor cameras in real-time or review the high volumes of archived video. Video analytics powered by Artificial Intelligence Increasingly, event venues are overcoming this challenge and maximising this video data by investing in intelligent video surveillance.",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.sourcesecurity.com/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/privitar-availability-data-privacy-platform-aws-marketplace-co-1537871022-ga-co-1580719254-ga-npr.1587126989.html",
-      "publishedDateTime": "2020-04-19T15:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/vandalism-surveillance-920x533_1578636475.jpg",
-          "width": 612,
-          "height": 355,
-          "title": "Privitar announces availability of its Data Privacy Platform in AWS Marketplace",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

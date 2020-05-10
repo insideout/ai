@@ -2,6 +2,50 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-03-27-heres-how-walmart-is-using-artificial-intelligence-to-keep-prices-low.md",
+      "title": "Here's How Walmart Is Using Artificial Intelligence to Keep Prices Low",
+      "excerpt": "That's a problem it will use Pactum's artificial intelligence-based product to address. \"Inefficient contracting has been estimated to cause firms to lose between 17% to 40% of the value on a given deal, depending on circumstances, according to research by KPMG,\" Pactum CEO Martin Rand said in a press release. In theory, this technology will ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/27/heres-how-walmart-is-using-artificial-intelligence.aspx",
+      "publishedDateTime": "2020-03-27T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565542%2Fwal-mart-workers.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 675,
+          "title": "Here's How Walmart Is Using Artificial Intelligence to Keep Prices Low",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-microsofts-ai-determines-whether-statements-about-video-clips-are-true.md",
       "title": "Microsoft’s AI determines whether statements about video clips are true",
       "excerpt": "In a paper published on the preprint server Arxiv.org, researchers affiliated with Carnegie Mellon, the University of California, Santa Barbara, and Microsoft’s Dynamics 365 AI Research describe a challenge — video-and-language inference — that tasks AI with inferring whether a statement is entailed or contradicted by a given video clip.",
@@ -972,43 +1016,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-uc-berkeley-covid-19-first-target-of-new-ai-research-consortium.md",
-      "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-      "excerpt": "A core value in its activities is a commitment to open-source dissemination of the results for the public good.\"",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://patch.com/california/berkeley/uc-berkeley-covid-19-first-target-new-ai-research-consortium",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.patchcdn.com/assets/layout/logo-patch-800x600.png",
-          "width": 800,
-          "height": 600,
-          "title": "UC Berkeley: COVID-19 First Target Of New AI Research Consortium",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

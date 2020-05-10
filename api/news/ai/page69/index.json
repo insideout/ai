@@ -2,6 +2,34 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-02-28-the-age-of-customer-acquisition-30.md",
+      "title": "The age of customer acquisition 3.0",
+      "excerpt": "Some of the most intelligent growth marketers in the industry are looking beyond the obvious ways AI can improve results to focus on the cutting edge “out of the box” ways AI can turbocharge their paid user acquisition performance. AI-powered machines ... to accelerate your rate of learning will require an intelligent machine operational ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/",
+      "ampWebUrl": "https://www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
+      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/the-age-of-customer-acquisition-3-0/260425/amp/",
+      "publishedDateTime": "2020-02-27T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ClickZ",
+        "domain": "clickz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-28-facial-recognition-company-says-entire-client-list-was-stolen.md",
       "title": "Facial recognition company says entire client list was stolen",
       "excerpt": "Facial recognition firm Clearview A.I. has confirmed to NBC News that their entire client list has been stolen.Feb. 28, 2020 © 2020 NBC UNIVERSAL",
@@ -1225,51 +1253,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
-      "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-      "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "publishedDateTime": "2020-02-26T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713",
-          "width": 1200,
-          "height": 675,
-          "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

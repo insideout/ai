@@ -2,6 +2,51 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-04-27-ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023.md",
+      "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
+      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023-2020-05-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-ai-in-computer-vision-market-and-region-global-forecast-to-2023-market-effect-of-covid19.md",
       "title": "AI In Computer Vision Market and Region-Global Forecast to 2023 (market Effect of COVID19)",
       "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
@@ -986,51 +1031,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-2-stocks-to-buy-and-hold-for-the-next-50-years.md",
-      "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-      "excerpt": "So far, Alphabet's long-term growth ideas include self-driving cars, drone delivery services, artificial intelligence, and balloon-based wireless broadband services. Alphabet's medical-science projects include robotic surgery, bioelectronic medicines ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "publishedDateTime": "2020-04-25T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569643%2Fhourglass-and-coins.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

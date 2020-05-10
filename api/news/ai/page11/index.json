@@ -2,6 +2,52 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
       "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
       "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
@@ -1240,43 +1286,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-imec-builds-worlds-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
-      "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
-      "excerpt": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg",
-          "width": 480,
-          "height": 275,
-          "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

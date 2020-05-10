@@ -2,6 +2,35 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-04-01-sample-based-identification-eases-object-recognition-tasks.md",
+      "title": "Sample-based Identification Eases Object Recognition Tasks",
+      "excerpt": "Both the parameters of the feature extractors and the classifiers must also be optimized for the object recognition task. Since these parameters may not be intuitive, expert knowledge is required. This involves extensive evaluation of specific object types ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vision-systems.com/boards-software/article/16736036/samplebased-identification-eases-object-recognition-tasks",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vision Systems Design",
+        "domain": "vision-systems.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-01-this-support-code-is-used-for-making-machine-learning-frameworks-eg-mxnet-tensorflow-run-on-amazon-sagemaker.md",
       "title": "This support code is used for making machine learning frameworks (e.g. MXNet, TensorFlow) run on Amazon SageMaker.",
       "excerpt": "SageMaker Containers gives you tools to create SageMaker-compatible Docker containers, and has additional tools for letting you create Frameworks (SageMaker-compatible Docker containers that can run arbitrary Python or shell scripts).",
@@ -1236,50 +1265,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-31-microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant.md",
-      "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-      "excerpt": "Microsoft has announced its answer to Grammarly and Google's recent AI updates for G Suite with the new Microsoft Editor browser extension coming to Chrome and Edge in the next few weeks. Microsoft Editor is an AI-powered tool that helps users with spelling and grammar in Word, Outlook, and any website via the browser extension. The tool is ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-chrome-edge-word-and-outlook-get-this-free-editor-ai-grammar-assistant/",
-      "publishedDateTime": "2020-03-31T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/03/30/0f9fa083-fed0-409b-bc9b-1d357605b1ae/thumbnail/1200x675/c021471ff96cdf363eebc4f21f68ea4f/facerecognitionistock-1180902227.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Microsoft: Chrome, Edge, Word and Outlook get this free Editor AI grammar assistant",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

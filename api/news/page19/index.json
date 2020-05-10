@@ -2,6 +2,51 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-23-paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision.md",
+      "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+      "excerpt": "Health care startup Paige has raised an additional $5 million to help diagnose cancer using computer vision trained with clinical imaging data. The idea is to use data sets related to treatment and genomics to train the company’s deep learning networks to detect breast, prostate, and other major cancers. New York-based Paige has raised over ...",
+      "heat": 107,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/23/paige-raises-5-million-more-from-goldman-sachs-to-detect-cancer-with-computer-vision/amp/",
+      "publishedDateTime": "2020-04-23T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/paige.jpg?fit=1200%2C722&strip=all",
+          "width": 1200,
+          "height": 722,
+          "title": "Paige raises $5 million more from Goldman Sachs to detect cancer with computer vision",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-23-paige-adds-5m-from-goldman-sachs-to-double-down-on-ai-based-cancer-therapies.md",
       "title": "Paige adds $5M from Goldman Sachs to double down on AI-based cancer therapies",
       "excerpt": "“It has highlighted that they are unable to work remotely. The technology we have been building supports the pathology community’s ability to work safely and remotely, and can further accelerate their work through the use of AI technology. Because pathologists’ inability to work remotely is becoming more apparent, it is creating an ...",
@@ -1008,43 +1053,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-bank-chatbots-work-coronavirus-into-the-conversation.md",
-      "title": "Bank chatbots work coronavirus into the conversation",
-      "excerpt": "In late January the team at Kasisto, the company behind the conversational artificial-intelligence platform Kai ... a top-10 bank in the U.S., as well as one international client. IBM’s Watson Assistant can also be trained to answer basic questions ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.americanbanker.com/news/bank-chatbots-work-coronavirus-into-the-conversation",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/2d869c5/2147483647/strip/true/crop/1500x788+0+28/resize/1200x630!/quality/90/?url=https%3A%2F%2Farizent.brightspotcdn.com%2F20%2Fc5%2Ff809be494763b98fe2c7389bddec%2Fadobestock-226771742.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": "Bank chatbots work coronavirus into the conversation",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

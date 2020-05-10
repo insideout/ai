@@ -2,6 +2,50 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-03-27-why-transparency-is-key-to-promoting-trust-in-artificial-intelligence.md",
+      "title": "Why transparency is key to promoting trust in artificial intelligence",
+      "excerpt": "As AI gets more and more embedded in our lives and helps make decisions that are increasingly significant to us, we’re rightly concerned about transparency. When big new stories like the Cambridge Analytica scandal or ongoing discussion around inherent biases in facial recognition hit the headlines, we are concerned about bias (intentional ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355130/why-transparency-is-key-to-promoting-trust-in?amp",
+      "publishedDateTime": "2020-03-27T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1585240726/itpro/2020/03/shutterstock_AI_understanding_unlock.jpg",
+          "width": 9000,
+          "height": 5063,
+          "title": "Why transparency is key to promoting trust in artificial intelligence",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-27-aws-certified-machine-learning-specialty-2020-hands-on.md",
       "title": "AWS Certified Machine Learning Specialty 2020 - Hands On!",
       "excerpt": "Course Ratings are calculated from individual students’ ratings and a variety of other signals, like age of rating and reliability, to ensure that they reflect course quality fairly and accurately.",
@@ -1210,35 +1254,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-26-loop-receives-100000-in-development-funds-from-amazon-web-services-to-enhance-companys-ai-capabilities.md",
-      "title": "Loop Receives $100,000 in Development Funds from Amazon Web Services to Enhance Company's AI Capabilities",
-      "excerpt": "Working with AWS enables Loop to streamline and enhance current artificial intelligence (AI) functionality of its products, ensuring a future-proof integrated solution for brick and mortar retail ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.morningstar.com/news/accesswire/582658msn/loop-receives-100000-in-development-funds-from-amazon-web-services-to-enhance-companys-ai-capabilities",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-26T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

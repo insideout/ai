@@ -2,6 +2,51 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-04-02-you-can-now-buy-aws-99-deepcomposer-keyboard.md",
+      "title": "You can now buy AWS’ $99 DeepComposer keyboard",
+      "excerpt": "DeepComposer, which also works without the actual hardware keyboard, is more of a learning tool, though, and belongs to the same family of AWS hardware like DeepLens and DeepRacer.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/you-can-now-buy-aws-99-deepcomposer-keyboard/amp/",
+      "publishedDateTime": "2020-04-02T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/2020-04-02_1429_001.png?w=1024",
+          "width": 1024,
+          "height": 518,
+          "title": "You can now buy AWS’ $99 DeepComposer keyboard",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-deploying-machine-learning-models-as-serverless-apis.md",
       "title": "Deploying machine learning models as serverless APIs",
       "excerpt": "Machine learning (ML) practitioners gather data, design algorithms, run experiments, and evaluate the results. After you create an ML model, you face another problem: serving predictions at scale cost-effectively. \nServerless technology empowers you to serve your model predictions without worrying about",
@@ -1030,43 +1075,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions.md",
-      "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-      "excerpt": "IBM Watson Assistant for Citizens on the IBM public cloud brings together Watson Assistant, Natural Language Processing capabilities from IBM Research, and state-of-art enterprise AI search capabilities with Watson Discovery, to understand and respond to common questions about COVID-19. \"While helping government agencies and healthcare ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-offers-watson-assistant-for-citizens-to-provide-responses-to-covid-19-questions-884893590.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T05:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1140577/IBM_UAMS_Virtual_Assistant_for_COVID_19.jpg?p=facebook",
-          "width": 1650,
-          "height": 864,
-          "title": "IBM Offers \"Watson Assistant for Citizens\" to Provide Responses to COVID-19 Questions",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

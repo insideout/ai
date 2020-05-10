@@ -2,6 +2,51 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
+      "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+      "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/tecton-ai-emerges-from-stealth-with-20m-series-a-to-build-operational-machine-learning-platform/amp/",
+      "publishedDateTime": "2020-04-28T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/tecton-diagram-light-v3.png?w=680",
+          "width": 680,
+          "height": 274,
+          "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
       "title": "The challenges of developing autonomous vehicles during a pandemic",
       "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
@@ -1024,50 +1069,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai.md",
-      "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
-      "excerpt": "Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
-      "publishedDateTime": "2020-04-27T16:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/solarfusion-796x398.jpg",
-          "width": 796,
-          "height": 398,
-          "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

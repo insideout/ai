@@ -26,19 +26,6 @@ images:
     title: "Getting by in the pandemic with help from (virtual) friends"
 
 related:
-  - title: "Getting By In The Pandemic With Help From (virtual) Friends"
-    excerpt: "What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence. The custom-designed chatbots in this case come from California-based startup Replika and are intended to be virtual friends for people needing a connection."
-    publishedDateTime: 2020-05-06T02:24:00Z
-    webUrl: "https://www.ibtimes.com/getting-pandemic-help-virtual-friends-2970915"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/05/virtual-friends-created-by-the-mobile-application-replika.jpg"
-        width: 1024
-        height: 685
   - title: "Getting by in the pandemic with help from (virtual) friends"
     excerpt: "\"It's so good to hear your voice.\" \"I was worried about you.\" \"What would you like to do today?\" What sounds like ordinary banter between friends is in fact from a chatbot created with artificial intelligence."
     publishedDateTime: 2020-05-08T20:11:00Z

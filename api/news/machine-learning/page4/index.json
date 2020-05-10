@@ -2,6 +2,88 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-10-smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi.md",
+      "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+      "excerpt": "After collecting about 400 images in many different conditions, I uploaded them into Firebase AutoML Vision Edge and had it automatically train a model for us. Upload the data to the Firebase console.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/firebase-developers/smart-garage-control-with-firebase-automl-vision-edge-and-raspberrypi-834fa0eaa7c6",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/1*D_0ACizWrSG-jDfpde6cfQ.png",
+          "width": 1200,
+          "height": 674,
+          "title": "Smart Garage Control With Firebase AutoML Vision Edge and RaspberryPi",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-10-automl-in-smart-iot-devices-a-sensiml-whitepaper.md",
+      "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+      "excerpt": "It then discusses automated machine learning workflows (known as \"AutoML\") and reviews the key stages of the development process from modeling to prototyping. Most importantly, the paper also ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/automl-in-smart-iot-devices---a-sensiml-whitepaper/article_22257c63-fe2c-5137-a501-0ae8cf11e9f4.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T06:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "AutoML in Smart IoT Devices - A SensiML Whitepaper",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-09-darpa-taps-intel-and-georgia-tech-to-pioneer-a-machine-learning-immune-system.md",
       "title": "DARPA taps Intel and Georgia Tech to pioneer a machine learning 'immune system'",
       "excerpt": "In context: The proliferation of machine learning systems in everything for facial recognition systems to autonomous vehicles has come with the risks of attackers figuring out ways to deceive the algorithms. Simple techniques have already worked in test conditions, and researchers are interested in finding ways to mitigate these and other attacks.",
@@ -1162,97 +1244,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors.md",
-      "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
-      "excerpt": "Machine learning experts working at Google Health have published a new study in tandem with the University of California San Francisco (UCSF)’s computational health sciences department that describes a machine learning model the researchers built that can anticipate normal physician drug prescribing patterns, using a patient’s electronic ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/google-and-uscf-collaborate-on-machine-learning-tool-to-help-prevent-harmful-prescription-errors/amp/",
-      "publishedDateTime": "2020-04-02T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-457969068.jpg?w=1024",
-          "width": 1024,
-          "height": 778,
-          "title": "Google and USCF collaborate on machine learning tool to help prevent harmful prescription errors",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-google-is-using-machine-learning-to-improve-the-quality-of-duo-calls.md",
-      "title": "Google is using machine learning to improve the quality of Duo calls",
-      "excerpt": "Google says that 99 percent of Duo calls experience packet loss: 20 percent of these lose over 3 percent of their audio, and 10 percent lose over 8 percent. That’s a lot of audio to replace. Every calling app has to deal with this packet loss somehow,",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theverge.com/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/4/2/21204375/google-duo-waveneteq-packet-loss-concealment-machine-learning-neural-network-deepmind",
-      "publishedDateTime": "2020-04-02T09:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/bfUl1jN9kFr54TYBhItgUvp4C4Q=/0x0:800x600/1400x933/filters:focal(336x236:464x364):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/66593465/google_duo_logo_icon.0.png",
-          "width": 800,
-          "height": 600,
-          "title": "Google is using machine learning to improve the quality of Duo calls",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

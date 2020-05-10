@@ -2,6 +2,98 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-29-quest-for-fusion-energy-may-be-advanced-by-artificial-intelligence-and-machine-learning.md",
+      "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+      "excerpt": "Algorithms are increasingly being deployed to predict disruptions that could potentially occur during fusion experiments and may help turn the long-discussed energy source into reality, experts say.",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868",
+      "ampWebUrl": "https://www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fusion-energy-experiments-machine-learning-artificial-intelligence-computing-iter-1500868?amp=1",
+      "publishedDateTime": "2020-04-29T05:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1585581/iter.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": "Quest for Fusion Energy May Be Advanced by Artificial Intelligence and Machine Learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-microsoft-this-is-how-to-protect-your-machine-learning-applications.md",
+      "title": "Microsoft: This is how to protect your machine-learning applications",
+      "excerpt": "The models that drive our ML applications are incredibly complex, training neural networks on large data sets. But there's a big problem: they're hard to explain or understand. Why does a model parse a red blob with white text as a stop sign and not a soft drink advert?",
+      "heat": 93,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-this-is-how-to-protect-your-machine-learning-applications/",
+      "publishedDateTime": "2020-04-29T03:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2019/08/06/c636a26a-4a72-4e6b-8469-f357a0455fab/thumbnail/1200x675/15ff09e17986a3e2c1c634ad738d0959/20190801-jimhare-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Microsoft: This is how to protect your machine-learning applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-tectonai-emerges-from-stealth-with-20m-series-a-to-build-machine-learning-platform.md",
       "title": "Tecton.ai emerges from stealth with $20M Series A to build machine learning platform",
       "excerpt": "Three former Uber engineers, who helped build the company’s Michelangelo machine learning platform, left the company last year to form Tecton.ai and build an operational machine learning platform for everyone else.",
@@ -1200,88 +1292,6 @@
           "width": 960,
           "height": 540,
           "title": "Microsoft pairs machine learning models to fight software bugs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-cognex-introduces-worlds-first-industrial-smart-camera-powered-by-deep-learning.md",
-      "title": "Cognex Introduces World's First Industrial Smart Camera Powered by Deep Learning",
-      "excerpt": "PRWeb/ -- Cognex Corporation, the leader in industrial machine vision, introduces the In-Sight® D900 embedded vision system. A first-of-its-kind solution, the In-Sight D900 features Cognex's ViDiTM deep learning software inside an In-Sight industrial-grade smart camera.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognex-introduces-world-s-first-industrial-smart-camera-powered-by-deep-learning-1029108615",
-      "publishedDateTime": "2020-04-20T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
-      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_in/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-20T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
           "attribution": null
         }
       ],

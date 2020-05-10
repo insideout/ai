@@ -2,6 +2,43 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-04-16-ai-robotics-start-ups-leverage-tools-to-combat-covid-19.md",
+      "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+      "excerpt": "As India battles to contain the spread of coronavirus, artificial intelligence and technology start-ups in the country are leveraging their tools and solutions to help those in the frontline combat the crisis. Invento Robotics, a Bengaluru-based start-up, has been re-purposing its robots — to screening and diagnostics robots — to help ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/science/ai-robotics-start-ups-leverage-tools-to-combat-covid-19/article31358732.ece/amp/",
+      "publishedDateTime": "2020-04-16T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/opinion/columns/from-the-viewsroom/qtcfto/article30934970.ece/ALTERNATES/LANDSCAPE_615/BL28THINKFTV",
+          "width": 615,
+          "height": 384,
+          "title": "AI, robotics start-ups leverage tools to combat Covid-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-futurelaw-2020-showcases-how-tech-is-transforming-the-law-including-the-impacts-of-ai.md",
       "title": "FutureLaw 2020 Showcases How Tech Is Transforming The Law, Including The Impacts Of AI",
       "excerpt": "As his point vividly suggests, when it comes to law and the practice of law, there is a great deal of human reasoning involved, far beyond the reach of any simplistic calculating machine. Of course, his authoritative remark was proffered in the late 1940s when computers were massive in size and minuscule in computational capabilities when compared to the power of today’s computing,",
@@ -993,51 +1030,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-samsung-to-tap-us-semiconductor-firm-xilinxs-chips-for-5g-network-equipment.md",
-      "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
-      "excerpt": "The companies said Samsung will use Xilinx’s “Versal” computing chips, which will help with a technology called beamforming that lets 5G gear handle more wireless data than previous generations of networks. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ...",
-      "heat": 86,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
-      "ampWebUrl": "https://amp.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/gear/article/3080140/samsung-tap-us-semiconductor-firm-xilinxs-chips-5g-network-equipment",
-      "publishedDateTime": "2020-04-15T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/16/0e822f84-7f87-11ea-8736-98edddd9b5ca_image_hires_101214.JPG?itok=wyBLDjSC&v=1587003142",
-          "width": 1200,
-          "height": 630,
-          "title": "Samsung to tap US semiconductor firm Xilinx’s chips for 5G network equipment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

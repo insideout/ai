@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-27-scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai.md",
+      "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
+      "excerpt": "Fusion reactors – not to be confused with common fission reactors – are the holiest of Grails when it comes to physics achievements. According to most experts, a successful fusion reactor would function as a near-unlimited source of energy.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/scientists-think-well-finally-solve-nuclear-fusion-thanks-to-cutting-edge-ai/amp/",
+      "publishedDateTime": "2020-04-27T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/solarfusion-796x398.jpg",
+          "width": 796,
+          "height": 398,
+          "title": "Scientists think we’ll finally solve nuclear fusion thanks to cutting-edge AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-companies-equip-cameras-with-ai-to-track-social-distancing-and-mask-wearing.md",
       "title": "Companies equip cameras with AI to track social distancing and mask-wearing",
       "excerpt": "Stores and workplaces are equipping existing cameras with AI software that can track compliance with guidelines like social distancing and mask-wearing.",
@@ -915,28 +959,20 @@
     },
     {
       "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
-      "title": "Logical Clocks Launches Hopsworks.ai: The World’s First Artificial Intelligence Cloud Platform with a Feature Store",
-      "excerpt": "With Hopsworks.ai, Logical Clocks brings to the cloud the open-source and award-winning Hopsworks platform. For companies, this translates into reduced time and costs to bring new machine learning models to production,",
+      "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
+      "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/logical-clocks-launches-hopsworks-ai-the-world-s-first-artificial-intelligence-cloud-platform-with-a-feature-store-1029132183",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15882661",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661",
       "publishedDateTime": "2020-04-27T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1036,51 +1072,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023.md",
-      "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-      "excerpt": "AI In Computer Vision Market Research Report by Component (Hardware, Software), Vertical (healthcare, security,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-research-report-share-growth-opportunity-and-forecast-2023-2020-05-05",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "AI In Computer Vision Market Research Report Share, Growth, Opportunity And Forecast-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

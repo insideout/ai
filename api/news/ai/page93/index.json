@@ -2,6 +2,51 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2020-02-01-indias-plans-for-data-centre-parks-may-finally-force-facebook-and-twitter-to-localise.md",
+      "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+      "excerpt": "The proposed policy directly takes on a highly-debated clause in India’s personal data protection bill, which suggests that data collected by foreign companies such as Facebook, TikTok ... for tech advancements by setting up a national portal for artificial intelligence (AI) research and development. “We appreciate the government’s ...",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/",
+      "ampWebUrl": "https://qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/india/1795276/nirmala-sitharaman-proposed-data-centre-parks-in-union-budget/amp/",
+      "publishedDateTime": "2020-02-01T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/02/AP_20032244386981-e1580546856302.jpg?quality=75&strip=all&w=1400",
+          "width": 1400,
+          "height": 787,
+          "title": "India’s plans for data centre parks may finally force Facebook and Twitter to localise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-01-how-aws-is-making-the-six-nations-2020-the-most-immersive-yet.md",
       "title": "How AWS is making the Six Nations 2020 the most immersive yet",
       "excerpt": "AWS tools including Elastic MapReduce and SageMaker are then used to harness machine learning and analytics to get detailed insight into that data, creating analytics that can then be shared in real time for live broadcast to viewers in over 170 countries to enjoy. For example, to power the new Kick Predictor statistics tool, the AWS Machine ...",
@@ -1250,51 +1295,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-31-want-to-be-ai-first-you-need-to-be-data-first.md",
-      "title": "Want To Be AI-First? You Need To Be Data-First.",
-      "excerpt": "Those that implement AI and Machine Learning project learn quickly that machine learning projects are not like typical application development projects. The code is the least significant part.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/01/30/want-to-be-ai-first-you-need-to-be-data-first/amp/",
-      "publishedDateTime": "2020-01-30T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e0f567178b3f4000623f395%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": "Want To Be AI-First? You Need To Be Data-First.",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,51 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
       "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
       "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
@@ -1216,50 +1261,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-clearview-ai-source-code-revealed-exposing-majority-security-lapse.md",
-      "title": "Clearview AI source code revealed, exposing majority security lapse",
-      "excerpt": "Hussein also found the source code had been configured to allow anyone to register as a new user and log in to the platform. Hoan Ton-That, CEO and co-founder of Clearview AI, responded to the cybersecurity lapse, saying that it “did not expose any personally identifiable information, search history, or biometric identifiers.” He added that ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse",
-      "ampWebUrl": "https://www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/security/cyber-security/355374/clearview-ai-source-code-revealed-exposing-majority-security-lapse?amp",
-      "publishedDateTime": "2020-04-20T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587403508/shutterstock_1658378527.jpg",
-          "width": 5000,
-          "height": 3051,
-          "title": "Clearview AI source code revealed, exposing majority security lapse",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

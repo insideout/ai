@@ -2,6 +2,51 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-04-10-facebook-proposes-3d-navigation-task-for-training-autonomous-robots.md",
+      "title": "Facebook proposes 3D navigation task for training autonomous robots",
+      "excerpt": "“Crucially, VLN-CE … provides the [research] community with a testbed where these sort ... In 2018, the company open-sourced AI that can navigate New York City streets with 360-degree images. More recently, a Facebook team published a paper describing a system that learns how to get around an office by watching videos.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/facebook-proposes-3d-navigation-task-for-training-autonomous-robots/amp/",
+      "publishedDateTime": "2020-04-10T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/facebook-ai.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Facebook proposes 3D navigation task for training autonomous robots",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise.md",
       "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
       "excerpt": "And then, we see if we use a certain training set, how well does that do on the test set? So ideally yes, I would love to have a training set,” said Aichner. Other issues discussed in the VentureBeat report include building and improving a neural network. The report also looks at how data is moved between Azure and the cloud and the Edge.",
@@ -997,51 +1042,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge.md",
-      "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
-      "excerpt": "Michael Kearns and Aaron Roth, professors at the University of Pennsylvania, suggest that the solution is to \"embed precise definitions of fairness, accuracy, transparency, and ethics at the algorithm's design stage ... as well as designating trained people to examine and audit AI output. \"Have scientists and engineers who know this area ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-re-evaluate-ai-algorithms-right-from-the-design-stage-experts-urge/",
-      "publishedDateTime": "2020-04-09T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/08/23/48dae248-bd26-4d6e-be1c-cba4b7a77c0c/thumbnail/1200x675/32335cdb6010e3c68e6e4ca3fbcd103e/over-half-of-google-searches-dont-produc-5d5558af9900780001fb5308-1-aug-23-2019-14-26-20-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Time to re-evaluate AI algorithms right from the design stage, experts urge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
