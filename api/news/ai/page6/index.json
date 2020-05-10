@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-04-navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries.md",
+      "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+      "excerpt": "The stated reason for the Department of Defense (DoD) opting to release the videos consisted of wanting to set the record straight about the authenticity of the videos, doing so because the videos had prior been surreptitiously leaked,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "publishedDateTime": "2020-05-04T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F140238060%2F0x0.jpg%3FcropX1%3D416%26cropX2%3D4838%26cropY1%3D0%26cropY2%3D3318",
+          "width": 1200,
+          "height": 900,
+          "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
       "title": "There's more to usability in AI and IoT than you think",
       "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
@@ -179,6 +224,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
+      "title": "Your Organization Needs a Proprietary Data Strategy",
+      "excerpt": "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
       "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
       "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
@@ -314,27 +396,27 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
           "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
@@ -1217,97 +1299,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-scientists-make-artificial-skin-for-robots-taking-us-one-step-closer-to-a-world-of-androids.md",
-      "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
-      "excerpt": "Scientists from around the world are developing robotic skin that helps machines gain the sense of touch. It's estimated that robots will displace 20 million human workers by 2030.",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/05/02/scientists-make-artificial-skin-for-robotic-androids.html",
-      "publishedDateTime": "2020-05-02T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105897943-1557249763884gettyimages-1044123062.jpeg?v=1557249783",
-          "width": 4000,
-          "height": 2667,
-          "title": "Scientists make artificial skin for robots, taking us one step closer to a world of androids",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity.md",
-      "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-      "excerpt": "Trusting AI to keep the banks safe can be a good or bad thing. It all depends on who wins -- villains or heroes. We'll discover",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/money-in-the-hands-of-ai-how-fintech-and-banks-are-banking-on-ai-for-cybersecurity-2020-05-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-02T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Money in the Hands of AI: How Fintech and Banks are Banking on AI for Cybersecurity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

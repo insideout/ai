@@ -2,6 +2,95 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
+      "title": "Watch This AI Algorithm Change Humans into Animorphs",
+      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
+      "publishedDateTime": "2020-05-02T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
+          "width": 2488,
+          "height": 1398,
+          "title": "Watch This AI Algorithm Change Humans into Animorphs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
+      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
+      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
+      "publishedDateTime": "2020-05-02T17:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-02-tectonai-snags-20-million-to-solve-ais-data-problem.md",
       "title": "Tecton.ai Snags $20 Million To Solve AI’s Data Problem",
       "excerpt": "While the COVID-19 pandemic has halted many venture fundings, Tecton.ai has been able to buck the trend. This week the company announced a $20 million investment from Andreessen Horowitz and Sequoia (last year there was a $5 million angel round).",
@@ -504,7 +593,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -974,96 +1064,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-astronauts-adopt-mozilla-speech-tech-to-control-moon-robots.md",
-      "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-      "excerpt": "The text-to-speech engine will give astronauts their hands back during complex tasks. The machines are taking over, get ready. By 2024, AI will have dramatically transformed how we live our lives, conduct business,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/astronauts-adopt-mozilla-speech-tech-to-control-moon-robots/",
-      "publishedDateTime": "2020-05-01T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/09/23/bb592151-a7e8-47d8-84ec-11dcda294513/resize/1200x900/7f35b9e8aa729f1d5fbf1543913e030e/roborock-s4-1.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": "Astronauts adopt Mozilla speech tech to control Moon robots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-01-google-releases-ai-tool-for-processing-paycheck-protection-program-loans.md",
-      "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-      "excerpt": "Google released a tool -- PPP Lending AI -- that enables lenders to leverage AI to process applications for the U.S. Paycheck Protection Program.",
-      "heat": 88,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/01/google-releases-ai-solution-to-help-lenders-process-paycheck-protection-program-loans/amp/",
-      "publishedDateTime": "2020-05-01T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/04/google-cloud-2-e1576177709339.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google releases AI tool for processing Paycheck Protection Program loans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

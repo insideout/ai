@@ -2,6 +2,96 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2020-01-27-fueling-intelligent-energy-with-iot.md",
+      "title": "Fueling intelligent energy with IoT",
+      "excerpt": "At Microsoft, building a future that we can all thrive in is at the center of everything we do. On January 16, as part of the announcement that Microsoft will be carbon negative by 2030, we discussed how advances in human prosperity, as measured by GDP growth, are inextricably tied to the use of energy.",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://azure.microsoft.com/blog/fueling-intelligent-energy-with-iot/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-27T00:00:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/e97a92db-78b6-4875-bc47-04160885964b.png",
+          "width": 837,
+          "height": 593,
+          "title": "Fueling intelligent energy with IoT",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
+      "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+      "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/",
+      "ampWebUrl": "https://www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-license-plate-readers-cheaper-drive-carefully/amp",
+      "publishedDateTime": "2020-01-27T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e2b52d1097df7000896da19/master/pass/Transpo-licenseplates-502111737.jpg",
+          "width": 2400,
+          "height": 1594,
+          "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-tinder-asks-does-this-bother-you.md",
       "title": "Tinder Asks ‘Does This Bother You’?",
       "excerpt": "If the answer is yes, Tinder will direct them to its report form. The new feature is available in 11 countries and nine languages currently, with plans to eventually expand to every language and country where the app is used. Major social media platforms like Facebook and Google have enlisted AI for years to help flag and remove violating content.",
@@ -977,97 +1067,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-ibm-launches-policy-lab-with-ai-policy-imperatives.md",
-      "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-      "excerpt": "One of the biggest challenges is connecting the details of every interaction across all channels to ensure each customer has a seamless experience. By leveraging Microsoft's Azure cloud and AI technologies, Genesys is helping enterprises create a seamless customer journey with Microsoft's trusted, secure and scalable platform.\" IBM (NYSE ...",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/the-ai-eye-microsoft-expands-partnership-with-genesys-ibm-nyse-ibm-launches-policy-lab-with-ai-policy-imperatives-2020-01-24",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-24T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI Eye: Microsoft Expands Partnership with Genesys, IBM IBM Launches Policy Lab with AI Policy Imperatives",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-01-24-german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience.md",
-      "title": "German football league Bundesliga teams with AWS to improve fan experience",
-      "excerpt": "Germany’s top soccer (football) league, Bundesliga, announced today it is partnering with AWS to use artificial intelligence to enhance the fan experience during games. Andreas Heyden, executive vice president for digital sports at the Deutsche Fußball Liga, the entity that runs The Bundesliga, says that this could take many forms ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/",
-      "ampWebUrl": "https://techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/24/german-football-league-bundesliga-teams-with-aws-to-improve-fan-experience/amp/",
-      "publishedDateTime": "2020-01-24T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-459244219.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "German football league Bundesliga teams with AWS to improve fan experience",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

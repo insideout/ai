@@ -2,6 +2,87 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
+      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
+      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "publishedDateTime": "2020-04-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
       "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
       "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -953,80 +1034,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
-      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
-      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
-          "width": 400,
-          "height": 349,
-          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major growth factors of the market include the rising urge of predictive analytics to reduce risks and improve significant health concerns, and growing demand for improving Electronic Health ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-tm--882798830.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

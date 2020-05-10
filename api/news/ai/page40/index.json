@@ -2,6 +2,80 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-03-31-poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an-ai-driven-predictive-model-of-ovarian-cancer.md",
+      "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+      "excerpt": "MINNEAPOLIS, March 31, 2020 (GLOBE NEWSWIRE) --  (NASDAQ: POAI ) (“POAI” or “the Company”), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bakersfield.com/ap/news/poai-subsidiary-helomics-continues-progress-towards-goal-of-developing-an/article_423a4c72-6993-5f2a-9e02-8f7e925d7d5c.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": "POAI Subsidiary Helomics Continues Progress Towards Goal of Developing an AI-Driven Predictive Model of Ovarian Cancer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-catholic-church-tech-firms-join-call-for-transparency-in-ai.md",
+      "title": "Catholic church, tech firms join call for transparency in AI",
+      "excerpt": "The Catholic Church joined with technology companies last month to release the \"Rome Call for AI Ethics\" in what it hopes will lend meaning if not governance frameworks for the use of artificial intelligence.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.upi.com/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "ampWebUrl": "https://www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/Voices/2020/03/31/Catholic-church-tech-firms-join-call-for-transparency-in-AI/2661585655627/",
+      "publishedDateTime": "2020-03-31T05:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2661585655627/2020/1/1acca51c47c52ff10817f3b95463593d/v1.5/Catholic-church-tech-firms-join-call-for-transparency-in-AI.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "Catholic church, tech firms join call for transparency in AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-31-modelop-helps-enterprises-deploy-monitor-and-maintain-ai-models.md",
       "title": "ModelOp helps enterprises deploy, monitor, and maintain AI models",
       "excerpt": "ModelOp, a startup developing AI software and development services for enterprises, today announced that it has raised $6 million. It plans to use the capital to support demand for its products in a market that IDC anticipates will be worth $8 billion by 2022. The term ModelOps refers to the process of cycling analytical models from data ...",
@@ -1163,94 +1237,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-via-raises-200-million-to-optimize-ride-sharing-routes-with-ai.md",
-      "title": "Via raises $200 million to optimize ride-sharing routes with AI",
-      "excerpt": "Transportation startup Via today announced that it’s raised ... Via’s ride-sharing service taps AI to combine, in real-time, multiple passengers or packages headed in the same direction ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/30/via-raises-200-million-to-optimize-ride-sharing-routes-with-ai/amp/",
-      "publishedDateTime": "2020-03-30T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/09/17c622_007-e1585590183585.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Via raises $200 million to optimize ride-sharing routes with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-scientists-use-ai-system-to-translate-brain-activity-into-text.md",
-      "title": "Scientists use AI system to translate brain activity into text",
-      "excerpt": "A new AI system that converts brain activity into text could transform communication for people who can’t speak or type. The mind-reading machine uses brain implants to track what neurons do when someone speaks. An algorithm then converts the data into a string of numbers, which another system then translates into a sequence of words.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/30/scientists-use-ai-system-to-translate-brain-activity-into-text/amp/",
-      "publishedDateTime": "2020-03-30T10:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Untitled-design43-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "Scientists use AI system to translate brain activity into text",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

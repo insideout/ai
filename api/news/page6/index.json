@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-05-ibm-watson-aiops-automates-the-detection-of-it-anomalies.md",
+      "title": "IBM Watson AIOps automates the detection of IT anomalies",
+      "excerpt": "IBM has launched a slew of new AI services that aim to help chief information officers (CIOs) to predict and tackle IT problems before they occur. Watson AIOps, unveiled at the company's Think Digital Conference,",
+      "heat": 114,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/355538/ibm-watson-aiops-official?amp",
+      "publishedDateTime": "2020-05-05T03:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1588670694/itpro/IBMBuilding.jpg",
+          "width": 1000,
+          "height": 690,
+          "title": "IBM Watson AIOps automates the detection of IT anomalies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-05-ibm-rolls-out-watson-aiops-that-helps-enterprises-automate-it-operations.md",
       "title": "IBM rolls out Watson AIOps that helps enterprises automate IT operations",
       "excerpt": "IBM has launched Watson AIOps, a new offering that uses AI to automate how enterprises self-detect, diagnose and respond to IT anomalies in real time.Watson AIOps enables organisations to introduce au",
@@ -1042,50 +1087,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
-      "title": "Intel acquires urban mobility startup Moovit for $900 million",
-      "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
-      "publishedDateTime": "2020-05-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all",
-          "width": 1500,
-          "height": 776,
-          "title": "Intel acquires urban mobility startup Moovit for $900 million",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

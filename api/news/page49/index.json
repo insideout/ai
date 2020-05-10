@@ -2,6 +2,96 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-03-30-key-takeaways-from-amds-financial-analyst-day.md",
+      "title": "Key Takeaways From AMD's Financial Analyst Day",
+      "excerpt": "Patrick Moorhead takes a look into AMD's Financial Analyst Day and how it laid the foundation of expectations for the coming years.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/03/30/key-takeaways-from-amds-financial-analyst-day/amp/",
+      "publishedDateTime": "2020-03-30T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e78f91810380d0006fbdc78%2F0x0.jpg",
+          "width": 1016,
+          "height": 610,
+          "title": "Key Takeaways From AMD's Financial Analyst Day",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-30-microsoft-will-no-longer-make-minority-investments-in-facial-recognition-tech.md",
+      "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+      "excerpt": "Microsoft (NASDAQ:MSFT) is drawing a line in the sand when it comes to facial recognition technology. On Friday, the company announced it was divesting its stake in a facial recognition start-up and vowed to no longer make minority investments in the area. Through its M12 venture fund, the software giant announced over the weekend that it ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/03/30/microsoft-will-no-longer-make-minority-investments.aspx",
+      "publishedDateTime": "2020-03-30T12:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F565770%2Fmicrosoft-anyvision-mf.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Will No Longer Make Minority Investments in Facial Recognition Tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-30-microsoft-teams-up-with-leading-universities-to-tackle-coronavirus-pandemic-using-ai.md",
       "title": "Microsoft teams up with leading universities to tackle coronavirus pandemic using AI",
       "excerpt": "Specifically, those with successful proposals will get unlimited use of the C3 AI Suite, access to the Microsoft Azure cloud platform, and access to the Blue Waters supercomputer at the National Center for Super Computing Applications at the University of Illinois Urbana-Champaign (UIUC). To fund the institute, C3.ai will provide $57,250,000 ...",
@@ -960,95 +1050,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-10-details-about-voice-activated-tech-every-user-should-know.md",
-      "title": "10 Details About Voice-Activated Tech Every User Should Know",
-      "excerpt": "Successful CIOs, CTOs & executives from Forbes Technology Council offer firsthand insights on tech & business. Share to Facebook  Share to Linkedin Between Siri, Alexa and Google Assistant, the world seems to have a lot of voice-activated assistants these days.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/03/30/10-details-about-voice-activated-tech-every-user-should-know/amp/",
-      "publishedDateTime": "2020-03-30T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1177334841%2F0x0.jpg%3Ffit%3Dscale",
-          "width": 1200,
-          "height": 800,
-          "title": "10 Details About Voice-Activated Tech Every User Should Know",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.md",
-      "title": "AI transforms 'The Great British Bakeoff' into a horror show",
-      "excerpt": "Artificial intelligence (AI) can do astonishing things when given specific jobs, but it's terrible at understanding context -- something we've seen before in this series. Thanks to a new experiment inspired by The Great British Bakeoff (GBBO), we can again witness the tragedy of AI stepping outside its lane. Researcher Janelle Shane trained ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "ampWebUrl": "https://www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/2020-03-30-ai-transforms-the-great-british-bakeoff-into-a-horror-show.html",
-      "publishedDateTime": "2020-03-30T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2020-03%252F275fd480-71c1-11ea-b24b-34907b95e1ec%26client%3Da1acac3e1b3290917d92%26signature%3De0baf5c98e42526fd12bbdf4ea6db09610a94e60&client=amp-blogside-v2&signature=8ef779eeee62763e517efee42d0b6f6d9d4b1fc6",
-          "width": 600,
-          "height": 350,
-          "title": "AI transforms 'The Great British Bakeoff' into a horror show",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

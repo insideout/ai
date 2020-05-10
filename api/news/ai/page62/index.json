@@ -2,6 +2,97 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-03-11-machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026.md",
+      "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
+      "excerpt": "Market Analysis: In accordance with the study held by Acumen Research, the Machine Learning Market size is projected to reach US$ 76.8 Bn by 2026 with a CAGR of 40.1% from 2019 to 2026. The report provides analysis of global Machine Learning Market for the period 2015-2026,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-growth-factors-product-types-and-application-by-regions-analysis-and-forecast-by-2026-2020-03-11",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Machine Learning Market Growth Factors, Product Types and Application by Regions Analysis and Forecast by 2026",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-built-language-processing-ai-technology-that-was-a-hit-after-debating-against-humans-now-its-ready-for-businesses-needing-to-plow-through-data.md",
+      "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
+      "excerpt": "IBM's AI head said the company is commercializing its famous \"Debater\" technology, which became a hit for debating with humans.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/ibm-debater-watson-ai-technology-available-to-businesses-2020-3",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ab2631798e6e51f008b45a7?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM built language-processing AI technology that was a hit after debating against humans. Now it's ready for businesses needing to plow through data.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-new-york-times-best-selling-book-the-lean-startup-expands-series-with-newest-addition-lean-ai.md",
       "title": "New York Times Best-Selling Book, The Lean Startup, Expands Series with Newest Addition, Lean AI",
       "excerpt": "SAN FRANCISCO--(BUSINESS WIRE)--The next book in the Lean Startup series by Eric Ries, and the first book from Lomit Patel, Lean AI will launch in bookstores across the country on March 17th. Published by O’Reilly Media, Lean AI dives into the power of artificial intelligence and automation to adapt, customize, and personalize cross-channel ...",
@@ -1102,88 +1193,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-the-top-7-use-cases-for-touch-screen-object-recognition.md",
-      "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-      "excerpt": "Use these examples to inspire your own brand campaigns for touchscreen object recognition and interactive displays, tables, and video walls. The recognition of objects on large-scale touch screens picks up the well-known principle of cashier systems barcodes and takes it to a new level: objects which are equipped with a special marker chip or ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://customerthink.com/the-top-7-use-cases-for-touch-screen-object-recognition/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CustomerThink",
-        "domain": "customerthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://customerthink.com/wp-content/uploads/technology-785742_1280-pixabay-technology-computer-1.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": "The Top 7 Use Cases for Touch Screen Object Recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies.md",
-      "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
-      "excerpt": "While speaking on a panel recently, Landing AI founder and Google Brain cofounder Andrew Ng described a moment when he read the OECD’s AI ethics principles to an engineer, and the engineer told him the words give no instruction on how he should change how he does his job. That’s why, Ng said, any code of conduct should be designed by and ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/",
-      "ampWebUrl": "https://venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/03/10/microsoft-researchers-create-ai-ethics-checklist-with-ml-practitioners-from-a-dozen-tech-companies/amp/",
-      "publishedDateTime": "2020-03-10T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?fit=1200%2C573&strip=all",
-          "width": 1200,
-          "height": 573,
-          "title": "Microsoft researchers create AI ethics checklist with ML practitioners from a dozen tech companies",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

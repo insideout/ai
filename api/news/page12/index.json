@@ -2,6 +2,125 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
+      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
+      "excerpt": "The dotData AI-FastStart™ Program includes: * 1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "publishedDateTime": "2020-04-29T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
+      "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+      "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
+      "heat": 81,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/ai/tecton-ai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T12:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/04/tecton-hero-1180px@2x-1024x357.png",
+          "width": 1024,
+          "height": 357,
+          "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-covid-19-insights-quantzigs-latest-success-story-illustrates-how-multi-touch-attribution-analysis-solutions-can-help-e-learning-companies-drive-conversions-and-improve-rois.md",
+      "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+      "excerpt": "Quantzig, global data analytics and advisory firm, that delivers actionable analytics solutions presents a new case study series that focuses on how coronavirus is impacting businesses across geographies.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200429005776/en/COVID-19-Insights-Quantzig’s-Latest-Success-Story-Illustrates",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T11:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200429005776/en/570204/23/Quantzig_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "COVID-19 Insights: Quantzig’s Latest Success Story Illustrates How Multi-Touch Attribution Analysis Solutions Can Help E-learning Companies Drive Conversions and Improve ROIs",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
       "title": "The AI meme generator is better at making memes than humans",
       "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
@@ -510,35 +629,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
-      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-      "excerpt": "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15911575",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575",
-      "publishedDateTime": "2020-04-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-ai-cannot-be-recognised-as-an-inventor-us-rules.md",
       "title": "AI cannot be recognised as an inventor, US rules",
       "excerpt": "The US Patent and Trademark Office rejected two patents where the AI system Dabus was listed as the inventor, in a ruling on Monday. US patent law had previously only specified eligible inventors had to be \"individuals\".",
@@ -970,87 +1060,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else",
-      "ampWebUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
-      "publishedDateTime": "2020-04-28T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/news/s/self-drivi/self-driving-car-testing-goes-all-virtual-just-like-everythi_p3je.620.jpg",
-          "width": 620,
-          "height": 349,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
-      "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
-      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
-      "publishedDateTime": "2020-04-28T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
-          "width": 4842,
-          "height": 2952,
-          "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

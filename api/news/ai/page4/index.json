@@ -2,6 +2,51 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-06-hong-kong-stocks-rally-a-second-straight-day-with-chinas-largest-chip-maker-smic-soaring-nearly-11-per-cent-on-a-share-plans.md",
+      "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
+      "excerpt": "Investors continued to brush off Monday’s rout, when the Hang Seng Index fell more than 1,000 points. Overall, Hong Kong sentiment has been positive, with the benchmark rising in seven of the last nine sessions.",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "ampWebUrl": "https://amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/money/article/3083163/hong-kong-stocks-rally-second-straight-day-chinas-largest-chip-maker",
+      "publishedDateTime": "2020-05-06T02:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/119003a6-8f70-11ea-a674-527cfdef49ee_image_hires_173713.jpg?itok=bLFr0WBZ&v=1588757844",
+          "width": 1200,
+          "height": 630,
+          "title": "Hong Kong stocks rally a second straight day, with China’s largest chip maker SMIC soaring nearly 11 per cent on A-share plans",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-why-choose-a-stock-image-yourself-when-this-robot-can-do-it-for-you.md",
       "title": "Why choose a stock image yourself when this robot can do it for you?",
       "excerpt": "Stock photography is typically categorized into two camps: overly specific images that no one understands, or truly bizarre photos that make their way into the internet meme cycle ( distracted boyfriend meme,",
@@ -1286,51 +1331,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips.md",
-      "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
-      "excerpt": "Lenovo is launching two-socket ThinkSystem servers that feature Advanced Micro Devices Epyc processors with 64 cores each.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/lenovo-launches-two-processor-servers-with-64-core-amd-epyc-chips/amp/",
-      "publishedDateTime": "2020-05-05T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/lenovo.jpg?fit=1200%2C564&strip=all",
-          "width": 1200,
-          "height": 564,
-          "title": "Lenovo launches two-processor servers with 64-core AMD Epyc chips",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

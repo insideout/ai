@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
+      "title": "Can robotaxis ease public transport fears in China?",
+      "excerpt": "Internet search engine Baidu, China's answer to Google, is rolling out a fleet of 75 of its Apollo robotaxis across three cities in China. Baidu worked with a number of carmakers",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bbc.com/news/business-52392366",
+      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
+      "publishedDateTime": "2020-05-07T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": "Can robotaxis ease public transport fears in China?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-07-waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides.md",
       "title": "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides",
       "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
@@ -220,52 +265,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
-      "title": "3 Artificial Intelligence Stocks to Buy in May",
-      "excerpt": "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46.",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
-      "publishedDateTime": "2020-05-06T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
-          "width": 580,
-          "height": 378,
-          "title": "3 Artificial Intelligence Stocks to Buy in May",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-sleeker-lidar-moves-volvo-closer-to-selling-a-self-driving-car.md",
       "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
       "excerpt": "Using technology from Silicon Valley's Luminar, the Swedish automaker plans to offer completely autonomous highway driving by 2022.",
@@ -298,6 +297,51 @@
           "width": 2400,
           "height": 1600,
           "title": "Sleeker Lidar Moves Volvo Closer to Selling a Self-Driving Car",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
           "attribution": null
         }
       ],
@@ -886,6 +930,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
+      "title": "Your Organization Needs a Proprietary Data Strategy",
+      "excerpt": "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-here-are-the-top-10-technology-trends-of-the-4th-industrial-revolution.md",
       "title": "Here Are The Top 10 Technology Trends Of The 4th Industrial Revolution",
       "excerpt": "There are many technology trends that are currently altering the world as we know it. Here I pull out the top 10 future tech trends that will define the next decade and explain what they are and how each is transforming our world.",
@@ -1228,80 +1309,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
-      "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
-      "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.caranddriver.com/news/a32324475/tesla-posts-profit-q1-2020/",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp32324475/tesla-posts-profit-q1-2020/",
-      "publishedDateTime": "2020-04-30T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/tesla-logo-is-seen-at-its-factory-in-fremont-california-on-news-photo-1588013368.jpg?crop=1xw:0.82183xh;center,top&resize=1200:*",
-          "width": 1024,
-          "height": 512,
-          "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-5-artificial-intelligence-stocks-to-consider.md",
-      "title": "5 Artificial Intelligence Stocks to Consider",
-      "excerpt": "[Editor’s note: “5 Artificial Intelligence Stocks to Consider ... Google is a top player in autonomous vehicles. The company’s Waymo unit could be worth as much as $175 billion, according ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/5-artificial-intelligence-stocks-to-consider-1028347999",
-      "publishedDateTime": "2020-04-30T01:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

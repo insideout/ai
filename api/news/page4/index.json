@@ -584,6 +584,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-3-artificial-intelligence-stocks-to-buy-in-may.md",
+      "title": "3 Artificial Intelligence Stocks to Buy in May",
+      "excerpt": "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx",
+      "publishedDateTime": "2020-05-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg",
+          "width": 580,
+          "height": 378,
+          "title": "3 Artificial Intelligence Stocks to Buy in May",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-national-lab-taps-ai-machine-with-massive-chip-to-fight-coronavirus.md",
       "title": "National Lab Taps AI Machine With Massive Chip to Fight Coronavirus",
       "excerpt": "Argonne National Laboratory is using the CS-1 computer, from AI chip startup Cerebras Systems, to run learning models aimed at discovering compounds that can be used in existing or new drugs to help create a vaccine or treatments.",
@@ -1069,52 +1114,6 @@
         "AI",
         "AI in Robotics",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-how-nvidia-hopes-to-industrialize-ai-with-mlops.md",
-      "title": "How NVIDIA hopes to industrialize AI with MLOps",
-      "excerpt": "We still spend far too much time training machine learning models rather than deploying them. Could MLOps--which brings data scientists and DevOps together--be a solution?",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-nvidia-hopes-to-industrialize-ai-with-mlops/",
-      "publishedDateTime": "2020-05-05T14:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/03/06/577ae693-b828-4a28-93b5-9d7ba518a5c2/resize/1200x/a0c1793f8d8ebe9e2fc334808c235fb0/istock-1017199998.jpg",
-          "width": 1200,
-          "height": 848,
-          "title": "How NVIDIA hopes to industrialize AI with MLOps",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

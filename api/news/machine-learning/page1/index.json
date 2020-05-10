@@ -787,6 +787,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
+      "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges---forecast-2023-2020-05-02",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-openai-unveils-neural-network-capable-of-creating-music-and-releases-debut-mixtape.md",
       "title": "OpenAI unveils neural network capable of creating music and releases debut mixtape",
       "excerpt": "Training Jukebox involved creating a dataset of more than one million songs including LyricWiki lyrical information and metadata, the research lab says.",
@@ -963,23 +1008,23 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
-      "title": "Artificial Intelligence can't technically invent things, says patent office",
-      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
+      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
+      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
+      "excerpt": "The dotData AI-FastStart™ Program includes: * 1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud ...",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "publishedDateTime": "2020-04-30T01:39:00-07:00",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-ai-ml-through-automl-2-0-1029146483",
+      "publishedDateTime": "2020-04-29T13:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -989,15 +1034,7 @@
         "publishers": null,
         "authors": null
       },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Artificial Intelligence can't technically invent things, says patent office",
-          "attribution": null
-        }
-      ],
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"
@@ -1170,35 +1207,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-20.md",
-      "title": "dotData Launches AI-FastStart™ Program to Make it Easy for BI Teams to Adopt AI/ML through AutoML 2.0",
-      "excerpt": "1 year full license to the award-winning dotData Enterprise AutoML 2.0 platform * Full hosting by dotData on an enterprise-grade secure cloud infrastructure * 12 remote training sessions for an ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15911575/dotdata-launches-ai-faststart-program-to-make-it-easy-for-bi-teams-to-adopt-aiml-through-automl-2-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15911575",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15911575",
-      "publishedDateTime": "2020-04-29T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

@@ -25,6 +25,6 @@ images:
     height: 792
     title: "Volvo Will Add Lidar for ‘Eyes-Off-the-Road’ Self-Driving Cars on Highways"
 
-secured: "rFc11NNpuhL+7gkjApZwcZJTHSiN9Ci+twfqCXz3lLIXOCqGS8/w5fS+O4c/igWwU5sKqJNVOmYkb8l99IT1c5mPjxtScUvw2Rca9ulZFGDzWfgC06QJWzyr5FL+/V6vY3N72sQ1bXNmquJqC+4PBWe9wpwutiBNS+VI9JXOohYQ6/vicluv7MncA3Yi0oSCzT8mV21LgcSuRLCUalASojheFMQm/GIdGs6BNPeHFoBKs/ojzOytnN2N/hQWPlah08DpUhuVgVjc48XGAmZISsHnKjR4sA8YjuH83n21sq1dNJR7Vmk7Dk+eTnH/UBZq;JEdut/aN9pVVck6jBq2M4Q=="
+secured: "fBLm8e744mmpXHQPYPR3Qhcjsni/EmrtwevRyakcZD5jnyQF/qdD3iAvJhcpC5cWwzKEePxQHXrwubN8ArWugm1Rxbk4NtOiU/C+mH3rrHTGQjrySKNBF8pGH1AEb9TZ9dgRviLWy+0QlCdhormY1090FxouQOWrZXrk9+xF5oyzG7h5s1I56r79PAPhINS6cI1CpHHDX8LZVw+azj4vN1AQqBY4MVydhMOdBz7cRdu9UvYLkEkmaRr25zhBw69cUDPPmmLwGS5bI2icTVche8uYNr3rOYmj5K9KMq0cgLrL3hqn25Xnd/FOWh/dAiEmFfGr3Lb26DsPHE+SMxD+GFDUg2vacJ9I8qyyVZcaWSh34cG4xi1pOlLzfpKcx7rdRbc+rqTCSpujXJ+fgVtVAfV+cHNnZmkJv4TaOBx6Qa2bi+f5JTizp5HeMxIrVdzO+jm/sJAu3O1hAbSr121SVH6cNvr+Ark+3PMpC3ZhB78=;6TVQIHe4OVi0YZhJ7jfJaA=="
 ---
 

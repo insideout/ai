@@ -2,6 +2,95 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-13-fashion-that-will-hide-you-from-face-recognition-technology.md",
+      "title": "Fashion that will hide you from face-recognition technology",
+      "excerpt": "A pair of recent papers out of Institut Eurécom discussed improvements in facial recognition in cases where the face is occluded by clothing or accessories. Object recognition systems can ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863",
+      "ampWebUrl": "https://io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "cdnAmpWebUrl": "https://io9-gizmodo-com.cdn.ampproject.org/c/s/io9.gizmodo.com/how-fashion-can-be-used-to-thwart-facial-recognition-te-1495648863/amp",
+      "publishedDateTime": "2020-04-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "io9.gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/19bq4btbxr3ipjpg.jpg",
+          "width": 800,
+          "height": 400,
+          "title": "Fashion that will hide you from face-recognition technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-12-how-to-reduce-the-unemployment-gap-with-ai.md",
+      "title": "How To Reduce The Unemployment Gap With AI",
+      "excerpt": "McKinsey & Company's recent article, A new AI-powered network, is helping workers displaced by the coronavirus crisis provides context around the scope of challenges involved in closing the unemployment gap.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/04/12/how-to-reduce-the-unemployment-gap-with-ai/amp/",
+      "publishedDateTime": "2020-04-12T11:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e935f8401879f0006d2752c%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1352%26cropY1%3D139%26cropY2%3D899",
+          "width": 1199,
+          "height": 675,
+          "title": "How To Reduce The Unemployment Gap With AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-12-the-united-kingdoms-role-in-the-future-of-ai.md",
       "title": "The United Kingdom’s Role In The Future Of AI",
       "excerpt": "The UK has played an important role in the history and development of AI. What are their plans to stay at the forefront in the years ahead?",
@@ -944,88 +1033,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise.md",
-      "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
-      "excerpt": "And then, we see if we use a certain training set, how well does that do on the test set? So ideally yes, I would love to have a training set,” said Aichner. Other issues discussed in the VentureBeat report include building and improving a neural network. The report also looks at how data is moved between Azure and the cloud and the Edge.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.onmsft.com/news/heres-how-microsoft-teams-plans-to-use-ai-to-suppress-background-noise",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-10T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.onmsft.com/wp-content/uploads/2020/04/Teams-Noise-Supression.png?fit=1024%2C578&ssl=1",
-          "width": 1024,
-          "height": 578,
-          "title": "Here’s how Microsoft Teams plans to use AI to suppress background noise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-10-janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form.md",
-      "title": "Janelle Shane explains AI with weirdness and humor, in book form",
-      "excerpt": "And also very accessible. And I thought that sounded fantastic. I know this all started with AI Weirdness. Why did you start that blog? How did that come about? Janelle Shane: I saw someone else named Tom Brewe who had used one of these text-generating neural nets to do cookbook recipes. It was one of these situations where I’m laughing so ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/10/janelle-shane-explains-ai-with-weirdness-and-humor-in-book-form/amp/",
-      "publishedDateTime": "2020-04-10T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/you-look-like-a-thing-hero.jpg?fit=2000%2C1001&strip=all",
-          "width": 2000,
-          "height": 1001,
-          "title": "Janelle Shane explains AI with weirdness and humor, in book form",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -2,6 +2,87 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-04-16-leveraging-ai-to-improve-workflow-12-tips-for-agencies.md",
+      "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+      "excerpt": "For an agency, artificial intelligence can remove a lot of the drudgery involved in the industry. However, implementing AI can be a challenge, especially when there are no set methods of doing so.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2020/04/16/leveraging-ai-to-improve-workflow-12-tips-for-agencies/amp/",
+      "publishedDateTime": "2020-04-16T04:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesagencycouncil%2Ffiles%2F2020%2F04%2FLeveraging_AI_To_Improve_Workflow-_12_Tips_For_Agencies-1200x1015.png",
+          "width": 1200,
+          "height": 1015,
+          "title": "Leveraging AI To Improve Workflow: 12 Tips For Agencies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-how-machine-learning-can-keep-sas-retail-shelves-stocked-during-covid-19.md",
+      "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+      "excerpt": "“Implementing technology with machine learning capabilities will provide retailers with the ability to run insightful analytics and augment this data with trends from other markets already dealing with this crisis. This gives them the ability to predict behaviours and stabilise supply chains,” he says. He adds this information can inform ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itweb.co.za/content/kLgB17e89BPv59N4",
+      "ampWebUrl": "https://amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/kLgB17e89BPv59N4",
+      "publishedDateTime": "2020-04-16T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.itweb.co.za/static/pictures/2020/04/Morne-Laubscher-400X.jpg",
+          "width": 400,
+          "height": 303,
+          "title": "How machine learning can keep SA’s retail shelves stocked during COVID-19",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-16-microsoft-adds-five-new-indian-languages-to-its-microsoft-translator-service.md",
       "title": "Microsoft adds five new Indian languages to its Microsoft Translator service",
       "excerpt": "The Microsoft Translator service is part of Microsoft’s Azure Cognitive Services API, a collection of machine learning and Artificial Intelligence algorithms. Organizations can use these APIs ...",
@@ -1197,96 +1278,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy.md",
-      "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-      "excerpt": "It’s well-understood that without the ability to predict the decisions other drivers on the road might make, vehicles can’t be fully autonomous. In a tragic case in point, an Uber self-driving prototype hit and killed a pedestrian in Tempe, Arizona two years ago, partly because the vehicle failed to detect and avoid the victim. ATG’s ...",
-      "heat": 95,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/15/uber-claims-its-ai-enables-driverless-cars-to-predict-traffic-movement-with-high-accuracy/amp/",
-      "publishedDateTime": "2020-04-15T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/06/b75020d1-894d-4cae-89e8-ac3ec2c3c419-e1572304180828.png?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Uber claims its AI enables driverless cars to predict traffic movement with high accuracy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-teslas-latest-self-driving-visualization-comes-to-life-in-this-impressive-picture.md",
-      "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-      "excerpt": "Tesla has made some impressive progress in self-driving visualization with its latest software updates. Check out this new beautiful picture that represents that progress extremely well. In an update called “Full Self-Driving Sneak Preview” late last year, Tesla made a series of “Driving Visualization Improvements”: The driving ...",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/",
-      "ampWebUrl": "https://electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/15/tesla-self-driving-visualization-impressive-picture/amp/",
-      "publishedDateTime": "2020-04-15T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/04/Tesla-self-driving-visualization-hero.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 480,
-          "title": "Tesla’s latest self-driving visualization comes to life in this impressive picture",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

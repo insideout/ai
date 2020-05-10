@@ -2,6 +2,82 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-04-14-googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai.md",
+      "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
+      "excerpt": "Google today announced TensorFlow Lite Model Maker, a tool that adapts state-of-the-art machine learning models to custom data sets using a technique known as transfer learning. It wraps machine learning concepts with an API that enables developers to train models in Google’s TensorFlow AI framework with only a few lines of code, and to ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/googles-tensorflow-lite-model-maker-adapts-state-of-the-art-models-for-on-device-ai/amp/",
+      "publishedDateTime": "2020-04-14T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s TensorFlow Lite Model Maker adapts state-of-the-art models for on-device AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-coronavirus-brightens-outlook-for-robotics-etfs.md",
+      "title": "Coronavirus Brightens Outlook for Robotics ETFs",
+      "excerpt": "Coronavirus cases have leaped to more than 1.86 million worldwide, with governments and business operators increasingly looking for ways to maintain operations along with curbing its spread. In such a scenario,",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14",
+      "ampWebUrl": "https://www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/coronavirus-brightens-outlook-for-robotics-etfs-2020-04-14?amp",
+      "publishedDateTime": "2020-04-14T10:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-researchers-challenge-ai-to-give-advice-as-well-as-humans-on-reddit-can.md",
       "title": "Researchers challenge AI to give advice as well as humans on Reddit can",
       "excerpt": "Researchers in Seattle have introduced what they call a new AI grand challenge called TuringAdvice, which is centered on creating language models that generate helpful advice for humans using real world language. The TuringAdvice challenge is based on the dynamic RedditAdvice data set. Created for the challenge, RedditAdvice is a crowdsourced ...",
@@ -1085,88 +1161,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-robots-emerge-as-useful-tools-in-fight-against-coronavirus.md",
-      "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
-      "excerpt": "Robots in the futureRobotics has come a long way since that Ebola outbreak. Computer vision has gotten better, sensing capabilities have improved, and artificial intelligence has gotten smarter. All this translates into more potential for putting robots to good use. Today, investing in robotics development is a lot like investing in a large ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html",
-      "ampWebUrl": "https://www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/Robots-Emerge-as-Useful-Tools-in-Fight-Against-Coronavirus.html?AMP",
-      "publishedDateTime": "2020-04-13T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_611607041.jpg",
-          "width": 1148,
-          "height": 630,
-          "title": "Robots Emerge as Useful Tools in Fight Against Coronavirus",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-hainan-rolls-out-face-scanning-machines-for-public-services-as-china-pushes-digital-infrastructure.md",
-      "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
-      "excerpt": "A new 24-hour service is within reach with a face scan – in China. Authorities in the southern, island province of Hainan have launched facial recognition-backed public services, enabling citizens to attend to government-related matters without having to queue up for manual assistance during office hours. A total of 350 “public ...",
-      "heat": 75,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
-      "ampWebUrl": "https://amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/article/3079624/hainan-rolls-out-face-scanning-machines-public-services-china-pushes-digital",
-      "publishedDateTime": "2020-04-13T14:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/13/107abe84-7d50-11ea-8736-98edddd9b5ca_image_hires_180925.JPG?itok=eGFvmZt-&v=1586772572",
-          "width": 1200,
-          "height": 630,
-          "title": "Hainan rolls out face-scanning machines for public services as China pushes digital infrastructure",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

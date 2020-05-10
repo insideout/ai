@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-10-talking-to-robots-with-david-ewing-duncan.md",
+      "title": "Talking to Robots With David Ewing Duncan",
+      "excerpt": "I love learning about anything new in the world of emerging technology, AI (artificial intelligence), ML (machine learning), VR (virtual reality ... He asked them “What kind of robot would you want to meet or be afraid to meet in the future?” The book is structured to give us some possible future scenarios. David’s opinion (and mine ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.entrepreneur.com/article/346085",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/346085",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/346085",
+      "publishedDateTime": "2020-02-10T13:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200210211852-MikeDEDcorrectdimensions.jpeg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Talking to Robots With David Ewing Duncan",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
       "title": "US Army to use gamers’ brain waves to train military robot swarms",
       "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
@@ -1194,51 +1239,6 @@
           "width": 1695,
           "height": 1115,
           "title": "DARPA Deploys Swarms of Autonomous Robots to Carry Out Urban Raid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-01-30-the-robots-are-coming-prepare-for-trouble.md",
-      "title": "The Robots Are Coming. Prepare for Trouble.",
-      "excerpt": "It’s about politics and economic fairness. Whether the pain and the benefits of artificial intelligence are equitably distributed — and whether the turmoil that is still to come will be viewed ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/01/30/business/artificial-intelligence-robots-retail.amp.html",
-      "publishedDateTime": "2020-01-30T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/01/31/business/31VIEW_GIF/31VIEW_GIF-facebookJumbo-v2.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "The Robots Are Coming. Prepare for Trouble.",
           "attribution": null
         }
       ],

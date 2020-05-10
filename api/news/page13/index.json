@@ -2,6 +2,87 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-29-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
+      "title": "Self-driving car testing goes all virtual, just like everything else",
+      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else",
+      "ampWebUrl": "https://sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/10316/self-driving-car-testing-goes-all-virtual-just-like-everything-else?amp=1",
+      "publishedDateTime": "2020-04-28T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/news/s/self-drivi/self-driving-car-testing-goes-all-virtual-just-like-everythi_p3je.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "Self-driving car testing goes all virtual, just like everything else",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-uk-start-ups-have-raised-825-million-during-virus-lockdown-but-less-deals-are-being-made.md",
+      "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+      "excerpt": "Funding into U.K. start-ups has soared by 34% as investors look to ensure their bets stay afloat during the coronavirus pandemic.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/04/28/coronavirus-uk-start-ups-have-raised-825-million-during-lockdown.html",
+      "publishedDateTime": "2020-04-28T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105446571-1536765456472rts20xk6.jpg?v=1536765553",
+          "width": 4842,
+          "height": 2952,
+          "title": "UK start-ups have raised $825 million during virus lockdown, but less deals are being made",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
       "title": "Ford delays self-driving taxis to 2022",
       "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
@@ -982,88 +1063,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-the-challenges-of-developing-autonomous-vehicles-during-a-pandemic.md",
-      "title": "The challenges of developing autonomous vehicles during a pandemic",
-      "excerpt": "Waymo, Uber, Cruise, and others have paused autonomous vehicle testing due to the pandemic. Here's how they're continuing development during lockdown.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/challenges-of-developing-autonomous-vehicles-during-coronavirus-covid-19-pandemic/amp/",
-      "publishedDateTime": "2020-04-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/waymo-one-dome-e1585787576926.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "The challenges of developing autonomous vehicles during a pandemic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-self-driving-car-testing-goes-all-virtual-just-like-everything-else.md",
-      "title": "Self-driving car testing goes all virtual, just like everything else",
-      "excerpt": "Waymo, the self-driving car company spun off from Google, shut down its robo-taxi service in Arizona and stopped testing its vehicles on public roads because of the coronavirus pandemic. But that doesn't mean driverless car testing isn't still happening.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation/",
-      "ampWebUrl": "https://mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/waymo-self-driving-cars-simulation.amp",
-      "publishedDateTime": "2020-04-28T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F28%252F74%252F15dc264d96e94d6db1661bd3c3faa4ae.3ac1d.png%252F1200x630.png?signature=2vUlsW8K3CFc03ydLk-T0w92WVE=",
-          "width": 1200,
-          "height": 630,
-          "title": "Self-driving car testing goes all virtual, just like everything else",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

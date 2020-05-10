@@ -2,6 +2,80 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
+      "title": "Using Artificial Intelligence to Save Coral Reefs",
+      "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/",
+      "ampWebUrl": "https://www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/using-artificial-intelligence-save-coral-reefs/amp/",
+      "publishedDateTime": "2020-04-21T23:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
+      "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+      "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
+      "heat": 76,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/04/21/low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2020-04-21T09:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F182201783%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D419%26cropY2%3D3567",
+          "width": 1200,
+          "height": 675,
+          "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-chinese-internet-giant-baidu-offers-free-trial-robotaxi-rides-through-search-and-map-apps-in-changsha.md",
       "title": "Chinese internet giant Baidu offers free trial robotaxi rides through search and map apps in Changsha",
       "excerpt": "Baidu’s Apollo robotaxi program has set up a complete mechanism for safety evaluation and technical support,” the Nasdaq-listed company said in the statement on Monday. “This time [we are ready to] launch the service at a large-scale to the public.” We tried out a futuristic, self-driving robotaxi in China The company’s move to expand ...",
@@ -1132,80 +1206,6 @@
           "width": 1200,
           "height": 630,
           "title": "North America Self-driving Car Market Overview and scope, Market Size, Future Outlook of the Market 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-driverless-vehicle-technology-advances-amid-pandemic-commercialization-pace-accelerated.md",
-      "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-      "excerpt": "Prior to the national guideline, Chinese cities including Beijing and Shanghai have announced local guidelines for self-driving tests, while Baidu already has approval to test self-driving vehicles on city streets. A McKinsey report from last year suggested autonomous vehicles could, at some point, take over most of the automotive market in China.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globaltimes.cn/content/1186047.shtml",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2020/2020-04-14/53ef8931-f304-451b-bdd7-cd82e32c20f0.jpeg",
-          "width": 500,
-          "height": 300,
-          "title": "Driverless vehicle technology advances amid pandemic, commercialization pace accelerated",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-tesla-is-adding-remarkable-detail-in-its-full-self-driving-visualizations.md",
-      "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
-      "excerpt": "Tesla’s mass-market cars, the Model 3 and Model Y, have already been released. The Solar Roof is finally seeing a ramp. And the release of a feature-complete version of the company’s Full Self-Driving suite seems to be drawing closer. For Tesla’s Full Self-Driving suite to be feature-complete, the electric car maker would need to master ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-traffic-lights-arrows-video/amp/",
-      "publishedDateTime": "2020-04-13T00:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2020/04/tesla-fsd-visualizations-traffic-turn-signal-1024x512.jpg",
-          "width": 1024,
-          "height": 512,
-          "title": "Tesla is adding remarkable detail in its Full Self-Driving Visualizations",
           "attribution": null
         }
       ],

@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-04-intel-acquires-urban-mobility-startup-moovit-for-900-million.md",
+      "title": "Intel acquires urban mobility startup Moovit for $900 million",
+      "excerpt": "Intel has confirmed that it's buying urban mobility startup Moovit, in a deal worth $900 million. Rumors of the impending acquisition first emerged on Sunday.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/intel-acquires-urban-mobility-startup-moovit-for-1-billion/amp/",
+      "publishedDateTime": "2020-05-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Feat-2.png?fit=1500%2C776&strip=all",
+          "width": 1500,
+          "height": 776,
+          "title": "Intel acquires urban mobility startup Moovit for $900 million",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-how-one-microsoft-mom-inspired-health-care-companies-to-embrace-the-life-saving-potential-of-ai.md",
       "title": "How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI",
       "excerpt": "The post How one Microsoft mom inspired health care companies to embrace the life-saving potential of AI appeared first on The AI Blog.\n",
@@ -306,6 +350,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-04-your-organization-needs-a-proprietary-data-strategy.md",
+      "title": "Your Organization Needs a Proprietary Data Strategy",
+      "excerpt": "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/05/May20_04_1197992656.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Your Organization Needs a Proprietary Data Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-ai-software-gets-mixed-reviews-for-tackling-coronavirus.md",
       "title": "AI Software Gets Mixed Reviews for Tackling Coronavirus",
       "excerpt": "Faced with a burgeoning number of Covid-19 patients, hospitals are turning to artificial intelligence to help with diagnoses and assessments. So far, the results are mixed.",
@@ -441,27 +522,27 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
           "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
@@ -993,95 +1074,6 @@
           "width": 1200,
           "height": 630,
           "title": "Computer Vision Market Share, Scope, Revenue, Trade Analysis, Trends, Drivers 2018-2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
-      "title": "Watch This AI Algorithm Change Humans into Animorphs",
-      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "publishedDateTime": "2020-05-02T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-masked-or-not-mike-pence-keeps-the-peace-with-a-poker-face.md",
-      "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
-      "excerpt": "Task forces and vice presidents don’t get to decide things,” said Tim Pawlenty, the former Minnesota governor.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/us/politics/coronavirus-mike-pence.amp.html",
-      "publishedDateTime": "2020-05-02T17:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/us/03dc-virus-pence-image1/03dc-virus-pence-image1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Masked or Not, Mike Pence Keeps the Peace With a Poker Face",
           "attribution": null
         }
       ],

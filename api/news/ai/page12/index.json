@@ -2,6 +2,95 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-28-a-sustainable-boost-to-ais-profitability-promise.md",
+      "title": "A Sustainable Boost To AI's Profitability Promise",
+      "excerpt": "In doing so, companies are subsequently given more power to enhance both profitability and sustainability in tandem. For vendors, it gives us extra leverage as we continue to fight back against the \"do-it-yourself\" trend.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
+      "publishedDateTime": "2020-04-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-29-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "A Sustainable Boost To AI's Profitability Promise",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology.md",
+      "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
+      "excerpt": "Business leaders need to look at the far horizon once in a while, but they have many urgent problems that need attention today. But all leaders need to carve out some time to ponder what’s ahead. A good approach is to read the new book,",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/",
+      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2020/04/28/innovation-ultimatum-a-futurist-looks-at-how-business-can-use-new-technology/amp/",
+      "publishedDateTime": "2020-04-28T04:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9f5668736d170006fee2b6%2F0x0.jpg",
+          "width": 641,
+          "height": 480,
+          "title": "Innovation Ultimatum: A Futurist Looks At How Business Can Use New Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-computer-vision-market-2020-top-manufactures-growth-opportunities-and-investment-feasibility-2029.md",
       "title": "Computer Vision Market 2020 Top Manufactures, Growth Opportunities and Investment Feasibility 2029",
       "excerpt": "The latest report pertaining to Global Computer Vision Market on the basis of qualitative and quantitative assessment is one of the most comprehensive and important additions to Market.us archive of market research studies with the primary aim to providing accurate market data and useful recommendations so that players can achieve strong growth in the future.",
@@ -1185,97 +1274,6 @@
           "width": 1200,
           "height": 600,
           "title": "Amazon’s AI uses a microphone array to localize multiple speakers in a room",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
-      "title": "AWS launches human review service for machine learning models",
-      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "publishedDateTime": "2020-04-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
-          "width": 1000,
-          "height": 479,
-          "title": "AWS launches human review service for machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report.md",
-      "title": "UK spies must ramp up use of AI to fight new threats, says report",
-      "excerpt": "UK spies must use AI to counter cyber attacks and augment intelligence analysis, according to a new study commissioned by eavesdropping agency GCHQ",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/27/uk-spies-must-ramp-up-use-of-ai-to-fight-new-threats-says-report/amp/",
-      "publishedDateTime": "2020-04-27T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-14-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "UK spies must ramp up use of AI to fight new threats, says report",
           "attribution": null
         }
       ],

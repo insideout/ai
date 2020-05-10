@@ -2,6 +2,80 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-04-06-facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027.md",
+      "title": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology, By Application, By End Use And Segment Forecasts, 2020 - 2027",
+      "excerpt": "Facial Recognition Market Size, Share & Trends Analysis Report By Technology (2D, 3D), By Application (Emotion Recognition, Attendance Tracking & Monitoring), By End Use, And Segment Forecasts, 2020 - 2027 Read the full report:  The global facial recognition market size is expected to reach USD 9.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/facial-recognition-market-size-share-trends-analysis-report-by-technology-by-application-by-end-use-and-segment-forecasts-2020-2027-1029068324",
+      "publishedDateTime": "2020-04-06T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-samsung-demonstrates-worlds-first-mcptx-video-call-on-aws.md",
+      "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR), media, and application development, deployment, and management from 69 Availability Zones ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200406005496/en/Samsung-Demonstrates-World’s-MCPTX-Video-Call-AWS",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-06T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200406005496/en/783465/23/Samsung_logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Samsung Demonstrates World’s First MCPTX Video Call on AWS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-06-microsoft-azure-speech-to-text-review.md",
       "title": "Microsoft Azure Speech to Text review",
       "excerpt": "Microsoft Azure Speech to Text is one of the most advanced voice-recognition platforms around. As part of Microsoft's Cognitive Speech Services product range, it makes use of deep learning algorithms to overcome poor sound quality and can adapt to diverse speaking styles for accurate audio transcriptions. In this Microsoft Azure Speech to Text ...",
@@ -925,72 +999,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-the-global-face-recognition-market-is-expected-to.md",
-      "title": "The Global Face Recognition Market is expected to...",
-      "excerpt": "Reportlinker.com announces the release of the report \"Face Recognition Market Research Report by Type , by Computing ,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/g15793277/the-global-face-recognition-market-is-expected-to-grow-from-usd-3-546-56-million-in-2019-to-usd-9-",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15793277",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15793277",
-      "publishedDateTime": "2020-04-03T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-04-introduction-to-machine-learning-and-artificial-intelligence.md",
-      "title": "Introduction to Machine Learning and Artificial Intelligence",
-      "excerpt": "Artificial Intelligence (AI) dramatically improves the way we live ... OpenStack Summit and Google Cloud Summit. His certifications include AWS Solution Architect – Associate, Google Certified Instructor (Global), Google Cloud Architect Professional ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://e27.co/event/introduction-to-machine-learning-and-artificial-intelligence/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "E27.co",
-        "domain": "e27.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://e27.co/img/events/14691/K%20OH%20Seminars%202020%20AI%20Banner.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Introduction to Machine Learning and Artificial Intelligence",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

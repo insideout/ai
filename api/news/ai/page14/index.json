@@ -2,6 +2,88 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-25-global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025.md",
+      "title": "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025",
+      "excerpt": "This new report titled Global Military Artificial Intelligence (AI) Market Growth (Status and Outlook) 2020-2025 has been added by MarketandResearch.biz to provide a detailed analysis of the market covering market trends,",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/global-military-artificial-intelligence-ai-market-2020-industry-growth-top-players-segmentation-and-forecast-to-2025-2020-04-25",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-25T11:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Global Military Artificial Intelligence (AI) Market 2020 Industry Growth, Top Players, Segmentation and Forecast to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-04-25-xcom-chimera-squad-all-11-agents-list.md",
+      "title": "XCOM: Chimera Squad – All 11 Agents List",
+      "excerpt": "Chimera Squad ditches customizable soldiers in favor of 11 agents with set personalities and abilities. These agents cannot die permanently, which",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://attackofthefanboy.com/guides/xcom-chimera-squad-all-11-agents-list/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-25T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Attack of the Fanboy",
+        "domain": "attackofthefanboy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://attackofthefanboy.com/wp-content/uploads/2020/04/XCOM-Chimera-Squad-Godmother.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "XCOM: Chimera Squad – All 11 Agents List",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-25-an-explanation-of-machine-learning-models-even-you-could-understand.md",
       "title": "An explanation of machine learning models even you could understand",
       "excerpt": "I will start out by explaining what machine learning is, along with the different types of machine learning, and then I will jump into explaining common models. I won’t go into any of the math, but I am considering doing that in another article in the future. Enjoy! Machine learning is when you load lots of data into a computer program and ...",
@@ -1182,89 +1264,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-you-dont-need-an-geforce-rtx-gpu-to-access-rtx-voice-after-all.md",
-      "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "publishedDateTime": "2020-04-23T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "You don't need an GeForce RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-googles-new-tensorflow-ai-processor-increases-speeds-by-eight-times.md",
-      "title": "Google's new TensorFlow AI processor increases speeds by eight times",
-      "excerpt": "New neural network AI developments from Google look set to completely revolutionise hardware. The world of computer hardware has been in something of a funk for some time. That's a deeply unwelcome, and somewhat depressing, situation for those of us who worked (or played Doom) through the white heat of the 1990s, a period when Moore's law was ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times",
-      "ampWebUrl": "https://www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
-      "cdnAmpWebUrl": "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/technology-computing/item/5488-google-s-new-tensorflow-ai-processor-increases-speeds-by-eight-times?hs_amp=true",
-      "publishedDateTime": "2020-04-23T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "redsharknews.com",
-        "domain": "redsharknews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.redsharknews.com/hs-fs/hubfs/Imported_Blog_Media/58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg?width=1280&height=720&name=58ae20e9f6cee7ffa44f98dc80bfb545-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Google's new TensorFlow AI processor increases speeds by eight times",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,80 @@
   "page": 69,
   "value": [
     {
+      "path": "_news/2020-03-16-beijing-tide-pharmaceutical-and-insilico-medicine-enter-into-an-agreement-for-cancer-therapy.md",
+      "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
+      "excerpt": "BEIJING and HONG KONG, CHINA, March 17, 2020 (9 AM Beijing time) - Beijing Tide Pharmaceutical Co., Ltd. (Tide), a subsidiary of Sino Biopharmaceutical Limited, and Insilico Medicine, an artificial intelligence company developing end-to-end drug discovery pipelines, announced today that they are entering a collaboration, applying artificial ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-03/im-btp031620.php",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/227125_web.jpg",
+          "width": 1440,
+          "height": 1440,
+          "title": "Beijing Tide Pharmaceutical and Insilico Medicine enter into an agreement for cancer therapy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-bmw-says-large-scale-production-of-self-driving-cars-likely-in-next-decade.md",
+      "title": "BMW says large-scale production of self-driving cars likely in next decade",
+      "excerpt": "BMW and Chinese search giant Baidu are working on a joint project to produce a self-driving car for the Chinese market. The car is said to be in development since 2013, but no launch date has been ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bmwblog.com/2016/03/16/bmw-says-large-scale-production-self-driving-cars-likely-next-decade/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BMW BLOG",
+        "domain": "bmwblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.bmwblog.com/wp-content/uploads/2015/03/xc_24_dwn_20_2014_hres.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": "BMW says large-scale production of self-driving cars likely in next decade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-kubota-announces-strategic-alliance-with-microsoft-to-accelerate-its-digital-transformation.md",
       "title": "Kubota announces strategic alliance with Microsoft to accelerate its digital transformation",
       "excerpt": "Microsoft will leverage its extensive knowledge and advanced technologies available within Azure Machine Learning to support Kubota’s AI initiatives. Furthermore, the companies will also explore innovative projects for a more sustainable future that ...",
@@ -914,81 +988,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-artificial-intelligence-isnt-as-smart-as-it-thinks.md",
-      "title": "Artificial intelligence isn’t as smart as it thinks",
-      "excerpt": "artificial intelligence appears to be taking over the world. But look past the self-driving cars and facial-recognition cameras, and you'll see that the technology is a lot less intelligent than it may at first appear. It's likely to be decades, at best, before even the smartest forms of AI can outdo humans in the complex tasks that make up ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-drawbacks-isnt-as-smart-as-it-thinks/amp/",
-      "publishedDateTime": "2020-03-13T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/03/AIwebcrop-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": "Artificial intelligence isn’t as smart as it thinks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-deep-learning-and-ai-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank-bahamas.md",
-      "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-      "excerpt": "“Deltec Bank” Deltec Bank – Deep Learning and A.I have Multiple Applications in Finance and Financial Sector Deep learning is an extension to the",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15553894/deep-learning-and-a-i-have-multiple-applications-in-finance-and-financial-sector-says-deltec-bank",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15553894",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15553894",
-      "publishedDateTime": "2020-03-13T18:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1583454645.jpeg",
-          "width": 640,
-          "height": 360,
-          "title": "Deep Learning and A.I have Multiple Applications in Finance and Financial Sector, says Deltec Bank, Bahamas",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

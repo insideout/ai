@@ -2,6 +2,43 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-01-06-robots-artificial-intelligence-highlight-ces-expo.md",
+      "title": "Robots, artificial intelligence highlight CES expo",
+      "excerpt": "The annual gadget fest in Las Vegas started this week with \"CES Unveiled,\" an event highlighted by several new robotic and artificial intelligence technology, including one that acts as a pet. (Jan. 6)",
+      "heat": 64,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fltimes.com/robots-artificial-intelligence-highlight-ces-expo/video_f52d8126-6f46-54e2-9e89-503ffb536d94.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-06T11:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finger Lakes Times",
+        "domain": "fltimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fltimes.com/content/tncms/assets/v3/editorial/f/52/f52d8126-6f46-54e2-9e89-503ffb536d94/5e13998eab3cc.preview.jpg?crop=960%2C720%2C160%2C0&resize=840%2C630&order=crop%2Cresize",
+          "width": 840,
+          "height": 630,
+          "title": "Robots, artificial intelligence highlight CES expo",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-01-05-digital-dream-labs-will-revive-shuttered-startup-ankis-vector-robot.md",
       "title": "Digital Dream Labs will revive shuttered startup Anki’s Vector robot",
       "excerpt": "Anki, the San Francisco startup behind AI-imbued robotics toys like Overdrive and Cozmo as well as Vector, shut down in April 2019 immediately after laying off its workforce of just over 200 people.",

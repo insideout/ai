@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Pandemic Gives Fresh Momentum to Digital Voice Technology"
-excerpt: "In a world suddenly fearful of touch, voice technology is getting a fresh look. Voice-activated systems such as Google Assistant, Amazon Alexa and Apple's Siri have seen strong growth in recent years,"
-publishedDateTime: 2020-05-10T04:17:00Z
-webUrl: "https://www.voanews.com/silicon-valley-technology/pandemic-gives-fresh-momentum-digital-voice-technology"
-ampWebUrl: "https://www.voanews.com/silicon-valley-technology/pandemic-gives-fresh-momentum-digital-voice-technology?amp"
-cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/silicon-valley-technology/pandemic-gives-fresh-momentum-digital-voice-technology?amp"
+title: "Pandemic Gives Fresh Momentum To Digital Voice Technology"
+excerpt: "Voice-activated systems such as Google Assistant, Amazon Alexa and Apple's Siri have seen strong growth in recent years, and the virus pandemic could accelerate that, analysts say. Voice assistants are not only answering queries and shopping,"
+publishedDateTime: 2020-05-10T04:32:00Z
+webUrl: "https://www.ibtimes.com/pandemic-gives-fresh-momentum-digital-voice-technology-2973516"
 type: article
-quality: 44
-heat: 44
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Voice of America
-  domain: voanews.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://media.voltron.voanews.com/Drupal/01live-166/2019-04/8FCAD54E-248E-4FCD-997F-4ACDC2B07162.jpg"
-    width: 3976
-    height: 2818
-    title: "Pandemic Gives Fresh Momentum to Digital Voice Technology"
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/05/10/voice-activated-digital-assistants-such-as-amazons-alexa.jpg"
+    width: 1024
+    height: 671
+    title: "Pandemic Gives Fresh Momentum To Digital Voice Technology"
 
-secured: "0HDy2UP7snOMLvj+MZg2IQEESWGq7XeJcI1OZlDXzWEpynl1hHV0Fn3f3pY5n9fb8xBcE1AswImq7BP5NJK1tGPMhY/M2qhIoNYVocT8eAu+TFIwHeKzGWokSasLxwqFbvXd7e4aL23fS/RXbJxhA5c+xoprFpSli/ux3Z5bCl5mJE/voWeXCOzxyPhO8nLm90uXBlx+s1aEXveeIw/Q0DABMy9c4pUcWYdHsaZEaNUS/2Hqs7PxdKkdwezOZoSB/56CeTF2YWlJOM6TlVPGNUtcjCf8wcM9a3tzCZKBZ9IoFlbVayc0FEy+lrFwDV5W;onU+4pjYpRHeGNAVN+1vhA=="
+secured: "bs06JRflgvc1D8tIvCk0jjQYNpWCFC/akop0KhceohlFUFv6IezR7C7hwVCcoTjSF07DOQK1jp58HJ0rF8Bh5fsPjoIwQraYFA4G7KbLJaY+T/RC04wd5KEa+QK65CfUWsatPUCd0JlJT1cL/JH5exTda5ILpO2PkBJzAXYkUugZ/DEWNpSIZlVbYB9Lf5/sIhW9tN7hyWAKdAkmT/1px0hjnH4Z4ZKOsF4i0Q+60+E+4qtsYmlcPtxRn2vYrVKllA2nlsCrD699vBRGXNXfuM34dPTTIsuW3jvqm4hdnCnDZwVCa/YTn8HDhT4d696j;pRjKgrxOkFZ5apRNz0eu9g=="
 ---
 

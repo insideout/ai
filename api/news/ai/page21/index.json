@@ -2,6 +2,80 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-04-17-ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first.md",
+      "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+      "excerpt": "Cerebras is one of a handful of companies that are creating specialized hardware for AI algorithms. Last year, it came out of stealth with the release of the CS-1, a huge processor with 1.2 trillion transistors, 18 gigabytes of on-chip memory, and 400,000 processing cores. Effectively, this allows the CS-1, the largest computer chip ever made ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first",
+      "ampWebUrl": "https://uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "cdnAmpWebUrl": "https://uk-pcmag-com.cdn.ampproject.org/c/s/uk.pcmag.com/artificial-intelligence-2/125690/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-first?amp=1",
+      "publishedDateTime": "2020-04-17T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-could-s/ai-could-save-the-world-if-it-doesnt-ruin-the-environment-fi_khzt.620.jpg",
+          "width": 620,
+          "height": 349,
+          "title": "AI Could Save the World, If It Doesn’t Ruin the Environment First",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
+      "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
+      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions.  While the details of",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15831873/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15831873",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15831873",
+      "publishedDateTime": "2020-04-17T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-17-language-may-help-ai-navigate-new-environments.md",
       "title": "Language may help AI navigate new environments",
       "excerpt": "In a new study published this week on the preprint server Arxiv.org, scientists at the University of Toronto and the Vector Institute, an independent nonprofit dedicated to advancing AI, propose BabyAI++, a platform to study whether descriptive texts help AI to generalize across dynamic environments. Both it and several baseline models will ...",
@@ -1196,80 +1270,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-nba-microsoft-use-ai-to-create-a-personalized-fan-focused-streaming-service.md",
-      "title": "NBA, Microsoft use A.I. to create a personalized, fan-focused streaming service",
-      "excerpt": "According to a press release, the multiyear collaboration will create a “new, innovative, direct-to-consumer platform” on Microsoft Azure, the company’s framework of cloud services. The streaming service will use machine learning and artificial intelligence to provide personalized game broadcasts and other content. For now, the NBA and ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/",
-      "ampWebUrl": "https://www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home-theater/nba-microsoft-new-streaming-service/?amp",
-      "publishedDateTime": "2020-04-16T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-16-pentagon-needs-tools-to-test-the-limits-of-its-artificial-intelligence-projects.md",
-      "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-      "excerpt": "The Joint Artificial Intelligence Center seeks cutting-edge evaluation capabilities to assess what systems can and can’t effectively do.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nextgov.com/emerging-tech/2020/04/pentagon-needs-tools-test-limits-its-artificial-intelligence-projects/164687/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-16T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/upload/2020/04/16/NGai20200416/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Pentagon Needs Tools to Test the Limits of Its Artificial Intelligence Projects",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

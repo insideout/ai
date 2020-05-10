@@ -2,51 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-02-03-identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth.md",
-      "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-      "excerpt": "A critical success factor in machine learning (ML) is the cleanliness and accuracy of training datesets. Training with mislabeled or inaccurate data can lead to a poorly performing model. But how can you easily determine if the  labeling team is  accurately labeling data? \nOne way is to manually sift",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identifying-worker-labeling-efficiency-using-amazon-sagemaker-ground-truth/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T13:14:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/29/labeling-efficiency-sagemaker-gt-2.gif",
-          "width": 500,
-          "height": 202,
-          "title": "Identifying worker labeling efficiency using Amazon SageMaker Ground Truth",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
       "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
       "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
@@ -1248,6 +1203,43 @@
       "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
       "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
       "publishedDateTime": "2020-01-03T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg",
+          "width": 1024,
+          "height": 512,
+          "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-03-ambarella-aws-bring-ml-solutions-to-edge-applications.md",
+      "title": "Ambarella & AWS Bring ML Solutions to Edge Applications",
+      "excerpt": "Ambarella AMBA recently announced a collaboration with Amazon’s AMZN cloud computing arm, AWS, enabling customers to use Amazon SageMaker Neo cloud service to run ML models on devices based on Ambarella’s CVflow-powered AI vision SoC (system on chip).",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-aws-bring-ml-solutions-to-edge-applications-2020-01-03?amp",
+      "publishedDateTime": "2020-01-03T07:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Nasdaq",
