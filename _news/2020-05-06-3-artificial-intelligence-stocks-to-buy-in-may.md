@@ -1,9 +1,9 @@
 ---
 category: news
 title: "3 Artificial Intelligence Stocks to Buy in May"
-excerpt: "Amazon not only uses artificial intelligence in its own operations ... Meanwhile, another AI project at Alphabet, its Waymo self-driving-car unit, received a $2.25 billion investment from outside ..."
-publishedDateTime: 2020-05-06T11:01:00Z
-webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
+excerpt: "One of the biggest tech opportunities over the next decade is artificial intelligence (AI). According to Grand View Research, the general AI market, across a variety of products and services, is set to expand at a huge 46."
+publishedDateTime: 2020-05-06T14:45:00Z
+webUrl: "https://www.fool.com/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx?source=eptcnnlnk0000002"
 ampWebUrl: "https://www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/05/06/3-artificial-intelligence-stocks-to-buy-in-may.aspx"
 type: article
@@ -20,7 +20,7 @@ provider:
       height: 50
 
 topics:
-  - AI in Autos
+  - AWS AI
   - AI
 
 images:
@@ -29,6 +29,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "g1qfkAgc0oV288Bwz6hFrJ4N85IUem5GOR2LDV4yQgjg+STT2H9CZksSb/3fmqGW9FipQOk8oqyITMc4ennjfR0CXxpl5k2AhwY0DB8befxogyFojbAWIc28KlZhu9RniBVHzleahqKtTplh7iXmpIFoRoJI7HYt/nRrqyLl537h6hJ2RUJWkMgrbRbhmWNzvDNom1LwtBF0f8TRKJ56lWO+9wI72q6xN9/FGPcdXNP5jEp81MfNsSEPLyUa0QtV2djLqAlWWAzbUhqRE/X1PF7GvhqCLldef2U1FoF7iGrZQzc8OYHYWPEjz5N4NrSo;QfSQ6K9p/ft1I4gkzGFfMQ=="
+secured: "E84ZPitQEcgj2U/8JLTPJO0SrzUFSafvQFg++siz8chKsE9YMduuK6S/TpuNZv69oil1OIgzm7s8x8IVjiDIhsQaM8iOtIwlsXdgTSDyoe9VH8UF53Zcuw+OR0pUzN8DgX3lgfVV2D39CbvEkYJNi8XeSGB3scnDrNaVP6e1zJDc5VvxvjgvDI+fEJ71JlGTSlk85lP+BmDjiQQBAcq2YabtAkflnC3eXtERlJ4xyTC+xeABlwhmQ3D5CIDMv+7CXY9VvUNdvDtRce5fZZNtUL/6LDRRIKbqccvQfo8ioF8eJhDZm2iCXE+clIL4L1OM;ObtXApsNEX5OpoldFpUHHw=="
 ---
 

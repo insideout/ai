@@ -3,9 +3,9 @@ category: news
 title: "UAE combats coronavirus: Ministry launches self-driving vehicle to distribute PPE"
 excerpt: "UAE - The Ministry of Health launches self-driving vehicle to distribute personal protective equipment to ... comes as part of the ministry's efforts being made to contain the spread of coronavirus, using the latest Artificial Intelligence (AI) technologies and fifth generation technology (5G)."
 publishedDateTime: 2020-05-07T08:00:00Z
-webUrl: "https://www.zawya.com/mena/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
-ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_173952755/"
-cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_173952755/"
+webUrl: "https://www.zawya.com/uae/en/life/story/UAE_combats_coronavirus_Ministry_launches_selfdriving_vehicle_to_distribute_PPE-SNG_173952755/"
+ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_173952755/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_173952755/"
 type: article
 quality: 39
 heat: -1
@@ -68,6 +68,6 @@ related:
         width: 750
         height: 450
 
-secured: "ShsTD8ms8QXRPRWM+VH0thGOOGOnNrXh9wc7Qqtwe3QzC8aRm1rQlarf3mn1qaZxDyU2PXZYf3OTio7TfV7hgvmKyJFgOQBWW5noGb6ACYHL5Nmb2tK2gR4l7hyyz9W9K7/LyDM6bflTkqW0AlMmVP/WalfkgE7O26HXKiFu0zVrcv6tdpGkJj3Q9K4p1BeOJBMtMB1ggG40ghl49t6NCdDhxRwRET1SHSbi8Zb2fYOX9vur5jPxPOKvE5XY7R0zlkPHQ5KfU7d/0bbmteOKAcyY39tFyEDLDyw0w/5lKRVoBX1zh/+Bols2qGiDLOX9;a0IwuVyq7VVuQ+BpQeEAPQ=="
+secured: "wnXEbcqDGy4r8VWZaKanwswhs4SQnTcKk2tedpT6fRtfuHFfGbbwjCnffxgyi1bALglgyOkQc2McZ6clbAwbw8Sob49Sf3v2UODDvCVi9Fwco/uyYZqPehHT/a1Qb7mFaFCm9bqCrVsDZtxAAeVlRS2GnRBeP4gDetwpwXnCXGiDtKXOuGJm9QVdMDKZ9F9XJLgI7fGm022AVloqh8aT66dvhW9L/lrnE678SA2IEWceapidpH31XOAvnZ1XHTYcmjBOjRCorTNHTrIuhHl5dSKaJLJlGiGZaiM0bkCPjVxHJSohcMQTBkZnHBZfZAKa;tBfRNE3vQHi0iNHfgDYfiw=="
 ---
 

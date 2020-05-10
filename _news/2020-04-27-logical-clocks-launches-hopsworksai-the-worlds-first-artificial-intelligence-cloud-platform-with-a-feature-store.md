@@ -1,21 +1,23 @@
 ---
 category: news
-title: "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store"
-excerpt: "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning"
+title: "Logical Clocks Launches Hopsworks.ai: The World’s First Artificial Intelligence Cloud Platform with a Feature Store"
+excerpt: "With Hopsworks.ai, Logical Clocks brings to the cloud the open-source and award-winning Hopsworks platform. For companies, this translates into reduced time and costs to bring new machine learning models to production,"
 publishedDateTime: 2020-04-27T11:00:00Z
-webUrl: "https://www.benzinga.com/pressreleases/20/04/g15882661/logical-clocks-launches-hopsworks-ai-the-worlds-first-artificial-intelligence-cloud-platform-with-"
-ampWebUrl: "https://amp.benzinga.com/amp/content/15882661"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15882661"
+webUrl: "https://markets.businessinsider.com/news/stocks/logical-clocks-launches-hopsworks-ai-the-world-s-first-artificial-intelligence-cloud-platform-with-a-feature-store-1029132183"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "EOpFa3ohUreSHxj0uCrVllJu70jElKrYtwfsL84yKnPRrtXFhrpNNJQp9xMGZJWvJSfHJ7ajfjPw8ssAuw11Q4yS6lMiJYoLum0ouY5MZhXV/y9yoUI8LzDcNZnSBOGjV8GZcIbbslS4hHS8lkax7ttdPyqT7phPtimuWnStrxBratArGcXALsGSGTQ4RH99vnnftCzB179qtHkTAvZSIsn8XtxQHSOZ+WAJRCkNUzjk2hhBYEb1fqURYpXLebAZ/70jkhNp3lhisgP3xM3MMASWHoBDJ6VIEGk7fgo5FvthoFgbwLV9lY2TX5QwARkX;EKeeiBmT/ob6ZOdpcSJ1zQ=="
+secured: "aQEEE3QLrt6G0dL8QEr5nSqqtwx+8huHC8TU2FuGu8wfHjvcSyRkZANRcoaIri296PdkZCE70TOVTi6hYxVmJvXxK60+n8QejMX0gDp3P6kcHRkAjvOssHYM9CPDhwef4yO1TbQS2P08MdxYZrVxdkTc92135EXL88RlSUds8D+O9OtwuonhTwbGhh02PbaR9xGFe3vJRuTyO2JXgrqbC3is+Y8aspcHJCPbWqGUN0DcZHmF1Uhe0kjn8zJJnmWff0/qE0dz824kf/ezrUeTSM970VxbF3NfOqXoetOTkc1sz85B1k49Qknz7OBouebU;QRMMkVext4/s1n8w6cB2PA=="
 ---
 

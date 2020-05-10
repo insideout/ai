@@ -26,6 +26,6 @@ images:
     height: 630
     title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
 
-secured: "NL3DMleTzj+agOVoYXvLT7eULAzqnY6UJHsNJ4QQpNvG5ofatvhaWzFxqldvmyKWtWr+bjDLr15QbcJWBJRerIkyjSglJiRNNTMPqv8rW5WY2jmpsH45T2LmLNWTdqg8vfblgzLTmVx/3cNld0tbcTrkVc1BpSVCHd6LS++7bNJ0ZrWwdPKHtD/cmbpOHeFOf3ZTZYTs3/CXMTIH3izc9eAt2AkAhRj72Rrffu6L1JY/j4n2zphQzvWOkLE+fcj94uApax0NFNeCkYcFaaIY6VDkjbRSIVAssLrUB6Xa0tmlVoAlGf7FwBb0q1MhNDWJ;eoKsttG/ZBJibolqNZ/gtQ=="
+secured: "MsP5ryLxF85nvNm03sOWcK//k7zPGMyOOMxj01Of7UfRQ6FkTWGpvcj/ADP0P5FJU9pVsMyrT2+uIIDE/CJXI53HGvYL2ktqBUbuAx+X0UPY43si3dDA208N4bBu0zEyRHb+ZjOvsgVx5+fZYy+k6ztaT0tcW40x9slwvHRXSX8wTCIeVzGUs+CzW/KdZraAiK4cc/L74sRdHVJvNpXWgV0x6jif5bYtuOlj/H+rhBQR99igVybjZWhGllzTHgZNGM+vQF5XGoLnV82VXATAUBYfCCYCQ6lVta7aTE9Uoyxka9ZSPMaL+j7n17P6POTi;pv28fxKTtBX/fB3c1CU6Bg=="
 ---
 
