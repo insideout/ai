@@ -1,9 +1,9 @@
 ---
 category: news
 title: "WeRide Trade Secrets Feud With Rival, Ex-Execs Ends In Deal"
-excerpt: "Self-driving car startup WeRide has reached an agreement to end its heated trade secrets spat with a rival company founded by two of its former executives, according to a joint stipulation of dismissal lodged Friday in California federal court."
+excerpt: "Both companies are developing autonomous, or self-driving, cars for the Chinese market ... According to WeRide, Wang was pushed out as CEO in January 2018 after his former employer, the Chinese internet company Baidu, sued him, alleging that he failed to return a laptop belonging to Baidu, stole Baidu's trade secrets and poached Baidu's ..."
 publishedDateTime: 2020-05-09T02:30:00Z
-webUrl: "https://www.law360.com/articles/1272042/weride-trade-secrets-feud-with-rival-ex-execs-ends-in-deal"
+webUrl: "https://www.law360.com/ip/articles/1272042"
 ampWebUrl: "https://www.law360.com/amp/articles/1272042"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1272042"
 type: article
@@ -19,6 +19,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "VLTlXNcdS28vDo4fM2pFXq+7luJloDuC2vI8YUYRM/QN/KdyVJvzUBUAL8NZU2dwYlvKC7gQg/A2FJnXDD21RDeI1RWIwmPvG26KxRFeVnMbHtPocUJRYpjMZd4ECMcambaP2aSZQRnniKIPZl9EsgtmZX+2LCaz4aDnJDKkcNNQnsV2K2Gssm4UUFTdicdfqXBZhZ0hKeyo0WaqjOFUnKpBroXIEbfocVRL6Q13s59tFD7kKWjJysM9G8KPU77FXGe6yyschdmQnC87vkWW+pXqfFDhQYeBraUT1LlLENA0Wht0iF4AUyC1OSYO0vPA;TBjBfKUnTLVI85Wfq+HeMA=="
+secured: "RedQ6Gz3tqZpvz+9wi5AYclVbNry5fQwBhof7pcxExeQAN2YvlEZP0NxA0WLNvrJkxULOMIty86buZhimrtVuRbthGY274rsto0HU9JMjenKZDeK0is4dB4krzHc/RLzlyZsHab2dybuh6KThOb2NkmDckpjxNJsk8XAjSG7VJIk2hT3bVsqfe4RqqDuR5QkNPs08B9jbhWwdq7TwLFaEN98izjlWYsL8en4oDjzgba7zyBawb5oMkaHVWf6yYOmFDw27dRT8QiwMYQQNWKS3O0TD/UND6Tn7dbQeiwnzF39PExLAIVWygbx7hs90rTl;eoskc4pooPSnIdDkva/oDA=="
 ---
 

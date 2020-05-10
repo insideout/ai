@@ -20,6 +20,6 @@ images:
     height: 627
     title: "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)"
 
-secured: "qVVrtIRneBH8lIsSEcU9Y22eAmGdOT0tkEWg92XErpciepMnqsVwQUbL9lKXXxlHiDrY/k7g3P4ceDVk9+QnORvWwCq4pz6AFUd6dMFYu5fukj14pK4G1rc97bfRAeTsc2tG0vMxUJYtoiZrXBLDLLv3fz58IHdLeVJfgqWNfQPiVohqUZxCZivQ7/8OxffwWFIDgDtnjUWk1eNgQIHZWcBNBmd4rTa+wwFyeVr+OBcOBlidFBQkBl40c4D422zBcylU1xcGxRCvXUjMB8CYK9Q3dJ4JM2MtmPCLwVKNeM8v7BSSpCALlVpUR38MGM0w;tG7qTX78fjdZvgmFM5mlcA=="
+secured: "jYrykcQDs9H2xQ4KAybnuIuzP39g3CGShyW3+43JtO8kXYUlQS9fkJYHT6S4UoJkP+YzprHmine51B5a7YrNloS4qH92Pgrl+35L6G6hiIlDqod3unE1ggseVC2bvVeYSDH/enGMsznrBV8L462N+IUcexpybJQPnZVaMtwDkZHLT1KOH9BvLt+KdSGym8gmgoFJ5L4/C/07rGN86cStv9mp926/+hUwS0LywQpi83wm250Y2+HbBKrTUdTA/1bvfOQIE/dr6SlZwSiaVr+006ribfJRGRmkUycey0BrWzPCePotx+GukJEcVLE99RNV;9Ezon8nvIFe/T9E72k+MVA=="
 ---
 
