@@ -1,28 +1,32 @@
 ---
 category: news
 title: "Computer Vision = Better Service + Lower Costs"
-excerpt: "Computerworld covers a range of technology topics, with a focus on these core areas of IT: Windows, Mobile, Apple/enterprise, Office and productivity suites, collaboration, web browsers and blockchain,"
-publishedDateTime: 2020-05-07T15:15:00Z
-webUrl: "https://www.computerworld.com/resources/202638/computer-vision-better-service-lower-costs"
+excerpt: "So where humans weren’t the answer, they turned to a computer vision-based POS system developed by Flytech and its subsidiary Berry AI."
+publishedDateTime: 2020-05-07T15:13:00Z
+webUrl: "https://www.infoworld.com/resources/202638/computer-vision-better-service-lower-costs"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Computerworld
-  domain: computerworld.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://idge.staticworld.net/ctw/computerworld-logo300x300.png"
+  - url: "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png"
     width: 300
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "btnGIxYjNqgDgh/PaRfEoUh0T6PUD4/qqqTWUx31LJfwxhh1BbZY6FUBws1DPMa9fovlhUCOmaxYVEsON1kQ3PUPaD6GbaDd+6oeRFQKcOBWPzIVS30+wIcB/bJlsoE60cWBabnjfgwaRjg8YlY50Iytfgloa2T9gbuxg9iW7eI0YfcaR9sLP2zCeK2oZOvPJONytNu5BQ/P6mF+FygolKnx0SoBHPTFP7IZ3+Y0cEBogQeoJYXNLVK9zpPFieB5w3Pa5vzfnNGiO+aq73jIr1gH8uKztWvPt+2KZoDCc25gReMR9TGYlhLvtKZRpCxE;t1sf4Df75O89xhhyTUhR/Q=="
+secured: "dce1RWDdM9A7gTeYoidWE/BvITukH1kvOUyoV5s0UkFCuqvCAqg7ckh7cKQ0WwMzCYsLWaxS5DjhwXSKwddGlqJnAzLadKNniOk4wC3F6KM+gKgTTxBTEH/UnOe6g7nvZ7H5IfDXBIANQENIlDwP+E+uravJwjdm9UDtCt2dGTUVw1026EJ3FuGkUUAra9tEe/wZQW0n/KZyo5g8OfJWWYS/H+szZtT7WOGOjmtgl4WsdMsGjvixGbPf13kAZvnAKiNwdTXocQ/Ri63h8pGyQ7rHVWbgAE/NWxBn1duleeJDSejAMYSV4AMM4Yb028JM;UnLb8xFbQsI/a49NyEzX6A=="
 ---
 

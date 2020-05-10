@@ -2,43 +2,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_news/2020-03-09-how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space.md",
-      "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-      "excerpt": "The firm was praised for its wide range of services, including SageMaker AutoPilot, announced late last year, which automatically generates machine-learning models. However, some shortcomings in SageMaker were also addressed in the report. Amazon’s success in the cloud AI space was entirely predictable, where it has been dominating 33.8% of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://analyticsindiamag.com/how-aws-nudged-out-ibm-google-microsoft-from-the-cloud-ai-space/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-09T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2020/03/How-AWS-Nudged-Out-IBM-Google-Microsoft-From-The-Cloud-AI-Space-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "How AWS Nudged Out IBM, Google & Microsoft From The Cloud AI Space",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-09-artificial-intelligence-the-forbidden-fruit-of-the-21st-century.md",
       "title": "Artificial Intelligence: The Forbidden Fruit of the 21st Century",
       "excerpt": "Long before the invention of self-driving cars and robotics, Jews conceived the idea of man-made life. Artificial intelligence (AI) is becoming so advanced now that it is conceivable that machines could not only replace humans for most jobs, but actually develop intelligence higher than that of humans. Machines will be capable of designing ...",
@@ -1149,6 +1112,43 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-06-alitas-got-nothing-on-this-mind-controlled-robotic-arm-that-links-to-your-nerves.md",
+      "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
+      "excerpt": "Alita may be able to take on robots twice her size because she's a cybernetic powerhouse ... These nerve fibers could then be manipulated to give the patient more precise control than any prosthetic ever has. Video of Ultra-precise, mind-controlled prosthetic hand for amputees via RPNI neural interface This was achieved by a muscle graft ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita",
+      "ampWebUrl": "https://www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
+      "cdnAmpWebUrl": "https://www-syfy-com.cdn.ampproject.org/c/s/www.syfy.com/syfywire/mind-controlled-cyborg-arm-like-alita?amp",
+      "publishedDateTime": "2020-03-05T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Syfy",
+        "domain": "syfy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2020/03/alita_arms.jpg",
+          "width": 1200,
+          "height": 680,
+          "title": "Alita's got nothing on this mind-controlled robotic arm that links to your nerves",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

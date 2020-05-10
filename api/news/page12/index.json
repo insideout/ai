@@ -2,51 +2,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
-      "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-      "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/product/roborock-s6-maxv-robot-vacuum/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/product/roborock-s6-maxv-robot-vacuum/",
-      "publishedDateTime": "2020-04-29T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/29/c6bf9a20-fbd2-4936-a1ca-bec926067d2e/resize/1200x900/32bb8dd0f8fd50e98ba8b741c9011d30/roborock-s6-maxv-robot-vacuum-eileen-brown-zdnet.png",
-          "width": 1200,
-          "height": 532,
-          "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
       "title": "Google open-sources faster, more efficient TensorFlow runtime",
       "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
@@ -1068,6 +1023,52 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

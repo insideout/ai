@@ -2,50 +2,6 @@
   "page": 116,
   "value": [
     {
-      "path": "_news/2020-01-28-launch-your-product-at-transform-2020-the-ai-event-for-enterprise-decision-makers.md",
-      "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-      "excerpt": "VentureBeat’s Tech Showcase is back at Transform 2020: Accelerating your business with AI, July 15-16 in San Francisco. We’re on the lookout for disruptive AI companies of all sizes that are ready to present their tech on the main stage. Those selected to present will do so in front of hundreds of industry decision makers. Every presenter ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/",
-      "ampWebUrl": "https://venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/01/28/launch-your-product-at-transform-2020/amp/",
-      "publishedDateTime": "2020-01-28T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/ShowcasePic-1.jpg?fit=2000%2C925&strip=all",
-          "width": 2000,
-          "height": 925,
-          "title": "Launch your product at Transform 2020 — The AI event for enterprise decision makers",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-01-28-ai-driven-biomarkers-of-aging.md",
       "title": "AI Driven Biomarkers Of Aging",
       "excerpt": "AI will allow for enhanced precision in creating panels of actionable biomarkers obtained via digital wearable devices.",
@@ -1060,6 +1016,50 @@
           "width": 1024,
           "height": 538,
           "title": "Using AI, people who are blind are able to find familiar faces in a room",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-28-this-chinese-cars-ai-assistant-can-reincarnate-your-dead-cat-and-order-you-sympathy-gifts.md",
+      "title": "This Chinese car's AI assistant can reincarnate your dead cat and order you sympathy gifts",
+      "excerpt": "Still, in the end, it's just one of the most bizarre, sad and genuinely upsetting attempts at marketing I've ever seen. Based on a true story, this video is, ostensibly, trying to show you how Nomi -- Nio's in-car AI assistant (which looks like a sphere on your dash with small cat ears) listens and adapts to your habits, making your life more ...",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnet.com/roadshow/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nio-nomi-ai-assistant-cat-sympathy-gifts/",
+      "publishedDateTime": "2020-01-28T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/2O8yG9zzozJ3AYugjpviEAtmVQE=/2020/01/28/da562e83-4257-4d6c-b806-08cf3b500833/screen-shot-2020-01-27-at-4-24-34-pm.png",
+          "width": 1200,
+          "height": 630,
+          "title": "This Chinese car's AI assistant can reincarnate your dead cat and order you sympathy gifts",
           "attribution": null
         }
       ],

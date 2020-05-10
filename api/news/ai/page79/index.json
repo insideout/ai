@@ -2,43 +2,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_news/2020-02-18-google-funds-6-ai-driven-research-projects-in-india.md",
-      "title": "Google funds 6 AI-driven research projects in India",
-      "excerpt": "Google Research India will provide each team with funding and computational resources in addition to supporting the efforts with expertise in computer vision, natural language processing, and other deep learning techniques, the company said in a statement. \"We are increasingly seeing people apply AI to address big challenges. Therefore ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "ampWebUrl": "https://english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/technology/tech-news/google-funds-6-ai-driven-research-projects-in-india-1.4539361",
-      "publishedDateTime": "2020-02-18T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.4372375.1576661380!/image/image.PNG_gen/derivatives/landscape_1080_600/image.PNG",
-          "width": 1080,
-          "height": 608,
-          "title": "Google funds 6 AI-driven research projects in India",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-02-18-python-preeminent-in-oreilly-learning-platform-usage-analysis.md",
       "title": "Python \"preeminent\" in O'Reilly learning platform usage analysis",
       "excerpt": "Other growing categories on the upswing include data engineering, data science, and AI + ML, generally, and Kafka ... Among the major public cloud providers, AWS, Azure and Google Cloud Platform (GCP) come in first, second and third in platform content usage, respectively, and all three are growing. But the growth in their numbers ranks ...",
@@ -1258,6 +1221,42 @@
           "width": 1200,
           "height": 1600,
           "title": "Chicago Kids Company Presents Goldilocks & The Three Bears",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-17-how-the-race-to-autonomous-cars-got-sidetracked-by-human-nature.md",
+      "title": "How the race to autonomous cars got sidetracked by human nature",
+      "excerpt": "If you believed the early hype about autonomous cars ... have told me that it’s actually harder for a human to remain ready to take control than it is for them to fully control the vehicle. On top of that, studies have shown that even in controlled test environments, human reaction time for taking over an autonomous system is often to slow ...",
+      "heat": 122,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fastcompany.com/90459114/how-the-race-to-autonomous-cars-got-sidetracked-by-words?ref=hvper.com",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-16T22:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/02/poster-autonomous-cars-and-humans.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "How the race to autonomous cars got sidetracked by human nature",
           "attribution": null
         }
       ],

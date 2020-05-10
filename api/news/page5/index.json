@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-05-ford-shares-a-years-worth-of-self-driving-car-data.md",
-      "title": "Ford shares a year's worth of self-driving car data",
-      "excerpt": "Self-driving vehicles require massive amounts of data, which can be difficult to obtain without vehicles equipped with cameras and LiDAR and miles and miles of testing. To help advance autonomous vehicle research,",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/ford-self-driving-vehicle-dataset-192308540.html",
-      "ampWebUrl": "https://www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
-      "publishedDateTime": "2020-05-05T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F21e1ce80-8f00-11ea-9401-66231619ed5e&client=amp-blogside-v2&signature=83f0352838237c7cb1538da3e17441a630a93a2c",
-          "width": 600,
-          "height": 350,
-          "title": "Ford shares a year's worth of self-driving car data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-05-ai-and-medical-diagnostics-can-a-smartphone-app-detect-covid-19-from-speech-or-a-cough.md",
       "title": "AI And Medical Diagnostics: Can A Smartphone App Detect Covid-19 From Speech Or A Cough?",
       "excerpt": "Researchers in several countries are working to develop a smartphone application to rapidly and accurately detect Covid-19 from spoken words, coughs, and other phrases.",
@@ -676,35 +631,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-05-greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the scalability, reliability and agility of Azure to drive application development and shape business strategies.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.autoblog.com/press-releases/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace_23004/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-05T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-05-mediatek-announces-the-helio-g85-with-a-1ghz-gpu-and-hyperengine-improvements.md",
       "title": "MediaTek announces the Helio G85 with a 1GHz GPU and HyperEngine improvements",
       "excerpt": "MediaTek announced its latest chipset from its Helio G gaming series, the G85. It combines a 1GHz GPU with MediaTek's own HyperEngine for what the company is promising is gaming greatness.",
@@ -834,6 +760,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Greater Than Make FIA Smart Driving Challenge Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to FIA Smart Driving Challenge provided by Greater Than, to take advantage of the",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/greater-than-make-fia-smart-driving-challenge-now-available-in-the-microsoft-azure-marketplace-1029165531",
+      "publishedDateTime": "2020-05-05T05:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1097,6 +1060,51 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025.md",
+      "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
+      "excerpt": "The global Edge AI market is segregated on the basis of Device as Smartphones, Cameras, Robots, Wearables, Smart Speaker, Automotive, and Smart Mirror. Based on Processors the global Edge AI market is segmented in CPU,",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-market-global-outlook-on-key-growth-trends-factors-2019-to-2025-2020-05-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T23:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Edge AI Market Global Outlook on Key Growth Trends, Factors 2019 to 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

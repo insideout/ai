@@ -2,51 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-04-13-chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.md",
-      "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
-      "excerpt": "The company's latest move follows a series of ventures into artificial intelligence ... Google - which introduced its own driverless car, Waymo, back in 2009. It also opens a window of opportunity ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnbc.com/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "ampWebUrl": "https://www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2017/04/13/chinese-tech-titan-baidu-acquires-us-start-up-to-boost-driverless-car-efforts.html",
-      "publishedDateTime": "2020-04-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102789256-182034207.jpg?v=1529468820",
-          "width": 2000,
-          "height": 1333,
-          "title": "Chinese tech titan Baidu acquires US start-up to boost driverless car efforts",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-12-on-the-probabilities-of-social-distancing-as-gleaned-from-ai-self-driving-cars.md",
       "title": "On The Probabilities Of Social Distancing As Gleaned From AI Self-Driving Cars",
       "excerpt": "Assuming that you are a conscientious driver (I hope so!), you would right away start to consider the chances or probabilities that the dog might decide to head into the street. Presumably, you aren’t going to just wildly gauge the odds of the dog doing so,",
@@ -1248,6 +1203,51 @@
           "width": 1013,
           "height": 675,
           "title": "The top 10 most innovative and disruptive Insurtech companies",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-05-heres-the-top-stock-to-buy-with-your-coronavirus-stimulus-check.md",
+      "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
+      "excerpt": "Alphabet's artificial intelligence (AI) initiatives should open up a ginormous market opportunity for the company. Its Google Nest AI-enabled smart home products represent just the tip of the iceberg. My view is that Alphabet's Waymo self-driving car business could really take off over the next decade. I'm not the only one who is optimistic ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.fool.com/investing/2020/04/05/heres-the-top-stock-to-buy-with-your-coronavirus-s.aspx?source=eptcnnlnk0000002",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-05T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/566132/us-capitol-building-with-100-bills.jpg",
+          "width": 2160,
+          "height": 1387,
+          "title": "Here's the Top Stock to Buy with Your Coronavirus Stimulus Check",
           "attribution": null
         }
       ],

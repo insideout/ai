@@ -2,43 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-04-21-wekaio-introduces-weka-ai-to-enable-accelerated-edge-to-core-to-cloud-data-pipelines.md",
-      "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
-      "excerpt": "WekaIO™ (Weka), the innovation leader in high-performance and scalable file storage, and a NVIDIA Partner Network Solution Advisor, today introduced W",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200421005072/en/WekaIO-Introduces-Weka-AI-Enable-Accelerated-Edge",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200421005072/en/782264/23/New_Weka_logo_Color.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "WekaIO Introduces Weka AI to Enable Accelerated Edge to Core to Cloud Data Pipelines",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-21-googles-dynamicembedding-framework-extends-tensorflow-to-colossal-scale-applications.md",
       "title": "Google’s DynamicEmbedding framework extends TensorFlow to ‘colossal-scale’ applications",
       "excerpt": "In a preliminary whitepaper published this week on Arxiv.org, Google researchers describe DynamicEmbedding, which extends Google’s TensorFlow machine learning framework to “colossal-scale” applications with arbitrary numbers of features (e.g., search queries). According to Google, AI models developed on it have achieved significant ...",
@@ -1252,6 +1215,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-this-covid-19-app-would-listen-to-your-cough-and-use-ai-to-predict-whether-you-have-coronavirus.md",
+      "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+      "excerpt": "A slew of AI labs are currently aiming to fight coronavirus with apps that analyze audio from people speaking, breathing, or coughing.",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/app-would-listen-cough-predict-coronavirus-2020-4?amp",
+      "publishedDateTime": "2020-04-20T10:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e9dc9c192e8ba71ef0c6fc8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This COVID-19 app would listen to your cough and use AI to predict whether you have coronavirus",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

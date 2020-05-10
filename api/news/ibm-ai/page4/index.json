@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-01-16-the-defining-moments-of-ibm-watson-last-decade.md",
+      "title": "The defining moments of IBM Watson last decade",
+      "excerpt": "Unveiled to the world just under a decade ago, today, IBM Watson is being used by millions of people in thousands of different ways to unlock the value of data in new and profound ways. Across countless industries, Watson is helping businesses around the world harness their data, increase productivity,",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/01/the-defining-moments-of-ibm-watson-last-decade/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-16T11:18:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/01/Year-In-Review_Image-Header_1.16.2020-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "The defining moments of IBM Watson last decade",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-01-11-how-watson-ai-allows-ibms-advertising-accelerator-to-do-three-key-things.md",
       "title": "How Watson AI allows IBM's Advertising Accelerator to do three key things",
       "excerpt": "TechRepublic's Teena Maddox talked to Dave Neway, head of marketing at IBM Watson Advertising, at CES 2020 about how Watson can take advertising to the next level with artificial intelligence (AI). The following is an edited transcript of their conversation. Dave Neway: We had a major product announcement this week. On Tuesday, I'm very proud ...",

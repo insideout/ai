@@ -2,51 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-05-05-eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands.md",
-      "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-      "excerpt": "EU project to develop a collaborative humanoid that helps workers in industrial environments has come to an end.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/eu-robotics-project-gives-maintenance-workers-a-second-pair-of-hands/amp/",
-      "publishedDateTime": "2020-05-05T04:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/SecondHands-31-1.png?fit=1296%2C647&strip=all",
-          "width": 1296,
-          "height": 647,
-          "title": "EU robotics project gives maintenance workers a ‘second pair of hands’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
       "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
       "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
@@ -1297,6 +1252,50 @@
           "width": 1200,
           "height": 675,
           "title": "There's more to usability in AI and IoT than you think",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims.md",
+      "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
+      "excerpt": "Researchers at the Allen Institute and University of Washington describe VeriSci, an AI system that automatically fact-checks scientific claims.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/04/allen-institutes-verisci-uses-ai-to-fact-check-scientific-claims/amp/",
+      "publishedDateTime": "2020-05-04T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Allen Institute’s VeriSci uses AI to fact-check scientific claims",
           "attribution": null
         }
       ],

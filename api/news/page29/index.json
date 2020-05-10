@@ -2,50 +2,6 @@
   "page": 29,
   "value": [
     {
-      "path": "_news/2020-04-15-frame-ai-raises-63m-series-a-to-help-understand-customers-across-channels.md",
-      "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
-      "excerpt": "Frame AI, a New York City startup that uses artificial intelligence and machine learning to help companies understand their customers better across multiple channels, announced a $6.3 million Series A investment today. G20 Ventures and Greycroft led the round together. Bill Wiberg, co-founder and partner at G20, will join Frame’s board under ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/15/frame-ai-raises-6-3m-series-a-to-help-understand-customers-across-channels/amp/",
-      "publishedDateTime": "2020-04-15T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1136194804.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Frame AI raises $6.3M Series A to help understand customers across channels",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-15-gigabyte-aero-17-review-a-gorgeous-4k-laptop-that-finally-makes-sense.md",
       "title": "Gigabyte Aero 17 review: A gorgeous 4K laptop that finally makes sense",
       "excerpt": "For our testing, we didn’t rely on Gigabyte’s “AI” feature, which references an AI database for guidance on how hard it can push loads. Instead we set the laptop to its “gaming” fan threshold and set the GPU and CPU settings to their maximum setting. We don’t believe this to be an overclock, but it’s also hard to say because the ...",
@@ -1016,6 +972,50 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient.md",
+      "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
+      "excerpt": "In light of U.S. Food and Drug Administration’s guidance published in March to expand the use of remote monitoring devices that facilitate patient management, both hospitals and health systems are increasingly piloting AI-enabled at-home solutions. In Kentucky, Baptist Health is using an AI platform developed by Current Health to track about ...",
+      "heat": 85,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/14/a-clinical-team-used-mit-csails-ai-to-remotely-monitor-a-covid-19-patient/amp/",
+      "publishedDateTime": "2020-04-14T10:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "A clinical team used MIT CSAIL’s AI to remotely monitor a COVID-19 patient",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

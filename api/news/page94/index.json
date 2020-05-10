@@ -2,50 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2020-02-18-ai-at-the-edge-creating-coordinated-autonomy.md",
-      "title": "AI At The Edge: Creating Coordinated Autonomy",
-      "excerpt": "Today organizations have to deal with so many emergent behaviors that the notion of central control as the only coping mechanism seems to be receding as a dominant management model. Freedom must be doled out further from the centrist idea by creating goals,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/02/18/ai-at-the-edge-creating-coordinated-autonomy/amp/",
-      "publishedDateTime": "2020-02-18T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e4c3a71d035a50007749e3b%2F0x0.jpg",
-          "width": 800,
-          "height": 512,
-          "title": "AI At The Edge: Creating Coordinated Autonomy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-18-the-internet-of-wild-things-technology-and-the-battle-against-biodiversity-loss-and-climate-change.md",
       "title": "The Internet of Wild Things: Technology and the battle against biodiversity loss and climate change",
       "excerpt": "Subsequent developments have moved the analysis of the audio captured by these canopy-mounted 'Guardian' devices to the cloud, where Google's TensorFlow machine-learning framework is used to identify sounds of illegal activity and adjust audio inputs to minimise the number of false positives. The AI system uses 'binary classifiers' to ...",
@@ -1077,6 +1033,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-18-african-crowdsolving-startup-zindi-scales-10000-data-scientists.md",
+      "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
+      "excerpt": "Cape Town based startup Zindi has registered 10,000 data-scientists on its platform that uses AI and machine learning to crowdsolve complex problems in Africa. Founded in 2018, the early-stage venture allows companies, NGOs or government institutions to host online competitions around data-oriented challenges. Zindi opens the contests to the ...",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/17/african-crowdsolving-startup-zindi-scales-10000-data-scientists/amp/",
+      "publishedDateTime": "2020-02-17T23:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "African crowdsolving startup Zindi scales 10,000 data scientists",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

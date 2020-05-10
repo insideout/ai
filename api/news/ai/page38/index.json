@@ -2,51 +2,6 @@
   "page": 38,
   "value": [
     {
-      "path": "_news/2020-04-01-cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai.md",
-      "title": "CIO Jury: 83% of tech leaders have no policy for ethically using AI",
-      "excerpt": "Read More When asked, \"Does your company have a policy for ethically using AI or machine learning?\" 10 out of 12 tech leaders said no, while just two said yes. That means only 17% of tech leaders in TechRepublic's informal poll have an ethics policy in place for AI and ML. Exactly 12 months ago, TechRepublic asked the same question to its CIO ...",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cio-jury-83-of-tech-leaders-have-no-policy-for-ethically-using-ai/",
-      "publishedDateTime": "2020-04-01T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/03/04/1f124c5b-e8c9-4e32-bd55-0b43c2ebaad2/thumbnail/1200x675/e2dadb62383d012b4fc239d2dd0ac8e1/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "CIO Jury: 83% of tech leaders have no policy for ethically using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-01-developers-its-time-to-brush-up-on-your-philosophy-ethical-ai-is-the-big-new-thing-in-tech.md",
       "title": "Developers - it's time to brush up on your philosophy: Ethical AI is the big new thing in tech",
       "excerpt": "What's more: algorithmic bias is only one side of the problem: the 'ethics of AI' picture is indeed a multifaceted one. To mitigate the unwelcome consequences of AI systems, governments around the world have been working on drafts, guidelines and frameworks designed to inform developers and help them come up with algorithms that are respectful ...",
@@ -1278,6 +1233,51 @@
       "topics": [
         "TensorFlow",
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-31-washington-state-adopts-facial-recognition-rules-critics-view-as-too-loose.md",
+      "title": "Washington State Adopts Facial Recognition Rules Critics View as Too Loose",
+      "excerpt": "Washington Governor Jay Inslee on Tuesday signed into law curbs on law enforcement use of facial recognition, becoming the first state in the United States with sweeping restrictions on a technology that civil rights activists say should be barred.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nytimes.com/reuters/2020/03/31/technology/31reuters-washington-tech.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-31T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Washington State Adopts Facial Recognition Rules Critics View as Too Loose",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

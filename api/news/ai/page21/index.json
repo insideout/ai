@@ -2,51 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-04-17-ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice.md",
-      "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
-      "excerpt": "Researchers from Google Brain, Intel, OpenAI, and top research labs in the U.S. and Europe joined forces this week to release what the group calls a toolbox for turning AI ethics principles into practice. The kit for organizations creating AI models includes the idea of paying developers for finding bias in AI, akin to the bug bounties offered ...",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/17/ai-researchers-propose-bias-bounties-to-put-ethics-principles-into-practice/amp/",
-      "publishedDateTime": "2020-04-17T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1199708189.jpg?fit=1800%2C900&strip=all",
-          "width": 1800,
-          "height": 900,
-          "title": "AI researchers propose ‘bias bounties’ to put ethics principles into practice",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
       "title": "Microsoft To Be AI Partner For NBA",
       "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
@@ -1263,6 +1218,50 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-16-mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon.md",
+      "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
+      "excerpt": "MIT recently trained a machine learning model to accurately predict the spread of COVID-19. According to the AI, we should be seeing a plateau where the amount of new cases begins to level off in the US and Italy in the next week. This good news, however, comes with a dire warning: relaxing quarantine measures too soon will be catastrophic.",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/16/mits-ai-predicts-catastrophe-if-social-distancing-restrictions-relax-too-soon/amp/",
+      "publishedDateTime": "2020-04-16T13:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Coronavirus-model-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": "MIT’s AI predicts catastrophe if social distancing restrictions relax too soon",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

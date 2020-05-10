@@ -2,51 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-04-07-deep-learning-market-2024-global-size-share-key-manufacturers-upcoming-trends-growth-and-regional-forecasts-research.md",
-      "title": "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of the content. Global Deep Learning Market 2020-2024. The report has been monitoring the deep learning market and it is poised to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2024-global-size-share-key-manufacturers-upcoming-trends-growth-and-regional-forecasts-research-2020-04-07?mod=mw_quote_news",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Deep Learning Market 2024: Global Size, Share, Key Manufacturers, Upcoming Trends, Growth and Regional Forecasts Research",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-07-at-cagr-of-38-machine-learning-as-a-service-mlaas-market-share-detailed-analysis-market-growth-size-trends-and-forecast-to-2023.md",
       "title": "At CAGR of 38%, Machine Learning-as-a-Service (MLaaS) Market Share, Detailed Analysis, Market Growth, Size, Trends and Forecast to 2023",
       "excerpt": "Global “Machine Learning-as-a-Service (MLaaS) Market”is analyzed byproduct types, applicationsand key market players formarket size, share, sales (consumption), gross margin and revenue. The Machine Learning-as-a-Service (MLaaS) Market data from the year 2015 to 2017 is primary basis of this research and the forecast period being 2019-2023.",
@@ -1266,6 +1221,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-06-coronavirus-could-be-catalyst-for-healthcare-ai-advances.md",
+      "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+      "excerpt": "Just as the U.S. government significantly invested to put Neil Armstrong and others on the moon by 1969 – $200 billion in today’s dollars by his estimate – Scott said similar funding in artificial intelligence technology could be a difference-maker for our nation’s battered health care system. Scott, 48, whose new book about AI will be ...",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html",
+      "ampWebUrl": "https://www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/health/Coronavirus-Could-Be-Catalyst-For-Healthcare-AI-Advances.html?AMP",
+      "publishedDateTime": "2020-04-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media2.govtech.com/images/shutterstock_710348230.jpg",
+          "width": 839,
+          "height": 630,
+          "title": "Coronavirus Could Be Catalyst for Healthcare, AI Advances",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

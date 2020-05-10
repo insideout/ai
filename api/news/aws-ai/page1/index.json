@@ -228,51 +228,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Virtusa Achieves AWS SaaS Competency Status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
       "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
       "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
@@ -823,35 +778,27 @@
     {
       "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
       "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "that allow machine learning predictions from Amazon Rekognition and Amazon Textract to be human-reviewed more easily. Developers who build custom machine learning models in Amazon SageMaker (or ...",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i-2020-04-24",
+      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T07:17:00-07:00",
+      "publishedDateTime": "2020-04-24T10:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 627,
           "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
           "attribution": null
         }
@@ -1281,6 +1228,51 @@
           "width": 800,
           "height": 576,
           "title": "Smarter FAQ bots with Amazon Kendra",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-17-translating-your-website-or-application-automatically-with-amazon-translate-in-your-cicd-pipeline.md",
+      "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
+      "excerpt": "AWS allows you to deploy websites and applications globally in minutes. This means that both large enterprises and individual developers can reach users, and thus potential customers, all over the world. However, to provide the best experience, you should not only serve content close to your customers,",
+      "heat": 75,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/translating-your-website-or-application-automatically-with-amazon-translate-in-your-ci-cd-pipeline/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-17T09:37:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/16/translating-your-website-1.gif",
+          "width": 813,
+          "height": 435,
+          "title": "Translating your website or application automatically with Amazon Translate in your CI/CD pipeline",
           "attribution": null
         }
       ],

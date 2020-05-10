@@ -2,43 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2020-03-18-how-china-built-facial-recognition-for-people-wearing-masks.md",
-      "title": "How China built facial recognition for people wearing masks",
-      "excerpt": "Hanwang, the facial-recognition company that has placed 2 million of its cameras at entrance gates across the world, started preparing for the coronavirus in early January. Huang Lei, the company’s chief technical officer, said that even before the new virus was widely known about, he had begun to get requests from hospitals at the centre of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://arstechnica.com/tech-policy/2020/03/how-china-built-facial-recognition-for-people-wearing-masks/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-18T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-18-specialized-processors-accelerate-endpoint-ai-workloads.md",
       "title": "Specialized processors accelerate endpoint AI workloads",
       "excerpt": "(Image: Texas Instruments Inc.) Nvidia’s well-known Jetson Nano is a small but powerful graphics processing unit (GPU) module for AI applications in endpoint devices. Built on the same Maxwell architecture as larger members of the Jetson family (AGX Xavier and TX2), the GPU on the Nano module has 128 cores and is capable of 0.5 TFLOPS ...",
@@ -1149,6 +1112,43 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-17-why-truly-smart-future-tech-needs-radically-new-ai-chips.md",
+      "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
+      "excerpt": "By discarding traditional computing architecture and rebuilding specialized AI chips from the ground up, future processors can break through previous limitations. New domain-specific AI chips entail massive efficiency gains over traditional architectures. Unlike standard CPUs and GPUs, such chips dispense with external memory, storing all core ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://insidebigdata.com/2020/03/17/why-truly-smart-future-tech-needs-radically-new-ai-chips/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-17T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2018/09/artificial-intelligence-3382507_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": "Why Truly Smart Future Tech Needs Radically New AI Chips",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

@@ -2,42 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-04-29-the-ai-meme-generator-is-better-at-making-memes-than-humans.md",
-      "title": "The AI meme generator is better at making memes than humans",
-      "excerpt": "Internet users have used the Imgflip meme generator to create their own memes for the better part of a decade. Now, the site is generating its own memes, using the help of artificial intelligence. Harkening back to AI-generated feet pictures and AI-generated faces,",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/ai-meme-generator/",
-      "ampWebUrl": "https://mashable.com/article/ai-meme-generator.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/ai-meme-generator.amp",
-      "publishedDateTime": "2020-04-29T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252Fe6%252Ffccff94954e94c1197cd695c0359290d.89652.png%252F1200x630.png?signature=iB3J6jwGoxGkoaY0JIFKbiybHEs=",
-          "width": 1200,
-          "height": 630,
-          "title": "The AI meme generator is better at making memes than humans",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-roborock-s6-maxv-robot-vacuum-hands-on-ai-camera-eliminates-pet-poop-disasters.md",
       "title": "Roborock S6 MaxV robot vacuum hands-on: AI camera eliminates pet poop disasters",
       "excerpt": "All in all, the Roborock S6 MaxV is a superb high-end robot vacuum with obstacle avoidance and an app that is easy to configure. For $749, it could be the only robot vacuum you will ever need to buy.",
@@ -1268,6 +1232,50 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing.md",
+      "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+      "excerpt": "Zetta Venture Partners, a B2B, AI-focused venture outfit, announced a new $180 million fund. As new VC funds are anecdotally a bit thinner on the ground these days — and because we’re in the midst of economic upheaval,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "publishedDateTime": "2020-04-28T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

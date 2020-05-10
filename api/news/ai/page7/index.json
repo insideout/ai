@@ -2,51 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2020-05-02-i-could-solve-most-of-your-problems-eric-schmidts-pentagon-offensive.md",
-      "title": "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive",
-      "excerpt": "The former Google C.E.O. has reinvented himself as the prime liaison between Silicon Valley and the military-industrial complex.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/05/02/technology/eric-schmidt-pentagon-google.amp.html",
-      "publishedDateTime": "2020-05-02T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/05/03/business/00schmidt1/00schmidt1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "‘I Could Solve Most of Your Problems’: Eric Schmidt’s Pentagon Offensive",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
       "title": "16 things to help battle your social distancing boredom, all on sale",
       "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
@@ -1314,6 +1269,50 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future.md",
+      "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
+      "excerpt": "Goodyear, one of the world's leading tire manufactures, has been at the forefront of innovation for a long time. Here we look at how the company uses data, artificial intelligence, and digital twins to create the tires of the future.",
+      "heat": 71,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/05/01/how-goodyear-is-using-data-artificial-intelligence-and-digital-twins-to-create-the-tyres-of-the-future/amp/",
+      "publishedDateTime": "2020-04-30T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eab59b53a7297000740d873%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "How Goodyear Is Using Data, Artificial Intelligence And Digital Twins To Create The Tyres Of The Future",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

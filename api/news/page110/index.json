@@ -2,51 +2,6 @@
   "page": 110,
   "value": [
     {
-      "path": "_news/2020-02-03-millennium-management-secure-machine-learning-using-amazon-sagemaker.md",
-      "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-      "excerpt": "This is a guest post from Millennium Management. In their own words, “Millennium Management is a global investment management firm, established in 1989, with over 2,900 employees and $39.2 billion in assets under management as of August 2, 2019.”  \nMillennium Management is comprised of a large number",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/millennium-management-secure-machine-learning-using-amazon-sagemaker/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-03T12:16:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/01/31/millenium-sagemaker-1.gif",
-          "width": 900,
-          "height": 473,
-          "title": "Millennium Management: Secure machine learning using Amazon SageMaker",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-02-03-microsoft-looks-to-expand-into-ai-as-cloud-computing-drives-q2-results.md",
       "title": "Microsoft looks to expand into AI as cloud computing drives Q2 results",
       "excerpt": "while adding that Microsoft also plans to develop more AI capabilities in Azure. “Cognitive Services, now integrated with Azure Data Lake, enables customers to use industry-leading AI capabilities to easily analyze images, text, emotions, and sentiments at petabyte scale.” Mandy is a lineup editor at CTV News. A former staffer at IT World ...",
@@ -1059,6 +1014,51 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-02-02-intel-is-sacrificing-previous-ai-acquisitions-for-habana.md",
+      "title": "Intel is sacrificing previous AI acquisitions for Habana",
+      "excerpt": "The big picture: Intel is keen to break new ground in the AI space, but playing hard and fast often results in casualties. Today that’s Nervana, an AI chip startup that Intel acquired in 2016 for roundabouts $400 million. Existing agreements will be honored, but from now on, all AI research efforts will be directed by Habana Labs. Intel ...",
+      "heat": 199,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83826-intel-sacrificing-their-previous-ai-acquisitions-habana.html",
+      "publishedDateTime": "2020-02-02T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2020/02/2020-02-02-ts3_thumbs-dcf.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "Intel is sacrificing previous AI acquisitions for Habana",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

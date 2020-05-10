@@ -2,43 +2,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2020-03-23-why-the-coronavirus-could-mean-more-bogus-cures-fake-government-crackdowns-and-misinformation-on-facebook.md",
-      "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
-      "excerpt": "Facebook, YouTube and Twitter’s content moderators were sent home due to the coronavirus, forcing the companies to rely more on algorithms to police content in the interim.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/03/23/facebook-moderators-coronavirus/?outputType=amp",
-      "publishedDateTime": "2020-03-23T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/TF1lbo3BNhg90uK3iZeOKvdnLJI=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AKL52PAY3BH6VDJKTGMCSD4VFI.jpg",
-          "width": 1440,
-          "height": 910,
-          "title": "Why the coronavirus could mean more bogus cures, fake government crackdowns and misinformation on Facebook",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-23-rpt-softbank-nears-deal-to-invest-in-didis-self-driving-unit-the-information.md",
       "title": "RPT-SoftBank nears deal to invest in Didi's self-driving unit - The Information",
       "excerpt": "SoftBank Group Corp is close to finalizing a deal to lead a $300 million investment in the autonomous driving unit of Didi Chuxing, news website The Information reported on Monday, citing people with knowledge of the situation.",
@@ -1046,6 +1009,35 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-22-novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study.md",
+      "title": "Novel Artificial Intelligence to predict tumour response to drugs: Study",
+      "excerpt": "Researchers have used artificial intelligence (AI) to predict the sensitivity of tumours to three systemic ... urges them to stay put whichever city they are To determine if patients with NSCLC are responding to systemic therapy, radiologists currently quantify changes in tumour size, and the appearance of new tumor lesions, Dercle noted.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/",
+      "ampWebUrl": "https://www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/health-3/novel-artificial-intelligence-to-predict-tumour-response-to-drugs-study/1906051/lite/",
+      "publishedDateTime": "2020-03-22T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

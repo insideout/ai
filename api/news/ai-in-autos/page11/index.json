@@ -2,51 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2020-01-31-ups-buying-10000-electric-delivery-vans-will-test-waymo-self-driving-vehicles-next-month.md",
-      "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
-      "excerpt": "United Parcel Service Inc on Wednesday expanded its efforts to cut emissions and delivery costs with separate deals to order 10,000 electric delivery trucks from UK-based Arrival Ltd and test Waymo self-driving vehicles to carry packages.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/reuters/2020/01/31/business/30reuters-ups-investment.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-01-31T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
-          "width": 1200,
-          "height": 630,
-          "title": "UPS Buying 10,000 Electric Delivery Vans, Will Test Waymo Self-Driving Vehicles Next Month",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2020-01-30-waymos-head-of-design-explains-the-challenges-of-creating-an-autonomous-robot-driver.md",
       "title": "Waymo's head of design explains the challenges of creating an autonomous robot 'driver'",
       "excerpt": "YooJung Ahn oversees the design of the Waymo \"driver,\" a complicated combination of hardware, software, and user experiences.",
@@ -1299,6 +1254,51 @@
           "width": 600,
           "height": 338,
           "title": "Artificial intelligence needs to be regulated: Alphabet CEO Pichai",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-01-20-top-vc-deals-john-chambers-starts-a-fund-and-ex-baidu-exec-scores-funding-for-self-driving-cars.md",
+      "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
+      "excerpt": "James Peng and Tiancheng Lou, formerly of Baidu and Google respectively, raised $112 million in series A funding for their new self-driving tech ... parent company of CNBC and CNBC.com.)",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cnbc.com/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "ampWebUrl": "https://www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2018/01/19/top-vc-deals-john-chambers-pony-ai-ziroom-jump-softbank.html",
+      "publishedDateTime": "2020-01-19T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/104874500-GettyImages-647709384-pony-ma.jpg?v=1532563719",
+          "width": 2004,
+          "height": 1336,
+          "title": "Top VC deals: John Chambers starts a fund, and ex-Baidu exec scores funding for self-driving cars",
           "attribution": null
         }
       ],

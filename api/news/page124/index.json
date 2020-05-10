@@ -2,51 +2,6 @@
   "page": 124,
   "value": [
     {
-      "path": "_news/2020-01-21-google-temporary-ban-on-facial-recognition-tech-might-be-necessary.md",
-      "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-      "excerpt": "Google's CEO made the comments as the European Commission is considering a moratorium on using facial-recognition technologies in public spaces. The proposed ban would last for three to five years so regulators can assess the risks of the technology.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary",
-      "ampWebUrl": "https://www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/google-temporary-ban-on-facial-recognition-tech-might-be-necessary?amp=true",
-      "publishedDateTime": "2020-01-21T14:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.pcmag.com/images/pcmag-social-share.jpg",
-          "width": 997,
-          "height": 1201,
-          "title": "Google: Temporary Ban on Facial-Recognition Tech Might Be Necessary",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2020-01-21-preparing-for-ai-ethics-and-explainability-in-2020.md",
       "title": "Preparing For AI Ethics And Explainability In 2020",
       "excerpt": "After racing head long into creating complex models, companies must take a step back to provide explainable and ethical AI. Fortunately, researchers are providing new tools to help demystify complex models.",
@@ -1066,6 +1021,43 @@
       "topics": [
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-machine-learning-spam-in-google.md",
+      "title": "Machine Learning Spam in Google",
+      "excerpt": "Spammers are taking advantage of Google Rich Results algorithms in order to place content at the top of Google search. Spammers are taking advantage of machine learning technologies to automatically create video content from web pages and vice versa. The same technology can be used to create text content from podcasts and podcast content from ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/",
+      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
+      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-spam-in-google/344359/amp/",
+      "publishedDateTime": "2020-01-21T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Search Engine Journal",
+        "domain": "searchenginejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/01/machine-learning-spam-5e26c3c13dc1a.png",
+          "width": 1600,
+          "height": 840,
+          "title": "Machine Learning Spam in Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

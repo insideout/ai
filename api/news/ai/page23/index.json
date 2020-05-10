@@ -2,50 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2020-04-16-collective-mobilization-can-help-start-ups-fight-covid-19-outbreak.md",
-      "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
-      "excerpt": "On the flip side, Hong Kong-based AI healthcare startup Insilico Medicine recently opened its drug compound database to pharmaceutical companies worldwide to help speed up the identification of a COVID-19 cure. This type of open collaboration between startups and big industry is imperative to saving lives. Going forward, startups and industry ...",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.entrepreneur.com/article/349364",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/349364",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/349364",
-      "publishedDateTime": "2020-04-16T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20200218131007-shutterstock-580313551.jpeg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": "Collective Mobilization Can Help Start-Ups Fight COVID-19 Outbreak",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-16-roboads-inc-uae-robotics-startup-develops-new-generation-of-service-robots-to-aid-medical-and-security-staff-on-coronavirus-frontline.md",
       "title": "RoboAds Inc., UAE Robotics Startup, Develops New Generation of Service Robots to Aid Medical and Security Staff on Coronavirus Frontline",
       "excerpt": "UAE based Robotics startup, RoboAds Inc., has developed a new generation of telepresence robots to aid healthcare and security staff on",
@@ -1295,6 +1251,51 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-self-driving-startup-zoox-settles-with-tesla-over-trade-secret-theft.md",
+      "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
+      "excerpt": "It acknowledged that new hires took Tesla documents. Tesla has prevailed in a key lawsuit over trade secret theft. Self-driving car startup Zoox has settled with Tesla and acknowledged that some of its new logistics recruits “were in possession of Tesla documents” that covered shipping and warehouse processes. Zoox agreed to both pay an ...",
+      "heat": 159,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "ampWebUrl": "https://www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/zoox-settles-with-tesla-over-trade-secrets-135003450.html",
+      "publishedDateTime": "2020-04-15T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2F8466feb0-7f13-11ea-bfef-587f798de2ed&client=amp-blogside-v2&signature=63a511e40e2fa13f86595a02e9e8f9bc58651366",
+          "width": 600,
+          "height": 350,
+          "title": "Self-driving startup Zoox settles with Tesla over trade secret theft",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

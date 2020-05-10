@@ -2,50 +2,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_news/2020-04-28-mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore.md",
-      "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-      "excerpt": "In a pair of papers, MIT researchers describe techniques that spur agents to explore their environments and compress AI models without sacrificing accuracy.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "publishedDateTime": "2020-04-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/alex-knight-199368-unsplash-e1577481237671.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-28-brainbox-raises-12-million-to-optimize-hvac-systems-with-ai.md",
       "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
       "excerpt": "BrainBox, which taps AI and machine learning to optimize HVAC systems, has raised $12 million in a convertible debt round.",
@@ -1068,6 +1024,43 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
+      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "publishedDateTime": "2020-04-27T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

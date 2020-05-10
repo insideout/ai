@@ -129,6 +129,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-ibm-ceo-every-company-will-become-an-ai-company.md",
+      "title": "IBM CEO: 'Every company will become an AI company'",
+      "excerpt": "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to ... Krishna also unveiled the firm’s new AI toolset, Watson AIOps, which is designed to bring AI to hybrid cloud environments and help businesses automate the management of IT infrastructure. “The problem is that many ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "publishedDateTime": "2020-05-05T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8rX9mQvTR4AYxhWzdeDHsi-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM CEO: 'Every company will become an AI company'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-women-leaders-in-ai.md",
       "title": "Women Leaders in AI",
       "excerpt": "“Success must include two things: the development of an individual to his utmost potentiality and a contribution of some kind to one’s world.” — Eleanor Roosevelt\nThroughout history, across countries, industries, and professions, women trailblazers have opened the door for millions of other women to",
@@ -1261,35 +1306,6 @@
       "topics": [
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-us-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions.md",
-      "title": "U.S. Consumer Healthcare Advocacy Group (USCHAG) Announces Partnership with IBM Solutions",
-      "excerpt": "U.S. Consumer Healthcare Advocacy Group (USCHAG) is pleased to announce a formal partnership with IBM Solutions.  While the details of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/n15831873/u-s-consumer-healthcare-advocacy-group-uschag-announces-partnership-with-ibm-solutions",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15831873",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15831873",
-      "publishedDateTime": "2020-04-17T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

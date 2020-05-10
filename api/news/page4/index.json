@@ -2,51 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-05-06-chinese-chip-maker-smics-us3-billion-shanghai-listing-is-a-hedge-to-reduce-companys-reliance-on-us-technology.md",
-      "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-      "excerpt": "SMIC, which announced its plan to delist from New York last year, is one of several chip companies that embody Beijing’s hope of creating a self-reliant and world-class semiconductor industry.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "ampWebUrl": "https://amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/companies/article/3083208/chinese-chipmaker-smics-us3-billion-shanghai-listing-hedge",
-      "publishedDateTime": "2020-05-06T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/05/06/e1cf8a26-8f9a-11ea-a674-527cfdef49ee_image_hires_211839.JPG?itok=ETHgRewO&v=1588771125",
-          "width": 1200,
-          "height": 630,
-          "title": "Chinese chip maker SMIC’s US$3 billion Shanghai listing is a hedge to reduce company’s reliance on US technology",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-health-care-at-iclr-ai-tackles-poor-data-low-resources-and-black-boxes.md",
       "title": "Health care at ICLR: AI tackles poor data, low resources, and black boxes",
       "excerpt": "In the field of medicine, AI can make a positive impact, but healthcare presents unique problems in data and with resources and explainability.",
@@ -451,51 +406,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-06-virtusa-achieves-aws-saas-competency-status.md",
-      "title": "Virtusa Achieves AWS SaaS Competency Status",
-      "excerpt": "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Virtusa Achieves AWS SaaS Competency Status",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-06-this-smart-ai-powered-stock-photo-library-helps-you-find-the-perfect-image.md",
       "title": "This Smart, AI-Powered Stock Photo Library Helps You Find the Perfect Image",
       "excerpt": "Sure, JumpStory™ gives entrepreneurs and marketers access to high-quality imagery, but it also makes it easy to find the right images for whatever project you're tackling Their",
@@ -892,6 +802,51 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-ibm-ceo-every-company-will-become-an-ai-company.md",
+      "title": "IBM CEO: 'Every company will become an AI company'",
+      "excerpt": "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to ... Krishna also unveiled the firm’s new AI toolset, Watson AIOps, which is designed to bring AI to hybrid cloud environments and help businesses automate the management of IT infrastructure. “The problem is that many ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techradar.com/uk/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "ampWebUrl": "https://www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/ibm-ceo-every-company-will-become-an-ai-company",
+      "publishedDateTime": "2020-05-05T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8rX9mQvTR4AYxhWzdeDHsi-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": "IBM CEO: 'Every company will become an AI company'",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-women-leaders-in-ai.md",
       "title": "Women Leaders in AI",
       "excerpt": "“Success must include two things: the development of an individual to his utmost potentiality and a contribution of some kind to one’s world.” — Eleanor Roosevelt\nThroughout history, across countries, industries, and professions, women trailblazers have opened the door for millions of other women to",
@@ -1114,6 +1069,51 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-05-ford-shares-a-years-worth-of-self-driving-car-data.md",
+      "title": "Ford shares a year's worth of self-driving car data",
+      "excerpt": "Self-driving vehicles require massive amounts of data, which can be difficult to obtain without vehicles equipped with cameras and LiDAR and miles and miles of testing. To help advance autonomous vehicle research,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ford-self-driving-vehicle-dataset-192308540.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-self-driving-vehicle-dataset-192308540.html",
+      "publishedDateTime": "2020-05-05T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-05%2F21e1ce80-8f00-11ea-9401-66231619ed5e&client=amp-blogside-v2&signature=83f0352838237c7cb1538da3e17441a630a93a2c",
+          "width": 600,
+          "height": 350,
+          "title": "Ford shares a year's worth of self-driving car data",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
