@@ -7,8 +7,8 @@ webUrl: "https://www.news-medical.net/news/20200505/Artificial-intelligence-may-
 ampWebUrl: "https://www.news-medical.net/amp/news/20200505/Artificial-intelligence-may-help-diagnose-diseases-that-affect-the-heart.aspx"
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20200505/Artificial-intelligence-may-help-diagnose-diseases-that-affect-the-heart.aspx"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"

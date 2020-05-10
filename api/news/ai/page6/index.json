@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-04-how-should-your-business-get-started-with-ai-begin-with-why.md",
+      "title": "How Should Your Business Get Started With AI? Begin With Why",
+      "excerpt": "When it comes to AI, it’s tempting to focus on the technology rather than the underlying need its intended to address. Asking why may prove to be the key to helping businesses get started with AI.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/",
+      "ampWebUrl": "https://www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kasiaborowska/2020/05/04/how-should-your-business-get-started-with-ai-begin-with-why/amp/",
+      "publishedDateTime": "2020-05-04T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb0259abf28980008468d55%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4798%26cropY1%3D363%26cropY2%3D2612",
+          "width": 1200,
+          "height": 563,
+          "title": "How Should Your Business Get Started With AI? Begin With Why",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-democrats-counter-trumps-fake-coronavirus-news-with-ai-that-fought-isis-propaganda.md",
       "title": "Democrats counter Trump’s fake coronavirus news with AI that fought ISIS propaganda",
       "excerpt": "Trump PAC is using AI originally designed to tackle Islamic State propaganda to counter coronavirus disinformation spread by the president.",
@@ -181,27 +226,27 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
           "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
@@ -302,6 +347,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-mls-players-can-restart-individual-workouts-on-wednesday.md",
+      "title": "MLS Players Can Restart Individual Workouts on Wednesday",
+      "excerpt": "Workouts will be voluntary and players will have access to outdoor fields, unless local policies prohibit access.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sporttechie.com/mls-players-restart-individual-workouts-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": "MLS Players Can Restart Individual Workouts on Wednesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1219,87 +1301,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-16-things-to-help-battle-your-social-distancing-boredom-all-on-sale.md",
-      "title": "16 things to help battle your social distancing boredom, all on sale",
-      "excerpt": "These top-selling deals are massively discounted — up to 98% off — for no good reason other than to make your social distancing life a little better. From app subscriptions to online courses to smartphone accessories,",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale/",
-      "ampWebUrl": "https://mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/may-2-social-distancing-boredom-sale.amp",
-      "publishedDateTime": "2020-05-02T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F05%252F02%252Ff2%252Faac2f06ab7924e4bb5490b401614948f.08afc.jpg%252F1200x630.jpg?signature=Ws8OrHmNrSwXDm02XQM7LOdHNn0=",
-          "width": 1200,
-          "height": 630,
-          "title": "16 things to help battle your social distancing boredom, all on sale",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges-forecast-2023.md",
-      "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
-      "excerpt": "Artificial Intelligence is anticipated to disrupt every business and enterprises across the world. One of the major factors that drive the growth of artificial intelligence market",
-      "heat": 78,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-share-scope-trends-drivers-challenges---forecast-2023-2020-05-02",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-02T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Retail Market Share, Scope, Trends, Drivers, Challenges - Forecast 2023",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

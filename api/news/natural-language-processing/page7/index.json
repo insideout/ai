@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-02-10-facebook-quietly-acquired-another-uk-ai-startup-and-almost-no-one-noticed.md",
+      "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+      "excerpt": "Over the last few years, Facebook has been busy building out AI capabilities in areas like computer vision, natural language processing (NLP) and ‘deep learning,’ in part by acquiring promising startups in the space. Understandably, this has seen the U.S. social networking giant look to the U.K. for AI talent, including an acqui-hire of NLP ...",
+      "heat": 120,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/",
+      "ampWebUrl": "https://techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/facebook-quietly-acquired-atlast-ml/amp/",
+      "publishedDateTime": "2020-02-10T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/halftone-maze.png?w=1024",
+          "width": 1024,
+          "height": 544,
+          "title": "Facebook quietly acquired another UK AI startup and almost no one noticed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-friendships-are-faltering-but-theres-hope-that-ai-self-driving-cars-might-cause-a-friendship-uplift.md",
       "title": "Friendships Are Faltering But There’s Hope That AI Self-Driving Cars Might Cause A Friendship Uplift",
       "excerpt": "Seems like friendships are faltering, but there's hope that via AI self-driving cars a friendship uplift will occur.",
@@ -1277,51 +1323,6 @@
           "width": 1200,
           "height": 800,
           "title": "Can AI Drive Education Forward?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime.md",
-      "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
-      "excerpt": "With the integration of BERT with ONNX, developers can train a model, export it to ONNX format and use it for inferencing across multiple hardware platforms.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/01/23/microsoft-brings-enhanced-nlp-capabilities-to-onnx-runtime/amp/",
-      "publishedDateTime": "2020-01-23T05:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e2998aca854780006af4a28%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Brings Enhanced NLP Capabilities To ONNX Runtime",
           "attribution": null
         }
       ],

@@ -2,6 +2,52 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-09-understanding-the-recognition-pattern-of-ai.md",
+      "title": "Understanding The Recognition Pattern Of AI",
+      "excerpt": "Of the seven patterns of AI that represent the ways in which AI is being implemented, one of the most common is the recognition pattern.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/09/understanding-the-recognition-pattern-of-ai/amp/",
+      "publishedDateTime": "2020-05-09T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1032667470%2F0x0.jpg",
+          "width": 1200,
+          "height": 584,
+          "title": "Understanding The Recognition Pattern Of AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-05-08-clearview-ai-to-stop-providing-facial-recognition-to-private-companies.md",
       "title": "Clearview AI to stop providing facial recognition to private companies",
       "excerpt": "Maker of controversial says it's cutting off anyone not associated with government or law enforcement entities.",
@@ -535,9 +581,9 @@
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929960/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/15929960",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929960",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929936/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15929936",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929936",
       "publishedDateTime": "2020-04-30T19:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -1187,43 +1233,6 @@
           "width": 640,
           "height": 310,
           "title": "Google introduces improved AI to address gender bias in translate",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-europe-speech-recognition-software-market-will-take-the-highest-jump-during-2020-2025.md",
-      "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
-      "excerpt": "The global Speech Recognition Software market report offers information relating to the leading regions, competitive landscape, growth trends, and other crucial information about the growth status of the market.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cmo.com.au/mediareleases/87429/europe-speech-recognition-software-market-will/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T22:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cmo.com.au",
-        "domain": "cmo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://demo.idg.com.au/cmo/cmo50/2019/cmo50_promo2019_5.jpg",
-          "width": 600,
-          "height": 246,
-          "title": "Europe Speech Recognition Software Market will take the highest jump during 2020-2025",
           "attribution": null
         }
       ],

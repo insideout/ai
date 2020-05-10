@@ -2,6 +2,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-05-06-unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool.md",
+      "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
+      "excerpt": "A team of materials scientists at Lawrence Berkeley National Laboratory (Berkeley Lab) – scientists who normally spend their time researching things like high-performance materials for thermoelectrics",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/",
+      "ampWebUrl": "https://scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
+      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/unexpected-scientific-insights-into-covid-19-from-ai-machine-learning-tool/amp/",
+      "publishedDateTime": "2020-05-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SciTech Daily",
+        "domain": "scitechdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://scitechdaily.com/images/Machine-Learning-COVID-19-Concept-777x518.jpg",
+          "width": 777,
+          "height": 518,
+          "title": "Unexpected Scientific Insights into COVID-19 From AI Machine Learning Tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-facebook-cancels-its-2020-2021-ai-residency-program-due-to-coronavirus.md",
       "title": "Facebook cancels its 2020-2021 AI Residency program due to coronavirus",
       "excerpt": "Facebook today announced that it plans to cancel its 2020-2021 in-person AI Residency program as a result of the novel coronavirus pandemic. In a statement sent to VentureBeat via email, Facebook vice president of AI Jerome Pesenti said that the decision was motivated by health and safety concerns.",
@@ -1294,52 +1332,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
-      "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
-      "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-06T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

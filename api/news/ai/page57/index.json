@@ -2,6 +2,110 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-03-16-fortinet-introduces-self-learning-artificial-intelligence-appliance-for-sub-second-threat-detection.md",
+      "title": "Fortinet Introduces Self-Learning Artificial Intelligence Appliance for Sub-Second Threat Detection",
+      "excerpt": "FortiAI’s Virtual Security Analyst embeds one of the industry’s most mature cybersecurity artificial intelligence – developed by Fortinet’s FortiGuard Labs – directly into an ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/",
+      "ampWebUrl": "https://www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/fortinet-introduces-self-learning-artificial-intelligence-appliance-sub-second-threat-detection/amp/",
+      "publishedDateTime": "2020-03-16T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-big-tech-swallows-most-of-the-hot-ai-startups.md",
+      "title": "Big Tech Swallows Most of the Hot AI Startups",
+      "excerpt": "An acquisition spree by Apple, Amazon, Facebook, Google and Microsoft eliminated potential rivals and concentrated brain power in this critical field.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-03-16/big-tech-swallows-most-of-the-hot-ai-startups",
+      "publishedDateTime": "2020-03-16T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-16-cognitive-computing-technology-market-by-offering-solutionsservices-technology-deployment-type-applications-forecasts-to-2023.md",
+      "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
+      "excerpt": "This report analyzes the global cognitive computing technology market by technology (NLP, machine learning, automated reasoning), deployment (cloud, on-premise), organization size (SME, large enterprise), end-user (BFSI, retail, aerospace & defense); it also studies the top manufacturers in the market. • Microsoft Corporation (U.S ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/ab15555518/cognitive-computing-technology-market-by-offering-solutions-services-technology-deployment-type-a",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15555518",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15555518",
+      "publishedDateTime": "2020-03-16T02:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1584351519.jpeg",
+          "width": 278,
+          "height": 333,
+          "title": "Cognitive Computing Technology Market By Offering (Solutions,Services), Technology, Deployment Type, Applications Forecasts To 2023",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-can-you-use-serverless-for-artificial-intelligence-today.md",
       "title": "Can you use Serverless for Artificial Intelligence today?",
       "excerpt": "At Radix we use multiple serverless services: AWS Lambda for computational ... tasks that are neither real-time nor involving artificial intelligence. But when does it make sense to use them ...",
@@ -1010,133 +1114,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-ai-is-coming-for-your-most-mind-numbing-office-tasks.md",
-      "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-      "excerpt": "Such reservations seem unlikely to dampen believers’ enthusiasm, though. Guy Kirkwood, the chief evangelist at UiPath, says the vision is for software robots to be a lot more like the AI of science fiction, eventually taking over how they are programmed from start to finish. “The direction of travel—and we’re not there yet—is that we ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/",
-      "ampWebUrl": "https://www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-coming-most-mind-numbing-office-tasks/amp",
-      "publishedDateTime": "2020-03-14T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": "AI Is Coming for Your Most Mind-Numbing Office Tasks",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-this-stance-detecting-ai-will-help-us-fact-check-fake-news.md",
-      "title": "This stance-detecting AI will help us fact-check fake news",
-      "excerpt": "However, while those techniques have been efficient for some tasks such as machine translation, they have had limited success on ... time- and labor-intensive data-labeling work that goes into most contemporary AI work. “The beauty of bidirectional transformer language models is that they allow very large text corpuses to be used to obtain ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/03/14/this-stance-detecting-ai-will-help-us-fact-check-fake-news-syndication/amp/",
-      "publishedDateTime": "2020-03-14T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/03/Copy-of-...-8-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": "This stance-detecting AI will help us fact-check fake news",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-14-create-no-code-predictive-models-with-azure-machine-learning.md",
-      "title": "Create no-code predictive models with Azure Machine Learning",
-      "excerpt": "Machine learning is at the core of artificial intelligence, and many modern applications and services depend on predictive machine learning models. Learn how to use Azure Machine Learning to create and publish models without writing code. Training a machine learning model is an iterative process that requires time and compute resources.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/paths/create-no-code-predictive-models-azure-machine-learning/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-13T22:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

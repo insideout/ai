@@ -2,6 +2,52 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-05-06-cognitive-services-market-next-big-thing-2025-microsoft-google-aws-baidu-nuance-communications-ibm.md",
+      "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+      "excerpt": "Cognitive Services are a set of machine learning algorithms that has been developed to explain problems in the field of Artificial Intelligence (AI). Cognitive services offer an organized way to reach business objectives by dropping the efforts essential to work on recurring tasks.",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-services-market-next-big-thing-2025---microsoft-google-aws-baidu-nuance-communications-ibm-2020-05-06",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Cognitive Services Market Next Big Thing 2025 - Microsoft, Google, AWS, Baidu, Nuance Communications, IBM",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-hands-on-with-the-ecovacs-deebot-ozmo-t8-aivi-multi-purpose-cleaning-and-mopping-robot-with-video-surveillance-feature.md",
       "title": "Hands on with the Ecovacs Deebot Ozmo T8 AIVI: multi-purpose cleaning and mopping robot with video surveillance feature",
       "excerpt": "The Ecovacs Deebot Ozmo T8 AIVI is an AI-driven floor cleaning robot that has every feature you could need in a multi-purpose robot – and a video and microphone that can scan your home whilst you are away.",
@@ -588,7 +634,7 @@
       "path": "_news/2020-05-05-ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote.md",
       "title": "AI, hybrid cloud and 5G dominate IBM Think digital keynote",
       "excerpt": "Standing in front of a blue digital background, IBM CEO Arvind Krishna welcomed viewers to the virtual IBM Think conference on Tuesday. Originally set to be held in San Francisco",
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "type": "article",
       "webUrl": "https://www.techrepublic.com/article/ai-hybrid-cloud-and-5g-dominate-ibm-think-digital-keynote/",
@@ -1294,52 +1340,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-the-relentless-startup-fast-tracking-fords-self-driving-cars.md",
-      "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-      "excerpt": "Meet Brian Salesky and the team of resourceful engineers at Argo, the little company trying to crack a big problem: safe autonomous driving.",
-      "heat": 76,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/",
-      "ampWebUrl": "https://www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/relentless-startup-fast-tracking-fords-self-driving-cars/amp",
-      "publishedDateTime": "2020-05-05T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5eb0b525d1f9c7765dcdadbe/master/pass/Backchannel-Argo-Selesky_6564.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "The Relentless Startup Fast-Tracking Ford’s Self-Driving Cars",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

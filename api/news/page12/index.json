@@ -2,6 +2,134 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-29-google-open-sources-faster-more-efficient-tensorflow-runtime.md",
+      "title": "Google open-sources faster, more efficient TensorFlow runtime",
+      "excerpt": "Google open-sourced TFRT, a faster and more efficient runtime that'll eventually replace the default runtime in the company's TensorFlow framework.",
+      "heat": 106,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/29/google-open-sources-faster-more-efficient-tensorflow-runtime/amp/",
+      "publishedDateTime": "2020-04-29T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/06/tensorflow.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google open-sources faster, more efficient TensorFlow runtime",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-cruise-cant-test-its-self-driving-cars-so-its-delivering-food-instead.md",
+      "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+      "excerpt": "Cruise vehicles, the self-driving electric Chevy Bolts usually spotted around San Francisco neighborhoods, are back on the road after a brief pause during the coronavirus outbreak. And now that the fleet is considered an essential service,",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery/",
+      "ampWebUrl": "https://mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/cruise-gm-autonomous-cars-food-delivery.amp",
+      "publishedDateTime": "2020-04-29T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F04%252F29%252F5e%252F1efeba8e0f7e467eb123699e8e9356c2.e6915.jpg%252F1200x630.jpg?signature=Hvy3PtU_wTqrmzWJ1FvBYTRijw0=",
+          "width": 1200,
+          "height": 630,
+          "title": "Cruise can't test its self-driving cars. So it's delivering food instead.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-29-building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition.md",
+      "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+      "excerpt": "Many industries, including retail, manufacturing, and healthcare, are adopting IoT-enabled devices and using AI or machine learning (ML) technologies to enable such devices to make human-like decisions without human intervention. You can also apply some of the use cases involving powering IoT-enabled",
+      "heat": 116,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-smart-garage-door-opener-with-aws-deeplens-and-amazon-rekognition/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-29T10:09:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/29/building-smart-garage-16.gif",
+          "width": 979,
+          "height": 571,
+          "title": "Building a smart garage door opener with AWS DeepLens and Amazon Rekognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-29-ai-model-predicts-the-coronavirus-pandemic-will-end-in-december.md",
       "title": "AI model predicts the coronavirus pandemic will end in December",
       "excerpt": "Data scientists have attempted to answer the question on everyone's mind: When will the COVID-19 pandemic end?",
@@ -941,125 +1069,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
-      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
-      "publishedDateTime": "2020-04-28T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
-          "width": 590,
-          "height": 350,
-          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
-      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
-      "publishedDateTime": "2020-04-28T15:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics.md",
-      "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
-      "excerpt": "A group of 24 specialists has started drafting recommendations on AI development and implementation that respect human well-being.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/",
-      "ampWebUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
-      "cdnAmpWebUrl": "https://www-moroccoworldnews-com.cdn.ampproject.org/c/s/www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
-      "publishedDateTime": "2020-04-28T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morocco World News",
-        "domain": "moroccoworldnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.moroccoworldnews.com/wp-content/uploads/2020/04/Moroccan-Expert-Joins-UNESCO-Panel-on-Artificial-Intelligence-Ethics.jpg",
-          "width": 800,
-          "height": 500,
-          "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

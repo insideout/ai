@@ -2,6 +2,124 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-04-24-the-surge-of-sensationalist-covid-19-ai-research.md",
+      "title": "The surge of sensationalist COVID-19 AI research",
+      "excerpt": "There seems to be a tendency to hastily use imperfect and questionable data to train an AI solution for COVID-19, a dangerous trend that not only does not help any patient or physician but also damages the reputation of the AI community. Dealing with a pandemic — as significant as it is — does not suspend basic scientific principles.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/the-surge-of-sensationalist-covid-19-ai-research/amp/",
+      "publishedDateTime": "2020-04-24T14:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/coronavirus_ai.jpg?fit=2122%2C1413&strip=all",
+          "width": 2122,
+          "height": 1413,
+          "title": "The surge of sensationalist COVID-19 AI research",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
+      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
+      "excerpt": "Arista Networks, today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services ... Zoom and Microsoft Team video ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172782/Arista-Delivers-Cognitive-WiFi-for-Collaboration-Video-and-Chat-Applications/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-24T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing.md",
+      "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+      "excerpt": "Using a hybrid AI system dubbed SIRNet and several epidemiological models, which were trained on smartphone location data along with population-weighted density and other data points from the startup Safe Graph, World Health Organization, the U.S. Centers for Disease Control and Prevention, and elsewhere, the coauthors claim they managed to ...",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/24/ai-weekly-ai-models-illustrate-the-importance-of-continued-social-distancing/amp/",
+      "publishedDateTime": "2020-04-24T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "AI Weekly: AI models illustrate the importance of continued social distancing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-24-iss-news-space-stations-cimon-2-ai-robot-to-revolutionise-coronavirus-social-care.md",
       "title": "ISS news: Space station's CIMON-2 AI robot to revolutionise coronavirus social care",
       "excerpt": "SPACE experts have revealed IBM's revolutionary Crew Interactive MObile CompanioN (CIMON-2) continues to exceed expectations aboard the International Space Station (ISS). One of the AI robot's developers has now revealed how the project can aid social care in the post-coronavirus world.",
@@ -82,43 +200,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
-      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Augmented Artificial Intelligence",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businesswire.com/news/home/20200424005488/en/AWS-Announces-General-Availability-Amazon-Augmented-Artificial",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-24T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20200424005488/en/787122/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -331,6 +412,35 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-24-aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i.md",
+      "title": "AWS Announces General Availability of Amazon Augmented Artificial Intelligence (A2I)",
+      "excerpt": "Today, Amazon Web Services (AWS), an Amazon.com company (NASDAQ:AMZN), announced the general availability of Amazon Augmented Artificial Intelligence (A2I), a fully managed service that makes it ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/b15876750/aws-announces-general-availability-of-amazon-augmented-artificial-intelligence-a2i",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15876750",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15876750",
+      "publishedDateTime": "2020-04-24T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -929,117 +1039,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-you-dont-need-an-rtx-gpu-to-access-rtx-voice-after-all.md",
-      "title": "You don't need an RTX GPU to access RTX Voice, after all",
-      "excerpt": "This app claims to use AI to reduce or outright cancel microphone background noise, and it was only intended to function for RTX card owners. However, as per the usual, the internet has circumvented those limitations. A user over on the Guru3D forums discovered that RTX Voice works \"just fine\" without a pricey RTX GPU in your system.",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/84962-you-dont-need-rtx-gpu-access-rtx-voice.html",
-      "publishedDateTime": "2020-04-23T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/04/2020-04-23-image-31.jpg",
-          "width": 1680,
-          "height": 1120,
-          "title": "You don't need an RTX GPU to access RTX Voice, after all",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-former-fox-cto-joins-microsoft-azures-media-and-entertainment-business.md",
-      "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-      "excerpt": "Hanno Basse, the former chief technology officer at 20th Century Fox, has been named CTO for Microsoft Azure Media and Entertainment. In his new role, he’s working with entertainment industry customers, partners, industry groups and vendors to create applications for Microsoft’s cloud, edge and AI technologies. His initial focus is ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.hollywoodreporter.com/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "ampWebUrl": "https://www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/amp/behind-screen/fox-cto-joins-microsoft-azures-media-entertainment-business-1291527",
-      "publishedDateTime": "2020-04-23T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn1.thr.com/sites/default/files/imagecache/768x433/2019/06/hanno_basse-getty-h_2019_.jpg",
-          "width": 768,
-          "height": 433,
-          "title": "Former Fox CTO Joins Microsoft Azure's Media and Entertainment Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-23-arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications.md",
-      "title": "Arista Delivers Cognitive WiFi for Collaboration, Video and Chat Applications",
-      "excerpt": "Arista Networks (NYSE:ANET), today announced a new release of its Cognitive WiFi software that seamlessly delivers intelligent application identification, performance optimization, automated troubleshooting and location services. This provides customers ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://stockhouse.com/news/press-releases/2020/04/22/arista-delivers-cognitive-wifi-for-collaboration-video-and-chat-applications",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-23T11:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

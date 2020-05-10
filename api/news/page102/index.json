@@ -2,6 +2,139 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2020-02-10-us-army-to-use-gamers-brain-waves-to-train-military-robot-swarms.md",
+      "title": "US Army to use gamers’ brain waves to train military robot swarms",
+      "excerpt": "The U.S. Defense Advanced Research Projects Agency, known as DARPA, awarded a team from the University of Buffalo's Artificial Intelligence Institute a $316,000 grant for the study. Although swarm robotics is inspired by many things, including ant colonies ...",
+      "heat": 124,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots",
+      "ampWebUrl": "https://www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/army-using-gamers-brain-waves-to-train-military-robots.amp",
+      "publishedDateTime": "2020-02-10T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/creative-commons-robot-swarm.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": "US Army to use gamers’ brain waves to train military robot swarms",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-worse-for-workers.md",
+      "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+      "excerpt": "Are you prepared for \"Robomageddon\"? As robotics and advanced automation continue to spread throughout the American workplace, a new study shows that attitudes are a mixed bag.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/",
+      "ampWebUrl": "https://www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bryanrobinson/2020/02/10/prepare-for-robomageddon-new-study-says-ai-makes-jobs-easier-but-bad-for-workers/amp/",
+      "publishedDateTime": "2020-02-10T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/711x533/https://specials-images.forbesimg.com/imageserve/1179632186/960x0.jpg?fit=scale",
+          "width": 711,
+          "height": 533,
+          "title": "Prepare For ‘Robomageddon’: New Study Says AI Makes Jobs Easier, But Worse For Workers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-10-behind-the-code-meet-zia-mohammad.md",
+      "title": "Behind the Code: Meet Zia Mohammad",
+      "excerpt": "As a product manager on IBM’s Watson Platform team, Zia Mohammad oversees Natural Language Understanding offerings such as Language Translator and Tone Analyzer. Zia also teaches at IBM’s Project Management Bootcamp. We talked to him about why he chose to work in AI, where he sees the field going in",
+      "heat": 102,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/02/behind-the-code-meet-zia-mohammad/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-10T11:35:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/02/2020_02_05_-Marketing_Materials_Blog_Image.jpg",
+          "width": 990,
+          "height": 498,
+          "title": "Behind the Code: Meet Zia Mohammad",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-10-fiat-chrysler-and-autox-confirm-plans-to-work-on-robotaxis.md",
       "title": "Fiat Chrysler and AutoX confirm plans to work on robotaxis",
       "excerpt": "FCA will face plenty of competition in China, where self-driving car tests have been permitted on public roads since 2017. Alibaba, Baidu, Chinese ridesharing company Didi Chuxingare and Tencent are all working on autonomous vehicle platforms. Volvo and Ford are both involved with Baidu. Meanwhile, Volkswagen's autonomous driving subsidiary ...",
@@ -971,133 +1104,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-softbank-owned-arm-to-launch-new-ai-chip-for-small-devices.md",
-      "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-      "excerpt": "Arm Ltd, a semiconductor technology firm owned by SoftBank Group, unveiled a chip technology aimed at putting artificial intelligence functions on tiny devices such as sensors designed to detect patterns in human speech or other streams of data.",
-      "heat": 134,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/us-arm-tech-idUSKBN2041MK",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2041MK",
-      "publishedDateTime": "2020-02-10T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20200210&t=2&i=1488376532&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG1911W",
-          "width": 785,
-          "height": 545,
-          "title": "SoftBank-owned Arm to launch new AI chip for small devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-protecting-privacy-in-an-ai-driven-world.md",
-      "title": "Protecting privacy in an AI-driven world",
-      "excerpt": "This report from The Brookings Institution’s Artificial Intelligence and Emerging Technology (AIET ... The Brookings Institution is a nonprofit organization devoted to independent research and policy solutions. Its mission is to conduct high-quality, independent research and, based on that research, to provide innovative, practical ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/",
-      "ampWebUrl": "https://www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/protecting-privacy-in-an-ai-driven-world/amp/",
-      "publishedDateTime": "2020-02-10T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2017/04/es_20170425_fintechapps.jpg",
-          "width": 4566,
-          "height": 3024,
-          "title": "Protecting privacy in an AI-driven world",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-10-arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu.md",
-      "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-      "excerpt": "“But the next thing or the next step is even more exciting to me: to get AI everywhere. And here we are talking about bringing the benefits of AI down to the IoT endpoints, including microcontrollers and therefore to a much larger scale of users and applications — literally billions more.” That’s very much what this combination of ...",
-      "heat": 99,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/10/arm-focuses-on-ai-with-its-new-cortex-m-cpu-and-ethos-u-npu/amp/",
-      "publishedDateTime": "2020-02-10T06:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/07/GettyImages-1146397412.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Arm focuses on AI with its new Cortex-M CPU and Ethos-U NPU",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,133 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
+      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
+      "publishedDateTime": "2020-04-18T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
+          "width": 1440,
+          "height": 810,
+          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-study-says.md",
+      "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+      "excerpt": "Widespread use of self-driving cars in coming decades will increase congestion and pollution in the Washington region if governments don’t take steps to avoid such consequences, according a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html",
+      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
+      "publishedDateTime": "2020-04-18T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg",
+          "width": 1440,
+          "height": 1080,
+          "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
+      "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+      "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
+      "heat": 73,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
+      "publishedDateTime": "2020-04-18T17:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/19/7f0db3be-81ca-11ea-8736-98edddd9b5ca_image_hires_080326.JPG?itok=xt1FJcBB&v=1587254613",
+          "width": 1200,
+          "height": 630,
+          "title": "Uber says engineer is on his own for US$180 million legal award to Google",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-18-for-this-high-yield-stock-5g-and-artificial-intelligence-outweigh-coronavirus.md",
       "title": "For This High-Yield Stock, 5G and Artificial Intelligence Outweigh Coronavirus",
       "excerpt": "Leading nodes are the smallest, densest, most advanced chips, with higher power and better battery efficiency. More powerful chips are needed in all the big megatrends today, from 5G communications to artificial intelligence applications in the data center. For instance, Taiwan Semiconductor gets almost half of its revenue from smartphone chips.",
@@ -1143,124 +1270,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-microsoft-to-be-ai-partner-for-nba.md",
-      "title": "Microsoft To Be AI Partner For NBA",
-      "excerpt": "Microsoft will become the official technology partner for the National Basketball Association or NBA under a new multi-year",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-to-be-ai-partner-for-nba-1029102857",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Microsoft-To-Be-AI-Partner-For-NBA-1029102857",
-      "publishedDateTime": "2020-04-17T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-everything-you-need-to-know-about-narrow-ai.md",
-      "title": "Everything you need to know about narrow AI",
-      "excerpt": "Symbolic artificial intelligence, also known as good old-fashioned AI (GOFAI), was the ... the kinds of skills we learn by example. This is an area where deep neural networks, the structures used in deep learning algorithms, excel at. They can ingest mountains of data and develop mathematical models that represent the patterns that ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/19/what-is-artificial-narrow-intelligence-narrow-ai-syndication/amp/",
-      "publishedDateTime": "2020-04-17T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/1-24-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": "Everything you need to know about narrow AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-17-maker-villages-start-up-launch-ai-drone-to-combat-covid-19.md",
-      "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-      "excerpt": "A start-up at Maker Village Kochi has developed a AI-enabled drone to monitor body temperature, supply essential commodities and spray disinfectants. The Garud has been designed and engineered by AI Aerial Dynamics at the Maker Village, which is India’s largest electronic hardware incubator and ESDM facility. The indigenously-made drone is ...",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/maker-villages-start-up-launch-ai-drone-to-combat-covid-19/article31368638.ece/amp/",
-      "publishedDateTime": "2020-04-17T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": "Maker Village’s start-up launch AI-drone to combat Covid-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

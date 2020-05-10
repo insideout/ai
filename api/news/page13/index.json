@@ -2,6 +2,125 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
+      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "publishedDateTime": "2020-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
+          "width": 590,
+          "height": 350,
+          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
+      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "publishedDateTime": "2020-04-28T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics.md",
+      "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+      "excerpt": "A group of 24 specialists has started drafting recommendations on AI development and implementation that respect human well-being.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/",
+      "ampWebUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-moroccoworldnews-com.cdn.ampproject.org/c/s/www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "publishedDateTime": "2020-04-28T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morocco World News",
+        "domain": "moroccoworldnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.moroccoworldnews.com/wp-content/uploads/2020/04/Moroccan-Expert-Joins-UNESCO-Panel-on-Artificial-Intelligence-Ethics.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing.md",
       "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
       "excerpt": "Zetta Venture Partners, a B2B, AI-focused venture outfit, announced a new $180 million fund. As new VC funds are anecdotally a bit thinner on the ground these days — and because we’re in the midst of economic upheaval,",
@@ -942,140 +1061,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-brainbox-raises-12-million-to-optimize-hvac-systems-with-ai.md",
-      "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
-      "excerpt": "BrainBox, which taps AI and machine learning to optimize HVAC systems, has raised $12 million in a convertible debt round.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "publishedDateTime": "2020-04-28T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Connected-Mag-BrainBox-AI-e1588018061995.jpg?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
-      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august.md",
-      "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-      "excerpt": "Personal robots are going to play bigger roles in our homes due to the rise of artificial intelligence (AI) technologies such as machine learning, computer vision, natural language processing and gesture controls.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8XcArsWKPyaHuSCT55g2uH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

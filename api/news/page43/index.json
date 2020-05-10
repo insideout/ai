@@ -2,6 +2,124 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-04-02-reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks.md",
+      "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
+      "excerpt": "As a multiplayer game publisher, you may often need to either over-provision resources or manually manage compute allocation when launching or maintaining an online game to avoid long player wait times. You need to develop, configure, and deploy tools that help you monitor and control the compute allocation.",
+      "heat": 88,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reducing-player-wait-time-and-right-sizing-compute-allocation-using-amazon-sagemaker-rl-and-amazon-eks/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:39:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/02/14/reducing-player-wait-time-1.gif",
+          "width": 541,
+          "height": 363,
+          "title": "Reducing player wait time and right sizing compute allocation using Amazon SageMaker RL and Amazon EKS",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-bosch-video-management-system-joins-ranks-of-platesmart-alpr-integrations.md",
+      "title": "Bosch Video Management System Joins Ranks of PlateSmart ALPR Integrations",
+      "excerpt": "The software offers true object recognition instead of simple optical character recognition (OCR), which allows it to read the plate as well as the state jurisdiction and vehicle make. PlateSmart has earned multiple industry awards for excellence in ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newswiretoday.com/news/172658/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newswire Today",
+        "domain": "newswiretoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-02-googles-ai-accurately-predicts-physicians-prescribing-decisions-75-of-the-time.md",
+      "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
+      "excerpt": "An AI system developed by researchers at Google and the University of California, San Francisco anticipates physician’s prescribing decisions 75% of the time, according to a paper published in the journal Clinical Pharmacology and Therapeutics. If someday applied to a health care system, it could identify prescriptions that look abnormal ...",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/02/googles-ai-predicts-physicians-prescribing-decisions-75-of-the-time/amp/",
+      "publishedDateTime": "2020-04-02T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI accurately predicts physicians’ prescribing decisions 75% of the time",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-02-ford-plans-1-billion-artificial-intelligence-investment-to-assist-its-self-driving-car-plans.md",
       "title": "Ford Plans $1 Billion Artificial Intelligence Investment to Assist Its Self-Driving Car Plans",
       "excerpt": "Policy & regulation are aligning with renewables cost declines to make projects more profitable and portfolios more sustainable. Batteries are helping to optimize the power grid and opening up new ...",
@@ -931,140 +1049,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-robots-and-the-autonomous-supply-chain.md",
-      "title": "Robots And The Autonomous Supply Chain",
-      "excerpt": "Autonomous robots have an increasing role to play in supply chains. They are being used in warehouses, on interstates, for last mile deliveries, and even in stores.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2020/04/02/robots-and-the-autonomous-supply-chain/amp/",
-      "publishedDateTime": "2020-04-02T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1066949498%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D308%26cropY2%3D3683",
-          "width": 1200,
-          "height": 675,
-          "title": "Robots And The Autonomous Supply Chain",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations.md",
-      "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
-      "excerpt": "Today, it’s taking another step in that trajectory with a tech acquisition: the company has acquired Geomagical Labs, an AI imaging startup based out of Mountain View. Geomagical Labs has a number of computer vision-based technologies in the works right now, but its first product — which allows a user to quickly scan a room using any ...",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/02/ikea-acquires-ai-imaging-startup-geomagical-labs-to-supercharge-room-visualisations/amp/",
-      "publishedDateTime": "2020-04-02T03:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/Decorated-room-Pic2.png?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": "Ikea acquires AI imaging startup Geomagical Labs to supercharge room visualisations",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-02-artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029.md",
-      "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
-      "excerpt": "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-insights-by-size-share-future-growth-and-forecast-from-2019-2029-2020-04-23",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence in Healthcare Market Insights By Size, Share, Future Growth And Forecast From 2019-2029",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

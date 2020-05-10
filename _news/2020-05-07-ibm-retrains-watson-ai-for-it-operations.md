@@ -25,6 +25,6 @@ images:
     height: 800
     title: "IBM retrains Watson AI for IT operations"
 
-secured: "pvNfL2q7d/qGc8sg/Fj94hApx7v4GvhRCq+SzjJuf9YCWQNXKYtXvB+ZM7Id6WvfQIfuT5JDm/xiE2QahWD+lFG05OCf96lbf/c2cBrOZRsynfj/zfy4ZFFFVmz++pySnoko+cbBKu35pVCvtgdJXi2t6hMopNV/abpJRnj73VYWNvr56i6U2RQ8bRU59GOM+cCyFIp/WqtoBxVzDcm07E7MyS/o4vQkUGh6sMCBzNJbtJjjL+eGqd8U4HLWyeFoWfXPAkblg8uLzKZE+RhoZuLVX4m8SrmE7ItS2AknFFmChF2S4nmGbw41nXdXzzFm;TrsmM/ModB7tKbafyozp6w=="
+secured: "qBwFr2GEFtC8bWP5GVJobAZSrxQTRFUuKHnoAm4LHp6BGznbvT1nCTNBsPWy+CE5HJ6wyPuJX+5M1KBL35/9+HEvyRlYZDNlIgYfYAuJkunBbrcltMG0mq7PI/2ylSltEiriO6S+e8H0xKZ2j4DN3l1n6PdqHlxEUdXbpjy21yapYWZAZZXjyVEfP2bOiglaYeeRdnFsjz3jdSM0a9g17jptDQZStvnhh592OfY5GyCqgynmI/8OaKktwH8DjZpCsqMbOv3+st5dozA8v+qw6Jxkgu/8GkMKQhooIDYX+AmHYCkbJ7bScOI3wVeWtNCw;9nE09Em3nHv+IYeBHLbDRw=="
 ---
 

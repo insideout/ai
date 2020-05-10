@@ -2,6 +2,43 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-03-17-now-ai-will-understand-language-of-business.md",
+      "title": "Now AI will understand language of business",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research’s Project Debater, the only AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gadget.co.za/now-ai-will-understand-language-of-business/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-16T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://gadget.co.za/wp-content/uploads/2019/06/artificial-intelligence-computer-science-electrical-engineering-science-technology-53cda3-1024-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": "Now AI will understand language of business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-16-white-house-aims-to-answer-whos-coronavirus-questions-using-natural-language-processing.md",
       "title": "White House aims to answer WHO’s coronavirus questions using natural language processing",
       "excerpt": "And the National Academies of Sciences, Engineering and Medicine narrowed those queries down to the ones data scientists can answer using natural language processing on the dataset. “For us, we’re posing important questions,” said Michael Kratsios ...",
@@ -1143,51 +1180,6 @@
           "width": 1200,
           "height": 600,
           "title": "This startup can predict heart failure over the phone using AI and speech recognition",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
-      "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
-      "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/02/26/5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in/amp/",
-      "publishedDateTime": "2020-02-26T18:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1097297162%2F0x0.jpg%3FcropX1%3D35%26cropX2%3D4858%26cropY1%3D0%26cropY2%3D2713",
-          "width": 1200,
-          "height": 675,
-          "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
           "attribution": null
         }
       ],

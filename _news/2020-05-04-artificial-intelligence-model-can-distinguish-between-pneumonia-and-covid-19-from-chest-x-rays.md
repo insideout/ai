@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2fPneumonia-620x480.jpg"

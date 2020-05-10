@@ -2,6 +2,51 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-05-04-navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries.md",
+      "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+      "excerpt": "The stated reason for the Department of Defense (DoD) opting to release the videos consisted of wanting to set the record straight about the authenticity of the videos, doing so because the videos had prior been surreptitiously leaked,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/04/navy-releases-ufo-videos-ai-self-driving-cars-might-solve-these-mysteries/amp/",
+      "publishedDateTime": "2020-05-04T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F140238060%2F0x0.jpg%3FcropX1%3D416%26cropX2%3D4838%26cropY1%3D0%26cropY2%3D3318",
+          "width": 1200,
+          "height": 900,
+          "title": "Navy Releases UFO Videos, AI Self-Driving Cars Might Solve These Mysteries",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-theres-more-to-usability-in-ai-and-iot-than-you-think.md",
       "title": "There's more to usability in AI and IoT than you think",
       "excerpt": "You think your app is usable, but there are more things you should think about before launch. Here are five key questions to ask yourself about your AI or IoT project.",
@@ -314,27 +359,27 @@
     {
       "path": "_news/2020-05-04-extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast.md",
       "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
-      "excerpt": "PRNewswire/ -- Extreme Networks, Inc. (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its",
+      "excerpt": "SAN JOSE, Calif., May 4, 2020 /PRNewswire/ -- (Nasdaq: EXTR), a cloud-driven networking company, today rescheduled it plans to release financial results for its third fiscal quarter",
       "heat": null,
       "tags": null,
       "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast-301051574.html",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/extreme-networks-reschedules-third-quarter-fiscal-2020-financial-results-conference-call-and-webcast/article_0e5c3708-42e0-5f4f-a617-87fb070635b8.html",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-04T04:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
       },
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/378309/extreme_networks_logo.jpg?p=facebook",
-          "width": 1000,
-          "height": 524,
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/3a/83af44f5-0ae0-58c7-8e66-64a2b59c9fce/5eaffd1588a88.image.jpg?resize=400%2C400",
+          "width": 400,
+          "height": 400,
           "title": "Extreme Networks Reschedules Third Quarter Fiscal 2020 Financial Results Conference Call and Webcast",
           "attribution": null
         }
@@ -435,6 +480,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-mls-players-can-restart-individual-workouts-on-wednesday.md",
+      "title": "MLS Players Can Restart Individual Workouts on Wednesday",
+      "excerpt": "Workouts will be voluntary and players will have access to outdoor fields, unless local policies prohibit access.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.sporttechie.com/mls-players-restart-individual-workouts-coronavirus",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T00:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.sporttechie.com/static/sporttechie/images/SportTechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": "MLS Players Can Restart Individual Workouts on Wednesday",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1016,95 +1098,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-is-augmented-intelligence-the-best-perspective-on-ai.md",
-      "title": "Is Augmented Intelligence The Best Perspective On AI?",
-      "excerpt": "From Davenport’s point of view, introducing technology that automates and performs tasks previously accomplished by humans actually creates more jobs for people who take time to learn about how they work.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/02/is-augmented-intelligence-the-best-perspective-on-ai/amp/",
-      "publishedDateTime": "2020-05-02T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/711x1066/https://specials-images.forbesimg.com/imageserve/5eada7c4b091c000065b9855/960x0.jpg?fit=scale",
-          "width": 711,
-          "height": 1066,
-          "title": "Is Augmented Intelligence The Best Perspective On AI?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-02-intel-tweets-a-photo-of-the-biggest-and-weirdest-gpu-ever-made.md",
-      "title": "Intel tweets a photo of the biggest and weirdest GPU ever made",
-      "excerpt": "This graphics processor is strange. As you can see from the image, from the outside it’s more like a CPU than a GPU. It sits in a socket using almost three thousand pins. It has an integrated heat spreader.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techspot.com/news/85073-intel-tweets-photo-biggest-weirdest-gpu-ever-made.html",
-      "ampWebUrl": "https://www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-weirdest-gpu-ever-made.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85073-intel-tweets-photo-biggest-weirdest-gpu-ever-made.html",
-      "publishedDateTime": "2020-05-02T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/05/2020-05-02-image.jpg",
-          "width": 1800,
-          "height": 1110,
-          "title": "Intel tweets a photo of the biggest and weirdest GPU ever made",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

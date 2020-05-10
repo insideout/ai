@@ -2,6 +2,124 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-01-linkedin-now-has-an-ai-to-help-with-your-interview-game.md",
+      "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+      "excerpt": "As a record number of Americans grapple with unemployment in the wake of the novel coronavirus pandemic, LinkedIn’s rolled out some AI-powered tools to help job seekers prepare for the nightmare fuel that is the interviewing process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264",
+      "ampWebUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "publishedDateTime": "2020-04-30T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ssszinfmocsryua6ltfk.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-service.md",
+      "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
+      "excerpt": "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15929936/megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-ser",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15929936",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15929936",
+      "publishedDateTime": "2020-04-30T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.ibb.co/DDmnR21/1.png",
+          "width": 554,
+          "height": 267,
+          "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-01-a-facial-recognition-company-wants-to-help-with-contact-tracing-a-senator-has-questions.md",
+      "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+      "excerpt": "That said it's in discussions with federal and state agencies to help with contact tracing of people infected with the coronavirus.",
+      "heat": 80,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nbcnews.com/tech/security/facial-recognition-company-wants-help-contact-tracing-senator-has-questions-n1197291",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1197291",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1197291",
+      "publishedDateTime": "2020-04-30T18:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_18/3327421/200428-ONE-TIME-USE-hoan-ton-that-clearview-ai-cs-841a_e6b4c42a3fac6df661c90396ffe47bb8.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": "A facial recognition company wants to help with contact tracing. A senator has questions.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-30-ai-for-national-security-and-the-challenge-of-china.md",
       "title": "AI For National Security And The Challenge Of China",
       "excerpt": "The US and China are strategic competitors in many arenas, but none is more critical in shaping the future of the world than the competition for dominance in artificial intelligence. AI will likely determine which country wins in the economic realm and,",
@@ -1151,139 +1269,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-australian-businesses-lead-in-ai-deployment-but-bias-challenges-still-exist-genpact.md",
-      "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
-      "excerpt": "Australians still fear AI bias and that algorithms can make decisions that affect them without their knowledge, a new report has found.",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-businesses-lead-in-ai-deployment-but-need-to-overcome-bias-challenges-genpact/",
-      "publishedDateTime": "2020-04-30T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2017/08/08/f6ceef89-c938-405c-9ff0-71b03a212cbd/thumbnail/1200x675/7d7f9d66decc95dc28d1267da7a0d33a/woolworths.png",
-          "width": 1200,
-          "height": 675,
-          "title": "Australian businesses lead in AI deployment but bias challenges still exist: Genpact",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-its-no-joke-ai-beats-humans-at-making-you-laugh.md",
-      "title": "It's No Joke: AI Beats Humans At Making You Laugh",
-      "excerpt": "Research shows people don’t trust recommendations from algorithms—and that’s a problem for companies that increasingly rely on AI-based technology to persuade consumers.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/",
-      "ampWebUrl": "https://www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hbsworkingknowledge/2020/04/30/its-no-joke-ai-beats-humans-at-making-you-laugh/amp/",
-      "publishedDateTime": "2020-04-30T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9747a11048ea0006cbddb7%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "It's No Joke: AI Beats Humans At Making You Laugh",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-moxie-is-the-robot-pal-you-dreamed-of-as-a-kid.md",
-      "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
-      "excerpt": "Whereas other companion robots like the household assistant Jibo or Paro the robotic seal are designed for adults or the elderly, Moxie is built to foster social, cognitive, and emotional development in children.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/",
-      "ampWebUrl": "https://www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/moxie-is-the-robot-pal-you-dreamed-of-as-a-kid/amp",
-      "publishedDateTime": "2020-04-30T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea9c7ddf6ca1700082903b1/master/pass/Science_Moxie_gray_727A9788_face_lights_color.jpg",
-          "width": 2300,
-          "height": 1533,
-          "title": "Moxie Is the Robot Pal You Dreamed of as a Kid",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

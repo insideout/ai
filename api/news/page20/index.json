@@ -2,6 +2,140 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-04-22-google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview.md",
+      "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+      "excerpt": "For Google Cloud, Anthos is a differentiator that can bring it more enterprise workloads as it competes with AWS and Azure. Google Cloud chief Thomas Kurian has been touting ... the vendor can have higher-level discussions with customers about machine learning and services like BigQuery. Google Cloud announces Anthos for Telecom, bringing ...",
+      "heat": 126,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-clouds-anthos-for-aws-generally-available-microsoft-azure-in-preview/",
+      "publishedDateTime": "2020-04-22T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/04/21/f845188f-8d56-4277-aab6-a38aaf57c3d6/thumbnail/1200x675/72fd8fe83f620363c3fbf8b8bd32e846/screen-shot-2020-04-07-at-4-35-13-pm.png",
+          "width": 1200,
+          "height": 675,
+          "title": "Google Cloud's Anthos for AWS generally available, Microsoft Azure in preview",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations.md",
+      "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+      "excerpt": "In a pair of papers published on the preprint server Arxiv.org this week, Google and University of California, Berkely researchers describe new AI and machine learning techniques that enable robots to adapt to never-before-seen tasks and grasp occluded objects. The first study details X-Ray, an algorithm that when deployed on a robot can search ...",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/22/googles-ai-teaches-robots-to-grasp-occluded-objects-and-adapt-to-new-situations/amp/",
+      "publishedDateTime": "2020-04-22T08:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Google’s AI teaches robots to grasp occluded objects and adapt to new situations",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle.md",
+      "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+      "excerpt": "MarketsandMarkets forecasts the global Conversational Systems Market size to grow from USD 4.6 billion in 2019 to",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/conversational-systems-market-growing-at-a-cagr-308-key-player-google-microsoft-aws-ibm-oracle-2020-04-22",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T08:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Conversational Systems Market Growing at a CAGR 30.8% | Key Player Google, Microsoft, AWS, IBM, Oracle",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-intel-is-using-ai-to-gather-real-time-data-on-coral-reef-health.md",
       "title": "Intel is using AI to gather real-time data on coral reef health",
       "excerpt": "Project CORaiL monitors prosthetic reefs with AI-powered video cameras. There’s no question that coral reefs are rapidly deteriorating due to overfishing, bottom trawling, warming temperatures and unsustainable coastal development. In order to help protect and restore reefs, scientists need more data, and Intel thinks it might have a solution.",
@@ -919,141 +1053,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
-      "title": "Intel’s Project Corail monitors coral reef health with AI",
-      "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/21/intels-project-corail-monitors-coral-reef-health-with-ai/amp/",
-      "publishedDateTime": "2020-04-21T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/CORaiL_5small-e1587450236227.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel’s Project Corail monitors coral reef health with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-dissident-artist-ai-weiwei-says-virus-has-only-strengthened-chinas-police-state.md",
-      "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-      "excerpt": "The artist has been critical of China's handling of the outbreak and believes the \"arrogance and success\" of the government's authoritarian tactics will lead it into another crisis.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/style/article/ai-weiwei-coronavirus-pandemic/index.html",
-      "ampWebUrl": "https://www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/style/amp/ai-weiwei-coronavirus-pandemic/index.html",
-      "publishedDateTime": "2020-04-21T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "http://cdn.cnn.com/cnnnext/dam/assets/200421223427-ai-weiwei-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Dissident artist Ai Weiwei says virus has only strengthened China's 'police state'",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-21-alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm.md",
-      "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-      "excerpt": "Recently, aridamo hospital announced the establishment of XG laboratory. The laboratory is committed to promoting",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/alibaba-microsoft-cloud-computing-layout-5g-ai-vs-wimi-hologram-cloud-ai-vision-algorithm-2020-04-21",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-21T13:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Alibaba, Microsoft Cloud Computing Layout 5g + AI V.S. WIMI Hologram Cloud AI Vision Algorithm",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

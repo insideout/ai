@@ -2,6 +2,138 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-27-tips-on-introducing-artificial-intelligence-in-your-business.md",
+      "title": "Tips On Introducing Artificial Intelligence In Your Business",
+      "excerpt": "As AI continues to grow and permeate seemingly every aspect of business, it’s important to cut through the noise and focus on where AI fits in your organization and how to best implement it.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/04/27/tips-on-introducing-artificial-intelligence-in-your-business/amp/",
+      "publishedDateTime": "2020-04-27T04:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesbusinesscouncil%2Ffiles%2F2020%2F04%2F433.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Tips On Introducing Artificial Intelligence In Your Business",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code.md",
+      "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+      "excerpt": "Thanks to smartphones and their downsized keyboards, autocomplete has become a nearly ubiquitous feature of how we write these days. To save us precious seconds composing and (at least in my fat-thumbed case) correcting words,",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code/amp/",
+      "publishedDateTime": "2020-04-27T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1187635203.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Codota picks up $12M for an AI platform that auto-completes developers’ code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code.md",
+      "title": "Codota raises $12 million for AI that suggests and autocompletes code",
+      "excerpt": "Codota, a startup developing a platform that suggests and autocompletes code, has raised $12 million in equity financing.",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/27/codota-raises-12-million-for-ai-that-suggests-and-autocompletes-code/amp/",
+      "publishedDateTime": "2020-04-27T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/1_0wIenZUkUNVutcizFB9sPA-e1587686866252.jpeg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Codota raises $12 million for AI that suggests and autocompletes code",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-logical-clocks-launches-hopsworksai-the-worlds-first-artificial-intelligence-cloud-platform-with-a-feature-store.md",
       "title": "Logical Clocks Launches Hopsworks.ai: The World's First Artificial Intelligence Cloud Platform with a Feature Store",
       "excerpt": "Logical Clocks, the enterprise behind Hopsworks - the first data platform for designing and operating machine learning",
@@ -1113,132 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-this-ai-is-learning-how-to-replicate-your-childish-penis-drawings.md",
-      "title": "This AI is learning how to replicate your childish penis drawings",
-      "excerpt": "Bored? You can draw crude dicks like you did in your middle school notebooks, only this time you'll help feed an AI. Why was this created? For one, drawing dicks is fun, but the researcher broke down the reasoning behind DickRNN on its Github page. \"I also believe that 'Doodling a penis is a light-hearted symbol for a rebellious act' and ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://mashable.com/article/dickrnn-dick-doodle-neural-network-ai/",
-      "ampWebUrl": "https://mashable.com/article/dickrnn-dick-doodle-neural-network-ai.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/dickrnn-dick-doodle-neural-network-ai.amp",
-      "publishedDateTime": "2020-04-25T08:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F04%252F25%252F8d%252Fc61f397f6ee24ed39adef220fc602fd4.52fee.png%252F1200x630.png?signature=P67wxHZ_C-_MMwZQldesTtbUIE4=",
-          "width": 1200,
-          "height": 630,
-          "title": "This AI is learning how to replicate your childish penis drawings",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-2-stocks-to-buy-and-hold-for-the-next-50-years.md",
-      "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-      "excerpt": "So far, Alphabet's long-term growth ideas include self-driving cars, drone delivery services, artificial intelligence, and balloon-based wireless broadband services. Alphabet's medical-science projects include robotic surgery, bioelectronic medicines ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.fool.com/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/04/25/2-stocks-to-buy-and-hold-for-the-next-50-years.aspx",
-      "publishedDateTime": "2020-04-25T07:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F569643%2Fhourglass-and-coins.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": "2 Stocks to Buy and Hold for the Next 50 Years",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-25-aws-unveils-open-source-model-server-for-pytorch.md",
-      "title": "AWS unveils open source model server for PyTorch",
-      "excerpt": "Model versioning for A/B testing. Metrics for monitoring. RESTful endpoints for application integration. Any deployment environment can be supported by TorchServe, including Kubernetes, Amazon SageMaker, Amazon EKS, and Amazon EC2. TorchServe requires Java 11 on Ubuntu Linux or MacOS. Detailed installation instructions can be found on GitHub.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.html",
-      "ampWebUrl": "https://www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3540415/aws-unveils-open-source-model-server-for-pytorch.amp.html",
-      "publishedDateTime": "2020-04-24T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/07/automation_iot_machine-learning_process_ai_artificial-intelligence-by-zapp2photo-getty-100802298-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "AWS unveils open source model server for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

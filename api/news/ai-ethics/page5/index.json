@@ -2,6 +2,52 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-01-27-4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020.md",
+      "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+      "excerpt": "There’s plenty more waiting for you, including the finalists of our first Pitch Night. This group of intrepid robotics and AI startup founders made the cut (10 teams will pitch the night before the conference at a private event). The finalists will pitch again at the conference from the Main Stage. Think your startup has what it takes to ...",
+      "heat": 171,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/",
+      "ampWebUrl": "https://techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/01/27/4-days-left-to-save-150-on-tickets-to-tc-sessions-robotics-ai-2020/amp/",
+      "publishedDateTime": "2020-01-27T07:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/robotics_countdown_4.png?w=1024",
+          "width": 1024,
+          "height": 562,
+          "title": "4 days left to save $150 on tickets to TC Sessions: Robotics + AI 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-01-27-ai-license-plate-readers-are-cheaperso-drive-carefully.md",
       "title": "AI License Plate Readers Are Cheaper—So Drive Carefully",
       "excerpt": "Conventional ALPRs are also getting a boost from AI. Canada’s Genetec, a leading supplier of surveillance and security technology, recently announced a new ALPR camera for use on police vehicles that includes an Intel chip designed to power image-processing neural networks. Genetec says that will make the device better at reading plates at ...",

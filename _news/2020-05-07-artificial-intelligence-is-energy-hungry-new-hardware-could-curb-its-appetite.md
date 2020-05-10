@@ -14,8 +14,8 @@ provider:
   domain: purdue.edu
 
 topics:
-  - AI
   - AI in Autos
+  - AI
 
 images:
   - url: "https://www.purdue.edu/uns/images/2020/hand-aiOG.jpg"
@@ -40,6 +40,6 @@ related:
         width: 800
         height: 533
 
-secured: "G2vtIskpAusaAxA0LQMV932Bcr8gBvSVV+ZNma5Q6HF/RrM0gTc/st60EYs93d2P+a8XaKz6q5XN097cqttHxf1Ge28DupdFeQ4cu4UgGnfyZn2+fw8L/oqEqqwwMQBUQuKt0bADyDEZUi+MgMMSwwMPa65Pb8LjYJbLrAMdlwwq2Y/XH0OxfWE5/Du0nz53bK/Db+wFh6a4pDzKQxxRatxXzl3BzH/pkIeYik28gVaPzEo0Wnyah79zoiWrMyqwoBVq9b1VB6DaBLF3gNmr0dLCKL81G3tBgYlKU5HxGZOYhd+XKLkDrCEWqmnaWQ93FH74F3mZCcLKdzrJAIn0lr2/M38EirI7Oo7lgRSi++de8HAgqvAbaKbo5Hpc/1/XqdmUGkA+rXgOQGWpdTVSlyVeOrfNVr5OUYOwKZHDoisapoKQHVsEeHHDAXAGeQ3mKBLlwooZYqlI0n1rOS6DfiQ5U64HhSBrc6Ok81nDhfs=;KJSy5xN2KaKJ2JF33uOUCw=="
+secured: "6ImQK+92ntxfia6xEmPFUOZF0q0ssWuEvL+iZyMFcvoGehtPSd14QbOD6xrKe9/jgWe7DEr498137to+qGJWDWZCpTAi0jDxcz/dLsJCN5tSpRgzklGBl2tWQxvc58v5BKiVvC9wS5Gikefnns99GChLzVtCaj4WXpvZt2A2pmgf01oRjEwLOf8Jbk2cn/k+6SWgVlZgNhIsdwZxrGqOEB+U8zKJVzhCvNpm+RBQt7axctAz9wguYqyw/5eJIH+NNVgsfg3uqLKGvq5p1U1yqvzhZfQH9Udwvz6IT4M6GoycvaIAeToYy1hb1NKPqCCi;Hb6O5HuU9rIcEaoQ8Ag3XA=="
 ---
 

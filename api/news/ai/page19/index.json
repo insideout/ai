@@ -2,6 +2,131 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-20-the-station-ponyai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip.md",
+      "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
+      "excerpt": "Pony .ai is the latest autonomous vehicle startup to turn its efforts to delivery — at least temporarily. The company announced this week it will partner with e-commerce platform Yamibuy to ...",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/the-station-pony-ai-turns-to-delivery-kodiak-cuts-lime-snaps-up-boosteds-ip/amp/",
+      "publishedDateTime": "2020-04-20T09:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/05/boosted-electric-board-vehicle-bridge.jpg",
+          "width": 680,
+          "height": 383,
+          "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-brief-oncodesign-announces-creation-of-artificial-intelligence-business-unit.md",
+      "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
+      "excerpt": "Oncodesign SA: * ANNOUNCES CREATION OF ITS NEW ARTIFICIAL INTELLIGENCE BUSINESS UNIT (BU) HEADED UP BY STÉPHANE GERART * NEW BU WILL BE BASED MAINLY IN DIJON",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.reuters.com/article/brief-oncodesign-announces-creation-of-a-idUSFWN2C819O",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2C819O",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2C819O",
+      "publishedDateTime": "2020-04-20T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
+          "width": 1200,
+          "height": 630,
+          "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
+      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-20T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
+          "width": 400,
+          "height": 349,
+          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "The major growth factors of the market include the rising urge of predictive analytics to reduce risks and improve significant health concerns, and growing demand for improving Electronic Health ...",
@@ -1129,133 +1254,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer.md",
-      "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-      "excerpt": "As outlined in the new paper, coproID uses machine learning software to compare ancient host DNA with DNA in modern feces, enabling it to distinguish between the two hosts in most cases. “CoproID is the first line of identification in coprolite analysis to confirm that what we’re looking for is actually human, or a dog if we’re interested ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/jge7j4/does-this-7000-year-old-poop-belong-to-a-human-or-dog-machine-learning-has-the-answer",
-      "publishedDateTime": "2020-04-18T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5e98c20ac7e9d80099d6d452/lede/1587070293609-229163_web.jpeg?crop=1xw:0.8446298227320125xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": "Does This 7,000-Year-Old Poop Belong to a Human or Dog? Machine Learning Has the Answer",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-study-says.md",
-      "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
-      "excerpt": "Widespread use of self-driving cars in coming decades will increase congestion and pollution in the Washington region if governments don’t take steps to avoid such consequences, according a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html",
-      "ampWebUrl": "https://www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/trafficandcommuting/downsides-of-self-driving-cars-could-swamp-benefits-if-dc-region-fails-to-act-new-study-says/2020/04/18/92fb2d4e-7ffd-11ea-9040-68981f488eed_story.html?outputType=amp",
-      "publishedDateTime": "2020-04-18T18:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/20BGBotT5tgHKsJg-42Ib7DMsHg=/1440x0/smart/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E3ZS6IGWGUI6RA4EXTCUSL7PJE.jpg",
-          "width": 1440,
-          "height": 1080,
-          "title": "Downsides of self-driving cars could swamp benefits if D.C. region fails to act, study says",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-19-uber-says-engineer-is-on-his-own-for-us180-million-legal-award-to-google.md",
-      "title": "Uber says engineer is on his own for US$180 million legal award to Google",
-      "excerpt": "engineering documents and software related to self-driving cars. Sign up now and get a 10% discount (original price US$400) off the China AI Report 2020 by SCMP Research. Learn about the AI ambitions of Alibaba, Baidu & JD.com through our in-depth case studies, and explore new applications of AI across industries. The report also includes ...",
-      "heat": 73,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3080573/uber-says-engineer-his-own-us180-million-legal-award-google",
-      "publishedDateTime": "2020-04-18T17:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/04/19/7f0db3be-81ca-11ea-8736-98edddd9b5ca_image_hires_080326.JPG?itok=xt1FJcBB&v=1587254613",
-          "width": 1200,
-          "height": 630,
-          "title": "Uber says engineer is on his own for US$180 million legal award to Google",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,125 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-04-07-the-dirty-truth-about-seo-in-2020.md",
+      "title": "The Dirty Truth About SEO In 2020",
+      "excerpt": "The truth is, no one really gets SEO. What Google does is highly secretive, based on complex algorithms and machine learning. You’ll probably hear a lot of mumbo jumbo from some SEO consultants. Once upon a time,",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/06/the-dirty-truth-about-seo-in-2020/amp/",
+      "publishedDateTime": "2020-04-07T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-16.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "The Dirty Truth About SEO In 2020",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-how-voice-technology-is-reshaping-businesses.md",
+      "title": "How Voice Technology Is Reshaping Businesses",
+      "excerpt": "It’s AI that makes voice tech as effective as it currently is. The voice recognition software is only part of the equation. The real utility here lies in the fact that AI can understand what you’re saying. As machine learning continues to improve, we’ll see voice tech becoming even more useful. Initially, voice tech seemed like passing fad.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.hostreview.com/blog/200407-how-voice-technology-is-reshaping-businesses",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-07T11:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Host Review",
+        "domain": "hostreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "How Voice Technology Is Reshaping Businesses",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-07-self-driving-cars-are-helping-the-coronavirus-fight-in-florida.md",
+      "title": "Self-driving cars are helping the coronavirus fight in Florida",
+      "excerpt": "With already limited staff, it's hard for people to be everywhere at once. Now, the Mayo Clinic is using self-driving cars to ease the burden. On March 30, the Mayo Clinic in Florida launched its program with four vehicles. The shuttles, which do not have any attendants or people onboard, transfer coronavirus tests and medical supplies from a ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125",
+      "ampWebUrl": "https://www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "cdnAmpWebUrl": "https://www-mic-com.cdn.ampproject.org/c/s/www.mic.com/p/self-driving-cars-are-helping-the-coronavirus-fight-in-florida-22768125/amp",
+      "publishedDateTime": "2020-04-07T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mic",
+        "domain": "mic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2020/4/7/29123b17-85f2-46ca-b31f-a9dcde4d2b1e-screen-shot-2020-04-07-at-15630-pm.png?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg",
+          "width": 1200,
+          "height": 630,
+          "title": "Self-driving cars are helping the coronavirus fight in Florida",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-optimizing-japanese-text-to-speech-with-amazon-polly.md",
       "title": "Optimizing Japanese text-to-speech with Amazon Polly",
       "excerpt": "Amazon Polly is a cloud service that offers text-to-speech (TTS), a system that converts text input into a waveform, in a range of 61 voices in 29 languages by using advanced deep learning technologies. The Amazon Polly service supports companies in developing digital products that use speech synthesis",
@@ -956,124 +1075,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-cambridge-quantum-computing-performs-the-worlds-first-quantum-natural-language-processing-experiment.md",
-      "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
-      "excerpt": "This is the first time that natural language processing has been executed on a quantum computer. Furthermore, by achieving the results without relying on quantum RAM, CQC scientists have created a ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/cambridge-quantum-computing-performs-the-world-s-first-quantum-natural-language-processing-experiment-855433841.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.prnewswire.co.uk/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": "Cambridge Quantum Computing Performs the World's First Quantum Natural Language Processing Experiment",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-glassbox-raises-40-million-to-track-customer-journeys-with-ai.md",
-      "title": "Glassbox raises $40 million to track customer journeys with AI",
-      "excerpt": "“Our aim is to improve functionality and keep up with trends and patterns, enabling enterprises to deliver the best possible customer experience which we achieve through our proprietary technology, harnessing AI to great effect.” Glassbox’s investments in AI and machine learning manifest in its customer behavior and churn ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/glassbox-raises-40-million-to-track-customer-journeys-with-ai/amp/",
-      "publishedDateTime": "2020-04-07T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/TDO_glassbox_1-e1585871003462.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Glassbox raises $40 million to track customer journeys with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-07-new-centre-to-address-ai-and-digital-ethics.md",
-      "title": "New centre to address AI and digital ethics",
-      "excerpt": "A new centre for artificial intelligence (AI) and digital ethics has been launched by the University Melbourne to address ethical, policy and legal challenges posed by new technologies. Combining expertise from Melbourne Law School, Melbourne School of ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.miragenews.com/new-centre-to-address-ai-and-digital-ethics/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-07T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armed robbery in Revesby",
-        "domain": "miragenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://about.unimelb.edu.au/__data/assets/image/0017/144107/CCTV.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": "New centre to address AI and digital ethics",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }
