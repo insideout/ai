@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-02-28-this-startup-can-predict-heart-failure-over-the-phone-using-ai-and-speech-recognition.md",
+      "title": "This startup can predict heart failure over the phone using AI and speech recognition",
+      "excerpt": "Corti.ai aims to prevent thousands of heart failures across the US and Europe through the development of voice and pattern recognition technology.",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp%3Butm_medium=referral",
+      "ampWebUrl": "https://www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/danish-startup-developed-technology-that-predicts-heart-failure-2018-5?amp",
+      "publishedDateTime": "2020-02-28T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e57f497fee23d668a393417?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "This startup can predict heart failure over the phone using AI and speech recognition",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-02-27-5-ai-and-analytics-trends-marketers-and-brands-should-be-investing-in.md",
       "title": "5 AI And Analytics Trends Marketers And Brands Should Be Investing In",
       "excerpt": "Why analytics and AI are such powerful tools for brands and organizations and what are the key focus areas that these companies should have for the coming year as analytics and AI continue to be critical to connecting with customers and improving operations.",
@@ -1274,51 +1319,6 @@
           "width": 1200,
           "height": 675,
           "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-02-11-microsoft-builds-the-worlds-largest-transformer-based-language-generation-model.md",
-      "title": "Microsoft builds the world's largest transformer-based language generation model",
-      "excerpt": "that outperforms the state of the art models available today on many downstream natural language processing (NLP) applications. To train the model, researchers at Microsoft trained their model on an NVIDIA DGX-2 system housing multiple NVIDIA V100 GPUs that were interconnected with InfiniBand. The type of training data used was similar to the ...",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.neowin.net/news/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-builds-the-worlds-largest-transformer-based-language-generation-model/",
-      "publishedDateTime": "2020-02-11T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/01/1580301872_microsoft_2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "Microsoft builds the world's largest transformer-based language generation model",
           "attribution": null
         }
       ],

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AWS AI
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/497755/istock_000016851885_large_large.jpg"
@@ -26,6 +27,6 @@ images:
     height: 378
     title: "3 Artificial Intelligence Stocks to Buy in May"
 
-secured: "TzXX8gn0k03fZtKmIT0ih0A1xiqsZjlz9IT5aJkLFVp7kxnSxmXcDY+sxygD7LzQS89Gri6EvvJG+L1kZKCSWZ29JcJvXwM2iM7xG8lnpuQilJno60dG+QGJK+9IhHtt9aMJiny2iTPacsSmhCAEu5hUM7hZCk0UIsGGtadTZnfSrhYlla/bWpkYLx1Zkyz30N1MwBzRZoN1Q/gvbRQjBlUXbVwqsT1oLp0Pcbyxlp37g6MFk7rT1+uTqBuShmjh33aNpjM8MWpHVhugP3A8ON4ctIsaWbMQvLp2zodyZBLKuNt//eHhXVMGL2cxeMBK;FBQENg7bJzZowWQtm5241A=="
+secured: "NZ6keWwTpL8UcnJ6EDV58K+mjdJYKdse27c6AloW8w0aNUjX6ZRDrFo8tGmuHohFTatldXHHZq9xVTbKRuATzlqsgZfLZmLq0xwWcU3YF4sTXYku0/9+fzfDSth3ALdBropgPT8QAN6pFQyMDQODjA+Ep0TVxrerWVBu5Xbk+ABny9Lw/h3hA3vlBQW6juEJL7M5XAA+WSRWVh1wHjLAJ8/VUfNeoa/m7VNHgUATNrzLm6JrhkGcRNZHzxCIiR2bZWYRbfg2j86OzX8B0z23pdFm3UOmUQyLUBZWgJ6FsPRPKev7DCkq9m+qpQQCtBaI;APSf9KIejezjMT6hA9PsAw=="
 ---
 
