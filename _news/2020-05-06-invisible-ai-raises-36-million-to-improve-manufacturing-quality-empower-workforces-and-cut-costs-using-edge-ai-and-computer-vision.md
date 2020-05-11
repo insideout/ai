@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "Boosted.ai Secures $8 Million to Enhance AI Usage in Investment"
-    excerpt: "Boosted.ai, a distributed machine learning platform for investment professionals, has announced on Tuesday the closure of its Series A funding round, raising $8 million."
-    publishedDateTime: 2020-05-06T07:07:00Z
-    webUrl: "https://www.financemagnates.com/fintech/news/boosted-ai-secures-8-million-to-enhance-ai-usage-in-investment/"
-    ampWebUrl: "https://www.financemagnates.com/fintech/news/boosted-ai-secures-8-million-to-enhance-ai-usage-in-investment/amp/"
-    cdnAmpWebUrl: "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/boosted-ai-secures-8-million-to-enhance-ai-usage-in-investment/amp/"
+  - title: "Canada Fintech Boosted.ai Raises $8 Million Through Series A Investment Round to Bring AI to Investment Management"
+    excerpt: "Boosted.ai, a Canada-based fintech, announced on Wednesday it raised $8 million USD Series A financing round, led by Portag3 Ventures with participation from Dunamu & Partners and Polar Equity Partners."
+    publishedDateTime: 2020-05-06T21:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/05/161139-canada-fintech-boosted-ai-raises-8-million-through-series-a-investment-round-to-bring-ai-to-investment-management/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/05/161139-canada-fintech-boosted-ai-raises-8-million-through-series-a-investment-round-to-bring-ai-to-investment-management/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/05/161139-canada-fintech-boosted-ai-raises-8-million-through-series-a-investment-round-to-bring-ai-to-investment-management/amp/"
     type: article
     provider:
-      name: Finance Magnates
-      domain: financemagnates.com
-    quality: 59
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 37
     images:
-      - url: "https://www.financemagnates.com/wp-content/uploads/2017/06/money3.jpg"
-        width: 880
-        height: 400
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/11/Money-Dollars-Benjamins-100-600x450.jpeg"
+        width: 600
+        height: 450
 
 secured: "jDC1yw9F3n7ScwoEqVHqM2RoDkM14dyTaYsaB/qDm4HFrD/e3T7MJsl+d1aXiaVqYII0bniehT5LWBOLRMy9wImyUZeIOqkaAU3IvcEaaJbXigN4tDbnwLSWrK1O5tVyd4sKXV0rhngTLA6CcMVOLGVMKm0dXUF8fnss78fpFISv95dJBV8LMsE1lZ70CBQdJ/phDxVC66qjWhDX8ZTxf70BvS4beI+eZbA4YwOohWtYdsL+JrdadUwYguHeA/egHeilFSIfw8tnqKymIvv92fAXDcfDBWSrT/QEnbOCsj4Z7lYY/IG4bgZ9Pxe/09Ru;aYZDbZv8XwUyo0LWRMw7nQ=="
 ---
