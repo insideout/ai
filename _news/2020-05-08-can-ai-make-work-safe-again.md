@@ -3,12 +3,10 @@ category: news
 title: "Can AI Make Work Safe Again?"
 excerpt: "Although this is no doubt disappointing, it is also evident that data and AI have been quite helpful to certain countries (with the most salient or widely-discussed cases being Israel, Singapore, and of course China) vis-à-vis their ability to track the patterns of virus spread across and within regions,"
 publishedDateTime: 2020-05-08T23:37:00Z
-webUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/mr-personality/202005/can-ai-make-work-safe-again?amp"
+webUrl: "https://www.psychologytoday.com/intl/blog/mr-personality/202005/can-ai-make-work-safe-again"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -19,6 +17,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "hsacKtgNNKBgV2Obju/AEBxEY5uIWgNPBQaCZWl/evObCt/gkztkyZEYtatzzn8N/eaXTMLXvlJ9vgiMaFXVQx6gNtk9VHFd68kq/6kDIwDacuFStN8jMcsUVUdUL/MwE+5CF5/EvylYaG+uju7Dtd3NkofVQdMnUl4rwxdTc1zFJV4OTBtdTYuHCBSvm34Ps2TtByvv5E6W4Me3+YoKl+zpi7F57zzbYizg+ZWHhnMc9knnWSpUAv5+HVFrcOsCk4XolNKSKQTLVQj38uofBiSu8jLfj8XFz8mKshDJotBe9+KWY468hHvUl6/TbwMZd/qutwEvfFINIcYhvahGezKZXezXj5RsZl20DKwGon48wG0qlEEYoz6BPjx9ts0hHtY4/6c9A35tdBtAy7bfaOABaX7T3I8SBrEZK4ao+ULICanv6D/GwD6pxh0J9WygKK2Zv1kzpHooekOZpAt6lKSPigR/ENdyl2WaHdizZ58=;J83t8KC5vK5ornrQwGoz3Q=="
+secured: "m6T2vJqltHSJ/6qGNRXa7tYjjSDPR/ipcMt1JVnX1quwd/AUb/AT6DFB/3FBRpC/eByeoPr9tQHj7MmtCRG1AR+20QMphm93Y651BnmTEbJJjj8kr7uAdkVyH4LzD/x175EwezyfoefDCCLN7j2savU8zvzNrhzNkAlgP95IItk6TgfQ9nrVlDBHB0MNQDp1/RbZYvopBROoD2LyV8JBHWiZeeWBNpzpJ8Pf/ibQNdu3RyQz+syYN77ZPROvuDeVRd/2kmNxf0UytjcecIqINSxSPnYGOxIAHk5U89qtTE+23v3wWN9CBmuKOyxSwMPAKLBGr2CSTaMc102ecTDCBJu1XIYZSHi+sg1L+r1YXLtK36HuzkcWleXOBIxNqqaFsMgf3MCpIyGkkBDIyGSmMdmrnJg8WxOfaXW9HLMYUc3QQLIp9YxuWcxX8oSfq3KSmZWCowolxtynwLkVe2SpuEuv7v333VQMRUzvGdmT82Q=;Z7Vvycst9qr8QwwMNGNJxQ=="
 ---
 

@@ -1,19 +1,16 @@
 ---
 category: news
 title: "Virtusa Achieves AWS SaaS Competency Status"
-excerpt: "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
-publishedDateTime: 2020-05-06T13:00:00Z
-webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013"
+excerpt: "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development."
+publishedDateTime: 2020-05-06T13:11:00Z
+webUrl: "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762"
 type: article
-quality: 69
-heat: 79
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -21,23 +18,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Virtusa Achieves AWS SaaS Competency Status"
-
-related:
-  - title: "Virtusa Corporation: Virtusa Achieves AWS SaaS Competency Status"
-    excerpt: "SOUTHBOROUGH, Mass., May 06, 2020(NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innova"
-    publishedDateTime: 2020-05-06T13:05:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-05/49577788-virtusa-corporation-virtusa-achieves-aws-saas-competency-status-399.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 19
-
-secured: "WSNZ9saMa1p/M3jQj9DTXK6K+LjA6NuMqZMXotAgc0Ci5MoSq3Ra74KDcqtlK/re7WlDU9lti6gCHM6ALgzWRHRitFP1gvbKCa4cWwuBdMRWPobYToSrLyCUz0jT2GxnGmtObSjOcbqjZvwbMkSAi7/OvcDSoXiVlfYliIpAg4Vl8TsqxjQXUtV7IQ8D9bUSXf5yS8oKlLZBUoRxecPYI04FLSxhNz2fKJYLTnnvbxkMf4b6yWgq1vzn53Xc45k0zW3e4kQYobXIwqq0p6k6t4ZOE49IHTuTHvqoSxtUu3oq9X2eGSH1J4PE07IVxw9+;IfLLAmCLqohutLMxgZzvtg=="
+secured: "rONpP8oKKpMtcfXpqsr+Yvm88KOIhBZa/rGS+bD1o20AqUB+jdao2V3YdYkl6ama+CzoJbjSI9lGV9LXEB+WFlriq25IQBp7mlxXyV/zI5VzYzqF2rYuBqy6ScaUGz1xXFa9zzjma2sRdVfjH8hGKXRlptCcIuy9HB5GmeaUL970tPhj+CY1VVFL6qZd6PV97Dv/imH7XYz0XuEBun7ycQrEktdP9muAFzN7kzkzCFe3FvZSZ3EbJxNemOLlQU7sSvs5DvFOw3Myfiq2vD51m67jsI9IlZwRsAfENeHKtPMcEHOPylmNYdjLKpXSG4r2;Qg7sT0fPbaj87T5/03EeOA=="
 ---
 

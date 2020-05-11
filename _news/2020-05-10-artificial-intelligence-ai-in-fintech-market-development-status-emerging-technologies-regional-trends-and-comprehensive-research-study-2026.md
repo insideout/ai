@@ -5,8 +5,8 @@ excerpt: "Global Artificial Intelligence (AI) in Fintech Market is valued approx
 publishedDateTime: 2020-05-10T10:09:00Z
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-development-status-emerging-technologies-regional-trends-and-comprehensive-research-study-2026-2020-05-10"
 type: article
-quality: 48
-heat: 48
+quality: 28
+heat: 28
 published: false
 
 provider:
@@ -21,12 +21,6 @@ topics:
   - AI
   - AI in Finance
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    title: "Artificial Intelligence (AI) in Fintech Market Development Status, Emerging Technologies, Regional Trends and Comprehensive Research Study 2026"
-
-secured: "MsP5ryLxF85nvNm03sOWcK//k7zPGMyOOMxj01Of7UfRQ6FkTWGpvcj/ADP0P5FJU9pVsMyrT2+uIIDE/CJXI53HGvYL2ktqBUbuAx+X0UPY43si3dDA208N4bBu0zEyRHb+ZjOvsgVx5+fZYy+k6ztaT0tcW40x9slwvHRXSX8wTCIeVzGUs+CzW/KdZraAiK4cc/L74sRdHVJvNpXWgV0x6jif5bYtuOlj/H+rhBQR99igVybjZWhGllzTHgZNGM+vQF5XGoLnV82VXATAUBYfCCYCQ6lVta7aTE9Uoyxka9ZSPMaL+j7n17P6POTi;pv28fxKTtBX/fB3c1CU6Bg=="
+secured: "Jexq5Z5VJrUsptoTfe4X8gvk4KRH3mYcPj8PQnaVco1+QqA+BnAIN3hZkSsq4m2M1U6mFrQ7iXCbVaMPdb8VvIjvnM2/LeH6II8rLG0T9BrRLh6b5jjdT3SLT7VX9faU+MuXTBZ6oakj1cA3uSiDhFoxhd7TMedv8Q/xNnqXmDolpIvCy99QiqAAlnLBRSkPZMJvTY6dRURLR27VLFnAwNSJEIJ3Kb7BRuTgY+L7/+ojWWg/pDBs5LJ9Kv3fG9FF0Qm2O4lZpTfAoyy1wA69Yzh+dGCV+D4lte5pBpMshudkqit2d96C/WdNy9lJS6qp;VEL8VM89QuKC4/786vuvXw=="
 ---
 

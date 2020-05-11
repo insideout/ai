@@ -1,9 +1,9 @@
 ---
 category: news
 title: "Your Organization Needs a Proprietary Data Strategy"
-excerpt: "Companies need to be more focused on proprietary data — data that is unique to a company and can be used to create a sustainable competitive advantage. The ne"
-publishedDateTime: 2020-05-04T13:13:00Z
-webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy?referral=00563"
+excerpt: "The need for proprietary data strategies is increasing with new data types and the growth of artificial intelligence (AI ... Alphabet’s Waymo and GM’s Cruise Automation, for example, are ..."
+publishedDateTime: 2020-05-04T13:10:00Z
+webUrl: "https://hbr.org/2020/05/your-organization-needs-a-proprietary-data-strategy"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 675
     title: "Your Organization Needs a Proprietary Data Strategy"
 
-secured: "0rh/tusszoA9jBket9TxjyimmFvOw31/OtWDBzjQF63GEsoCvI5dlJ7YA3eQOQ5sQjoSEMyIFsbDpKohvT8ixMPm4vtW182lmndtJ2TzgJd4+j/t/QJErZ+DnoiZpLrAngel4g+6UOQIzOrZTvHbdXxZZ/+vK1h0GpEjLGBqs9jdA7bzQVAm45v/tKpk13H0T2HxjurbtbkLJRAdcK8S01BqgalEHu+gHZMrH8Hm0uyhMjUWQwt9SBw/qCOxNU4IRvBCHTdaman+AFVxnLOXnS+CsLMdB3EHIh9bdWsWTpOX+tc0jwhgIGl7hE6P7uvpDZI51Pez6oz3xWaUMabADHyO3KhdYUTEtUDwdxWI5yovoELRdLBFxsd9u2KC1PnvfpAr4sALhpoU3Dk7kOKcFmmG5PXyWvt8eO50OD0Jd1GxZDg/1RcxnMFGKlVjOIRl4kkz7MZOXd0Rr6kuzrpuNFaATwbVdh8KU2DyBn9Cvoo=;qIEocrSfEqBfAJQwBr0tqg=="
+secured: "E2Ogd+xlt6hO91m21mePGrOaGYBRGq/RGzRyFXA7Nzhm1Bs5+DtbV81AfLQmj6HjdAvgQOd50QzRruI0oO5IpLkfO/dGTF/Xdn2cODBxbbyNzjfbHIYIvHRA3tMMrH+/+3Jz6fSv7h4TK85TlYjE5lapJQB7uoRiAbUhVNK4RPNQnZKBzYdUFltjvijxEAaYJ/fLRD1p1Pa6/Gz1iF2wBnDaqt3CKo8lqvzP4gK6yN5Pv4oVbviNIPzcxCEZI9SHModBNoDrWFghtceKqbUceGXI9DFsBIlVwOrE2Hhbms2SlK+6RDRg/U5yIQbAsCoe;emHeSSdLKN4JeSwrnGbGoQ=="
 ---
 

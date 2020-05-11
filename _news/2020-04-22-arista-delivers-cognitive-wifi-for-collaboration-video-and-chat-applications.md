@@ -20,6 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "aB847npB9qYpzLYQXWGBGDclGoqnjMvzuASGVpitWacrvaG5qEFoQgjQxQnshbG6lizejA7+6kB2UD7QpFFniVXqwl/ELbJLc+N5HDBdPxtkwt0hjoJhnrgIs8hOCuiiVoedVojPLpeszHFYEHB66ZN8uWelvnkrltD4PLPoDvsuy2OF/T2CYrdmEsJOO6PoyyCgkyI4RUjt8F0M+gYcWAQy0A/EOnrhmAMnYD+zOyTSjy/cwWISeknLH1HluKgxaUUBiFelsQ5DSVlaLfUHhKw4RgOHymogQc2oq3btvcEmAinnWKXM3DtLRcaZyX++;qo9eyEEWT5QCkXGANLLKxg=="
+secured: "aKMF/z9V/dOI4I1xUnWORDKNUxFrRundrsfdITZB8M9ZNgYJqQTg/l6wmCjM8z/CrMtU7USPmleupPGq3RrNRDlvwZhT4eEe8zXnQpdQcP9D/wTQ/KJWUdASTPxEFMqklSXcsxrCnksBp0tYkG/Hx2ukt9B2G1K+KfuseQ3t9kM0fWbxatM/vhxkEYi8efGSLBjKZrIApYa7rmwvQR+//J6p+gqpZ8k6vZNCeQt4xXL6KGGaV3TsvZ1P0ynnZNdsA5QwKC8xnIW0bFYelY2UfnlgRxnuys+6VIPzkudAk+vWJ23BzEYq6YoprSGX/oVo;+UK42y80M/+ov4Ry3YWCAw=="
 ---
 

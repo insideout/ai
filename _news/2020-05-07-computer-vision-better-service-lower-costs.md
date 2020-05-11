@@ -27,6 +27,6 @@ images:
     height: 300
     title: "Computer Vision = Better Service + Lower Costs"
 
-secured: "j0qT/FOQQjE2xmOJDxyZS0CAGhw4+5C/kUC2tR92DuvSfeS/yLRHn/rXHxe81o1JQQwM6/Ytwf9bDlzlrlMh/ogc9XAK46qiQ/RzbchKoxa/5Smu33OvxxR8TvwBgIHMDswueVFr23ULxq3P2MVj/anSTewveTbuFZ5+ZVhOzHYx+cyZ/f+gr4OloGl/ezeI9+H5q4NVXR98Z2/17DqVFJun74huMjYw2zstE6o2iCGLmCQcut+6cGEJiM2hZOiQuqKHWdK3MI7l+fBEwAyJBXI40PSNwLh0kzTg2YRQsBysT6yeflo0a+nyCXAiMx0v;PbVoirS9dEXoAcLjV8bpdg=="
+secured: "cZFikwaFavdYkVgAcuPnd1/EkkbApO55BmDqJnxukm7aqDj5RMXa+shPXw85VJx8Vov/esB2UKFxedVqYOM1xKRhXR9bqNh6V9dsD/CprMiym7uuBIyqi/7gF2pvS63R9jtkrVzhbKdfZ/nbZvgHGan1kt3FQ2n3QIgjtekLk2hxPq4LBbVMJGny2Tn1j+iTvcxeInKa1/T2+cHFbBNV/+Z2BOuQV/p9khYG3ovAVmpN/cim+ZKvaqiSHHvZfERdjV6zKNNkUk+1VgecqaUltvwVtsSWFTsy9WPSiOzFLVtq8jZLLv1SwI7gTW/SLsBN;1OKBlawFtUhPe+l6LyyWRg=="
 ---
 
