@@ -2,6 +2,353 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-04-21-microsoft-words-ai-wants-to-rewrite-your-crappy-sentences.md",
+      "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
+      "excerpt": "Microsoft has released a handy new tool for writers struggling to turn their ingenious ideas into words. The feature is a new addition to Rewrite Suggestions, an AI-powered editor for Word that was first unveiled at the 2019 Microsoft Build conference. The tool initially only offered ideas on different ways to express a phrase, but the ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/04/21/microsoft-words-ai-wants-to-rewrite-your-crappy-sentences/amp/",
+      "publishedDateTime": "2020-04-21T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/04/Untitled-design-6-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": "Microsoft Word’s AI wants to rewrite your crappy sentences",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-efficient-ai-how-to-position-your-rd-spend-in-a-downturn.md",
+      "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
+      "excerpt": "A recession ahead will mark the first time corporations will have to learn to manage their AI spend during a downtown. Many companies are unsure how to position research and development (R&D) spend when their core business models are threatened.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/04/21/efficient-ai-how-to-position-your-rd-spend-in-a-downturn/amp/",
+      "publishedDateTime": "2020-04-21T05:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Ftheyec%2Ffiles%2F2020%2F04%2Fa-13-3.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "Efficient AI: How To Position Your R&D Spend In A Downturn",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand.md",
+      "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
+      "excerpt": "SEE: How to implement AI and machine learning (ZDNet special report) | Download the report as a PDF (TechRepublic) Trials are expected to last a week and will take place at NHS trusts Cambridge University Hospitals, Kings College Hospital, Lancashire Teaching Hospitals and University Hospital Southampton. If initial deployments prove successful ...",
+      "heat": 97,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-ai-tool-helps-hospitals-predict-covid-19-bed-and-ventilator-demand/",
+      "publishedDateTime": "2020-04-21T05:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/03/13/7e404fac-4532-4237-8f10-91e709d6b15b/thumbnail/1200x675/80e3fc902fe3c9d6aba28b44aa664ac0/20200313-tiernan-karen-corona.png",
+          "width": 1200,
+          "height": 675,
+          "title": "This AI tool helps hospitals predict COVID-19 bed and ventilator demand",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-mit-cuts-ties-with-a-chinese-ai-firm-amid-human-rights-concerns.md",
+      "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
+      "excerpt": "The amount of money involved was not disclosed. iFlytek is one of China’s older AI companies, and while it specializes in voice recognition, it also offers tools for analyzing legal documents and medical imagery. Like other growing Chinese AI companies, contracts to supply software for processing video and audio to police departments and ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/",
+      "ampWebUrl": "https://www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mit-cuts-ties-chinese-ai-firm-human-rights/amp",
+      "publishedDateTime": "2020-04-21T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5e9a05aab1d67d0009c2cdf3/master/pass/Biz-mit-1216059983.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": "MIT Cuts Ties With a Chinese AI Firm Amid Human Rights Concerns",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-nhs-starts-trial-of-machine-learning-system-to-manage-coronavirus-resources.md",
+      "title": "NHS starts trial of machine learning system to manage coronavirus resources",
+      "excerpt": "The NHS has started trialling a machine learning system that aims to predict the upcoming demand for intensive care resources needed to treat patients suffering from the COVID-19 virus. The COVID-19 Capacity Planning and Analysis System (CPAS) was ...",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus",
+      "ampWebUrl": "https://www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/software/development/355381/nhs-starts-trial-of-machine-learning-system-managing-coronavirus?amp",
+      "publishedDateTime": "2020-04-21T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/v1587468153/itpro/shutterstock_1700490094.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "NHS starts trial of machine learning system to manage coronavirus resources",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-ai-company-forgerock-raises-935-million-in-funding.md",
+      "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
+      "excerpt": "Identity-authenticator sees demand jump as coronavirus creates mass shift to remote work.",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wsj.com/articles/ai-company-forgerock-raises-93-5-million-in-funding-11587463200",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-21T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-178343/social",
+          "width": 1280,
+          "height": 640,
+          "title": "AI Company ForgeRock Raises $93.5 Million in Funding",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain.md",
+      "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+      "excerpt": "Blockchain and artificial intelligence (AI) solve different tasks, but they can work together to improve many processes in the financial services industry, from customer service to loan application reviews and payment processing.",
+      "heat": 92,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/21/how-to-improve-the-financial-services-industry-with-artificial-intelligence-and-blockchain/amp/",
+      "publishedDateTime": "2020-04-21T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-24-2.jpg",
+          "width": 640,
+          "height": 640,
+          "title": "How To Improve The Financial Services Industry With Artificial Intelligence And Blockchain",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-21-learn-how-to-leverage-the-aws-cloud-to-build-and-innovate-at-scale-with-the-free-aws-summit-online.md",
+      "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+      "excerpt": "The AWS DeepRacer League Summit Race Compete for prizes and meet fellow machine learning enthusiasts, online. Racers will have the opportunity to join the DeepRacer online workshop and have a 1-to ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online",
+      "ampWebUrl": "https://yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/04/aws-cloud-innovate-summit-online/amp",
+      "publishedDateTime": "2020-04-21T04:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/static/default-ys-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": "Learn how to leverage the AWS cloud, to build and innovate at scale with the free AWS Summit Online",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-artificial-intelligence-how-machine-learning-jobs-are-giving-refugees-a-future-in-tech.md",
       "title": "Artificial intelligence: How machine-learning jobs are giving refugees a future in tech",
       "excerpt": "Humans in the Loop is a social enterprise founded in 2017. It helps refugees from conflict zones like Syria, Iraq, and Afghanistan settle in the country by acquiring digital skills that they can use for working on artificial-intelligence and machine-learning-related projects. SEE: How to implement AI and machine learning (ZDNet special report ...",
@@ -901,338 +1248,6 @@
           "width": 680,
           "height": 383,
           "title": "The Station: Pony.ai turns to delivery, Kodiak cuts, Lime snaps up Boosted’s IP",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-brief-oncodesign-announces-creation-of-artificial-intelligence-business-unit.md",
-      "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
-      "excerpt": "Oncodesign SA: * ANNOUNCES CREATION OF ITS NEW ARTIFICIAL INTELLIGENCE BUSINESS UNIT (BU) HEADED UP BY STÉPHANE GERART * NEW BU WILL BE BASED MAINLY IN DIJON",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.reuters.com/article/brief-oncodesign-announces-creation-of-a-idUSFWN2C819O",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSFWN2C819O",
-      "publishedDateTime": "2020-04-20T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources_v3/images/rcom-default.png",
-          "width": 1200,
-          "height": 630,
-          "title": "BRIEF-Oncodesign Announces Creation Of Artificial Intelligence Business Unit",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung-surgery.md",
-      "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
-      "excerpt": "SILICON VALLEY, Calif., April 20, 2020 /PRNewswire/ -- RSIP Vision, a global leader in artificial intelligence (AI) and computer vision technology, announced today a new innovative AI-based suite of m",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/rsip-vision-launches-a-pioneering-ai-suite-providing-optimal-solutions-to-key-tasks-in-lung/article_969a06df-ac77-52f8-b8ec-7edfe462e80a.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/9a/99a67bba-74e1-5907-b0c4-b6be6666bca3/5e9dd1fbaaefd.image.jpg?resize=400%2C349",
-          "width": 400,
-          "height": 349,
-          "title": "RSIP Vision Launches a Pioneering AI Suite Providing Optimal Solutions to Key Tasks in Lung Surgery",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-37-billion-by-2025-exclusive-report-by-marketsandmarkets.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "The major growth factors of the market include the rising urge of predictive analytics to reduce risks and improve significant health concerns, and growing demand for improving Electronic Health ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-worth-3-7-billion-by-2025-exclusive-report-by-marketsandmarkets-tm--882798830.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook",
-          "width": 666,
-          "height": 350,
-          "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Worth $3.7 billion by 2025 - Exclusive Report by MarketsandMarkets™",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-unlearnai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials.md",
-      "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
-      "excerpt": "Today, a startup founded by a former principal scientist at Pfizer, which has developed a way of digitising this concept through the use of AI, is announcing some funding to further its efforts. Unlearn.AI, which has built a machine learning platform that builds “digital twin” profiles of patients that become the controls in clinical trials ...",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/",
-      "ampWebUrl": "https://techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/20/unlearn-ai-nabs-12m-to-build-digital-twins-to-speed-up-and-improve-clinical-trials/amp/",
-      "publishedDateTime": "2020-04-20T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/04/6467612281_ccb5b72b02_b.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": "Unlearn.AI nabs $12M to build “digital twins” to speed up and improve clinical trials",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-googles-entities-as-experts-ai-answers-text-based-questions-with-less-data.md",
-      "title": "Google’s Entities as Experts AI answers text-based questions with less data",
-      "excerpt": "A preprint study published this week by coauthors at Google Research describes Entities as Experts (EAE), a new type of machine learning model that can access memories of entities (e.g., people, places, organizations, dates, times, and figures) mentioned in a piece of sample text. They claim that it outperforms two state-of-the-art models with ...",
-      "heat": 85,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/googles-entities-as-experts-ai-answers-text-based-questions-with-less-data/amp/",
-      "publishedDateTime": "2020-04-20T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/google-ai-logo.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Google’s Entities as Experts AI answers text-based questions with less data",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-the-nba-and-microsoft-plan-to-release-a-new-ai-driven-dtc-streaming-platform.md",
-      "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-      "excerpt": "The NBA and Microsoft announced a new multiyear partnership aimed at transforming the digital fan experience through a direct-to-consumer platform.",
-      "heat": 81,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/nba-microsoft-team-up-for-ai-driven-personalized-streaming-platform-2020-4",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-20T07:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e6bd9bd84159f6e8f786846?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "The NBA and Microsoft plan to release a new AI-driven DTC streaming platform",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-facebook-partners-up-with-researchers-to-fight-covid-19-using-ai.md",
-      "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-      "excerpt": "To that end, Facebook AI has partnered up with academic researchers and other experts on a slew of ... Facebook has also partnered up with the Mila research institute in Montreal to share predictive, causal, and decision algorithms to effectively analyze clinical data. Facebook says it’s important for public health experts to understand ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai",
-      "ampWebUrl": "https://in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/13299/facebook-partners-up-with-researchers-to-fight-covid-19-using-ai?amp=1",
-      "publishedDateTime": "2020-04-20T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/news/t/the-corona/the-coronavirus-is-proving-to-be-big-business-for-facebook-n_n947.620.jpg",
-          "width": 620,
-          "height": 397,
-          "title": "Facebook Partners Up With Researchers To Fight COVID -19 Using AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-how-utilities-are-using-ai-to-adapt-to-electricity-demands.md",
-      "title": "How utilities are using AI to adapt to electricity demands",
-      "excerpt": "Some utilities are employing AI and machine learning to address the windfalls and fluctuations in energy usage resulting from COVID-19. Precise load forecasting could ensure that operations aren’t interrupted in the coming months, thereby preventing blackouts and brownouts. And they might also bolster the efficiency of utilities’ internal ...",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/20/utilities-energy-usage-covid-19-ai-machine-learning/amp/",
-      "publishedDateTime": "2020-04-20T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6cd663ee-b571-428e-8665-0dadb7cbc371-e1587321011520.png?fit=1202%2C598&strip=all",
-          "width": 1202,
-          "height": 598,
-          "title": "How utilities are using AI to adapt to electricity demands",
           "attribution": null
         }
       ],

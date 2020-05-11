@@ -2,6 +2,311 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning.md",
+      "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
+      "excerpt": "Intel and Penn Medicine will collaborate to develop a brain tumor-detecting AI using a technique called federated learning.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
+      "publishedDateTime": "2020-05-11T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-how-ai-and-ml-are-helping-first-responders.md",
+      "title": "How AI and ML are helping first responders",
+      "excerpt": "Artificial intelligence and machine learning are helping firefighters, police officers, and EMS medics respond to emergencies and save lives.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/how-ai-and-ml-are-helping-first-responders/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/",
+      "publishedDateTime": "2020-05-11T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/05/05/415913a1-e850-425a-b3f1-69626671b33f/neuroflow.jpg",
+          "width": 800,
+          "height": 468,
+          "title": "How AI and ML are helping first responders",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems.md",
+      "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+      "excerpt": "For IT professionals working in hospitals and healthcare clinics, fixing a problem with a wireless network is now more than a temporary headache. Diagnosing connectivity issues in a coronavirus ward in a hospital could put a person's health at risk.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/startup-uses-network-automation-to-help-hospitals-solve-wi-fi-problems/",
+      "publishedDateTime": "2020-05-11T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/04/27/a89a3cec-9eaa-4548-9879-5ab3e8c77c24/thumbnail/1200x675/06421814a31045a6c09743f30fe067a5/fcc-approves-plan-to-open-up-more-spectr-5ea3183e1c719e452658f538-1-apr-27-2020-14-56-11-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Startup uses network automation to help hospitals solve wi-fi problems",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors.md",
+      "title": "Intel, UPenn partner with 29 health organizations to train AI to spot brain tumors",
+      "excerpt": "Health and research organizations from around the globe will collaborate on building a robust AI model to identify brain tumors using the privacy-preserving method of federated learning.",
+      "heat": 91,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/",
+      "publishedDateTime": "2020-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/05/07/3ca19d2a-04ad-4c32-b096-900cd093171b/thumbnail/1200x675/19cf25c0ce3f9318ef3b6c6f9d5d75bd/steve-mcmillan-280x400.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "Intel, UPenn partner with 29 health organizations to train AI to spot brain tumors",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-new-program-offers-college-students-access-to-free-data-science-and-machine-learning.md",
+      "title": "New program offers college students access to free data science and machine learning",
+      "excerpt": "Databricks University Alliance pairs with universities to provide online tools and cloud platforms to add competitive skills to matriculation.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "publishedDateTime": "2020-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/16/e64ac43a-90a4-4b78-824a-7354d236b664/thumbnail/1200x675/8544c97ca2fffa13b9a3e12bb859836b/20200413-nadine-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New program offers college students access to free data science and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-google-the-next-big-fintech-vendor.md",
+      "title": "Google: The Next Big Fintech Vendor",
+      "excerpt": "Three recent stories regarding Google signal that it--like Amazon--is on its way to becoming a technology vendor for banks.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/",
+      "ampWebUrl": "https://www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ronshevlin/2020/05/11/google-the-next-big-fintech-vendor/amp/",
+      "publishedDateTime": "2020-05-11T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb413ca76d463000676c602%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D203%26cropY2%3D2453",
+          "width": 1199,
+          "height": 675,
+          "title": "Google: The Next Big Fintech Vendor",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-novartis-sarepta-partner-with-new-george-church-gene-therapy-startup.md",
+      "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
+      "excerpt": "Dyno Therapeutics launched Monday with plans to use artificial intelligence to expand the use of gene therapy. The company was co-founded by George Church, the noted Harvard University geneticist, and others.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.html",
+      "ampWebUrl": "https://www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
+      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/boston/news/2020/05/11/novartis-sarepta-partner-with-new-george-church.amp.html",
+      "publishedDateTime": "2020-05-11T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg",
+          "width": 600,
+          "height": 399,
+          "title": "Novartis, Sarepta partner with new George Church gene therapy startup",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-the-station-uber-has-a-taste-for-lime-tesla-drama-moovit-gets-acquired.md",
       "title": "The Station: Uber has a taste for Lime, Tesla drama, Moovit gets acquired",
       "excerpt": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive it every Saturday in your inbox. Hi and welcome back to The Station, I’m your host Kirsten Korosec,",
@@ -1018,311 +1323,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services.md",
-      "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-      "excerpt": "For new home buyers, a common challenge is to understand how to manage their lawn needs effectively. Now imagine if you’re a farmer and have to do this for many acres of land. As a farmer, some of the challenges you’d typically face include the when (when is the right time to water), the where (where",
-      "heat": 77,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-lawn-monitor-and-weed-detection-solution-with-aws-machine-learning-and-iot-services/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T09:22:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/04/28/weed-detector-1.gif",
-          "width": 1000,
-          "height": 600,
-          "title": "Building a lawn monitor and weed detection solution with AWS machine learning and IoT services",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity.md",
-      "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-      "excerpt": "How can you snag the dough? There is a contest underway that promises a prize of $1,000,000 to someone or some entity that has managed to innovatively perform an outstandingly good deed with AI that demonstrably benefits humanity.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/05/08/how-to-win-a-million-dollars-via-your-ai-and-meanwhile-benefit-humanity/amp/",
-      "publishedDateTime": "2020-05-08T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1146017341%2F0x0.jpg%3FcropX1%3D606%26cropX2%3D3484%26cropY1%3D0%26cropY2%3D2160",
-          "width": 1200,
-          "height": 900,
-          "title": "How To Win A Million Dollars Via Your AI And Meanwhile Benefit Humanity",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector.md",
-      "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
-      "heat": 71,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/catching-fraud-faster-by-building-a-proof-of-concept-in-amazon-fraud-detector/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-08T07:51:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/05/07/fraud-detector-4.jpg",
-          "width": 800,
-          "height": 566,
-          "title": "Catching fraud faster by building a proof of concept in Amazon Fraud Detector",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19.md",
-      "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
-      "excerpt": "Startup Aidoc says it has obtained FDA clearance for AI and machine learning tech that uses CT scans to help diagnose COVID-19.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/aidoc-obtains-fda-clearance-for-ai-that-uses-ct-scans-to-help-diagnose-covid-19/amp/",
-      "publishedDateTime": "2020-05-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/s3.reutersmedia.net_-e1587747290843.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Aidoc obtains FDA clearance for AI that uses CT scans to help diagnose COVID-19",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-deepmind-compares-the-way-children-and-ai-explore.md",
-      "title": "DeepMind compares the way children and AI explore",
-      "excerpt": "In a preprint paper, DeepMind researchers propose a paradigm for comparing the exploration behaviors of children and AI models.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/deepmind-compares-exploration-behaviors-of-children-and-ai/amp/",
-      "publishedDateTime": "2020-05-08T06:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?fit=1198%2C600&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": "DeepMind compares the way children and AI explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-exer-launches-ai-based-fitness-coach-on-your-mobile-phone.md",
-      "title": "Exer launches AI-based fitness coach on your mobile phone",
-      "excerpt": "Just in time for the home exercise craze, Exer has launched its AI-based fitness coach that shows you how to do exercises properly at home.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/08/exer-launches-ai-based-fitness-coach-on-your-mobile-phone/amp/",
-      "publishedDateTime": "2020-05-08T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/05/exer-ai-3.jpg?fit=1200%2C647&strip=all",
-          "width": 1200,
-          "height": 647,
-          "title": "Exer launches AI-based fitness coach on your mobile phone",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-how-facial-recognition-will-change-retail.md",
-      "title": "How Facial Recognition Will Change Retail",
-      "excerpt": "Through the use of facial recognition technology, retail stores may be able to proactively help limit unsatisfactory customer service experiences.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/05/08/how-facial-recognition-will-change-retail/amp/",
-      "publishedDateTime": "2020-05-08T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

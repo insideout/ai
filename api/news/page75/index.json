@@ -2,6 +2,302 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2020-03-11-client-note-aon-acquires-willis-towers-watson-for-30b-nvidia-buys-an-ai-startup-ant-financial-invests-in-klarna-and-more.md",
+      "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
+      "excerpt": "Also covered are Sequoia’s investment in a student loan company, an email encryption startup raises, and Grindr’s $600M+ sale. Want the full post? Become a CB Insights customer. If you’re already a customer, log in here.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.cbinsights.com/research/aon-willis-towers-watson-nvidia-ai-ant-financial-klarna/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CB Insights",
+        "domain": "cbinsights.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/cbi-research-portal-uploads/2020/03/11105643/News-coverage_edge-computing_CN_03102020-572x364.png",
+          "width": 572,
+          "height": 364,
+          "title": "Client Note: Aon Acquires Willis Towers Watson For $30B, Nvidia Buys An AI Startup, Ant Financial Invests In Klarna, And More",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-cadence-tensilica-hifi-ip-accelerates-ai-deployment-with-support-for-tensorflow-lite-for-microcontrollers.md",
+      "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+      "excerpt": "SAN JOSE, Calif.--(BUSINESS WIRE)--Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that software for Cadence ® Tensilica ® HiFi digital signal processors (DSPs) has been optimized to efficiently execute TensorFlow Lite for Microcontrollers, part of the TensorFlow end-to-end open-source platform for machine learning (ML ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200311005239/en/Cadence-Tensilica-HiFi-IP-Accelerates-AI-Deployment",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200311005239/en/778960/23/bigstock-Voice-Recording-Or-Speech-Reco-321922831.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Cadence Tensilica HiFi IP Accelerates AI Deployment with Support for TensorFlow Lite for Microcontrollers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models.md",
+      "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
+      "excerpt": "Google announced the launch of TensorFlow Quantum, which is based on Machine learning and quantum computing coming together to build hybrid AI models. The TFQ was built in collaboration with the University of Waterloo, X, and Volkswagen. TensorFlow Quantum is an opensource library for rapid prototyping of quantum ML models. “TensorFlow ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technowize.com/google-launches-tensorflow-quantum-that-facilitates-hybrid-ai-models/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Technowize",
+        "domain": "technowize.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.technowize.com/wp-content/uploads/2019/11/Quantum-Supremacy.jpg",
+          "width": 1100,
+          "height": 825,
+          "title": "Google launches TensorFlow Quantum that facilitates hybrid AI models",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-chip-progress-ai-gains-leave-intel-stock-poised-to-outperform.md",
+      "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
+      "excerpt": "I remain convinced that Intelâs (NASDAQ:) increased parity with AMD (NASDAQ:) when it comes to computer chips, along with Intelâs superiority in the vital field of AI, leave Intel stock poised to outperform the market and AMD stock over the longer term,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11",
+      "ampWebUrl": "https://www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/chip-progress-ai-gains-leave-intel-stock-poised-to-outperform-2020-03-11?amp",
+      "publishedDateTime": "2020-03-11T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.nasdaq.com/sites/acquia.prod/files/2019-05/0902-Q19%20Total%20Markets%20photos%20and%20gif_CC8.jpg?128964636",
+          "width": 1024,
+          "height": 512,
+          "title": "Chip Progress, AI Gains Leave Intel Stock Poised to Outperform",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report.md",
+      "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
+      "excerpt": "IBM announced several new IBM Watson technologies designed to help organizations begin identifying ... capabilities to come from IBM Research’s Project Debater, an AI system capable of debating humans on complex topics, IBM explained. The company will focus on advanced sentiment analysis to make AI more capable of understanding complicated ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://sdtimes.com/softwaredev/sd-times-news-digest-ibm-to-add-new-ai-capabilities-to-watson-threat-stack-supports-ruby-and-gitlabs-remote-work-report/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/03/ibm-watson.png",
+          "width": 1026,
+          "height": 552,
+          "title": "SD Times news digest: IBM to add new AI capabilities to Watson, Threat Stack supports Ruby, and GitLab’s Remote Work Report",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-business-language.md",
+      "title": "IBM advances Watson's ability to understand business language",
+      "excerpt": "The new technologies represent the first commercialisation of key Natural Language Processing (NLP) capabilities to come from IBM Research's Project Debater -- an AI system capable of debating humans on complex topics. For example, a new advanced sentiment analysis feature is defined to identify and analyse idioms and colloquialisms for the ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20200311/3518902.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology.md",
+      "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+      "excerpt": "/PRNewswire/ -- Highlights: Inspired by DeepMind's AlphaZero AI that mastered complex games like chess and Go, Synopsys' DSO.ai™ solution is able",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.prnewswire.com/news-releases/synopsys-advances-state-of-the-art-in-electronic-design-with-revolutionary-artificial-intelligence-technology-301021331.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": "Synopsys Advances State-of-the-Art in Electronic Design with Revolutionary Artificial Intelligence Technology",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-03-11-ai-provider-releases-social-determinants-of-health-tool.md",
+      "title": "AI provider releases social determinants of health tool",
+      "excerpt": "Jvion leveraged its own AI along with Microsoft Azure Maps to empower providers and health systems to address underserved populations. Jvion's social determinants of health platform also offers individualized interventions to aid in aligning community benefits more effectively. The platform is based on de-identified patient information.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/ai-provider-releases-social-determinants-of-health-tool.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-11T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/3.jpg",
+          "width": 400,
+          "height": 300,
+          "title": "AI provider releases social determinants of health tool",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-intel-stock-is-poised-to-outperform-on-chip-and-ai-developments.md",
       "title": "Intel Stock Is Poised to Outperform on Chip and AI Developments",
       "excerpt": "Intel’s chips are proving to be popular with AI developers, and it expects its upcoming Cooper chips to “enable AI systems to be trained up to 60% faster than their predecessors.” Moreover, as I wrote in a previous article on AMD: “According to Analytics India Magazine, AI chips made by Habana are four times better than graphics ...",
@@ -678,320 +974,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-artificial-intelligence-ibms-watson-now-understands-idioms-after-sentiment-update.md",
-      "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-      "excerpt": "Artificial intelligence researchers at IBM have introduced a major upgrade to the famed Watson computer, allowing it to understand idioms and colloquialisms for the first time. IBM says the update makes it the first commercial AI system capable of identifying, understanding and analysing some of the most challenging aspects of the English language.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "ampWebUrl": "https://www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/life-style/gadgets-and-tech/news/artificial-intelligence-ibm-watson-ai-language-idiom-a9391166.html",
-      "publishedDateTime": "2020-03-11T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2020/03/10/16/artificial-intelligence-ibm-watson-ai.jpg",
-          "width": 928,
-          "height": 696,
-          "title": "Artificial intelligence: IBM's Watson now understands idioms after 'sentiment' update",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-three-applications-deep-learning-and-computer-vision-can-improve.md",
-      "title": "Three applications deep learning and computer vision can improve",
-      "excerpt": "You’ve probably heard about deep learning and computer vision and you’re likely aware that they have something to do with artificial intelligence. If you’re like most people, you’re not quite sure what that means. Are there practical uses for deep ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.controleng.com/articles/three-applications-that-improve-with-deep-learning-and-computer-vision/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-11T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Control Engineering",
-        "domain": "controleng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.controleng.com/wp-content/uploads/sites/2/2020/03/ctlx_icon_MachineVision_Slider_01-3-3.jpg",
-          "width": 485,
-          "height": 260,
-          "title": "Three applications deep learning and computer vision can improve",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-detecting-money-laundering-networks-using-h2o-driverless-ai.md",
-      "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
-      "excerpt": "Artificial Intelligence has evolved from being a buzz word to a reality today ... and automatically reinforce the AI model’s understanding to avoid patterns that don’t lead to laundered money. H2O Driverless AI is an Award-winning Automatic Machine Learning Platform that empowers data scientists to work on projects faster and more ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.datanami.com/2020/03/10/detecting-money-laundering-networks-using-h2o-driverless-ai/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/driverlessAI.png",
-          "width": 1021,
-          "height": 453,
-          "title": "Detecting Money Laundering Networks Using H2O Driverless AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ml-kit-or-tensorflow-which-is-best.md",
-      "title": "ML Kit or TensorFlow: Which is best?",
-      "excerpt": "This post is a follow-up on my article Build a Dog Camera using Flutter and Tensorflow. The Dog Camera app is similar to the regular Android camera app. But if there is a dog in view, its breed ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/flutter-community/ml-kit-or-tensorflow-which-is-best-6c965e74366b",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/0*HBmxP0S3pgoPI7Od",
-          "width": 1200,
-          "height": 800,
-          "title": "ML Kit or TensorFlow: Which is best?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-indias-mphasis-wins-partnership-certification-on-amazon-web-services.md",
-      "title": "India’s Mphasis wins partnership certification on Amazon Web Services",
-      "excerpt": "Microsoft to help 1.5 billion students missing school Mphasis, which is also a member of the Blackstone Group of companies, provides an end-to-end cloud and cognitive portfolio of services that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/indias-mphasis-wins-partnership-certification-on-amazon-web-services/1894331/lite/",
-      "publishedDateTime": "2020-03-10T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-ibm-advances-watsons-ability-to-understand-the-language-of-business.md",
-      "title": "IBM Advances Watson's Ability to Understand the Language of Business",
-      "excerpt": "KPMG, a multinational professional services network, and one of the Big Four accounting organizations, worked with IBM to create an AI solution based on a variety of Watson services, including ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-advances-watsons-ability-to-understand-the-language-of-business-301021182.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": "IBM Advances Watson's Ability to Understand the Language of Business",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-ibm-turns-flashy-ai-projects-like-a-robot-that-can-debate-humans-into-commercial-products-for-enterprises.md",
-      "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
-      "excerpt": "The tech giant is introducing applications based on \"Project Debater\" that can autonomously cluster similar documents and understand idioms.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/how-ibm-turns-research-like-project-debater-into-enterprise-products-2020-3",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e67b491e4f9fe389623a166?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": "How IBM turns flashy AI projects like a robot that can debate humans into commercial products for enterprises",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-03-11-how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users.md",
-      "title": "How IBM Watson's new natural language processing capabilities helps business users",
-      "excerpt": "IBM reports that Watson is ready to take on the most challenging aspects of the English language. New natural language processing (NLP) capabilities will be added to the artificial intelligence platform later this year to allow businesses to identify and analyze some of the most challenging aspects of human language. IBM has been developing ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ibm-watsons-new-natural-language-processing-capabilities-helps-business-users/",
-      "publishedDateTime": "2020-03-10T21:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/03/10/d48ad02c-9a8d-41ce-9baf-ec8d046158b5/resize/1200x/11580c597b4bb6158ad17bab6a2a0b59/screen-shot-2020-03-10-at-10-31-22-am.png",
-          "width": 1200,
-          "height": 782,
-          "title": "How IBM Watson's new natural language processing capabilities helps business users",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

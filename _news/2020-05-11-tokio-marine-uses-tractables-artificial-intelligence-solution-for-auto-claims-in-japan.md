@@ -22,6 +22,6 @@ images:
     height: 387
     title: "Tokio Marine Uses Tractable’s Artificial Intelligence Solution for Auto Claims in Japan"
 
-secured: "bV4+bapvHuKP/EdgiqM/mZgbwnlJS738tw+dsXV6dWs/vCO37DuweAlWa3pRBza+kylZq4rQNyV0WQKZC/A5YuCgC+JkkBt7FW8DetUilhZtGC8ucEq91xilTcmKU7zA23qmsPN87/Tpv9pU6vTqmLjCa2woFxBwcW7ENk6Ud8vJiQHtbX4dO/StP1XaDpSNlGBE/lkUcAx3Qq/SLPHhXahIFBN2SatDhGTND1c1Cf7CExRM2j/PRP1YsSz7suGUhYL9lOikMbF2UrgMEsd/IGIpP4IIGHgTHMddScH3TmltRvMgYzLjYW7Ky7/iU+ef;W7vrpS5X6Eb0xIs6M3824g=="
+secured: "FizuSwfQrL11yK5g77DKYakP+BmTboAUClosI2RF3Ky085RvIqFVQPwdEb0wth///KsD9dSxlLOcNVM4taP2NkijpOIQd2qwzfEKWmsByziun9/9RvErZzkd60cGr+VIiWLGM+vjmStKjJfuTHrKX5faeILIbRZOrfIXgFWd3rn+hULOFoXPx77ku1usH6zXLhiHtBFxnTeE7fltvoEyAdeX1+hTQ1fN6EwFaDwJsNhRGmzcXiWgAf6zWMUtlprYN8Q2QDGr4TW+/m62GAmaNlxIyLjuHQI8lJ9akgcyERycs3wkA8YJwsF5zB6DFGYNIm3cElL15Szjpu+Q/13e8OYECkRJJQ/ZOdSqqK21UDQY6/QqZi94hJskpx3jMc8A03/VYaSe+2Mj7YZBuhPv93CquGJfd/C5KqMBZE6ItRdpgzDDwItcb9lXM584n/RccS0b1s0XWmfLPrC8f+rFvPJBDAifVhfUPoIRhvk4Ue8=;xp3Nr8lQ7DoJLUS5vk10uQ=="
 ---
 

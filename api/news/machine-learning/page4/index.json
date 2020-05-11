@@ -2,6 +2,44 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-04-10-deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector.md",
+      "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+      "excerpt": "Innovation” Machine Learning Uses Three Structures to Produce Improvements – Deltec Bank Machine learning is a prerequisite feature",
+      "heat": 83,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/04/ab15784506/deltec-bank-bahamas-says-machine-learning-will-transform-the-banking-sector",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15784506",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15784506",
+      "publishedDateTime": "2020-04-10T15:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/7d1cdecfaa1f9896ac0a4752d6ed7d1c.jpg",
+          "width": 600,
+          "height": 352,
+          "title": "Deltec Bank, Bahamas says Machine Learning Will Transform the Banking Sector",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-infragistics-adds-predictive-analytics-machine-learning-and-more.md",
       "title": "Infragistics Adds Predictive Analytics, Machine Learning and More",
       "excerpt": "In addition to its fast, easy integration into any platform or deployment option, Reveal's newest features address the latest trends in data analytics: predictive and advanced analytics, machine learning, R and Python scripting, big data connectors, and much more. These enhancements allow businesses to quickly analyze and gain insights from ...",
@@ -1181,43 +1219,6 @@
           "width": 300,
           "height": 300,
           "title": "Seattle machine learning startup OctoML raises $15M from Amplify and Madrona",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-datarobot-intersystems-sign-integration-and-reseller-agreement.md",
-      "title": "DataRobot, InterSystems sign integration and reseller agreement",
-      "excerpt": "DataRobot’s enterprise AI platform will augment InterSystems’ IntegratedML, which gives developers access to AutoML capabilities directly from SQL. This allows InterSystems IRIS and IRIS for Health customers to embed predictions within their existing applications in an intuitive, scalable manner. While InterSystems’ technology simplifies ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "ampWebUrl": "https://amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/VgZeyvJo8kG7djX9",
-      "publishedDateTime": "2020-04-03T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/04/brain-test-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": "DataRobot, InterSystems sign integration and reseller agreement",
           "attribution": null
         }
       ],

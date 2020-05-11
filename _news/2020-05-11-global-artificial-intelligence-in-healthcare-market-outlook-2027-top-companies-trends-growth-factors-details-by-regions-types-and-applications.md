@@ -5,8 +5,8 @@ excerpt: "The global artificial intelligence in healthcare market is anticipated
 publishedDateTime: 2020-05-11T11:34:00Z
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-healthcare-market-outlook-2027-top-companies-trends-growth-factors-details-by-regions-types-and-applications-2020-05-11"
 type: article
-quality: 44
-heat: 44
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -19,6 +19,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI Ethics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -2,6 +2,330 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2020-02-05-european-parliament-insists-it-will-not-use-facial-recognition-tech.md",
+      "title": "European parliament insists it will not use facial recognition tech",
+      "excerpt": "Statement comes after leaked memo on use of technology in security provoked outcry",
+      "heat": 109,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/feb/05/european-parliament-insists-it-will-not-use-facial-recognition-tech",
+      "publishedDateTime": "2020-02-05T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7d3501ff1cb5c4ad5d95972a50759a0d307408a4/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2d8da36a5bbb8e2543a941cb7e2d1a1c",
+          "width": 600,
+          "height": 360,
+          "title": "European parliament insists it will not use facial recognition tech",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation.md",
+      "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
+      "excerpt": "Today, Amazon Web Services, Inc. (AWS), an Amazon.com company AMZN, announced that Carrier, a leader in heating, ventilating,",
+      "heat": 113,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/carrier-selects-aws-as-its-preferred-cloud-provider-to-drive-digital-transformation-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Carrier Selects AWS as its Preferred Cloud Provider to Drive Digital Transformation",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-welfare-surveillance-system-violates-human-rights-dutch-court-rules.md",
+      "title": "Welfare surveillance system violates human rights, Dutch court rules",
+      "excerpt": "Government told to halt use of AI to detect fraud in decision hailed by privacy campaigners",
+      "heat": 112,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.theguardian.com/technology/2020/feb/05/welfare-surveillance-system-violates-human-rights-dutch-court-rules",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T05:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-a-new-device-uses-ai-to-identify-fake-pairs-of-nike-and-adidas-sneakers-in-seconds-heres-how-the-authentication-technology-works.md",
+      "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
+      "excerpt": "One of the biggest problems in the sneaker resale market may now be more manageable. Here's a new technology that uses AI to fight counterfeits.",
+      "heat": 157,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2",
+      "ampWebUrl": "https://www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fake-nike-adidas-sneakers-detected-ai-device-2020-2?amp",
+      "publishedDateTime": "2020-02-05T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5e3477d95bc79c46c13d960e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "A new device uses AI to identify fake pairs of Nike and Adidas sneakers in seconds. Here's how the authentication technology works.",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai.md",
+      "title": "An algorithm that can spot cause and effect could supercharge medical AI",
+      "excerpt": "Several other companies—including Ada and Your.MD—also offer diagnosis-by-chatbot but Babylon Health has singled itself out for criticism in part because of the overblown claims it makes for its AI. For example, in 2018 the company announced that its AI could diagnose medical conditions better than a human doctor. A study in The Lancet a ...",
+      "heat": 156,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/",
+      "ampWebUrl": "https://www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/s/615141/an-algorithm-that-can-spot-cause-and-effect-could-supercharge-medical-ai/amp/",
+      "publishedDateTime": "2020-02-05T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.technologyreview.com/i/images/pills_1.jpg?sw=600&cx=1&cy=54&cw=1079&ch=607",
+          "width": 600,
+          "height": 337,
+          "title": "An algorithm that can spot cause and effect could supercharge medical AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-youtuber-uses-neural-networks-to-upscale-1896-short-film-to-4k-60-fps.md",
+      "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
+      "excerpt": "Today, many companies use something called neural ... experiment of turning the famous Lumière Brothers' 1896 short clip \"Arrival of a Train at La Ciotat\" into a 4K, 60 fps video that looks ...",
+      "heat": 172,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techspot.com/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
+      "ampWebUrl": "https://www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/83867-youtuber-uses-neural-networks-upscale-1896-short-film.html",
+      "publishedDateTime": "2020-02-05T02:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2019/07/2019-07-16-ts3_thumbs-789.jpg",
+          "width": 800,
+          "height": 560,
+          "title": "YouTuber uses neural networks to upscale 1896 short film to 4K 60 fps",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-the-growing-robot-workforce-means-well-need-a-robot-hr-department-too.md",
+      "title": "The growing robot workforce means we'll need a robot HR department, too",
+      "excerpt": "Retailers are increasingly adopting artificial intelligence and robotics, both in brick-and-mortar shops and in warehouses, and with a new robot workforce comes the need for new management methods. That's right: in the near future, HR departments won't focus only on human employees, but also include a robot resources department to look after ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.zdnet.com/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-growing-robot-workforce-means-well-need-a-robot-hr-department-too/",
+      "publishedDateTime": "2020-02-05T01:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2017/02/01/596ef522-cb01-4678-afc7-54371d47cc24/thumbnail/1200x675/dc20cdf8ec64b5bd2f6ecbecbdfd70df/istock-513630810.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "The growing robot workforce means we'll need a robot HR department, too",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-artificial-intelligence-software-market-to-witness-huge-growth-by-2025.md",
+      "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+      "excerpt": "A New Syndicate Global Artificial Intelligence Software Market Study is added in HTF MI database compiled covering key business segments and wider geographical scope to get deep dive analysed market data.",
+      "heat": 79,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-to-witness-huge-growth-by-2025-2020-02-05",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence Software Market to Witness Huge Growth by 2025",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-analyst-artificial-intelligence-ai-in-cyber-security-market-companies-have-room-for-growth.md",
       "title": "Analyst : Artificial Intelligence (AI) in Cyber Security Market Companies Have Room for Growth",
       "excerpt": "Latest launched research document on Global Artificial Intelligence (AI) in Cyber Security Market study of 95 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
@@ -951,346 +1275,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests.md",
-      "title": "Online targeting needs tighter controls, UK data ethics body suggests",
-      "excerpt": "A UK government advisory body on AI and data ethics has recommended tighter controls on how platform giants can use ad targeting and content personalization. Concerns about the largely unregulated eyeball-grabbing targeting tactics of online platforms — be it via serving ‘personalized content’ or ‘microtargeted ads’ to individuals or ...",
-      "heat": 109,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/",
-      "ampWebUrl": "https://techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/02/04/online-targeting-needs-tighter-controls-uk-data-ethics-body-suggests/amp/",
-      "publishedDateTime": "2020-02-04T02:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/02/3115110964_142191363f_b.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": "Online targeting needs tighter controls, UK data ethics body suggests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-benchsci-raises-22-million-for-ai-powered-drug-discovery-tools.md",
-      "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-      "excerpt": "Assessing the health of pharmaceutical R&D by unearthing hidden patterns in procurement data is a task made simpler by AI. At least, that’s the pitch given by David Qixiang Chen, Elvis Wianda, Liran Belenzon, and Tom Leung, who cofounded BenchSci in 2015. The Toronto, Canada-based biotech company taps AI to run experiments that accelerate ...",
-      "heat": 197,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/04/benchsci-raises-22-million-for-ai-powered-drug-discovery-tools/amp/",
-      "publishedDateTime": "2020-02-04T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/products-screenshot-min-e1580583276382.png?fit=1258%2C600&strip=all",
-          "width": 1258,
-          "height": 600,
-          "title": "BenchSci raises $22 million for AI-powered drug discovery tools",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-robot-nutrition-ai-drug-discovery-and-neuro-rehabilitation-11-of-the-most-exciting-healthcare-startups-in-europe.md",
-      "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
-      "excerpt": "From robot chefs to smart patches that analyze your sleeping habits, here are 11 of the most exciting health tech companies in Europe.",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1",
-      "ampWebUrl": "https://www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/11-exciting-healthcare-startups-in-europe-2020-1?amp",
-      "publishedDateTime": "2020-02-04T01:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.insider.com/5e32f5e524306a1e385a2fb7?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": "Robot nutrition, AI drug discovery, and neuro-rehabilitation: 11 of the most exciting healthcare startups in Europe",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-tropical-breezes-pristine-beaches-and-a-domain-name-to-die-for.md",
-      "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
-      "excerpt": "Start-ups want unusual internet addresses to help stand out. One winner: The island of Anguilla, whose “.ai” domain is a favorite of A.I. start-ups. The luxury resorts along serene white-sand beaches have long propped up the economy of Anguilla,",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.html",
-      "ampWebUrl": "https://www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/02/04/business/custom-urls.amp.html",
-      "publishedDateTime": "2020-02-04T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/02/04/business/00dotx1/00dotx1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": "Tropical Breezes, Pristine Beaches and a Domain Name to Die For",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-algorithms-on-social-media-need-regulation-says-uks-ai-adviser.md",
-      "title": "Algorithms on social media need regulation, says UK's AI adviser",
-      "excerpt": "Report also urges government to consider making firms such as Facebook share their data",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "ampWebUrl": "https://amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/media/2020/feb/04/algorithms-social-media-regulation-uk-ai-adviser-facebook",
-      "publishedDateTime": "2020-02-03T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7ee6487d302dd944c3802483f30864c086cffca3/0_230_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=39d22ae526042181ad95e421176c5f95",
-          "width": 600,
-          "height": 360,
-          "title": "Algorithms on social media need regulation, says UK's AI adviser",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin.md",
-      "title": "This new AI model will badmouth you for putting trash in the wrong bin",
-      "excerpt": "When I’m at airports, I often get confused as to which trash and recycling bin I should throw my rubbish into. A new solution from a Canadian AI company, Initutaive AI, might come in handy. The firm has developed Oscar, an image-detection based AI, that recognizes objects in your hand and guides you to put things in correct bins.",
-      "heat": 187,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/02/04/this-new-ai-model-will-badmouth-you-for-putting-trash-in-the-wrong-bin/amp/",
-      "publishedDateTime": "2020-02-03T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/02/Garbage-badmouth-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": "This new AI model will badmouth you for putting trash in the wrong bin",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-camcon-explores-diesel-and-ai-calibration-for-its-digital-valve-train.md",
-      "title": "Camcon explores diesel and AI calibration for its digital valve train",
-      "excerpt": "The company is working in three directions to push things forward: it's building plug and play valve train kits for a range of common single-cylinder research engines, it's opening up to the heavy-duty diesel (HDD) market, and it's assembling a machine learning team to start applying artificial intelligence to the complex task of calibrating ...",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/",
-      "ampWebUrl": "https://newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/automotive/camcon-digital-valve-diesel-ai/?amp=true",
-      "publishedDateTime": "2020-02-03T20:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/257812a/2147483647/strip/true/crop/1619x1080+0+0/resize/1160x774!/quality/90/?url=https%3A%2F%2Fassets.newatlas.com%2Farchive%2Fcamcon-digital-iva-valve-system-4.jpg",
-          "width": 1160,
-          "height": 774,
-          "title": "Camcon explores diesel and AI calibration for its digital valve train",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-04-dont-care-if-you-even-graduated-says-elon-musk-as-he-announces-ai-party-at-his-place.md",
-      "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
-      "excerpt": "Tesla CEO Elon Musk recently invited coders and engineers over Twitter to attend an AI party ... \"reports directly\" to him daily. Tagging Lex Fridman, a known host of the Artificial Intelligence ...",
-      "heat": 149,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home-11580786460077.html",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/don-t-care-if-you-even-graduated-says-musk-as-he-announces-ai-party-at-his-home/amp-11580786460077.html",
-      "publishedDateTime": "2020-02-03T20:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/02/04/600x338/682a7284-3d11-11ea-8ee2-8148f8ffa5ba_1580722387199_1580788559081.jpg",
-          "width": 600,
-          "height": 338,
-          "title": "Don't care if you even graduated, says Elon Musk as he announces AI party at his place",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

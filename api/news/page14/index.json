@@ -2,6 +2,350 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-04-28-ford-delays-self-driving-taxis-to-2022.md",
+      "title": "Ford delays self-driving taxis to 2022",
+      "excerpt": "Ford is putting the future of autonomous driving on hold until 2022 as it grapples with the COVID-19 pandemic.",
+      "heat": 84,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "ampWebUrl": "https://www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-delays-self-driving-taxis-to-2022-231030762.html",
+      "publishedDateTime": "2020-04-28T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2Ffaaa14f0-899e-11ea-afdf-5a87c7809954&client=amp-blogside-v2&signature=0b6f392a8bccfb903035225147ea3a24dd7fe351",
+          "width": 600,
+          "height": 350,
+          "title": "Ford delays self-driving taxis to 2022",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-now-is-the-time-for-an-economic-stimulus-in-artificial-intelligence-or-the-us-could-fall-behind.md",
+      "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+      "excerpt": "Increasing research into AI will help the US economy recover from the coronavirus pandemic and better position it for the future.",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4",
+      "ampWebUrl": "https://www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-should-increase-ai-research-as-part-of-coronavirus-response-2020-4?amp",
+      "publishedDateTime": "2020-04-28T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.insider.com/5ea8575df242ab230e628669?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": "Now is the time for an economic stimulus in artificial intelligence — or the US could fall behind",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-robots-could-complete-all-human-tasks-by-2050-claims-transhumanist-writer.md",
+      "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+      "excerpt": "THERE'S a 50 percent chance robots will be capable of completing \"all human tasks\" by 2050, allowing humans to move to a post-compulsory work society, according to a leading transhumanist thinker.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1275130/Robots-news-artificial-intelligence-transhumanist-transhumanism-David-Wood/amp",
+      "publishedDateTime": "2020-04-28T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/Transhumanism-1275130.jpg?r=1588113071648",
+          "width": 590,
+          "height": 350,
+          "title": "Robots could complete ‘all human tasks’ by 2050 claims transhumanist writer",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-pence-criticized-for-not-wearing-face-mask-at-mayo-clinic.md",
+      "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+      "excerpt": "Vice President Pence came under fire for not wearing a face mask during his visit to the Mayo Clinic in Minnesota on Tuesday.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-criticized-not-wearing-face-mask-mayo-clinic.amp",
+      "publishedDateTime": "2020-04-28T15:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/64516716-b4c3-47e2-bdcc-a4ff7685b5e3/3a487a03-26b2-4a59-b582-b040533a5ecc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Pence criticized for not wearing face mask at Mayo Clinic",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics.md",
+      "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+      "excerpt": "A group of 24 specialists has started drafting recommendations on AI development and implementation that respect human well-being.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/",
+      "ampWebUrl": "https://www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-moroccoworldnews-com.cdn.ampproject.org/c/s/www.moroccoworldnews.com/2020/04/300952/moroccan-expert-joins-unesco-panel-on-artificial-intelligence-ethics/amp/",
+      "publishedDateTime": "2020-04-28T15:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morocco World News",
+        "domain": "moroccoworldnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.moroccoworldnews.com/wp-content/uploads/2020/04/Moroccan-Expert-Joins-UNESCO-Panel-on-Artificial-Intelligence-Ethics.jpg",
+          "width": 800,
+          "height": 500,
+          "title": "Moroccan Expert Joins UNESCO Panel on Artificial Intelligence Ethics",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing.md",
+      "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+      "excerpt": "Zetta Venture Partners, a B2B, AI-focused venture outfit, announced a new $180 million fund. As new VC funds are anecdotally a bit thinner on the ground these days — and because we’re in the midst of economic upheaval,",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/28/zetta-venture-partners-jocelyn-goldfein-chats-about-ai-investing/amp/",
+      "publishedDateTime": "2020-04-28T14:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "Zetta Venture Partners’ Jocelyn Goldfein chats about AI investing",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027.md",
+      "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+      "excerpt": "The Artificial intelligence in the healthcare market dynamics, forces, companies and trends have been determined after conducting",
+      "heat": 77,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-progressing-at-a-cagr-of-4048-during-the-forecast-period-2020-2027-2020-04-28",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Artificial Intelligence (Ai) In Healthcare Market progressing at a CAGR of 40.48% during the forecast period 2020-2027",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-04-28-utah-pauses-banjos-ai-surveillance-after-learning-of-owners-racist-past.md",
+      "title": "Utah pauses Banjo's AI surveillance after learning of owner's racist past",
+      "excerpt": "Utah authorities have put use of Banjo's surveillance tech on hold while they investigate for bias due to the owner's racist past.",
+      "heat": 86,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.engadget.com/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "ampWebUrl": "https://www.engadget.com/amp/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/utah-suspends-use-of-banjo-surveillance-205243913.html",
+      "publishedDateTime": "2020-04-28T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-04%2Fb80e43e0-8990-11ea-9bd6-0102afa04aa3&client=amp-blogside-v2&signature=712d5b10e99fcbb7f0d7b751803e5a0ee50031a9",
+          "width": 600,
+          "height": 350,
+          "title": "Utah pauses Banjo's AI surveillance after learning of owner's racist past",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-artificial-intelligence-cannot-be-inventors-us-patent-office-rules.md",
       "title": "Artificial Intelligence Cannot Be Inventors, US Patent Office Rules",
       "excerpt": "Last year, two relatively mundane patents—one for a shape-shifting food container and another for an emergency flashlight—posed an existential question for international patent regulations around the world: Does an inventor have to be a human?",
@@ -720,354 +1064,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-google-admits-its-diabetic-blindness-ai-fell-short-in-real-life-tests.md",
-      "title": "Google admits its diabetic blindness AI fell short in real-life tests",
-      "excerpt": "The AI Google trained to catch diabetic blindness exhibited 90 percent accuracy in the lab, but it unfortunately didn’t perform as well in real life. In Thailand, it could take up to 10 weeks to confirm diabetic blindness from the time a medical practitioner takes photos of the patient’s eye.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.engadget.com/google-diabetic-blindness-reallife-tests-134057972.html",
-      "ampWebUrl": "https://www.engadget.com/amp/google-diabetic-blindness-reallife-tests-134057972.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-diabetic-blindness-reallife-tests-134057972.html",
-      "publishedDateTime": "2020-04-28T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=80&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-04%2F9ac93ed0-893a-11ea-be3f-4bcc8bffecab&client=amp-blogside-v2&signature=6cdc736db1a9b6f167518ff28ad8d290dd566b82",
-          "width": 600,
-          "height": 350,
-          "title": "Google admits its diabetic blindness AI fell short in real-life tests",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore.md",
-      "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-      "excerpt": "In a pair of papers, MIT researchers describe techniques that spur agents to explore their environments and compress AI models without sacrificing accuracy.",
-      "heat": 83,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/mit-presents-ai-frameworks-that-compress-models-and-encourage-agents-to-explore/amp/",
-      "publishedDateTime": "2020-04-28T06:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/alex-knight-199368-unsplash-e1577481237671.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "MIT presents AI frameworks that compress models and encourage agents to explore",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-brainbox-raises-12-million-to-optimize-hvac-systems-with-ai.md",
-      "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
-      "excerpt": "BrainBox, which taps AI and machine learning to optimize HVAC systems, has raised $12 million in a convertible debt round.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/",
-      "ampWebUrl": "https://venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/28/brainbox-raises-12-million-to-optimize-hvac-systems-with-ai/amp/",
-      "publishedDateTime": "2020-04-28T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Connected-Mag-BrainBox-AI-e1588018061995.jpg?fit=1199%2C599&strip=all",
-          "width": 1199,
-          "height": 599,
-          "title": "BrainBox raises $12 million to optimize HVAC systems with AI",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026.md",
-      "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-      "excerpt": "The global natural language processing market is expected to rise with an impressive CAGR and generate the highest",
-      "heat": 72,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-overview-and-detailed-insights-on-upcoming-trends-till-2026-2020-04-28",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Natural Language Processing Market Overview and Detailed Insights on Upcoming Trends till 2026",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august.md",
-      "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-      "excerpt": "Personal robots are going to play bigger roles in our homes due to the rise of artificial intelligence (AI) technologies such as machine learning, computer vision, natural language processing and gesture controls.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techradar.com/news/misas-personal-robot-to-be-available-at-retail-outlets-in-middle-east-in-august",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/8XcArsWKPyaHuSCT55g2uH-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Misa's personal robot to be available at retail outlets in Middle East in August",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-delivery-robots-arent-readywhen-they-could-be-needed-most.md",
-      "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-      "excerpt": "Sheltering in place has driven up demand for deliveries, but machines still have trouble confronting the unpredictability of the real world.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/",
-      "ampWebUrl": "https://www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/delivery-robots-arent-ready-when-needed-most/amp",
-      "publishedDateTime": "2020-04-28T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5ea314d879127b00083c056b/master/pass/Transpo-3photo.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": "Delivery Robots Aren't Ready—When They Could Be Needed Most",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-imec-builds-worlds-first-spiking-neural-network-based-chip-for-radar-signal-processing.md",
-      "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
-      "excerpt": "Imec, a world-leading research and innovation hub in nanoelectronics and digital technologies, today presents the world’s first chip that processes radar signals using a spiking recurrent neural network.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.design-reuse.com/news/47876/imec-spiking-neural-network-based-chip.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-28T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage47876/20200428b_1.jpg",
-          "width": 480,
-          "height": 275,
-          "title": "Imec Builds World's First Spiking Neural Network-Based Chip for Radar Signal Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-28-a-sustainable-boost-to-ais-profitability-promise.md",
-      "title": "A Sustainable Boost To AI's Profitability Promise",
-      "excerpt": "In doing so, companies are subsequently given more power to enhance both profitability and sustainability in tandem. For vendors, it gives us extra leverage as we continue to fight back against the \"do-it-yourself\" trend.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/04/28/a-sustainable-boost-to-ais-profitability-promise/amp/",
-      "publishedDateTime": "2020-04-28T04:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbestechcouncil%2Ffiles%2F2020%2F04%2Fa-29-2.jpg",
-          "width": 640,
-          "height": 640,
-          "title": "A Sustainable Boost To AI's Profitability Promise",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

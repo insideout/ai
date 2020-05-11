@@ -23,6 +23,6 @@ images:
     height: 630
     title: "12 resources for healthcare workers struggling with their mental health"
 
-secured: "MDWKTbWnmn9LtCvY1aPy51n9LvrjRGdPjjVLe+d004PyvWYrh7nndo6MbIGDxbME6OUlLmlC9twdkWfA6CqgnFUC/y/aH+ZhwAf38Z+Z7ENoRzGl1tyBe784fj2Xs08jipeMyPuZ6XEPfbcTh5GwCfu1FAc6UA8URTi8XtJQkNZxKjLzVqE4IcoFYaBP5ajZQWSGEzgU1Rg/p7Ug3iuw0Ib2SDGG6J/8SUbPbJvyryNvX05bDcYUAOSpLPb7TbXc3BbAcxb5AWTZcOMRV2jk1fxmzWM5CLQUfdTGtHmPRuFdLRbQa231b2Jqehn92/9c;BNavBZG/53OYpPHqFUenVw=="
+secured: "sQAVV48V61j1HVi1EUL63MRTawOGk/qM0ljMjU847wEqJGTUmx/nEHiYqduFL+MT3pr8mlSD32c/W598dHwIsfBssx3vR1boGc/UENPpuTX3fFIdmODRMxm+JZR+jcS+JVzBijvswN4M5GQqNNAaYBO2+EqdqlA2QzsuiqWfmb3Gbi2MUWYbOj56AdRkkHnKmP96pKxTrPTUuL+76nB7Ij2rU9Ht2rdyFQDIZt8Dq348/urc/72qMXUj9ww8rlLORhpuxaa+9oS1kh7nUSlXRiOhjkb6giZCVOSK/wTuyixw3MoxP84nj/+AeOtMsdN3mMpLTXlrxhL+ig++Up7n8aIzyTyaKAJzbpdTUczGGsNRmF47iYw+QbYZ6HvsiTkiKeE+BuwWhRouTySEvAd3Q5Ri1tEnkwaPXUHwxXeW15sxwh+xVUtcJkJR+W3wSMuT9s3/l9DSseB6WMLIOAm94OeUWbNmLGSCBMJZEXIO4ro=;xjrH24R+S3lelbiY+SdHMA=="
 ---
 

@@ -25,6 +25,6 @@ images:
     height: 476
     title: "Qualcomm unveils cheap 5G chip, perfect for the Google Pixel 4a"
 
-secured: "OSoZngOybTxSaP8MW0ubFri0BXRr1S1BeHnVIDS2IBZAP5bPZ8ljNSSDRMZU+qqjXEsnatt0iNPH6B/lcqQtErdWYCB/abt/6pvlO6ISFDYgjHXojU/UG1+9jff4sQECA056b4yHhhaZHRZhBpm4P/P0v3aRl/yLC/GBvfWh+80FxmwmOVyTKUBJN3bXOjyszOvOLp12oFDpVYegopQc6RpmxANQrE+rsjrLsS5+Il0tdoq+ogPwuSxNe6m4Rjy3uTGV/H4IbbPb/ZEMiHuizSzAeEBBmHEv+okB9Gr+SgVjlqNoAKsAlrYOPn5rRpjd;SRnJYO7OUuyRgDohkyAmfw=="
+secured: "6AimlWkZBrGsCbJe8gSFHlc44PZ7D5+hFuCQFIfY/XREal2IDXyZ1GSKyPOAlSRF/GpVZyRAeYbn30BS0dUWgXzuv9GM/c5esrHUTNkIL9gNqUQmlP7lzopBmt+VlvT6p3YzfHZFAokeY8f1S1LHL7x35Zp1zkp8+DjkZGLHKwZwmbnOt/aJKGLdPXJVseTqzZgna4H+HubGf1aCuAmgO0k51lfGB+TgHWe+LmOgPSAyjnd2OcZhJpUEAMb/RMGWrq5V+jEPNJljZAHPL7FvZngQ9ps84QsrjniNjpFBPzH1Cz0B9iUHaHjBRXv/fzCEAFe18OVKqBI3XCu19NCL1pL+Pc09QWNbvR0Wl/v/KebN8pFcWMVYfYbcl5bA21hyHBtMkmkoYQjEfpBeMQVPNcvv3YDrXbMAjy5XxOREuFYgc9o3wuH7fjLEPLxy5S4xsRQmXGtzVfQZzPCS0cX2Z86Frn9RwJUS1iVhF9cc99w=;4D8xLLCfBrMr35sEL99EFQ=="
 ---
 

@@ -2,6 +2,96 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning.md",
+      "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
+      "excerpt": "Intel and Penn Medicine will collaborate to develop a brain tumor-detecting AI using a technique called federated learning.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/",
+      "ampWebUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
+      "publishedDateTime": "2020-05-11T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-new-program-offers-college-students-access-to-free-data-science-and-machine-learning.md",
+      "title": "New program offers college students access to free data science and machine learning",
+      "excerpt": "Databricks University Alliance pairs with universities to provide online tools and cloud platforms to add competitive skills to matriculation.",
+      "heat": 82,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/new-program-offers-college-students-access-to-free-data-science-and-machine-learning/",
+      "publishedDateTime": "2020-05-11T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/04/16/e64ac43a-90a4-4b78-824a-7354d236b664/thumbnail/1200x675/8544c97ca2fffa13b9a3e12bb859836b/20200413-nadine-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "New program offers college students access to free data science and machine learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-machine-learning-market-new-study-report-amazon-web-services-inc-baidu-inc-google-inc.md",
       "title": "Machine Learning Market New Study Report Amazon Web Services Inc, Baidu Inc, Google Inc.",
       "excerpt": "MarketResearch.Biz published a new industry research report “Machine Learning Market” in its database. This is",
@@ -1091,51 +1181,6 @@
       ]
     },
     {
-      "path": "_news/2020-04-30-artificial-intelligence-cant-technically-invent-things-says-patent-office.md",
-      "title": "Artificial Intelligence can't technically invent things, says patent office",
-      "excerpt": "Artificial intelligence is the future. If \"Westworld\" or \"Black Mirror\" are to be believed, there will soon come a day when the computers rule us all. But for now, an AI's power ends at the US Patent Office.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnn.com/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/04/30/us/artificial-intelligence-inventing-patent-office-trnd/index.html",
-      "publishedDateTime": "2020-04-30T01:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/181211153659-artificial-intelligence-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": "Artificial Intelligence can't technically invent things, says patent office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-29-tectonai-emerges-from-stealth-to-solve-machine-learning-pipeline-challenges.md",
       "title": "Tecton.ai emerges from stealth to solve machine learning pipeline challenges",
       "excerpt": "Tecton.ai is a data platform for machine learning that lets data scientists transform raw data into production-ready features.",
@@ -1258,43 +1303,6 @@
           "width": 1423,
           "height": 803,
           "title": "Ruha Benjamin on deep learning: Computational depth without sociological depth is ‘superficial learning’",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-29-2020-wfm-value-matrix-highlights-increased-roi-from-machine-learning-and-performance-analytics.md",
-      "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
-      "excerpt": "Nucleus Research today released the 2020 WFM Technology Value Matrix, its assessment of the Workforce Management (WFM) market. For the report, Nucleus evaluated WFM vendors based on their products’ usability,",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://apnews.com/Business Wire/4c5e1c6be9c84125bbe231ca706a3324",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-29T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": "2020 WFM Value Matrix Highlights Increased ROI from Machine Learning and Performance Analytics",
           "attribution": null
         }
       ],

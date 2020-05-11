@@ -2,6 +2,43 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-02-16-researchers-describe-a-brainy-approach-to-leverage-noise-for-better-neural-networks.md",
+      "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+      "excerpt": "Those who design deep neural networks for artificial intelligence often find inspiration in the human brain. One of the brain’s more important characteristics is that it is a “noisy” system: not every neuron contains perfect information that gets carried across a synapse with perfect clarity. Sometimes partial or conflicting information ...",
+      "heat": 78,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.noozhawk.com/article/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "ampWebUrl": "https://www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "cdnAmpWebUrl": "https://www-noozhawk-com.cdn.ampproject.org/c/s/www.noozhawk.com/amp/researchers_describe_a_brainy_approach_to_leverage_noise_for_better_neural",
+      "publishedDateTime": "2020-02-16T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Noozhawk",
+        "domain": "noozhawk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.noozhawk.com/images/made/images/uploads/021520-seaurchins-630_426_320_s.jpg",
+          "width": 426,
+          "height": 320,
+          "title": "Researchers Describe a Brainy Approach to Leverage Noise For Better Neural Networks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-02-14-ai-weekly-machine-learning-could-lead-cybersecurity-into-uncharted-territory.md",
       "title": "AI Weekly: Machine learning could lead cybersecurity into uncharted territory",
       "excerpt": "Once a quarter, VentureBeat publishes a special issue to take an in-depth look at trends of great importance. This week, we launched issue two, examining AI and security. Across a spectrum of stories, the VentureBeat editorial team took a close look at some of the most important ways AI and security are colliding today. It’s a shift with high ...",
@@ -1286,52 +1323,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-02-06-facebook-launches-3d-deep-learning-library-for-pytorch.md",
-      "title": "Facebook launches 3D deep learning library for PyTorch",
-      "excerpt": "Facebook AI Research (FAIR) today unveiled PyTorch3D, a library that enables researchers and developers to combine deep learning and 3D objects. As part of the release, Facebook is also open-sourcing Mesh R-CNN, a model introduced last year capable of rendering 3D objects from 2D shapes in images of interior spaces. PyTorch3D was inspired by ...",
-      "heat": 126,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/",
-      "ampWebUrl": "https://venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/02/06/facebook-launches-3d-deep-learning-library-for-pytorch/amp/",
-      "publishedDateTime": "2020-02-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/02/pytorch3D-1.png?fit=2472%2C1314&strip=all",
-          "width": 2472,
-          "height": 1314,
-          "title": "Facebook launches 3D deep learning library for PyTorch",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
       ]
     }
   ],

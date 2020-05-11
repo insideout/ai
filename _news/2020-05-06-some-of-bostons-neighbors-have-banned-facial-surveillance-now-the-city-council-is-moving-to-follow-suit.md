@@ -8,7 +8,7 @@ ampWebUrl: "https://www.boston.com/news/politics/2020/05/06/boston-face-surveill
 cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2020/05/06/boston-face-surveillance/amp"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -26,19 +26,17 @@ images:
     title: "Some of Boston’s neighbors have banned facial surveillance. Now, the city council is moving to follow suit."
 
 related:
-  - title: "Will facial recognition be the next tech used to combat COVID-19?"
-    excerpt: "Facial recognition technology and scanning systems are being developed and introduced by some hospitals to aid COVID-19 response efforts, according to STAT. Tampa (Fla.) General Hospital recently implemented an artificial intelligence-powered system that uses thermal-scanning face cameras to search for fevers,"
-    publishedDateTime: 2020-05-06T20:13:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/will-facial-recognition-be-the-next-tech-used-to-combat-covid-19.html"
+  - title: "Boston councilors mull facial recognition ban: ‘The benefits of that technology . . . don’t outweigh the risk’"
+    excerpt: "Citing civil liberty and racial inequity concerns, Boston city councilors Wednesday discussed barring the city from using facial recognition technology."
+    publishedDateTime: 2020-05-06T21:38:00Z
+    webUrl: "https://www.bostonglobe.com/2020/05/06/metro/boston-councilors-mull-facial-recognition-ban-benefits-that-technology-dont-outweigh-risk/"
+    ampWebUrl: "https://www.bostonglobe.com/2020/05/06/metro/boston-councilors-mull-facial-recognition-ban-benefits-that-technology-dont-outweigh-risk/?outputType=amp"
+    cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/05/06/metro/boston-councilors-mull-facial-recognition-ban-benefits-that-technology-dont-outweigh-risk/?outputType=amp"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 39
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/3.jpg"
-        width: 400
-        height: 300
+      name: The Boston Globe
+      domain: bostonglobe.com
+    quality: 19
 
 secured: "c9yJvsFOwdqxfsIxUfgJt8K64w/azKy/9dfhPhoWRUQiDdlp8V6eX0RbOQsiNVMf9A4jJSFfM8ABwFaYdaE4A5ZzHKdH/HskaC34S5qALhTg+yQRyEylJSNTTFV88bLfDupS95zdntBIBVdZavSFxJJb0fw8r+/27j8jitCpXVGO0aj0Be8YvF6RCD0j+81e5XA5btbxf9JhBn9/zmpT4coRc6gpSs8Y+anrZRumWHfh9OkXhKUasYtTNyR/vAxPQIU+ZjzyLx7WlVM1CnZSTl52BV3wIeiZPUeOqX4UBJkVhWBxqiXyWp2SJuWJvL7EFLauIKU/OKSbp5uO020KaQgrQWY0JZ3xGBTojmGHX0FLgrEZDqVkjOetbuno97/WS/e2GroJwkNKOJLz0//43VFngLjglf8QnIdrineQGEANgj/Lg/ZFFlZ1KWxMKzBVJSZhRfbPlIEPJFxHqlkDopxzOLQMq0k5+Ei+11yCUgI=;KjjNKFqmpHZ0myKGc32crA=="
 ---
