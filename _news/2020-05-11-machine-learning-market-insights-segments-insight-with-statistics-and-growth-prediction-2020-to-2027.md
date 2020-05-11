@@ -5,8 +5,8 @@ excerpt: "According to the Acumen Research, The global Machine Learning Market i
 publishedDateTime: 2020-05-11T13:04:00Z
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-insights-segments-insight-with-statistics-and-growth-prediction-2020-to-2027-2020-05-11"
 type: article
-quality: 39
-heat: 39
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Machine Learning
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

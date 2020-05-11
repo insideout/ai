@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-05-11-intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning.md",
-      "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
-      "excerpt": "Intel and Penn Medicine will collaborate to develop a brain tumor-detecting AI using a technique called federated learning.",
-      "heat": 89,
+      "path": "_news/2020-05-11-this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy.md",
+      "title": "This AI is learning to spot brain tumors – without infringing privacy",
+      "excerpt": "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use",
+      "heat": 159,
       "tags": null,
       "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/",
-      "publishedDateTime": "2020-05-11T06:05:00-07:00",
+      "webUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/",
+      "ampWebUrl": "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/",
+      "publishedDateTime": "2020-05-11T08:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "SlashGear",
+        "domain": "slashgear.com",
         "images": [
           {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://insideout.app/ai/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -30,10 +30,10 @@
       },
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning",
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg",
+          "width": 1280,
+          "height": 800,
+          "title": "This AI is learning to spot brain tumors – without infringing privacy",
           "attribution": null
         }
       ],

@@ -8,8 +8,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/intel-upenn-partner-with-29
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/intel-upenn-partner-with-29-health-organizations-to-train-ai-to-spot-brain-tumors/"
 type: article
 quality: 81
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -29,6 +29,60 @@ images:
     title: "Intel, UPenn partner with 29 health organizations to train AI to spot brain tumors"
 
 related:
+  - title: "This AI is learning to spot brain tumors – without infringing privacy"
+    excerpt: "Intel and Penn Medicine are working on a huge, institution-spanning AI that will help identify brain tumors but without overstepping on strict medical privacy rules. The cross-location AI will use"
+    publishedDateTime: 2020-05-11T15:36:00Z
+    webUrl: "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/"
+    ampWebUrl: "https://www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-ai-is-learning-to-spot-brain-tumors-without-infringing-privacy-11620011/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/05/digital-brain.jpg"
+        width: 1280
+        height: 800
+  - title: "Intel partners with Penn Medicine to develop brain tumor classifier with federated learning"
+    excerpt: "Intel and Penn Medicine will collaborate to develop a brain tumor-detecting AI using a technique called federated learning."
+    publishedDateTime: 2020-05-11T13:05:00Z
+    webUrl: "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/11/intel-partners-with-penn-medicine-to-develop-brain-tumor-classifier-with-federated-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2016/07/healthcare-security-e1588830355309.jpg?fit=1200%2C600&strip=all"
+        width: 1200
+        height: 600
+  - title: "Intel and UPenn are using AI to find brain tumors"
+    excerpt: "Intel and the University of Pennsylvania will work with 29 medical centers to train AI models for identifying brain tumors while preserving patient privacy."
+    publishedDateTime: 2020-05-11T13:33:00Z
+    webUrl: "https://www.digitaltrends.com/news/intel-upenn-ai-brain-tumors/"
+    ampWebUrl: "https://www.digitaltrends.com/news/intel-upenn-ai-brain-tumors/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/intel-upenn-ai-brain-tumors/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 67
+  - title: "Two Ground-breaking PhD Offers In Physics (Machine Learning At The LHC)"
+    excerpt: "Machine Learning for HEP In addition to all of that, if you are interested in machine learning applied to physics, there I am. I have been a pioneer in these techniques for data analysis in CDF and CMS, and I am still actively working on a few lines of research which might inspire an outstanding Ph.D. thesis. Let me mention two things I have ..."
+    publishedDateTime: 2020-05-11T12:27:00Z
+    webUrl: "https://www.science20.com/tommaso_dorigo/two_groundbreaking_phd_offers_in_physics_machine_learning_at_the_lhc-247832"
+    type: article
+    provider:
+      name: Science 2.0
+      domain: science20.com
+    quality: 39
+    images:
+      - url: "https://www.science20.com/files/images/science_corporate_conspiracy_300.jpg"
+        width: 300
+        height: 261
   - title: "Intel sets its AI onto brain tumours"
     excerpt: "AI uses federated learning Intel Labs and the Perelman School of Medicine at the University of Pennsylvania (Penn Medicine) are setting up a federation with 29 international healthcare and research institutions to train artificial intelligence (AI) models that identify brain tumours using a"
     publishedDateTime: 2020-05-11T09:11:00Z
@@ -42,7 +96,33 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/f21bed06690d5fc91294f0ab3c600bf2_L.jpg"
         width: 620
         height: 465
+  - title: "UPenn, Intel partner to use federated learning AI for early brain tumor detection"
+    excerpt: "The project will bring in 29 institutions from North America, Europe and India and will use privacy-preserved data to train AI models. Federated learning has been described as being born at the intersection of AI,"
+    publishedDateTime: 2020-05-11T14:13:00Z
+    webUrl: "https://medcitynews.com/2020/05/upenn-intel-partner-to-use-federated-learning-ai-for-early-brain-tumor-detection/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 34
+    images:
+      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
+        width: 788
+        height: 443
+  - title: "US startup is testing drones in India to enforce social distancing"
+    excerpt: "Police are using surveillance drones to enforce social distancing rules worldwide during the covid-19 pandemic, raising concerns about privacy violations"
+    publishedDateTime: 2020-05-11T11:26:00Z
+    webUrl: "https://www.newscientist.com/article/2243058-us-startup-is-testing-drones-in-india-to-enforce-social-distancing/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 22
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/05/11120221/pa-53544215_web.jpg"
+        width: 1200
+        height: 800
 
-secured: "4PaBWbhSUHkgfx0UCr5nj+zZap2Ak/SVluU3V0Ih4OULoy7Sub+SwzMI1uH6U1SkD+j2KUuzop4Dw9DbGuIdSxs7JKzynP1aI6g7fusFle2DWj/YoeULQq5hpmYjBZmdWYLgiSrHVCYw+DJBiuMulzZvMj2xSnx72gE33KJNiVOsidZKKSihBYeEtK7JjNTHQaOwRo08FtmOiCIL9SH4p/4J5zRe31STJnTtPyVeGtPCKxMaAMoO0IERN4Bqf5psb0iSdia5FceezL8f0T5aikaHJAIjt88488Aw8Y530SFItNcU6L5neuwWJUAE+ET2;NB3h1n+CEVvQtxEl/9MQSA=="
+secured: "tAxsNWksTYuyXPjx8GoUuQ+r4NnTABGhhiCMegMP8sDjXjX/xFsrXSuvDJ5YSmbB6ut/Xz4t5s2YpW0UXX0Uvj6iKPsx6BTKgqckN92rPvdlGMYHKVjo7a1ZNGdg7L+MfGMnB/PdW7kSLLonFzHUlPYdd8yZX9NZvYoWipp88f8rJJyQ4L95QqyihLDldjxCyLU1Rz9tUrEJBCMkrC21yNFznLkCYCDx2XWyjPQNn513Y29dcsCe/YU19GNLmQuBULx7WiZGzSB7ijeiy6fXfM527Hb7v3w9DmE/V+NEuTFZ1gEXngGEa0l4Z7EADYtXxwp/I7eenhknEz55SpJe71SoIIIxvsUWhG9RCoeQ1yW9GsSKYRnU5i6q4CVrCfpygegQwQdFIMFTJw1mhaIeionpuOiSVZFNOYijZMEU1yFBvwHTbEKCJcFTOma5kzzdNS+CDXWwDMmrsK3OaCHe0vJugZIPH7mcsogIKHxUNB8=;zT1es7BLKtYZYg9G+Mb0qw=="
 ---
 

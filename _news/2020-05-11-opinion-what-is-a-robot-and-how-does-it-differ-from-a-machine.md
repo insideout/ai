@@ -23,6 +23,6 @@ images:
     height: 1500
     title: "Opinion: What is a robot? And how does it differ from a machine?"
 
-secured: "Gq5y37txMyG+NnOhOldXl9mrTa/mD9oOOd+Nq6bd99JY+hGNw+nDhSLv09h+3F5WmM9Mzz6wDLX1OWc0Yly9LXo8Lhg0MVnh8k5Pza/Z1+iJuQe44v0GdzZPcnKy0d8J9O0DkmS/W+vsMU7KYBVpdxDkhLPvxfZO5wSS0P0b6XvOHCs664gcp/UXstF32/pbJWefSJ5xTpysyrer0o4uk20XbYfbhQrZiYJxA3pJi9nbt73RHxlDj1LlW4zSyHr+CnE3WJ2rj/92id+bxlvGcTIo5xXtZB4XRrwhqoQVPsES45rCfZzI/aYdVqCCgCEH;HwMkaGq69zgRkVl1qzpwcg=="
+secured: "Bv9dig+gpNmMsQTWRzoGCane7EMRxwhgCXoFvFeO5jixGlDwx36G/Q2NaMP6Hq0Ejvml6vQZlK6mfEWyaCeboieWqKvYmCA9kHoLIBJW8IcaU7B9JnVLShYobkqzYJ12mz7z8p7vWXC63XDwCVOWiON8HVs4gL828x6rDOpUF9HPEESeO0z3PgrRn1kgXt2shuWJ/VKggviBzIuuY95ijFlMqd2yvP0VzGwFxUFBT030/AGCQwjqxWs9ZWdHPAYD9R+OYq5GFmwoIgVDMCJfy1n8kRI8EnziPVxNeGNcCYFMAD7guQO/JNrax2XqawTiQ+lQJrQYS3nZaMJuM7jdUv5B04vhNr0Yf7SdcJUfWhNFu3IaKCKTJt0DeePPxI/onsbVuMfPW4aR/qVpVPKiWl+V+Ja1BHSxQmqhTTMA8rShcWShkRDDxwWgVu/0GZYqgz8xExY+gmvdIx/9xRnfKv5h2bzrUdY8twL0emBIq84=;Tg/kD6oSOe1R3hpcWJUopQ=="
 ---
 
