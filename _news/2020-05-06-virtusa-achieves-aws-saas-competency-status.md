@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Virtusa Achieves AWS SaaS Competency Status"
-excerpt: "Achieving the AWS SaaS Competency differentiates Virtusa as an AWS Partner Network (APN) member that possesses deep domain expertise in the Builders categories of the new AWS SaaS Competency. APN Consulting Partners in the Builders category have deep expertise in building cloud-native SaaS applications via software development."
-publishedDateTime: 2020-05-06T13:11:00Z
-webUrl: "https://markets.businessinsider.com/news/stocks/virtusa-achieves-aws-saas-competency-status-1029170762"
+excerpt: "Virtusa Corporation (NASDAQ GS:VRTU), a global provider of digital strategy, digital engineering, and IT services and solutions that help clients change and disrupt markets through innovation engineering,"
+publishedDateTime: 2020-05-06T13:00:00Z
+webUrl: "https://www.marketwatch.com/press-release/virtusa-achieves-aws-saas-competency-status-2020-05-06-9197013"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -18,6 +18,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "rONpP8oKKpMtcfXpqsr+Yvm88KOIhBZa/rGS+bD1o20AqUB+jdao2V3YdYkl6ama+CzoJbjSI9lGV9LXEB+WFlriq25IQBp7mlxXyV/zI5VzYzqF2rYuBqy6ScaUGz1xXFa9zzjma2sRdVfjH8hGKXRlptCcIuy9HB5GmeaUL970tPhj+CY1VVFL6qZd6PV97Dv/imH7XYz0XuEBun7ycQrEktdP9muAFzN7kzkzCFe3FvZSZ3EbJxNemOLlQU7sSvs5DvFOw3Myfiq2vD51m67jsI9IlZwRsAfENeHKtPMcEHOPylmNYdjLKpXSG4r2;Qg7sT0fPbaj87T5/03EeOA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    title: "Virtusa Achieves AWS SaaS Competency Status"
+
+secured: "FAUZtI78MgDNGsMGll2oZBPB5YjzlEKixrc42w4+tGUtOX1W93bwIIQ7wZon8Z3PAYKduu2WZLSywwk7cNwpcC5yabq1lktIT8HOjC+ZeJURjZRP2bA9CxeiQsAGyfseEJn8uqY3DXY6/JzB6UWp8OYdLCYqX+CKnWM38Juf0Y+WDprqtPsySf5X1CMv+AUuPr90gruT2Ezs+pIssLu/Als5TtIgrpcuxF9kXXgIwRG7EJpnoP/vBKCBUwM6/G6kitoJ/dD0RMnFPANVshgsTW2SdSfXP56Fs5Z6eamFmV6c2+Fy3JXGOdaG1yR7wGfg;RTg433oXd722gewxwF+9RA=="
 ---
 

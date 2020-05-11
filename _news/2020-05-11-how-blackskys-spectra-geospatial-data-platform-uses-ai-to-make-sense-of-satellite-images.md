@@ -28,6 +28,6 @@ images:
     height: 442
     title: "How BlackSky’s Spectra geospatial data platform uses AI to make sense of satellite images"
 
-secured: "4UsHDJVSEPw3tDugFgeykLL2kgZBVuFmvZenbTyUaAFRnZNtykr3n2syEGKnIz9OzgWoGM2oNd+BCoVwL+PJX3c46uJDr0O/ySP9Ki0q+fd3cTwxkq3JO0hPNyoLsFzEhp879PDf4KCHXaLdSpbVaj8Z5Rb3b06/TByPzkAbYVCT2Lnqq8Wyt0K6/bUfRr2FlGopET6OxoEOOJ4LwTfmAVrMMGmxKKbzd3L5b/mcghIxAwZ/k+o4QZZPRHgiQi8LKI1Vd6pVswc5sgxijgR15XbRyc7N970zKJcIWv4VDxf8RHkkDadh7LTe/yYDHB7r;ahdQJOmflxg8iUR+QvpmPw=="
+secured: "kEkvICWiGCuxU9AIWtNcUWUVPq//pplo+VpWtVEuRdZ37l7NuTNquTl1YDX0iWLuCYIvxiYiAjI+uD+ozKvqTLmmBye4GZNu1PcCm4Gl3/2lYWsivflUeEeZKW7DGq5d1KQmvKEL7Jd2d6kNV/VrJOEUtlO1Lf70UjBOe8HJGp6+crBHTWK19aby5Rbf4SPiYsv1RDpdrd+lAzHJS/NXEMaEfPsseo6WdbR1C54aeAfvMK5SlvdQYF4hWAU8oU3Pl3q294AhZ8SrAQljX7K/Jgyr+H2C/Q9EITGjlVfe8cKZEC/i1cBoQagTw9G+/PRFIvuzv7RtlJXB/RVRpAFp8Wf9TRBueZC6qOXkhmCUH8kwJTHQYtXEXNT4mtA5uezzgX4GY3qhymIDKr/HFlRnR8Wjuih69u+6F+gqqX9FpnS9QtGMT/fQW8yugHqF7vwIelgFbMnnbFkeBRzr+UMK/dxnArBnfNlqpqTKDLiiPHg=;HeIYv64brwStPeqDTavZSQ=="
 ---
 

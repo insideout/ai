@@ -25,6 +25,6 @@ images:
     height: 400
     title: "Non-profit fuels S.F. restaurants with over $1 million of business and self-driving delivery"
 
-secured: "vyppZU//rCzlL2nnJtEf+QA/0nIzYBgiJyL8O5b9guX1zJcyW8RdiRqXda7vX8KweIMK+g0eWy5EzhULLeGchExtsBjexpEGvDim6Wdy8jln7TzpFJYJGk42FgBuy8aKifwRbhNwM25aZyGy6bhEPilHian+Ja+5n9C74OV5YjR1wEzESXX44h3GASxl8NAlFrIEMsi16LCj9V45Hd4yNNv//GIizI8BWkS85T6w1GdcvJ6nCk5IP8Qj03Bw3YYkaVUc3C1f71UwsC4D+EUhU3loAxxFrdd0XjusEgQ3gUGey5TMIfLEfzGU9/4GoZG0;Klep/DqBjg7A7JBRDzWi1g=="
+secured: "s1jtSrdZ7BHlhO6chXeHLhKX60fTw7kUCsE/3YA610W3ode8r/VrZZ1upLQZmxr8tzdGLn2vnsVcj4H1px7w3P2vSRU5g994FcMrNEyPsiFwT/XNv195HggB/pq09fF/f+VjHPPmTmQx/R5ly8JiE5h7SzLDFOh6vQFy6jafrAgYpzcVLq+4sLB2XZC7wi7AIm1Fc8bSW9mvgXCWPENGRu/8+rFITC1+ktHAqPTe9aAS4PQuzh5yf+3GFHB8wSJ3ELIWV+7f2ScRk6eheFP8f7KCwLM2efG7vi1aib0/tIl5dWGL2e8kAC9DzlVkgkYZF9BVAPYtR1K14ZHkblavVPdbb0gh4vnXxaF29+56wnFB8jRUfYMN+mwO3iuB73UsSk7YP9Yjt4yGoY9wRwNI620oYKjoUTErye+rOTvip9FxxXyYQbAQF9o+nAXKJhQMpo5+UQcjccJ+r4S3ljXjV+GMlPNjf9d0978rRT75ZrA=;701mUFpqIlxjBSsAtGxOzQ=="
 ---
 

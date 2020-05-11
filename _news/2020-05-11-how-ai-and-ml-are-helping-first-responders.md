@@ -8,7 +8,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-f
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-ai-and-ml-are-helping-first-responders/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 468
     title: "How AI and ML are helping first responders"
 
-secured: "RAfYxZyIJqgbdC6yaHuvaWNiITELwCdf1pEvPcoyM+FbFgPO8xGiiPYNwp4TLXWAE+0wrxUbAQUk+auCc7DafktX6a1kuWHhLqMmXPUt+pyqBl/I+BurFi4IUhjoYYSh0vnDztBAT10FNIqdq9zEcUmCjZt96PjPuC7l1DG/N7Ydjqb3ftVwjTKeu3a5l0LqxX1lJrVRoRDAelfAhY0ag5qtJ35F5VWMnT24gHDZqeKWUoO5yhnxOV6it2cOostpQOIWiHCsK7fDpjbF+jYiAgcRDVp1TtOevBeT6l7nzzyAXlZZcNEuwSqDGtvwE1tM6iDSwdENdJHW0UKXyFUZgOuBy01PI/gPRjsur2NhTOAnzVdN36LVaKOORB829+BOkslfIbKhhH0ogLYHaqN+3mEy3JnHyJYaQBtPw2Y/rh8eGxG8XNf/OLqxBYi1zhgKTxAxjTPR9c+vfhy2c3PHLiN8Wyw7xqREm1pHoCQXwZs=;4EldXN+I5GCdrMc3P9dwJw=="
+secured: "f8q41UIZm3Iu8eMN43t89C53t9ZKtodC0OiK+gs5PhMyXg8+yh7COewrhDvGsbYLQ2nbEV5BeoeOIQzOmzMvJL1joK4/kch3jm/qLkmOdrqg+TMrHcEYOJKu+pUN7yazO851suJ698GAaWxmcG5WYPQYcs5IY5RERE1OuJnCTRZXEdkcUdyX7xTZXlg/WHAz003cf0ccKLa1X+BpPgmpt/iOHUDs85GDtF2bc42ncBv8NECI9fFCpD5hpY7X2Q7tEWBbNTs17hZzst53IrtPeHhjhhUHa0KEyWiEYa6912mGUx/6OQNDd1Ih28C+klcj2ThoBMeXpcz/fRHN2cFyw9W3ObSjaBLTAT7Zw8Jj3vB0axRv72LvuavMyEydi+DgN4sXHywSgvbuP31lAUV5G8liTx9xw5Kzz2dh4Jsu8bH6odoVrQcPUBA/mbz7h8nGrAbAXas+ce0b71ID8rVhKnIzhF+kDrcGQjaCwEndGjw=;WEgMC87U1QmmmiKROr6CBA=="
 ---
 

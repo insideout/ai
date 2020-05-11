@@ -39,6 +39,19 @@ related:
       - url: "https://media.bizj.us/view/img/11660263/dyno-ceo-eric-kelsic*600xx2201-1467-0-367.jpg"
         width: 600
         height: 399
+  - title: "Dyno spins out of Harvard's laboratories with an aim to make gene therapy better"
+    excerpt: "The startup announced collaborations with Novartis and Sarepta, both leading gene therapy makers, that could be worth $2 billion in total."
+    publishedDateTime: 2020-05-11T16:30:00Z
+    webUrl: "https://www.biopharmadive.com/news/harvard-gene-therapy-dyno-sarepta-novartis/577675/"
+    type: article
+    provider:
+      name: BioPharma Dive
+      domain: biopharmadive.com
+    quality: 49
+    images:
+      - url: "https://www.biopharmadive.com/user_media/cache/60/11/6011147973e6d6690c235b55cfd22dac.jpg"
+        width: 770
+        height: 364
   - title: "Novartis, Sarepta tap Dyno to unearth new gene therapy vectors"
     excerpt: "Although gene therapy has opened a new realm of possibilities, its delivery vehicles have held it back. Dyno Therapeutics is on a mission to change that—and it’s coming out of stealth with artificial-intelligence-powered technology and partnerships with Novartis and Sarepta Therapeutics that could net it up to $2 billion."
     publishedDateTime: 2020-05-11T11:00:00Z

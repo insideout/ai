@@ -20,6 +20,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "BiQHF4rmw/bKSAfbBQr6j2MVQUtuj42RLshyMrgiBrBePwEAT/1FmtTnJ9V3+WcAtJmjD0A32pNJJ6Fal+ruoUnm1knL4wG//6vmauqvP0I3peVgDZ6KSmYno0UAvB7p3RLnnM/FPyEgHflp/HAZun3p/7uj5wAPJZIcZb756pNQRnpS6O/TH28wTOeoVf4QW9/koJs2f4LxQ3Rgfpoa7M9RIscdtXVKHEahIsAhzsFpigJfwgY4LbLk6WfpPERw/2Rz+OeCmKSrOlKWJ4MYUe23i+ZoPmGosPuz/F0esLh0c0Lq3PWd0Itn/LTIHaMZ;xnESjT6VzHw1LUv4KsdjjQ=="
+secured: "MRTUkTjQQ/QFrg+FTVWlYAaExojCrVN51HUXG+uk0t2vM/WPKeShE6/TTPBrzyA/hzC9Cf0tNl2y8G3xxDMCX95AuCiZkfgWvH+kofTh7b6eKet9jzvZb9pF9eZRx+DTxvBUmzkU4Nd7hIa9DcQkQKNXYv8bxONW17puqSZH0OVBvgCyWWayyWGsvVZxDISsUzJFnjumk7rwU80pJaR0G7iIiViYHu3LpCPBr3HtdKHlrP/Obm4DofzAmsKAyYd984X2Z7i4Fucf/PwQpEOdZK/OmoOblOnqdmY9e//vgzEVVt8y6tjGaCujMk1TOrWY;OVbzfw+cxZl74X+v//wfPg=="
 ---
 

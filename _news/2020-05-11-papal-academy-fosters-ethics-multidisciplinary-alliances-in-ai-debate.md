@@ -7,8 +7,8 @@ webUrl: "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multi
 ampWebUrl: "https://angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/"
 cdnAmpWebUrl: "https://angelusnews-com.cdn.ampproject.org/c/s/angelusnews.com/news/vatican/papal-academy-fosters-ethics-multidisciplinary-alliances-in-ai-debate/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://angelusnews.com/wp-content/uploads/2020/05/20200511T1049-681-CNS-VATICAN-AI-NATURE-e1589211174823.jpg"
@@ -25,6 +26,6 @@ images:
     height: 906
     title: "Papal academy fosters ethics, multidisciplinary alliances in AI debate"
 
-secured: "QVnuJwBSYG83HpvXbYNl03woQdWHk1Qgta5/DD67P/r236egYzdPArR7cbYFxJVF6YGkm9Izvt9siTRYE6F9YidvzEVmrppo7sL5YeuWzIFKULQgQR11/sBxIhHKQdLVuj6yEIvmB5IXzbx17n6P/RvViRzFa/RRL0VrrS0YFMfEwXRatOPLLb43w6eBcNzx0SWT1aRTOHSwnfOqkGblA02B6F1IBm58E+Zvw6GC83B7XwV88L9Y8BEXuS6VYUGI2ByyJvE5gPmezb+iavvmuuzCb2V0dR9r+YsHHoaYY82X7H8hwJ3qdRC6g7aokVOQ;UTtX0H98SxPW9whXYxTczg=="
+secured: "95U4wPM4qST0K57gSCDPUEsCNYoIFITIhog/SKYZoZlV3CO1hoPtQY5QQNHSgS57fdu39ZhrWMfTaOeMUbO19lMMV1LXFUnwIn73Ry5poTax9PCXYWgFiEOUypF5ehr2MsmedtwJHNFkvasS0kZPUDHaI6/5CqY+dEZQCv15d2QCDWh7Gw8wleOlq3+aBJNu5uj9rYkj9nldhb0c76JGbeIx/SXuOh7EVlkIu6iC+bUFvU0+dclz8Aab6pNNeT4gBaajzpngK7+vARzfRLie6RXe2gUtw3xnUf0q3VzLv7U1v02UN/7539UbGeybKwfDj2Trsc28rSgvbfwmIpUzj3X5d61G0gRXiqktfGuVwz4iTN454G/QJsROxY6MXYREFCPIGlgxblS4b8iyERctWIFscb3wOXG+WziD3XBFPZzO5iTj5pbq/jK1y2eCocLgFAzZh7YPhL9m5tpizfu+aZvVto8PQ9TTi7bEA3m2CNM=;vph+EtwuorVjDi+qmdjdlg=="
 ---
 

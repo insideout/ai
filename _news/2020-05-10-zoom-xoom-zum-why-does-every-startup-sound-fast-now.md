@@ -41,6 +41,19 @@ related:
       - url: "https://static01.nyt.com/images/2020/05/07/business/07Zoom-illo/07Zoom-illo-facebookJumbo.jpg"
         width: 1050
         height: 550
+  - title: "Zoom, Xoom, Züm: Why does every startup sound fast now?"
+    excerpt: "There have been at least 120 startups whose names include something that sounds like “zoom.” Another fact: They have raised a collective $1.8 billion in funding."
+    publishedDateTime: 2020-05-11T16:52:00Z
+    webUrl: "https://www.bizjournals.com/louisville/news/2020/05/11/zoom-xoom-z-m-why-does-every-startup-sound-fast.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 24
+    images:
+      - url: "https://media.bizj.us/view/img/11660440/zoom-soundalikes-0*400xx2400-2400-0-0.jpg"
+        width: 400
+        height: 400
 
 secured: "tbdBe36CAcaAoxHL5DNQyaHtBaoKSha3m/5xlv0UuI12nmeGeWCYoqJR/cpnmfOZKGX87y5WZDBmcF0/KKAC4xPVa1aBZvr4xqw08t47Eu9AaJ/xdTxWG14anzJ5RyEl1UWNFUVWV06+mFC6lf7lmGzKEWwPvVYje+jgYPd25nhpu47oPZDGz30xIGWBFLJchTM9fsALDjWT58iGvP5okzfEZhoX+AaHarlIzwqed+cUnY4vK0xudUjbAX3/cVJzXkfrYV5Ny0kZzPYFLu6cHnxn/5Zj4QNw5MJcuJxBaiZM5faqfuKB+Bp/cPygd3+4w2mHNTmQIydtmKooD8kluAqQKU9Qhc5bvpAbQVc1TkEukHh/rBlntJdseIsqfBeW9vhK+MmzYC8HDzxDE3A3bjidHWjoBqvLqrGsKA+EJFi7jzJctCjXMVUwPfztq4FFI8hTCek3oWkdVjlK/KGrtzctNeUmRMacBReqkmv48uQ=;E0vS2PB7iKqq+hlzvG5FNg=="
 ---
