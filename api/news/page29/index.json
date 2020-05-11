@@ -2,6 +2,51 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-04-15-covid-19-crisis-illustrates-need-for-solid-aiml-strategy.md",
+      "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+      "excerpt": "AAs recently as 6 months ago, AI spending was projected to exceed $50B worldwide by 2021. A few months later the Coronavirus crisis struck across the world and may have created a whole new reason for organizing and employing AI/ML.",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesinsights/2020/04/15/covid-19-crisis-illustrates-need-for-solid-aiml-strategy/amp/",
+      "publishedDateTime": "2020-04-15T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fblogs-images.forbes.com%2Fforbesinsights%2Ffiles%2F2020%2F04%2FAdobeStock_210908431-640.jpg",
+          "width": 640,
+          "height": 316,
+          "title": "Covid-19 Crisis Illustrates Need for Solid AI/ML Strategy",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-15-splice-machine-launches-industrials-division-and-middle-east-operations.md",
       "title": "Splice Machine Launches Industrials Division and Middle East Operations",
       "excerpt": "Splice Machine, the leading scale-out SQL database with native machine learning, has today announced that it has launched a new",
@@ -1032,43 +1077,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-15-onepacs-provides-its-teleradiology-pacsrisvoice-platform-to-california-covid-specialty-hospital.md",
-      "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
-      "excerpt": "PALO ALTO, Calif., April 15, 2020 /PRNewswire/ -- In response to the COVID-19 pandemic, OnePacs is providing its PACS/RIS-reporting platform, with voice recognition, to the California State Department",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/onepacs-provides-its-teleradiology-pacs-ris-voice-platform-to-california-covid-specialty-hospital/article_8d979ba3-96bf-5f3d-b470-36603f52a9e5.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-15T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "OnePacs Provides Its Teleradiology PACS/RIS/Voice Platform to California COVID Specialty Hospital",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,43 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-03-26-nobleai-contributes-to-tensorflow-googles-open-source-ai-library-and-the-most-popular-deep-learning-framework.md",
+      "title": "Noble.AI Contributes to TensorFlow, Google's Open-Source AI Library and the Most Popular Deep Learning Framework",
+      "excerpt": "TensorFlow is an end-to-end open source platform for machine learning originally developed by the Google Brain team. Today it is used by more than 60,000 GitHub developers and has achieved more ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/noble-ai-contributes-to-tensorflow-google-s-open-source-ai-library-and-the-most-popular-deep-learning-framework-1029036942",
+      "publishedDateTime": "2020-03-26T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-26-insights-on-the-worldwide-cognitive-computing-market-to-2025-featuring-google-microsoft-ibm-sas-among-others-researchandmarketscom.md",
       "title": "Insights on the Worldwide Cognitive Computing Market to 2025 - Featuring Google, Microsoft, IBM & SAS Among Others - ResearchAndMarkets.com",
       "excerpt": "The key players in the cognitive computing market are Microsoft, IBM, SAS, Google, AWS, TCS, Cisco, and Virtusa. These companies are continuously innovating their products and services to overcome ...",
@@ -1165,35 +1202,6 @@
           "attribution": null
         }
       ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-25-introducing-finis-lanevision-the-worlds-first-ai-computer-vision-swim-training-technology.md",
-      "title": "Introducing FINIS LaneVision: The World’s First AI & Computer Vision Swim Training Technology",
-      "excerpt": "The Aspiricx team is a unique blend of people with a passion for technology (AI, computer vision, data science, etc.) and for swimming. Natalie Coughlin, a 12-time Olympic medalist and 20-time World Championship medalist, holds the title of chief aspirer; her role is to bridge the gap between the two worlds and introduce all swimmers to ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.athleticbusiness.com/industry-press-room/introducing-finis-lanevision-the-world-s-first-ai-computer-vision-swim-training-technology.html?_escaped_fragment_=/ccomment",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-25T11:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Athletic Business",
-        "domain": "athleticbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

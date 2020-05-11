@@ -2,6 +2,36 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-03-19-domo-announces-support-for-amazon-sagemaker-autopilot.md",
+      "title": "Domo Announces Support for Amazon SageMaker Autopilot",
+      "excerpt": "Amazon SageMaker Autopilot is an Amazon Web Services (AWS) solution that automatically trains and tunes ML models based on data provided by a customer. Companies can now use their data in Domo as ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/03/g15611470/domo-announces-support-for-amazon-sagemaker-autopilot",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/15611470",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/15611470",
+      "publishedDateTime": "2020-03-19T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-03-19-developing-applications-for-an-ai-enabled-world.md",
       "title": "Developing Applications for an AI-Enabled World",
       "excerpt": "Discover how modern organizations are transforming machine and deep learning investments into big business returns. Smarter applications that are capable of recommending products, predicting pricing, recognizing images, and improving decision making are ...",
@@ -1155,43 +1185,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-19-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-3-million-in-seed-funding.md",
-      "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
-      "excerpt": "UK-based Fintech Payhawk, a corporate expense management solution provider, secures €3 million in seed funding.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/03/159008-uk-based-fintech-payhawk-a-corporate-expense-management-solution-provider-secures-e3-million-in-seed-funding/amp/",
-      "publishedDateTime": "2020-03-19T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/Payhawk-300x228.jpg",
-          "width": 300,
-          "height": 228,
-          "title": "UK-based Fintech Payhawk, a Corporate Expense Management Solution Provider, Secures €3 Million in Seed Funding",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

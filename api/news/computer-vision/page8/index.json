@@ -2,6 +2,51 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-02-05-ceo-of-creepy-face-recognition-firm-clearview-ai-says-he-has-first-amendment-right-to-billions-of-photos.md",
+      "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+      "excerpt": "Clearview AI has licensed its face surveillance systems to over 600 law enforcement agencies ranging from the FBI and the Department of Homeland Security to local police departments. It operates with virtually next to no oversight, claims it’s exempt from biometric data laws, and marketed its tools to law enforcement as a sort of face ...",
+      "heat": 117,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190",
+      "ampWebUrl": "https://gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/ceo-of-creepy-face-recognition-firm-clearview-ai-says-h-1841461190/amp",
+      "publishedDateTime": "2020-02-04T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/s--51OlzhBf--/c_scale,f_auto,fl_progressive,q_80,w_800/v7g6u3pj00bddvrigfbb.png",
+          "width": 800,
+          "height": 450,
+          "title": "CEO of Creepy Face Recognition Firm Clearview AI Says He Has First Amendment Right to Billions of Photos",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2020-02-04-facial-recognition-system-market-positive-long-term-growth-outlook-2019-2027.md",
       "title": "Facial Recognition System Market Positive Long-term Growth Outlook 2019-2027",
       "excerpt": "Facial recognition system is a combination of hardware and software, which identifies and verifies a person by comparing and analyzing the facial patterns of a person using deep learning. Moreover, facial recognition system is mainly used in security purposes,",
@@ -1215,51 +1260,6 @@
           "width": 980,
           "height": 551,
           "title": "Dem senator presses facial recognition company after reports of law enforcement collaboration",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-01-23-forget-smart-fridges-the-smart-kitchen-needs-a-brain.md",
-      "title": "Forget smart fridges, the smart kitchen needs a brain",
-      "excerpt": "Progression like that might happen faster than you'd expect. LG recently announced a new AI chip focused on object recognition, and Amazon won a patent for a fridge that can sense spoiled food, but neither one has made it to market yet. There's a bit of the loop still left to close when it comes to recommending recipes with only the ...",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.cnet.com/news/what-the-smart-kitchen-still-needs/",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/what-the-smart-kitchen-still-needs/",
-      "publishedDateTime": "2020-01-23T05:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/Mb1T_A1nojotPmouMiXVy-XE-Uk=/756x567/2019/09/26/92d3bd4a-f29c-4f0b-b377-73cd69143b39/amazon-event-092519-0163.jpg",
-          "width": 756,
-          "height": 567,
-          "title": "Forget smart fridges, the smart kitchen needs a brain",
           "attribution": null
         }
       ],

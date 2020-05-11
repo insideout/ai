@@ -2,6 +2,51 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
+      "title": "IBM makes AI tools and resources available to coronavirus researchers",
+      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "publishedDateTime": "2020-04-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM makes AI tools and resources available to coronavirus researchers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
       "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
       "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
@@ -1197,43 +1242,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-emerging-from-ai-utopia.md",
-      "title": "Emerging from AI utopia",
-      "excerpt": "There has been a proliferation of AI ethics frameworks that provide guidance in identifying the ethical implications of new technologies and propose ways to develop and use these technologies for the better. The Australian Human Rights Commission's Human Rights and Technology Discussion Paper acknowledges an important role for ethics frameworks ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://science.sciencemag.org/content/368/6486/9",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science",
-        "domain": "sciencemag.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://science.sciencemag.org/content/368/6486/F1.medium.gif",
-          "width": 346,
-          "height": 440,
-          "title": "Emerging from AI utopia",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

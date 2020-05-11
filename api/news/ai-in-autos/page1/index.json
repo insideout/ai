@@ -47,51 +47,6 @@
       ]
     },
     {
-      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
-      "title": "Can robotaxis ease public transport fears in China?",
-      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52392366",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
-      "publishedDateTime": "2020-05-07T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Can robotaxis ease public transport fears in China?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-05-07-waymos-self-driving-vans-to-roll-again-after-covid-19-shutdownbut-no-robotaxi-rides.md",
       "title": "Waymo’s Self-Driving Vans To Roll Again After COVID-19 Shutdown–But No Robotaxi Rides",
       "excerpt": "A portion of the Alphabet Inc. company’s easy to spot Chrysler Pacifica minivans will be on the road again from May 11.",
@@ -396,8 +351,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
@@ -1307,6 +1261,51 @@
           "width": 1024,
           "height": 576,
           "title": "Tesla set to launch a Full Self-Driving subscription service this year",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
+      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
+      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
+      "heat": 101,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
+      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
+      "publishedDateTime": "2020-04-30T06:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
+          "width": 1000,
+          "height": 458,
+          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
           "attribution": null
         }
       ],

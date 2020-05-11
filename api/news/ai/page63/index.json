@@ -2,6 +2,51 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2020-03-11-ml-kit-or-tensorflow-which-is-best.md",
+      "title": "ML Kit or TensorFlow: Which is best?",
+      "excerpt": "This post is a follow-up on my article Build a Dog Camera using Flutter and Tensorflow. The Dog Camera app is similar to the regular Android camera app. But if there is a dog in view, its breed ...",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://medium.com/flutter-community/ml-kit-or-tensorflow-which-is-best-6c965e74366b",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-10T22:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medium",
+        "domain": "medium.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/medium.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://miro.medium.com/max/1200/0*HBmxP0S3pgoPI7Od",
+          "width": 1200,
+          "height": 800,
+          "title": "ML Kit or TensorFlow: Which is best?",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-03-11-indias-mphasis-wins-partnership-certification-on-amazon-web-services.md",
       "title": "India’s Mphasis wins partnership certification on Amazon Web Services",
       "excerpt": "Microsoft to help 1.5 billion students missing school Mphasis, which is also a member of the Blackstone Group of companies, provides an end-to-end cloud and cognitive portfolio of services that ...",
@@ -1170,43 +1215,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-10-training-robots-revolutionize-therapy.md",
-      "title": "Training robots revolutionize therapy",
-      "excerpt": "They developed the first prototype in 2007 at the Artificial Intelligence Laboratory at the University of Zurich ... The decisive factor is the training aspect, which was traditionally relegated to a relatively minor role in rehabilitation therapy. If you sit down on the Robotic Personal Trainer, you can expect to be challenged.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.designworldonline.com/training-robots-revolutionize-therapy/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-10T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design World Online",
-        "domain": "designworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.designworldonline.com/wp-content/uploads/EC45_flat_12W_450-837146ce.jpg",
-          "width": 800,
-          "height": 517,
-          "title": "Training robots revolutionize therapy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

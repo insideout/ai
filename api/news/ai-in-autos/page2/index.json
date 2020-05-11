@@ -2,51 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-04-30-tesla-confirms-self-driving-as-a-subscription-service-but-brace-yourself-for-the-price.md",
-      "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-      "excerpt": "Driving package (FSD) as a subscription service, but you should brace yourself for the price. We reported earlier this week that Tesla is working on a pay-as-you-go subscription for its self-driving package based on some code that leaked in Tesla’s in-app purchase system.",
-      "heat": 101,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/",
-      "ampWebUrl": "https://electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/04/30/tesla-self-driving-subscription-service-price/amp/",
-      "publishedDateTime": "2020-04-30T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2019/04/Tesla-self-driving.jpg?quality=82&strip=all&w=1000",
-          "width": 1000,
-          "height": 458,
-          "title": "Tesla confirms self-driving as a subscription service but brace yourself for the price",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-30-tesla-profits-says-full-self-driving-will-be-subscription-by-year-end.md",
       "title": "Tesla Profits, Says Full Self-Driving Will Be Subscription by Year-End",
       "excerpt": "CEO Elon Musk said the self-driving feature will roll out by the end of 2020, and he also complained that COVID-19 shelter-in-place rules infringe on rights.",
@@ -1261,6 +1216,43 @@
           "width": 1024,
           "height": 576,
           "title": "Baidu Accuses Former Executive of Corruption",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-22-auditoriaai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office.md",
+      "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
+      "excerpt": "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-22T06:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
           "attribution": null
         }
       ],

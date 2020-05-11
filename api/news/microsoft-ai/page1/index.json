@@ -47,6 +47,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.md",
+      "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+      "excerpt": "Deeply assimilating its Red Hat technology, IBM this week rolled out a set of new platforms and services designed to help customers manage edge-based application workloads and exploit artificial intelligence for infrastructure resiliency.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.html",
+      "ampWebUrl": "https://www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3542409/ibm-rolls-red-hat-into-edge-ai-hybrid-cloud-expansion.amp.html",
+      "publishedDateTime": "2020-05-06T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/03/cio_global_network_artificial_intelligence_virtual_connections_augmented_reality_virtual_reality_iot_by_metamorworks_gettyimages-875499980-100809082-orig-1-100834440-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "IBM rolls Red Hat into edge, AI, hybrid-cloud expansion",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-cloudera-machine-learning-mlops-suite-generally-available-as-it-aims-to-manage-models-analytics.md",
       "title": "Cloudera Machine Learning MLOps suite generally available as it aims to manage models, analytics",
       "excerpt": "Cloudera Data Platform has seen solid traction in recent quarters from Cloudera and the hope is that CML MLOps will ride shotgun.",
@@ -1207,51 +1244,6 @@
         "authors": null
       },
       "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
-      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
-      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
-      "heat": 104,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
-      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
-      "publishedDateTime": "2020-04-22T00:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
-          "attribution": null
-        }
-      ],
       "locale": "en-us",
       "categories": [
         "news"

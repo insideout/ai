@@ -2,6 +2,43 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-04-28-artificial-intelligence-in-the-indian-manufacturing-industry-2020-trends-insights-use-cases-case-studies-researchandmarketscom.md",
+      "title": "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Indian Manufacturing Industry 2020\" report has been added to ResearchAndMarkets.com's offering. Manufacturing companies in India have been digitizing their plants with advanced process controls,",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.businesswire.com/news/home/20200428005405/en/Artificial-Intelligence-Indian-Manufacturing-Industry-2020-Trends",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-28T02:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200428005405/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": "Artificial Intelligence in the Indian Manufacturing Industry, 2020: Trends, Insights, Use Cases, Case Studies - ResearchAndMarkets.com",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-28-new-york-yankees-radio-voice-john-sterling-honored-with-2020-governors-award-at-new-york-emmys.md",
       "title": "New York Yankees Radio Voice John Sterling Honored With 2020 Governor's Award At New York Emmys",
       "excerpt": "Longtime NEW YORK YANKEES radio play-by-play voice JOHN STERLING was honored with the Governor's Award at the 2020 NEW YORK EMMY AWARDS. STERLING was recognized for his 60-year career at the event, which was held as a \"virtual gala celebration\" due to the COVID-19 CORONAVIRUS pandemic.",
@@ -1023,53 +1060,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-launches-human-review-service-for-machine-learning-models.md",
-      "title": "AWS launches human review service for machine learning models",
-      "excerpt": "AWS has launched a service that improves machine learning model accuracy by continuously identifying and improving low confidence predictions. Amazon Augmented Artificial Intelligence (A2I), which is now generally available,",
-      "heat": 118,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/355444/aws-launches-augmented-ai-service?amp",
-      "publishedDateTime": "2020-04-27T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1587984726/itpro/HumanReview.jpg",
-          "width": 1000,
-          "height": 479,
-          "title": "AWS launches human review service for machine learning models",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

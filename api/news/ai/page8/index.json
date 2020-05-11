@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-05-01-how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty.md",
+      "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
+      "excerpt": "He sees the vision of how AI and machine learning can help us work better in the post-pandemic world. Gaurav Kataria, VP Product at BetterUp says, “One of the key skills that we are focusing on is learning agility and resilience.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/05/01/how-ai-can-help-companies-thrive-in-post-pandemic-uncertainty/amp/",
+      "publishedDateTime": "2020-05-01T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eac09d2af7fe60006a119f7%2F0x0.jpg%3FcropX1%3D467%26cropX2%3D9888%26cropY1%3D0%26cropY2%3D5304",
+          "width": 1200,
+          "height": 645,
+          "title": "How AI Can Help Companies Thrive In Post-Pandemic Uncertainty",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-how-as-a-service-models-can-improve-business-outcomes.md",
       "title": "How 'As-A-Service' Models Can Improve Business Outcomes",
       "excerpt": "For some, the transition to “as-a-service” means having a smarter business. To make this model work for you, it’s essential to have a sound strategy in place.",
@@ -1253,43 +1297,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-tesla-set-to-launch-a-full-self-driving-subscription-service-this-year.md",
-      "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-      "excerpt": "Tesla is set to roll out a subscription service for its Full Self-Driving suite later this year, Elon Musk said. During the company’s Q1 2020 Earnings Call, Musk and CFO Zachary Kirkhorn briefly confirmed the introduction of a subscription program for Full Self-Driving.",
-      "heat": 79,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/",
-      "ampWebUrl": "https://www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-full-self-driving-subscription-release-date/amp/",
-      "publishedDateTime": "2020-04-30T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://www.teslarati.com/wp-content/uploads/2019/04/tesla-fsd-demo-stop-sign-1-1024x576.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Tesla set to launch a Full Self-Driving subscription service this year",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -23,6 +23,6 @@ images:
     height: 520
     title: "Yendi : NTV’S CEO given special recognition at Gbewaa Palace"
 
-secured: "2BkE++cx72seky0hKjiVyuo8z8YWNPYCc1cC1cslDXTFj21FZk1S3n4ArMn2taNzs7xUjCIO381xd5CKOlorkESeUhSIYkKzyvav9YVcXe7mBwduHcWk/DYTZCJJifSHflaa7Yk2K84ZePRJpQ4cvNgdFwiVv36ooSL3WPE35/ToafvhzMF6pHpJe+KumlgZ8vtJ0oNGmD/JHz0PW7HPfEYERbPQ6HY7aN95wHv1HaQtOdnYK8fP1kxQbkH/xBoyloSl1z1WhhYKCGyYLjlY+OTb3Wvj9AzhIBXknqEaLPcX46MFBvmAx8xLowyjJE9t;oXhSEG+HADJfzs26lKK+GA=="
+secured: "eJVA+ySyaal7hkEGCShvhYKdLrhnZLc6xy5tYYdhWfeDeAntWzn4E3BRGZTXPhi4EuAxHD+oS/96GZPi/n2IIE2qJ5AK0biDSnYvf8gz+UmEYaYwnZUNmLN4W/B4hcGU3I154yszPPRPwtvrsxZQ9HXC5tHgFkq3TlIkIoJVS+lL4RrDlXQF+OE//NGvXGSpE0h7BUBDDKqlvdcwKq0qzAa/7yGxBqK93R1LTyMSBezgzq8gp1HyqSO5juZoQsIqUef/XcQ/vBe6GyQ7wy7krDQnIczlDVDP9AI9btgz16sCEWs613VFxVjNLYywUztWZWAIgjVrfmSZGA5f+uS1fCMDwWZ9Ur3Xvk28VlvFPXhfQjJouwCEnsZHABZyh0+XaB+/gpV71N87iTktuNf3o6cX0mZmxWGAcsGhJ4n0YHlkRu11CKh6gT+/1CVZrVxT2gaNZVnuVPwi0go11UuvYvqyfu6HzvP1uT0BI6aDMOQ=;/nglVTWIWtNtR4CxSyQEvg=="
 ---
 

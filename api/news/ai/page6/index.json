@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-05-04-covid-19-how-universities-made-the-pivot-to-e-learning.md",
+      "title": "COVID-19: How universities made the pivot to e-learning",
+      "excerpt": "One Rhode Island university has transitioned nearly seamlessly into remote learning. Here's how they did it safely and effectively.",
+      "heat": 74,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/covid-19-how-universities-made-the-pivot-to-e-learning/",
+      "publishedDateTime": "2020-05-04T12:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/04/3b314e67-8a80-43eb-9c3b-044b9e74526e/thumbnail/1200x675/44abc715eefb0ea033f4e25b30ac2d56/20200428-salveuni-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": "COVID-19: How universities made the pivot to e-learning",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-04-plotmachines-ai-system-writes-long-form-stories-from-outlines.md",
       "title": "PlotMachines AI system writes long-form stories from outlines",
       "excerpt": "In a preprint paper, a team of researchers propose PlotMachines, an AI system that generates coherent long-form stories and articles.",
@@ -1237,50 +1282,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-03-watch-this-ai-algorithm-change-humans-into-animorphs.md",
-      "title": "Watch This AI Algorithm Change Humans into Animorphs",
-      "excerpt": "AI researcher Xander Steenbrugge used machine learning generative models to turn people into animals and back again.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.vice.com/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "ampWebUrl": "https://www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en_au/article/884wek/ai-algorithm-turns-humans-into-animals",
-      "publishedDateTime": "2020-05-02T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://video-images.vice.com/test-uploads/articles/5eab0bb5d93a90009b14b3f2/lede/1588269690157-Screen-Shot-2020-04-30-at-20037-PM.png?crop=0.8434xw:0.9986xh;0.081xw,0.0014xh",
-          "width": 2488,
-          "height": 1398,
-          "title": "Watch This AI Algorithm Change Humans into Animorphs",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

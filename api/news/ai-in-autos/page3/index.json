@@ -2,43 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-04-22-auditoriaai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance-back-office.md",
-      "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
-      "excerpt": "SANTA CLARA, Calif., April 22, 2020 /PRNewswire/ -- today announced SmartFlow Skills, a groundbreaking new SaaS solution that addresses the most pressing challenges of the enterprise finance back office.",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/auditoria-ai-raises-6-million-and-introduces-smartflow-skills-to-power-the-self-driving-finance/article_2a4185c6-6b31-5968-b616-a1b081e1a222.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-22T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Auditoria.AI Raises $6 Million and Introduces SmartFlow Skills to Power the \"Self-Driving\" Finance Back Office",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-04-22-using-artificial-intelligence-to-save-coral-reefs.md",
       "title": "Using Artificial Intelligence to Save Coral Reefs",
       "excerpt": "What’s New: Today, on Earth Day 2020, Accenture, Intel and the Sulubaaï Environmental Foundation announced Project: CORaiL, an artificial intelligence (AI)-powered solution to monitor ...",
@@ -1201,6 +1164,35 @@
           "attribution": null
         }
       ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-14-self-driving-vehicles-many-challenges-remain-for-autonomous-navigation.md",
+      "title": "Self-driving vehicles: Many challenges remain for autonomous navigation",
+      "excerpt": "Like Waymo’s test vehicles, they would be designed for comparatively ... That will require improvements in sensors and in artificial intelligence, and in our understanding of their limits, particularly AI’s weakness at dealing with the unexpected.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.laserfocusworld.com/test-measurement/article/14169619/selfdriving-vehicles-many-challenges-remain-for-autonomous-navigation",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-13T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "laserfocusworld.com",
+        "domain": "laserfocusworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
       "locale": "en-us",
       "categories": [
         "news"

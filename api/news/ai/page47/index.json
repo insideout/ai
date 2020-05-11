@@ -2,6 +2,52 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-03-25-microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge.md",
+      "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
+      "excerpt": "Essentially, NVIDIA T4 Tensor Core GPU is leveraged by the Azure Stack Edge in order to bring a hardware boost to machine learning (ML) workloads. Microsoft states that since its introduction, it has observed a largely positive reception to the idea, with a variety of industries looking to take advantage of the improved Azure ML capabilities.",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.neowin.net/news/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-expands-nvidia-t4-tensor-core-gpu-version-of-the-azure-stack-edge/",
+      "publishedDateTime": "2020-03-24T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329620_azure-4_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Microsoft expands NVIDIA T4 Tensor Core GPU version of the Azure Stack Edge",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-03-25-starsky-robotics-failed-does-that-mean-automated-trucking-is-dead.md",
       "title": "Starsky Robotics Failed. Does That Mean Automated Trucking Is Dead?",
       "excerpt": "Axmacher’s Medium post about the company's failure has energized the rest of the truck Automated Driving Systems industry. They emphatically do not agree. The consensus is that investors didn't abandon all of truck ADS,",
@@ -1218,35 +1264,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-03-24-clinical-ai-leader-jvion-launches-covid-community-vulnerability-map.md",
-      "title": "Clinical AI Leader Jvion Launches COVID Community Vulnerability Map",
-      "excerpt": "The map identifies populations likely to experience severe outcomes once infected and the socioeconomic drivers for that risk, helping community leaders and healthcare providers deploy interventions and allocate resources",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.globenewswire.com/news-release/2020/03/24/2005564/0/en/Clinical-AI-Leader-Jvion-Launches-COVID-Community-Vulnerability-Map.html",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GlobeNewswire",
-        "domain": "globenewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

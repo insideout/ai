@@ -223,8 +223,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
@@ -531,6 +530,43 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-register-now-aws-summit-online.md",
+      "title": "Register Now! | AWS Summit Online",
+      "excerpt": "Join in to AWS Summit Online Australia/New Zealand on Wednesday 13 May 2020 and learn how cloud technology can help your business to lower costs, improve efficiency, and innovate at scale.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/webcasts/register-now/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "publishedDateTime": "2020-05-05T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1296,51 +1332,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-technology-and-ethics-in-the-coronavirus-economy.md",
-      "title": "Technology and ethics in the coronavirus economy",
-      "excerpt": "The last two decades have ushered in significant change and transformation. I believe the 2020s will be dispositive in redefining the pillars of our economy, and COVID-19 magnifies this greatly.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/",
-      "ampWebUrl": "https://techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/05/technology-and-ethics-in-the-coronavirus-economy/amp/",
-      "publishedDateTime": "2020-05-05T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-1215830807.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": "Technology and ethics in the coronavirus economy",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

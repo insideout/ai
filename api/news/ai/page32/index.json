@@ -2,6 +2,50 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-04-07-mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks.md",
+      "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+      "excerpt": "The Santa Barbara-based startup is trying to leapfrog ahead of current security AI strategies by developing technology that doesn’t require any human intervention or rule-making. As bad actors turn to AI to launch new forms of attacks, the company believes such “unsupervised” AI is essential to maintaining defenses. “Large enterprises ...",
+      "heat": 96,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/07/mixmode-raises-4-million-to-help-companies-fight-ai-driven-cyberattacks/amp/",
+      "publishedDateTime": "2020-04-07T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/Screen-Shot-2020-04-06-at-10.01.02-AM-e1586253515890.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "MixMode raises $4 million to help companies fight AI-driven cyberattacks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-07-autonomous-shuttles-ferry-covid-19-tests-around-florida.md",
       "title": "Autonomous Shuttles Ferry COVID-19 Tests Around Florida",
       "excerpt": "The Jacksonville Transportation Authority (JTA), Beep and NAVYA are ferrying COVID-19 tests around in self-driving vans. Four fully autonomous vehicles have ... traffic and staff,\" according to the non-profit medical center. \"Using artificial intelligence enables us to protect staff from exposure to this contagious virus by using cutting ...",
@@ -1213,51 +1257,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices.md",
-      "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-      "excerpt": "Running today’s advanced neural networks has been significantly beyond the reach of many small and battery-powered devices.",
-      "heat": 82,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/04/06/perceive-exits-stealth-with-super-efficient-machine-learning-chip-for-smarter-devices/amp/",
-      "publishedDateTime": "2020-04-06T16:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b6257c095010007bffe6f%2F0x0.jpg",
-          "width": 1200,
-          "height": 726,
-          "title": "Perceive Exits Stealth With Super Efficient Machine Learning Chip For Smarter Devices",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

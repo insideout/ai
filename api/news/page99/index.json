@@ -2,6 +2,51 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2020-02-13-92-of-tech-insiders-have-a-strong-appetite-for-ai.md",
+      "title": "92% of tech insiders have a strong appetite for AI",
+      "excerpt": "are in favor of some level of government involvement in AI. Many organizations are poised for that push. Ethics are an issue that can't be ignored, either, and 88% of the tech insiders say companies need to implement an AI ethics policy to help govern AI work. There are some barriers to furthering the adoption of AI, but business insiders vow ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/92-of-tech-insiders-have-a-strong-appetite-for-ai/",
+      "publishedDateTime": "2020-02-13T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/02/12/e489d2ed-5267-48e2-9d94-fdc40d8903b5/resize/1200x/0d790acc1783bdab873249f6ba95689f/ai-guy-holding-tablet.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "92% of tech insiders have a strong appetite for AI",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-02-13-stuart-russell-will-we-choose-the-right-objective-for-ai-before-it-destroys-us-all.md",
       "title": "Stuart Russell: Will we choose the right objective for AI before it destroys us all?",
       "excerpt": "Also: AI on steroids: Much bigger neural nets to come with new hardware ... \"I have a heard time believing that my laptop has subjective experience,\" he said, even though it gets more intelligent all the time with faster chips and better software. Still, one has to \"concede it's possible that suitably programmed computers could have ...",
@@ -1031,51 +1076,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-02-12-6-ways-to-boost-your-marketing-with-natural-language-processing.md",
-      "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
-      "excerpt": "Given that marketing is heavily reliant on words to convey messages about people and products, it’s not surprising that NLP has carved out a large niche in marketing technology.",
-      "heat": 89,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/",
-      "ampWebUrl": "https://www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mariyayao/2020/02/12/6-ways-to-boost-your-marketing-with-natural-language-processing/amp/",
-      "publishedDateTime": "2020-02-12T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1134222543%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D1750%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": "6 Ways to Boost Your Marketing With Natural Language Processing",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

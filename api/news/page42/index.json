@@ -2,6 +2,51 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-04-03-ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers.md",
+      "title": "IBM makes AI tools and resources available to coronavirus researchers",
+      "excerpt": "Lastly, IBM says it trained an AI search system on the COVID-19 Open Research Dataset ... The freely available tool extracts embedded text, tables, and graphics to answer specific queries from vetted researchers. Watson Assistant for Citizens’ debut comes after IBM made available a map on The Weather Channel to track the spread of COVID ...",
+      "heat": 89,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/",
+      "ampWebUrl": "https://venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/04/03/ibm-makes-ai-tools-and-resources-available-to-coronavirus-researchers/amp/",
+      "publishedDateTime": "2020-04-03T10:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?fit=1200%2C600&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": "IBM makes AI tools and resources available to coronavirus researchers",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-03-how-to-get-and-use-voice-commands-in-mount-and-blade-ii-bannerlord.md",
       "title": "How to get and use voice commands in Mount and Blade II: Bannerlord",
       "excerpt": "Both full and trial version users will want to test how the software works with their voice and have the speech recognition software tune to your voice. You can do this by searching for ‘speech recognition’ in your desktop’s control panel, and then choosing ‘train your computer to understand you better.’ After that, follow the steps ...",
@@ -997,51 +1042,6 @@
         "Microsoft AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-04-03-microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones.md",
-      "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-      "excerpt": "The vehicle talks to the connected vehicle platform running in Azure that is deployed across hundreds of edge locations managed by the telecom provider. The partnership between Microsoft and telcos enables the ecosystem to build the next generation of applications and user experiences powered by data, analytics, and AI. Microsoft has partnered ...",
-      "heat": 100,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/?ss=cloud",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/04/03/microsoft-unveils-a-comprehensive-edge-computing-strategy-with-azure-edge-zones/amp/",
-      "publishedDateTime": "2020-04-02T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e86c30074e9210006895af5%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": "Microsoft Unveils A Comprehensive Edge Computing Strategy With Azure Edge Zones",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

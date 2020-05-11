@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-04-22-microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks.md",
+      "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+      "excerpt": "Microsoft's AI masks and infrared temperature 2-in-1 detection device checks people entering ... [+] Cardinal Tien Hospital in Taiwan to make sure they are wearing face masks and whether they have a fever.",
+      "heat": 104,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/",
+      "ampWebUrl": "https://www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ralphjennings/2020/04/22/microsoft-develops-ai-powered-device-that-can-automatically-check-for-fever-and-face-masks/amp/",
+      "publishedDateTime": "2020-04-22T00:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e9e84bcdea8300007de7c4c%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": "Microsoft Develops AI-Powered Device That Can Automatically Check For Fever And Face Masks",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-22-intels-project-corail-monitors-coral-reef-health-with-ai.md",
       "title": "Intel’s Project Corail monitors coral reef health with AI",
       "excerpt": "To commemorate Earth Day, Intel — in partnership with Accenture and Sulubaaï Environmental Foundation, a Philippine-based nonprofit dedicated to protecting Palawan’s natural resources — detailed Project Corail, an AI-powered platform that monitors and analyzes the resiliency of coral reefs. Since its launch in May 2019, it’s collected ...",
@@ -1188,51 +1233,6 @@
           "width": 375,
           "height": 250,
           "title": "Microsoft, University of Sydney collaborate to build AI-infused Corona chatbot",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-06-university-of-sydney-builds-ai-infused-corona-chatbot-to-support-students-with-covid-19-queries.md",
-      "title": "University of Sydney builds AI-infused Corona Chatbot to support students with COVID-19 queries",
-      "excerpt": "The University of Sydney has used the Microsoft cognitive services to build an AI-infused bot in double-quick time that responds to student enquiries about COVID-19 and provides instant answers to many of their questions. The bot has been tackling between ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://news.microsoft.com/en-au/features/university-of-sydney-builds-ai-infused-corona-chatbot-to-support-students-with-covid-19-queries/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-06T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/04/5e8b9ea32bdd0-5e8b9ea32bdd31280px-Main_Quadrangle_University_of_Sydney.jpg-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": "University of Sydney builds AI-infused Corona Chatbot to support students with COVID-19 queries",
           "attribution": null
         }
       ],

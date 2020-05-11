@@ -2,6 +2,43 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2020-02-09-kuwait-launches-robotics-ai-festival.md",
+      "title": "Kuwait launches Robotics, AI Festival",
+      "excerpt": "Kuwait launched on Sunday the Robotics and Artificial Intelligence (AI) Festival to promote the scientific awareness in Kuwait. At the opening ceremony, Salam Al-Ablani, scientific culture director of the Kuwait Foundation for Advancement of Science (KFAS), said that the festival aims at boosting the scientific culture in smart industries and ...",
+      "heat": 99,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "ampWebUrl": "https://www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "cdnAmpWebUrl": "https://www-newsghana-com-gh.cdn.ampproject.org/c/s/www.newsghana.com.gh/kuwait-launches-robotics-ai-festival/",
+      "publishedDateTime": "2020-02-09T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Ghana",
+        "domain": "newsghana.com.gh",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.newsghana.com.gh/wp-content/uploads/2019/12/newsghanalogo.png",
+          "width": 640,
+          "height": 316,
+          "title": "Kuwait launches Robotics, AI Festival",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-02-09-artificial-intelligence-is-not-ready-for-the-intricacies-of-radiology.md",
       "title": "Artificial Intelligence Is Not Ready For The Intricacies Of Radiology",
       "excerpt": "The use of radiology in clinical medicine is exponentially growing. Many issues need to be resolved prior to integrating artificial intelligence into this field.",
@@ -1251,51 +1288,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-02-07-what-do-we-teach-when-we-teach-tech-ai-ethics.md",
-      "title": "What do we teach when we teach tech & AI ethics?",
-      "excerpt": "With this in mind, my students and I decided to conduct some research to uncover patterns. Ethics in the context of technology (particularly emerging areas like data science and AI) is such an important topic, and curriculum coverage is increasing at universities in computer science and beyond. So our question was: what are we teaching when we ...",
-      "heat": 84,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://medium.com/@cfiesler/what-do-we-teach-when-we-teach-tech-ai-ethics-81059b710e11",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-07T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medium",
-        "domain": "medium.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/medium.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://miro.medium.com/max/1200/1*sJQ2hrt7-pn4boq3QgSXqQ.jpeg",
-          "width": 1200,
-          "height": 478,
-          "title": "What do we teach when we teach tech & AI ethics?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

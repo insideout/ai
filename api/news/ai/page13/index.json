@@ -2,6 +2,43 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-04-27-microsoft-strikes-5-year-cloud-deal-with-coca-cola-for-azure-microsoft-365.md",
+      "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+      "excerpt": "Cola company have reached a deal that will see the latter use Microsoft 365, Azure, and more to power its digital operations for five years.",
+      "heat": 72,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-strikes-5-year-cloud-deal-coca-cola-azure-microsoft-365?amp",
+      "publishedDateTime": "2020-04-27T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2017/09/microsoft-logo-2017-ignite2.jpg?itok=c3ocGDNm",
+          "width": 800,
+          "height": 600,
+          "title": "Microsoft strikes 5-year cloud deal with Coca-Cola for Azure, Microsoft 365",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-27-google-medical-researchers-humbled-when-ai-screening-tool-falls-short-in-real-life-testing.md",
       "title": "Google medical researchers humbled when AI screening tool falls short in real-life testing",
       "excerpt": "AI is frequently cited as a miracle workers in medicine, especially in screening processes, where machine learning models boast expert-level skills in detecting problems. But like so many technologies,",
@@ -1243,35 +1280,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-27-aws-summit-online-2020-helping-businesses-unlock-the-power-of-cloud.md",
-      "title": "AWS Summit Online 2020: Helping Businesses Unlock The Power Of Cloud",
-      "excerpt": "Further to that, it helps these organisations gain knowledge of building an end-to-end pipeline for delivery of ML models and automating ML operations with Amazon SageMaker and more. Madhusudan ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://inc42.com/features/aws-summit-online-2020-for-businesses-to-unlock-the-power-of-cloud/",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-27T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": null,
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

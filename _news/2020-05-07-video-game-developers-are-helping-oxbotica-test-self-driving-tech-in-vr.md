@@ -8,7 +8,7 @@ ampWebUrl: "https://www.carscoops.com/2020/05/video-game-developers-are-helping-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/05/video-game-developers-are-helping-oxbotica-test-its-self-driving-tech-in-virtual-reality/amp/"
 type: article
 quality: 59
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -26,21 +26,15 @@ images:
     title: "Video Game Developers Are Helping Oxbotica Test Self Driving Tech In VR"
 
 related:
-  - title: "Machine-First World? Getting Drones, Robots, Self-Driving Cars, And AI-Driven Systems To Work Together"
-    excerpt: "By deploying smart software that coordinates smart hardware, enabling multiple robots and smart systems to work together as a combined, integrated workforce. That’s something European startup Unmanned."
-    publishedDateTime: 2020-05-06T16:23:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/05/06/machine-first-world-getting-drones-robots-self-driving-cars-and-ai-driven-systems-to-work-together/amp/"
+  - title: "Volvo Says Virus Won’t Slow Its Rollout of Self-Driving Car Tech"
+    excerpt: "Volvo Car AB is grappling with plant shutdowns and layoffs, but one thing it’s not doing amid the fallout from the coronavirus pandemic is pumping the brakes on autonomous driving development."
+    publishedDateTime: 2020-05-07T00:24:00Z
+    webUrl: "https://www.bnnbloomberg.ca/volvo-says-virus-won-t-slow-its-rollout-of-self-driving-car-tech-1.1432202"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 90
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eb2d996ed706b000616ce8a%2F0x0.jpg"
-        width: 1000
-        height: 534
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 4
 
 secured: "/9UKk2nq65EFyt/IMTYkhBenYBK7g9gudS3e6fRBbUvGWq2k4kvqMGQFCdkrvpILAxfbH6S6Ub9TiiTkbNwn6ja6bI8udHTiMDeUPZaq0mnlMGxYheOxcK4CpWm+L+NUf3QbsoPgDJNEPjhUy3iOKpec7DUsouKBCR8GDuJgIjQnemZxX96K5Itmk9rU7O4TcxMhOksTB8hBRg+R66AxppfzfvK9Av2ek3JMbYpbhNV1etA+/fbdcefwzyk0MApLT8zJwAdjgabUk8GZHmQH2l60u7RAPY14udpJUJ6zW79FgLXyyHS901k3F5B1KP/lcDZ49h6NAUs1w21Wq+iRToAe67ItuHH3NQns2oOY0nxVvvcA/W+bDRKfLZFb23Akgs+9srMUEX8xaLpuHreRoyTZ+KgovqIalY3n4JhaCu4ytCC0xHFZJv+ZiWm/3NCEiH4YxIvYzG79KdBci4QDRhGKYK8K2JNP660L/wEs2lI=;58Od+e8dMp6cFGfuqNMXsQ=="
 ---

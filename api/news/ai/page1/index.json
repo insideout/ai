@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-05-11-vochi-the-computer-vision-based-video-editing-and-effects-app-raises-15m-seed.md",
+      "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
+      "excerpt": "Vochi, a startup operating out of Belarus that’s created a “computer vision”-based video editing and effects app for mobile phones, has raised $1.5 million in seed funding. Leading the round is Ukraine-based Genesis Investments (backer of BetterMe and Jiji).",
+      "heat": 98,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/05/11/vochi/",
+      "ampWebUrl": "https://techcrunch.com/2020/05/11/vochi/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/05/11/vochi/amp/",
+      "publishedDateTime": "2020-05-11T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/05/VOCHI_cover.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": "Vochi, the ‘computer vision’-based video editing and effects app, raises $1.5M seed",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-11-60-minutes-shows-amazons-virus-killing-robot-says-company-uses-ai-to-enforce-social-distancing.md",
       "title": "60 Minutes shows Amazon’s virus-killing robot, says company uses AI to enforce social distancing",
       "excerpt": "Amazon is developing a robot that would roll through grocery stores and distribution centers, using banks of ultraviolet light to kill viruses on surfaces. The company provided “60 Minutes”",
@@ -1277,51 +1322,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-05-08-can-robotaxis-ease-public-transport-fears-in-china.md",
-      "title": "Can robotaxis ease public transport fears in China?",
-      "excerpt": "The rise of self-driving taxis in China comes at a time when ... Internet search engine Baidu, China's answer to Google, is rolling out a fleet of its Apollo robotaxis across three cities in ...",
-      "heat": 74,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.bbc.com/news/business-52392366",
-      "ampWebUrl": "https://www.bbc.com/news/amp/business-52392366",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/business-52392366",
-      "publishedDateTime": "2020-05-07T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/687B/production/_112174762_robotaxi.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": "Can robotaxis ease public transport fears in China?",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

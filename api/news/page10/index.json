@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-05-01-linkedin-now-has-an-ai-to-help-with-your-interview-game.md",
+      "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+      "excerpt": "As a record number of Americans grapple with unemployment in the wake of the novel coronavirus pandemic, LinkedIn’s rolled out some AI-powered tools to help job seekers prepare for the nightmare fuel that is the interviewing process.",
+      "heat": 87,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264",
+      "ampWebUrl": "https://gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/linkedin-has-an-ai-to-help-with-your-interview-game-1843190264/amp",
+      "publishedDateTime": "2020-04-30T19:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ssszinfmocsryua6ltfk.jpg",
+          "width": 800,
+          "height": 533,
+          "title": "LinkedIn Now Has an AI to Help With Your Interview Game",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-01-megvii-iflytek-appear-in-taobao-creation-festival-wimi-develops-its-ai-face-holographic-cloud-service.md",
       "title": "MEGVII, Iflytek Appear In Taobao Creation Festival, WIMI Develops Its AI Face Holographic Cloud Service",
       "excerpt": "Taobao Festival is finally coming! In Hangzhou Boiler factory full of hard core industry wind, there are not only super hi playing methods such as artificial",
@@ -1002,51 +1046,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-30-artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025.md",
-      "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
-      "excerpt": "A recent report on Artificial Intelligence (AI) Market provides a detailed analysis of the industry size, revenue forecasts and geographical landscape pertaining to this business space. Additionally,",
-      "heat": 70,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-2020-share-trends-segmentation-and-forecast-by-2025-2020-04-30",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-30T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Artificial Intelligence Market Size 2020 Share, Trends, Segmentation and Forecast by 2025",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

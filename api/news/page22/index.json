@@ -2,6 +2,51 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-04-21-aws-and-facebook-launch-an-open-source-model-server-for-pytorch.md",
+      "title": "AWS and Facebook launch an open-source model server for PyTorch",
+      "excerpt": "For AWS, that’s mostly SageMaker, the company’s machine learning platform, but as Bratin Saha, AWS VP and GM for Machine Learning Services, told me, the work on PyTorch was mostly motivated by requests from the community. And while there are obviously other model servers like TensorFlow Serving and the Multi Model Server available today ...",
+      "heat": 119,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/",
+      "ampWebUrl": "https://techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/04/21/aws-and-facebook-launch-an-open-source-model-server-for-pytorch/amp/",
+      "publishedDateTime": "2020-04-21T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-175397431.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": "AWS and Facebook launch an open-source model server for PyTorch",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-21-low-trust-versus-high-trust-beliefs-will-impact-the-growth-of-ai-including-for-self-driving-cars.md",
       "title": "Low-Trust Versus High-Trust Beliefs Will Impact The Growth Of AI, Including For Self-Driving Cars",
       "excerpt": "To make things parsimonious, there are two overarching categories conventionally used when discussing trust levels, namely a citizenry of little or no trust, known as a low-trust nation or locale, versus being characterized as a high-trust nation or locale,",
@@ -1008,52 +1053,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-20-system-on-a-chip-takes-iot-processing-to-the-edge.md",
-      "title": "System on a chip takes IoT processing to the edge",
-      "excerpt": "A system on a chip (SOC) combines hardware and software, including components like a graphical processing unit (GPU), a central processing unit (CPU ... the way a human brain does and then further \"smartened\" with artificial intelligence (AI) that is made for use in the consumer, automotive, and industrial markets, it adds even more edge ...",
-      "heat": 91,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.techrepublic.com/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/system-on-a-chip-takes-iot-processing-to-the-edge/",
-      "publishedDateTime": "2020-04-20T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/04/20/437b3bb6-e65d-4d94-9edc-7ee2da524058/resize/1200x/276df09e3c2848680ab542597b4baf2b/istock-958956392.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": "System on a chip takes IoT processing to the edge",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

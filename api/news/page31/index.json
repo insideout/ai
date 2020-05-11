@@ -2,6 +2,35 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-04-14-159-bn-automotive-ai-market-by-offering-technology-process-drive-and-region-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "$15.9 Bn Automotive AI Market by Offering, Technology, Process, Drive and Region - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Automotive Artificial Intelligence Market by Offering, Technology, Process, Drive, and Region - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.oaoa.com/news/business/article_4d5365d7-c914-5286-a4ec-0eec6cd17410.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-14T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odessa American",
+        "domain": "oaoa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-14-adobe-releases-ai-powered-product-recommendations-tool-in-magento-commerce.md",
       "title": "Adobe releases AI-powered product recommendations tool in Magento Commerce",
       "excerpt": "Adobe said Tuesday that its AI-powered product recommendations tool is now generally available in Magento Commerce. The feature, first announced in October, allows merchants to analyze shopper behavior in order to generate highly personalized recommendations, which can be added to relevant store pages via widgets and flexible APIs. Adobe said ...",
@@ -965,51 +994,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-13-growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024.md",
-      "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-      "excerpt": "Market Study Report LLC adds new research on Artificial Intelligence (AI) in Retail market, which is a detailed analysis of",
-      "heat": 80,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-artificial-intelligence-ai-in-retail-market-report-till-2024-2020-04-13",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-04-13T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Growth of Global Artificial Intelligence (AI) in Retail Market Report Till 2024",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

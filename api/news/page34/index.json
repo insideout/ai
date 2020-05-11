@@ -2,6 +2,43 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-04-10-artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+      "excerpt": "Technavio has been monitoring the artificial intelligence-as-a-service (AIaaS) market and it is poised to grow by USD 15.14 billion during 2019-2023, progressing at a CAGR of over 48% during the forecast period.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.register-herald.com/region/artificial-intelligence-as-a-service-aiaas-market-2019-2023-need-to-reduce-ai-cost-to/article_60905b39-6f72-547d-8ec5-a2ca4ff1c12a.html",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-10T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/d/56/d56fd7d1-9b5f-510e-ab82-2929c2a90a99/5e905cb07d069.image.jpg?resize=1000%2C564",
+          "width": 1000,
+          "height": 564,
+          "title": "Artificial Intelligence-as-a-Service (AIaaS) Market 2019-2023 | Need to Reduce AI Cost to Boost Growth | Technavio",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-04-10-chinese-self-driving-start-up-autox-sets-up-asias-largest-robotaxi-operations-centre-in-shanghai.md",
       "title": "Chinese self-driving start-up AutoX sets up ‘Asia’s largest robotaxi operations centre’ in Shanghai",
       "excerpt": "Chinese autonomous driving start-up AutoX has launched a “gigafactory” in Shanghai, which it says is the largest data hub for self-driving car data in China and the biggest robotaxi operations centre in Asia. The 80,000 square feet Shanghai RoboTaxi Operations Center houses tools for operating a large fleet of self-driving cars, the company ...",
@@ -984,50 +1021,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-04-09-open-source-ai-tool-aims-to-help-identify-coronavirus-infections.md",
-      "title": "Open-source AI tool aims to help identify coronavirus infections",
-      "excerpt": "Find a hospital taking in coronavirus cases, and you'll most likely find departments often in need of more staff and without enough testing kits. Now one Canadian AI startup is hoping to develop tools that will automatically detect COVID-19 infections from X-rays, and help guide medical professionals on how seriously the infection has taken hold.",
-      "heat": 97,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.zdnet.com/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-source-ai-tool-aims-to-help-identify-coronavirus-infections/",
-      "publishedDateTime": "2020-04-09T06:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/03/13/0d3f22fd-6dcd-48d4-854e-c546e8aed8c5/thumbnail/1200x675/7142d5c50785c3a5cd999938c9268465/covid19-preparations-how-to-make-remote-5e6b66a2cf0d880001187a5b-1-mar-13-2020-12-35-53-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": "Open-source AI tool aims to help identify coronavirus infections",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

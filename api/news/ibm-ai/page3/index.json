@@ -2,43 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-03-13-ibm-to-integrate-ai-debating-technology-into-its-qa-computer-system-watson.md",
-      "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
-      "excerpt": "IBM plans to integrate several key components, such as natural language processing (NLP), from the AI system into its question-answering computer system Watson from March this year. The move is aimed at “enabling businesses to capture, analyse, and understand more from human language and … transform how they use intellectual capital that ...",
-      "heat": null,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3074934/ibm-integrate-ai-debating-technology-its-qa-computer-system-watson",
-      "publishedDateTime": "2020-03-13T01:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/03/13/6386b39e-6446-11ea-8e9f-2d196083a37c_image_hires_085224.JPG?itok=5_XCVEqw&v=1584060750",
-          "width": 1200,
-          "height": 630,
-          "title": "IBM to integrate AI debating technology into its Q&A computer system Watson",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-03-12-ibm-watson-health-to-tap-ebscos-dynamed-libraries-for-a-combined-ai-drug-information-suite.md",
       "title": "IBM Watson Health to tap EBSCO's DynaMed libraries for a combined AI drug information suite",
       "excerpt": "RELATED: IBM Watson Health's new manager talks about returning to basics, doubling down IBM’s Micromedex and Watson programs employ artificial intelligence and natural language processing with the goal of providing users a conversational approach for searching drug information—similar to Big Blue’s previous approaches in oncology and ...",
@@ -1270,6 +1233,51 @@
           "width": 1200,
           "height": 600,
           "title": "IBM’s biology-inspired AI generates better hash codes than classical approaches",
+          "attribution": null
+        }
+      ],
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-01-21-varicent-software-acquires-augmented-intelligence-company-symonai.md",
+      "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
+      "excerpt": "Varicent, the leading provider of next generation Sales Performance Management (SPM), today announced that it has acquired Symon.AI, a visionary technology platform built on sophisticated Natural Language and Machine Learning algorithms that provide easy to use,",
+      "heat": 129,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.marketwatch.com/press-release/varicent-software-acquires-augmented-intelligence-company-symonai-2020-01-21-12159517",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-01-21T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Varicent Software Acquires Augmented Intelligence Company Symon.AI",
           "attribution": null
         }
       ],

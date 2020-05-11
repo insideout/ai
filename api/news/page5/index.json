@@ -91,6 +91,43 @@
       ]
     },
     {
+      "path": "_news/2020-05-06-register-now-aws-summit-online.md",
+      "title": "Register Now! | AWS Summit Online",
+      "excerpt": "Join in to AWS Summit Online Australia/New Zealand on Wednesday 13 May 2020 and learn how cloud technology can help your business to lower costs, improve efficiency, and innovate at scale.",
+      "heat": null,
+      "tags": null,
+      "type": "article",
+      "webUrl": "https://www.techrepublic.com/resource-library/webcasts/register-now/",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/webcasts/register-now/",
+      "publishedDateTime": "2020-05-05T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://insideout.app/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "images": null,
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-05-06-ibm-ceo-every-company-will-become-an-ai-company.md",
       "title": "IBM CEO: 'Every company will become an AI company'",
       "excerpt": "In his first keynote since taking the reins last month, IBM CEO Arvind Krishna doubled down on the firm’s commitment to ... Krishna also unveiled the firm’s new AI toolset, Watson AIOps, which is designed to bring AI to hybrid cloud environments and help businesses automate the management of IT infrastructure. “The problem is that many ...",
@@ -1077,50 +1114,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-05-omilia-raises-20-million-for-ai-customer-service-chatbots.md",
-      "title": "Omilia raises $20 million for AI customer service chatbots",
-      "excerpt": "Omilia, a startup developing natural language technologies for the enterprise, has raised $20 million in equity financing.",
-      "heat": 87,
-      "tags": null,
-      "type": "article",
-      "webUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/",
-      "ampWebUrl": "https://venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/05/05/omilia-raises-20-million-for-ai-customer-service-chatbots/amp/",
-      "publishedDateTime": "2020-05-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://insideout.app/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?fit=1200%2C600&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": "Omilia raises $20 million for AI customer service chatbots",
-          "attribution": null
-        }
-      ],
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
